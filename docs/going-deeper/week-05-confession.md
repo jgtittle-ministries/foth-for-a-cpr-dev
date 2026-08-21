@@ -12,7 +12,7 @@ Week 5
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 5
 
 **Connect focus.** Others (deepened). The deepest expression of the Others Connect in the entirety of Going Deeper.
 
-**Mode.** Shared teaching of the architecture (15 min). Cohort circles for the standing-pair work (60 min, including bridge and prayer). Brief shared merge for one-word landings about the EXERCISE (not content).
+**Mode.** Shared teaching of the architecture (15 min). Circles for the standing-pair work (60 min, including bridge and prayer). Brief shared merge for one-word landings about the EXERCISE (not content).
 
 **Center.** Each participant in the standing pair brings ONE specific sin pattern — not a list, not a confession of being-generally-flawed, ONE pattern. The pair listens without commentary, prays, and speaks a specific blessing of restoration. About 25 minutes per direction. NOT therapy. NOT detailed disclosure. The architecture is what makes restoration possible.
 
@@ -52,7 +52,7 @@ Week 5
 
 **Confession of generic being-flawed. ‘My pattern is that I struggle with sin.’ Not specific. ‘Pick ONE concrete behavior, ONE specific pattern, that you would name to God if He were listening (and He is).’**
 
-**The teen whose sin pattern crosses a mandatory-reporting threshold. Section 6 protocol applies. The Cohort Companion (and Lead Companion) intervenes immediately; pastoral / clinical / legal protocols engage.**
+**The confession that crosses a reporting threshold — harm involving a minor above all. The safeguarding frame applies. The Cohort Companion (and Lead Companion) intervenes immediately; pastoral / clinical / legal protocols engage.**
 
 **The pair partner who is over-activated by what was confessed. ‘What you just named is heavier than I can carry alone.’ The Cohort Companion names that this is honest data and the team is the load-bearing structure, not the individual partner.**
 
@@ -64,19 +64,19 @@ Week 5
 
 *Crisis risk is significant. Confession surfaces specific material that has often been hidden for years. Two-call protocol active: Lead Companion calls within an hour for any disclosure that crosses safety thresholds.*
 
-**If the confessed pattern crosses mandatory-reporting thresholds (current abuse of a minor, intent to harm self or others, ongoing illegal activity involving a third party). Virginia law applies without exception. Cohort Companion engages immediately; Lead Companion and pastoral / clinical backup notified within the hour. The team follows the law; the team does not negotiate the law because it surfaced in confession.**
+**If the confessed pattern crosses mandatory-reporting thresholds (current abuse of a minor, intent to harm self or others, ongoing illegal activity involving a third party). The mandatory-reporting law applies without exception. Cohort Companion engages immediately; Lead Companion and pastoral / clinical backup notified within the hour. The team follows the law; the team does not negotiate the law because it surfaced in confession.**
 
 **If the confessed pattern reveals ongoing infidelity, financial fraud, or abuse where a third party is being harmed and the participant has not addressed it. The Cohort Companion does not adjudicate in the room; pastoral 1:1 within 24 hours; the path to addressing the harm is part of the restoration, not a postscript.**
 
 **If a pair partner is over-activated by what was confessed (cannot continue, freezes, leaves). One Cohort Companion stays with the activated partner; the Cohort Companion (or Lead Companion) takes over the listening role for the confessing partner if the work is mid-direction. The activated partner is not asked to continue tonight; their direction is rescheduled with another partner this week.**
 
-**If a confession surfaces material larger than confession is for (trauma, dissociation, panic). Stop the pair work. Cohort Companion stays. Pastoral / clinical referral within 48 hours. Section 6 protocol.**
+**If a confession surfaces material larger than confession is for (trauma, dissociation, panic). Stop the pair work. Cohort Companion stays. Pastoral / clinical referral within 48 hours. The safeguarding frame applies.**
 
-**If a participant becomes flooded mid-confession. Same protocol as Wk 3. Cohort Companion stays; Co-Companion (if available) continues holding the cohort. Brief offer to step out.**
+**If a participant becomes flooded mid-confession. Same protocol as Wk 3. Cohort Companion stays; Co-Companion (if available) continues holding the circle. Brief offer to step out.**
 
-**If a participant’s confessed pattern involves another participant in the program (a spouse, a teen, a friend). The Cohort Companion does not name the third party in the room. Pastoral 1:1 within 24 hours; the relational adjudication is a different conversation than the confession.**
+**If a participant’s confessed pattern involves another participant in the program (a spouse, a colleague, a friend). The Cohort Companion does not name the third party in the room. Pastoral 1:1 within 24 hours; the relational adjudication is a different conversation than the confession.**
 
-**Default. Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number.**
 
 **Session at a Glance**
 
@@ -84,7 +84,7 @@ Week 5
 
 At the center of tonight is a gospel promise, not a technique: ‘If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness’ (1 John 1:9). God forgives because of what Christ has done; the freedom that follows is His gift, not the payoff of a procedure. Vol 2 Exp 4 of IJH names confession-and-restoration as the highest-confidence law in the entire project (90%), grounded bidirectionally in James 5:16, 1 John 1:9, Psalm 32, Psalm 51, Matthew 18:15–18. The model it uses to describe the dynamic: unconfessed sin functions as load on the spiritual circuit, increasing resistance in the hearing channel and suppressing the effectiveness of prayer; genuine confession — specific, owned, without self-justification, releasing rather than acknowledging — clears this load and restores the channel. The model describes; the forgiving is God’s doing.
 
-The Getting Started’s Wk 5 introduced confession in the cohort circle at the level of ‘name a place where you want to walk in greater honesty.’ That practice was foundational and lightly held. Tonight is the deepening: confession to one trusted pair partner, in the dyadic privacy that James 5:16 actually describes, with restoration spoken specifically over what was confessed.
+Getting Started’s Wk 6 introduced confession in the circle at the level of ‘name a place where you want to walk in greater honesty.’ That practice was foundational and lightly held. Tonight is the deepening: confession to one trusted pair partner, in the dyadic privacy that James 5:16 actually describes, with restoration spoken specifically over what was confessed.
 
 From Vol 2 Exp 4: ‘Genuine confession is specific, owned, without self-justification, and releases the sin rather than merely acknowledges it. The diagnostic question is always: is this blockage primarily sin (requiring confession) or primarily weight (requiring a different tool)?’ Tonight is the sin track. The weight track has been the work of Wks 2–4 (soils, knots, lies, co-processed surfacing) and continues. Hebrews 12 named both — ‘let us also lay aside every weight, and the sin which clings so closely’ — and the verse separates them on purpose.
 
@@ -106,13 +106,13 @@ The framing tonight is the most important teaching of the session. Most particip
 
 ## From prior sessions
 
-**•** Getting Started Wk 6 (foundational) — cohort circle confession of one place to walk in greater honesty. Tonight assumes participants have practiced naming, even briefly.
+**•** Getting Started Wk 6 (foundational) — circle confession of one place to walk in greater honesty. Tonight assumes participants have practiced naming, even briefly.
 
 **•** Wk 3 standing-pair covenant. The pair has now had two weeks of brief check-ins (Wk 3 and Wk 4) and one whole-room session. The pair is the unit tonight.
 
 **•** Wk 3’s diagnostic of the four knot types. Tonight’s confession may or may not align with the named knot — some sin patterns are downstream of a knot; some are not. The Cohort Companion does not force alignment.
 
-**•** Wk 4’s co-processing teaching. The standing-pair confession tonight is also held by the cohort’s presence in the room — each pair is held by the other pairs in the cohort space, even though the pairs themselves are private.
+**•** Wk 4’s co-processing teaching. The standing-pair confession tonight is also held by the cohort’s presence in the room — each pair is held by the other pairs in the circle space, even though the pairs themselves are private.
 
 **•** Hebrews 12:1–2. Tonight is the ‘sin which clings so closely’ work, distinguished from the ‘every weight’ work of Wks 2–4.
 
@@ -138,7 +138,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **1.** Each Companion names what they noticed about doing the architecture themselves this week. Optional disclosure of content; required disclosure of process. (15 min)
 
-**2.** Walk James 5:16, 1 John 1:9, Matt 18:15–18 together aloud. Make sure the team has the same vocabulary the cohort circles will use. (10 min)
+**2.** Walk James 5:16, 1 John 1:9, Matt 18:15–18 together aloud. Make sure the team has the same vocabulary the circles will use. (10 min)
 
 **3.** Walk the confession-and-restoration protocol step by step. Each Cohort Companion practices speaking a specific blessing of restoration aloud, in front of the team, for a hypothetical confession. The phrasing matters; rehearsal helps. (20 min)
 
@@ -160,15 +160,15 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm cohort spaces — each space needs room for pairs to sit knee-to-knee with at least 6 feet of buffer between pairs. Pairs should not be able to overhear each other.
+**•** Confirm circle spaces — each space needs room for pairs to sit knee-to-knee with at least 6 feet of buffer between pairs. Pairs should not be able to overhear each other.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split.
+**•** Chairs in main room as one large circle for opening; circle spaces ready for the split.
 
-**•** Within each cohort space: enough buffer for pairs to sit knee-to-knee at least 6 feet apart. Some cohorts may need to use additional rooms; if so, two-adult rule applies (no pair in a fully closed-off room without a Cohort Companion within sight or earshot).
+**•** Within each circle space: enough buffer for pairs to sit knee-to-knee at least 6 feet apart. Some circles may need to use additional rooms; if so, the two-Companions practice applies (no pair in a fully closed-off room without a Cohort Companion within sight or earshot).
 
 
 **•** Personal Heart Journals.
@@ -177,11 +177,11 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **•** Handouts H5.1, H5.2, H5.3, H5.4 stacked at each chair.
 
-**•** Tissues in every cohort space.
+**•** Tissues in every circle space.
 
-**•** Large-print Bible (ESV) in each cohort space.
+**•** Large-print Bible (ESV) in each circle space.
 
-**•** Wall clock or visible timer in each cohort space; the Lead Companion carries one as well.
+**•** Wall clock or visible timer in each circle space; the Lead Companion carries one as well.
 
 **•** Crisis Quick-Reference Card in every Companion pocket.
 
@@ -193,10 +193,10 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 | --- | --- | --- |
 | Week before | Each Companion does the architecture themselves with a trusted partner outside the program. | All Companions |
 | 48 hr before | Team pre-meet (60 min). Protocol rehearsal. Standing-pair review. | All Companions |
-| Day before | Walk every cohort space. Confirm pair-buffer geometry. Confirm pastoral / clinical backup. | Lead Comp |
+| Day before | Walk every circle space. Confirm pair-buffer geometry. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers in the room. Final prayer. | All Companions |
-| T-30 min | Cohort Companions prep their cohort spaces. Handouts placed. Pairs identified. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-30 min | Cohort Companions prep their circle spaces. Handouts placed. Pairs identified. | All Companions |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -205,14 +205,14 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is the highest-confidence work in the entire project.’ |
 | 7:07–7:15 | Block 2: Wk 4 landing + pair check | Shared circle | Lead Comp | One word about the Co-Processing Journal entry. Pair partners briefly named. |
 | 7:15–7:29 | Block 3: James 5:16 — the architecture (teaching) | Shared circle | Lead Comp | Read passage. Distinguish confession from disclosure. Walk the protocol. |
 | 7:29–7:34 | Block 4: Bridge to split + extended prayer | Shared circle | Lead Comp | Pray specifically for what the Spirit would clear. Split. |
-| 7:34–8:12 | Block 5: Confession-and-restoration in standing pairs | Cohort circles → pairs | Cohort Facs | 25 min one direction; 25 min the other; 10 min for Cohort Companion-led pair signature on H5.2 and brief silence. |
+| 7:34–8:12 | Block 5: Confession-and-restoration in standing pairs | Circles → pairs | Cohort Comps | 25 min one direction; 25 min the other; 10 min for Cohort Companion-led pair signature on H5.2 and brief silence. |
 | 8:12–8:19 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | ONE word about the EXERCISE. NOT content. Brief observation. |
-| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Five-Minute Examen. Walk in restoration. |
+| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp | Five-Minute Examen. Walk in restoration. |
 | 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 6 (PROAPT extended). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -288,7 +288,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **THREE — Released, not just acknowledged. ‘I bring this to the Lord and lay it down.’ Recognition without release is half the architecture.**
 
-**FOUR — To one trusted pair partner. Not the cohort circle. Not the spouse who is in another cohort. Your standing pair, who has held the partnership across two weeks of check-ins.**
+**FOUR — To one trusted pair partner. Not the circle. Not your spouse across the room. Your standing pair, who has held the partnership across two weeks of check-ins.**
 
 **FIVE — With prayer and a specific blessing of restoration spoken back. The pair partner says, in some form: ‘In Christ, this is forgiven. The Father restores you in the place this pattern has been operating.’ The blessing is real because it is grounded in 1 John 1:9; the partner is not granting forgiveness, they are speaking what is already true.**
 
@@ -302,23 +302,23 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **Not confession of someone else’s sin. ‘My pattern is reacting to my mother’s pattern.’ The mother’s pattern is hers; the participant’s reaction is theirs. The architecture asks for the participant’s reaction, not the third party’s pattern.**
 
-**First discern harm from grievance.** This redirect assumes an ordinary grievance — being annoyed, resentful, or reactive toward someone whose behavior is *their* sin. It does **not** apply when the participant is being genuinely harmed. If what surfaces is that someone is mistreating or abusing them — especially a minor describing a parent, caregiver, or adult — do **not** redirect them to “confess your own reaction.” Being harmed is not a sin to confess. Receive it, do not assign them responsibility for another’s sin, and follow the Crisis Contingencies / Section 6 and mandatory-reporting steps.
+**First discern harm from grievance.** This redirect assumes an ordinary grievance — being annoyed, resentful, or reactive toward someone whose behavior is *their* sin. It does **not** apply when the participant is being genuinely harmed. If what surfaces is that someone is mistreating or abusing them — or that a minor in their world is being harmed — do **not** redirect them to “confess your own reaction.” Being harmed is not a sin to confess. Receive it, do not assign them responsibility for another’s sin, and follow the Crisis Contingencies, the safeguarding frame, and the mandatory-reporting steps.
 
 **Block 4 — Bridge to Split + Extended Prayer (7:29–7:34, 5 min)**
 ## Script
 
 *“One more thing before we split. The protocol is on H5.2 — you and your pair partner will sign it at the start of the pair work. Read it together; agree to it; sign; exchange. The signing is the architecture made explicit.”*
 
-*“In the cohort space, the Cohort Companion will walk you through the protocol once more, briefly. Then 25 minutes one direction. Then we switch and 25 minutes the other direction. The Cohort Companion floats; pairs sit knee-to-knee with at least 6 feet between pairs.”*
+*“In the circle space, the Cohort Companion will walk you through the protocol once more, briefly. Then 25 minutes one direction. Then we switch and 25 minutes the other direction. The Cohort Companion floats; pairs sit knee-to-knee with at least 6 feet between pairs.”*
 
 *“Pray with me. Father, you are faithful and just to forgive sins and to cleanse from all unrighteousness. Tonight we name what is in us — the patterns that have clung to us closely, the ones we have lived with for years, the ones we have just begun to see this season. We bring them to you in the company of one trusted witness. Speak restoration. Make us free where we have been bound. Heal where we have been damaged. We trust that what your word says is true. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Forty minutes of pair work plus protocol time. Go.”*
+*“Circle assignments are on the wall. Forty minutes of pair work plus protocol time. Go.”*
 
 **Block 5 — Confession and Restoration in Standing Pairs (7:34–8:12, 38 min)**
-Each cohort circle splits into the standing pairs. The Cohort Companion floats; intervenes only when needed. Pairs sit knee-to-knee with at least 6 feet of buffer.
+Each circle splits into the standing pairs. The Cohort Companion floats; intervenes only when needed. Pairs sit knee-to-knee with at least 6 feet of buffer.
 
-**Inside the cohort circle — Companion script**
+**Inside the circle — Companion script**
 
 ## Opening (5 min)
 
@@ -362,13 +362,13 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 **•** If the listening partner interprets, advises, fixes, or matches — redirect: ‘Listen. Pray. Bless. The architecture asks for those three; not the others.’
 
-**•** If a confession crosses safety thresholds — stop the pair. Cohort Companion stays. Section 6 protocol; pastoral / clinical / legal as needed.
+**•** If a confession crosses safety thresholds — stop the pair. Cohort Companion stays. The safeguarding frame; pastoral / clinical / legal as needed.
 
 **•** If a pair partner is over-activated by what was confessed — stay with the activated partner; another Cohort Companion (or the Lead Companion) can take over the listening role for the confessing partner if mid-direction.
 
 **•** If a participant cannot find a specific pattern by 7:50 — release them from tonight’s exercise without shame. ‘Sit with the question this week and bring confession to your pair before Wk 6.’ They listen during their partner’s direction; they pass on their own.
 
-**•** Watch the 25-minute switch carefully. The symmetry is non-negotiable. If the first direction ran long, the second direction still gets its 25 minutes — even if the cohort circle ends 5 minutes late.
+**•** Watch the 25-minute switch carefully. The symmetry is non-negotiable. If the first direction ran long, the second direction still gets its 25 minutes — even if the circle ends 5 minutes late.
 
 **Block 6 — Merge and One-Word Landing (8:12–8:19, 7 min)**
 ## Script
@@ -386,7 +386,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 *“Second — if affect did not match the architecture tonight — if you confessed and did not feel released, or you listened and did not feel anything in particular, or your pair partner did the architecture flatly — do not chase affect. The architecture is doing its work. The Spirit will do what only He can do, in His timing.”*
 
 **Block 7 — Between-Session Practice (8:19–8:23, 4 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -417,61 +417,51 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior pairs use the architecture in simpler language. ‘A pattern in me’ instead of ‘a pattern of behavior I would name to God if He were listening.’ The five elements still apply.**
-
-**Pair turns are 15 minutes each, not 25. Junior pair work runs faster; sustained 25-minute confession is too much. Total cohort time is 35 minutes, so the cohort returns to the larger room earlier.**
-
-**Watch for: junior teens whose pattern is about a friend or sibling rather than themselves. Re-frame: ‘What’s YOUR pattern, regardless of what they do?’**
-
-**But first discern: if the “they” is hurting or mistreating the junior (not just annoying them), do NOT re-frame to “your pattern” — being harmed is not the junior’s sin to confess. Receive it and follow the mandatory-reporting / Section 6 steps.**
-
-**Watch for: junior teens whose pattern is generic (‘I sin sometimes’). Help them find specificity: ‘Pick ONE specific thing you did this week that you wish you had not done.’**
-
-**Watch for: junior teens whose confession reveals material that crosses mandatory-reporting thresholds. Engage immediately. The two-adult rule is rigorous; the team follows the law.**
-
-**Watch for: the junior teen whose pair partner is uncomfortable speaking the specific blessing of restoration. The Cohort Companion coaches the partner in the moment, modeling phrasing if needed: ‘In Christ, this is forgiven. The Father loves you and is making you whole.’**
-
-**Watch for: the junior teen who is genuinely flooded. Cohort Companion stays. Pastoral / clinical backup notified that night, regardless of which room the parent is in.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Full IJH architecture. Pair turns are 20 minutes each (between junior 15 and parent 25). Total cohort time is 45 minutes.**
+**The architecture in plain words if the vocabulary stalls: ‘a pattern in me’ — one thing, owned, laid down. The five elements still apply.**
 
-**Watch for: the senior who confesses an identity-formation pattern (a sexual choice, a substance use, a self-harming pattern) that is bigger than confession alone is for. Receive without rushing. Pastoral / clinical referral within 48 hours.**
+**Watch for: the member whose pattern is about someone else rather than themselves. Re-frame: ‘What’s YOUR pattern, regardless of what they do?’**
 
-**Watch for: the senior who treats confession as performance. ‘My deepest sin pattern is...’ with a polished narrative. The Cohort Companion redirects gently: ‘What’s the smaller, more specific version of that?’**
+**But first discern: if the “they” is genuinely harming the member, do NOT re-frame to “your pattern” — being harmed is not a sin to confess. Receive it and follow the safeguarding frame, with the mandatory-reporting steps if a minor is involved.**
 
-**Watch for: the senior who attempts to confess on behalf of a peer in the room. ‘I want to confess that my friend Sarah is...’ Stop immediately. ‘Confession is for your own pattern, not anyone else’s.’**
+**Watch for: the member whose pattern is generic (‘I sin sometimes’). Help them find specificity: ‘Pick ONE specific thing you did this week that you wish you had not done.’**
 
-**Watch for: the senior whose confession involves a parent in the parent cohort. Receive without naming the parent. Brief the parent’s Cohort Companion confidentially. Pastoral 1:1 within the week if the dynamic is acute.**
+**Watch for: the pair partner who is uncomfortable speaking the specific blessing of restoration. The Cohort Companion coaches the partner in the moment, modeling phrasing if needed: ‘In Christ, this is forgiven. The Father loves you and is making you whole.’**
 
-**Watch for: the senior who confesses but cannot speak the blessing of restoration over their pair partner. Cohort Companion coaches in the moment.**
+**Watch for: the member who is genuinely flooded. Cohort Companion stays. Pastoral / clinical backup notified that night.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Full IJH architecture. Pair turns are 25 minutes each. Total cohort time is 55 minutes.**
+**Full IJH architecture. Pair turns are 25 minutes each.**
 
-**Watch for: the parent whose confession surfaces a long-held pattern that has been hidden for years. ‘I have been hiding \_\_\_\_\_ for fifteen years and have never named it aloud.’ Receive without rushing. The naming is significant work; the architecture holds. Pastoral 1:1 within the week if welcomed.**
+**Watch for: the veteran who treats confession as performance. ‘My deepest sin pattern is...’ with a polished narrative. The Cohort Companion redirects gently: ‘What’s the smaller, more specific version of that?’**
 
-**Watch for: the parent whose confession involves their spouse (in the same parent cohort or absent). Receive without naming the spouse. The relational adjudication is a different conversation; pastoral 1:1 within 24 hours.**
+**Watch for: the veteran who attempts to confess on behalf of someone else in the room. Stop immediately. ‘Confession is for your own pattern, not anyone else’s.’**
 
-**Watch for: the parent whose confession involves their teen. The teen is in another cohort. The parent’s pattern is the confession; the teen’s reality is not the parent’s permission slip to bring this up with the teen this week. Pastoral 1:1 first.**
+**Watch for: the veteran whose confession involves another member of the cohort. Receive without naming them. Brief the other circle’s Cohort Companion confidentially. Pastoral 1:1 within the week if the dynamic is acute.**
 
-**Watch for: the parent whose confession reveals ongoing infidelity, financial fraud, or abuse where a third party is being harmed. The Cohort Companion does not adjudicate in the room. Pastoral 1:1 within 24 hours; the path to addressing the harm is part of the restoration, not a postscript.**
+**The ordained and the staff**
 
-**Watch for: the parent whose confession is intellectualized (‘I have a pattern of failing to operationalize my stated values’). The Cohort Companion helps find the concrete behavior: ‘What’s the specific behavior that you would name as the pattern?’**
+## Adjustments
 
-**Watch for: the parent who realizes mid-confession that the pattern is rooted in a knot they did not name in Wk 3. Honour the discovery; the pattern is the confession; the knot is for the standing pair this week.**
+**Watch for: the leader whose confession surfaces a long-held pattern that has been hidden for years. ‘I have been hiding \_\_\_\_\_ for fifteen years and have never named it aloud.’ Receive without rushing. The naming is significant work; the architecture holds. Pastoral 1:1 within the week if welcomed.**
+
+**Watch for: the leader whose confession involves their spouse. Receive without naming the spouse. The relational adjudication is a different conversation; pastoral 1:1 within 24 hours.**
+
+**Watch for: the leader whose confession involves the congregation or a colleague. The leader’s pattern is the confession; what was named is not a license to re-open it with the third party this week. Pastoral 1:1 first.**
+
+**Watch for: the confession that reveals ongoing infidelity, financial fraud, or abuse where a third party is being harmed. The Cohort Companion does not adjudicate in the room. Pastoral 1:1 within 24 hours; the path to addressing the harm is part of the restoration, not a postscript.**
+
+**Watch for: the intellectualized confession (‘I have a pattern of failing to operationalize my stated values’). The ordained are fluent enough to hide inside their fluency. Help find the concrete behavior: ‘What’s the specific behavior that you would name as the pattern?’**
+
+**Watch for: the leader who realizes mid-confession that the pattern is rooted in a knot they did not name in Wk 3. Honour the discovery; the pattern is the confession; the knot is for the standing pair this week.**
 
 **Closing Practice in Detail**
 
@@ -533,9 +523,9 @@ The team meets the day after Wk 5 for a 60-minute debrief. The clinical adjacenc
 
 **•** Anyone whose confession surfaced material larger than the pair could hold. Pastoral / inner-healing / clinical referral conversation within 72 hours.
 
-**•** Anyone whose confession involved someone in the program. Cross-cohort follow-up by the appropriate Companions.
+**•** Anyone whose confession involved someone in the program. Cross-circle follow-up by the appropriate Companions.
 
-**•** Any teen whose confession crossed a mandatory-reporting threshold. Engage protocols immediately.
+**•** Any confession that crossed a mandatory-reporting threshold. Engage protocols immediately.
 
 **•** Any pair where the partnership felt strained by what was heard. Pastoral support for the receiving pair partner, not just the confessing one.
 
@@ -583,7 +573,7 @@ Four handouts for Wk 5.
 
 **Not confession of someone else’s sin. ‘My pattern is reacting to my mother’s pattern’ is not confession of my pattern — it is identification of hers. The architecture asks for MINE.**
 
-***One exception:*** *this is about ordinary grievances, not harm. If what you are carrying is that someone is hurting or mistreating you, that is not your sin to confess — it is something to tell your Cohort Companion or a trusted adult. Being wronged is never the thing you confess.*
+***One exception:*** *this is about ordinary grievances, not harm. If what you are carrying is that someone is hurting or mistreating you, that is not your sin to confess — it is something to tell your Cohort Companion, or the named adult outside the cohort (the door the year keeps open). Being wronged is never the thing you confess.*
 
 **How the pair partner receives**
 
@@ -675,7 +665,7 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **If the pattern shows up heavily mid-week and you cannot keep walking in restoration alone, mid-week check-in with your pair partner.**
 
-**For the youngest (12–14): default to the simpler gratitude-led three-beat used in Getting Started and on the Rhythm Card — Awareness, Gratitude (three specific gifts), and one forward sentence with God — and let the named-pattern movements be optional. Gratitude leads; the pattern noticing is never the point of the prayer.**
+**If the named-pattern movements grow heavy: default to the simpler gratitude-led three-beat from Getting Started and the Rhythm Card — Awareness, Gratitude (three specific gifts), and one forward sentence with God — and let the pattern movements rest for a day. Gratitude leads; the pattern noticing is never the point of the prayer.**
 
 **Handout H5.4 — Between-Session Practice (Wk 5)**
 
