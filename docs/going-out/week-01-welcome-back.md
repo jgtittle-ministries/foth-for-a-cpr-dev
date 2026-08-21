@@ -12,7 +12,7 @@ Week 1
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 1
 
 **Connect focus.** Sent. The body together discerning what it has been formed for and how the Spirit is leading it outward.
 
-**Mode.** Whole-room. No cohort split tonight. The cohort returns as one body — the cohort that walked Going Deeper together is now reassembled to begin Going Out as that same body, even with adjustments.
+**Mode.** Whole-room. No circle split tonight. The cohort returns as one body — the cohort that walked Going Deeper together is now reassembled to begin Going Out as that same body, even with adjustments.
 
 **Center.** Each member shares briefly the question they carried across the interlude (from H11.3 prompt 4 of Going Deeper) and one sentence about how the interlude landed. Lead Companion frames Going Out’s four-block architecture and Going Out’s different posture. Standing pair re-engagement / new pair formation. Brief Acts 1 teaching.
 
@@ -40,13 +40,13 @@ Week 1
 
 ## WATCH FOR (Week 1 specific risks — read twice)
 
-*The risks tonight are not primarily clinical. They are pastoral and architectural. The interlude have produced different kinds of landings in different members; tonight’s framing must hold them all without collapsing to the average.*
+*The risks tonight are not primarily clinical. They are pastoral and architectural. The interlude has produced different kinds of landings in different members; tonight’s framing must hold them all without collapsing to the average.*
 
 **The participant who lost momentum across the interlude. The Rhythm Card practices may have lapsed; the question from H11.3 may have faded; the participant may arrive feeling behind. Receive without alarm. Going Out re-roots the practices; the question can be re-found. Cohort Companion follow-up within the week.**
 
 **The participant whose gap surfaced something larger than expected (a vocational rupture, a relational crisis, a health diagnosis). Receive without making it the cohort’s focus tonight. Pastoral 1:1 within 48 hours. Going Out architecture has room for what surfaced; tonight is the landing, not the engagement.**
 
-**Honest non-continuers from Going Deeper who unexpectedly attended Wk 1. Some non-continuers may show up tonight wanting to reconsider. Welcome without pressure. The decision is theirs; the cohort makes room. If they decide to continue, registration logistics handled briefly outside the session.**
+**Honest non-continuers from Going Deeper who unexpectedly attended Wk 1. Some non-continuers may show up tonight wanting to reconsider. Welcome without pressure. The decision is theirs; the cohort makes room. If they decide to continue, that is a conversation with the convening leader, handled briefly outside the session — not a form.**
 
 **The cohort whose Wk 11 honest assessment landed at Level 3 with Level 4 ahead, and who now expects Going Out to magically deliver Level 4. Going Out will not magically deliver anything. The Wk 11 honest data is the foundation; Going Out works the body sent FROM where the cohort actually is.**
 
@@ -60,7 +60,7 @@ Week 1
 
 ## CRISIS CONTINGENCIES (Week 1)
 
-*Crisis risk is low. The interlude have been pastorally covered; most material that would surface acutely has surfaced during the interlude, not tonight. The contingencies below are for the small set of acute possibilities.*
+*Crisis risk is low. The interlude has been pastorally covered; most material that would surface acutely has surfaced during the interlude, not tonight. The contingencies below are for the small set of acute possibilities.*
 
 **If a returning participant discloses material that surfaced across the interlude that crosses thresholds (a self-harm incident, an active relational rupture, a vocational crisis with safety implications). Receive without rushing the cohort. Cohort Companion stays close; pastoral 1:1 within 24 hours; clinical referral as appropriate.**
 
@@ -68,9 +68,9 @@ Week 1
 
 **If a non-continuer attends tonight and discloses a reason for return that is itself a crisis (unable to handle being alone in the gap; relational rupture; mental-health concern). Receive warmly; do not pressure decision tonight; pastoral 1:1 within 24 hours.**
 
-**If a participant’s spouse or family member is present unexpectedly (a teen brought a parent; a parent brought a spouse). The cohort architecture is for committed cohort members. Welcome the visitor briefly; explain Going Out registration logistics; pastoral conversation about the family member’s possible engagement separately.**
+**If a member’s spouse or a friend is present unexpectedly. The cohort architecture is for committed cohort members. Welcome the visitor briefly; explain how the year is entered — at the entry gate, in conversation with the convening leader; pastoral conversation about the visitor’s possible engagement separately.**
 
-**Default. Section 6 of the Going Deeper Handbook (carried forward into Going Out). Pastoral / clinical backup confirmed by name and number for the night.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical backup confirmed by name and number for the night.**
 
 **Session at a Glance**
 
@@ -92,7 +92,7 @@ The team’s discipline tonight is restraint. Wk 1 does not need to deliver ever
 
 **•** Each member’s H11.3 page (Personal Reflection Frame for Wk 12), specifically prompt 4 (the question carried into Going Out). Tonight surfaces those questions briefly.
 
-**•** The Wk 12 sending. The cohort was sent; the interlude were intentional; tonight reopens with the sending honoured.
+**•** The Wk 12 sending. The cohort was sent; the interlude was intentional; tonight reopens with the sending honoured.
 
 **•** Standing pairs that continued informally across the interlude. Some pairs continued; some released. Tonight re-engages whoever continued; new pairs form where needed.
 
@@ -148,7 +148,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs (smaller if some non-continuers; larger if new continuers).
+**•** Confirm room layout: ONE large circle — a chair for every member (adjusted for any non-continuers or new continuers).
 
 **•** Whiteboard with Acts 1:8 written in full and the four-block Going Out architecture sketched.
 
@@ -156,7 +156,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs depending on cohort composition.
+**•** Chairs in ONE large single circle, one per member.
 
 
 **•** Personal Heart Journals (carried over from Going Deeper; new ones for any new continuers).
@@ -184,7 +184,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 | Day before | Walk the room. Confirm chair layout. Confirm pastoral / clinical backup. | Lead Companion |
 | T-60 min | Team gathers in the room. Final prayer for honest gap-landings. | All Companions |
 | T-30 min | Set up. Place handouts. Confirm whiteboard pre-draw. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name; warm. | Co-Companion (Teen) |
+| T-15 min | Door opens. Welcome each participant by name; warm. | Co-Companion |
 | T-0 | Doors close. Lead Companion opens. | Lead Companion |
 
 **Detailed 90-Minute Run Sheet**
@@ -193,13 +193,13 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Companion (Teen) | Door, name tags. Warm welcome. Brief private check-in with Wk 10 Discerner. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Companion | Door, name tags. Warm welcome. Brief private check-in with Wk 10 Discerner. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Welcome back. Tonight is honest landing.’ |
 | 7:08–7:17 | Block 2: New continuer introductions (if any) | Shared circle | Lead Companion | Brief introductions of any new continuers; gap-period story-share substitute. |
 | 7:17–7:26 | Block 3: Acts 1:1–8 + Going Out architecture (teaching) | Shared circle | Lead Companion | Read passage. Walk the four blocks. Frame the posture shift. |
 | 7:26–7:57 | Block 4: Gap landings around the circle | Shared circle | Lead Companion | Each member: question carried + one sentence about how the interlude landed. Pass anytime. |
 | 7:57–8:11 | Block 5: Standing pair re-engagement | Shared circle (in pairs) | Cohort Companions float | Pairs sit beside each other; H1.3 walked together; renewed or newly signed. |
-| 8:11–8:18 | Block 6: Going Out practices and rhythm refresh | Shared circle | Co-Companion (Parent) | Refreshed Rhythm Card; between-session practice; brief Q&A. |
+| 8:11–8:18 | Block 6: Going Out practices and rhythm refresh | Shared circle | Co-Companion | Refreshed Rhythm Card; between-session practice; brief Q&A. |
 | 8:18–8:27 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. One-word landing from each. Frame Wk 2 (what it means to be sent). |
 | 8:27–8:30 | Block 8: Send + brief informal time | Shared circle | Lead Companion | Brief send. Optional water and snacks; lingering as members reconnect. |
 
@@ -214,7 +214,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 *(60-second silent settling. ‘Holy Spirit, you have walked with these members across the interlude. We welcome whatever you want to do with us tonight. We are submitted.’)*
 
-*“Tonight is Wk 1 of Going Out. The Going Out series. We have walked twelve weeks of formation across Going Deeper; we have walked the gap together even though apart. Tonight we reopen.”*
+*“Tonight is Wk 1 of Going Out. We have walked twelve weeks of formation across Going Deeper; we have walked the gap together even though apart. Tonight we reopen.”*
 
 *“Two things to name before we begin. One — Going Out is not a sequel to Going Deeper. Going Deeper engaged interior formation; Going Out engages outward witness. The posture is different. We will frame what that means tonight and across the next two weeks.”*
 
@@ -321,7 +321,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 **Watch for any pair where the relationship across the interlude revealed a problem (one partner ghosted; one partner over-extended; one partner crossed a boundary). Cohort Companion stays with the pair briefly; pastoral 1:1 follow-up.**
 
 **Block 6 — Going Out Practices and Rhythm Refresh (8:11–8:18, 7 min)**
-## Script — Co-Companion (Parent) leads
+## Script — Co-Companion leads
 
 *“The practice rhythm continues. Going Deeper Rhythm Card is in your hands; Going Out adds two small adjustments.”*
 
@@ -357,53 +357,51 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“Water and snacks in the kitchen; please linger if you want — especially if you have not yet caught up with someone after the interlude.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members across the session.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often experience the interlude differently than adults — the school-year rhythm dominates; church or formation rhythms can fade quickly without weekly reinforcement. Receive without alarm; Going Out re-roots quickly.**
-
-**Watch for: junior teens whose gap landing is concrete (‘school was hard’, ‘my friend group changed’). Honour. Concrete is appropriate; the abstracting comes later.**
-
-**Watch for: junior teens whose H11.3 question they cannot remember. Cohort Companion briefly: ‘Going Deeper is months ago; if the question doesn’t come up tonight, Going Out will surface what is alive in you now.’**
-
-**Watch for: junior teens for whom Going Out’s outward orientation feels intimidating (‘I don’t know how to be a witness’). Re-frame: ‘Tonight is reopening, not witness yet. We will walk what witness means together across Going Out.’**
-
-**Watch for: junior teens whose pair partner from Going Deeper has shifted (graduated, moved, withdrew). New pairing handled with care.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time (new continuers)**
 
 ## Adjustments
 
-**Senior teens often arrive with college-decision or vocational discernment as the dominant frame. Receive; Going Out engages this directly in Wks 7–9.**
+**New continuers arrive without Going Deeper’s shared history. The introduction block and the pastoral 1:1 held before tonight carry them; the Cohort Companion sits near them and confirms by Friday that the welcome was felt.**
 
-**Watch for: the senior whose gap landing involved a calling moment (‘I think I know what I’m supposed to do’ or ‘I’ve been resisting what I think I’m supposed to do’). Honour without rushing. Pastoral 1:1 within the week if welcomed.**
+**Watch for: the new continuer for whom the gap-landing round feels like everyone else’s reunion. Brief re-frame from the Cohort Companion: ‘Your landing counts tonight too — where are you arriving from?’**
 
-**Watch for: the senior whose H11.3 question has been suppressed across the interlude because school or social or family pressure intensified. Receive without analysis; Going Out will surface what is meant to surface.**
+**Watch for: the first-timer for whom Going Out’s outward orientation feels intimidating (‘I don’t know how to be a witness’). Re-frame: ‘Tonight is reopening, not witness yet. We will walk what witness means together across Going Out.’**
 
-**Watch for: the senior who is graduating or moving in Going Out. Going Out’s twelve weeks may not all be accessible; the team holds the senior’s real schedule honestly. Brief planning conversation outside the session about what Going Out participation looks like.**
+**Watch for: the new continuer without an obvious pair partner. The provisional pairing is made tonight and refined by Wk 2 if needed.**
 
-**Watch for: the senior whose Wk 10 Discerner role from Going Deeper produced a calling decision. The integration window may still be active; the cohort holds without pressing for resolution.**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often arrive with the longer arc of the work in view. The interlude may have produced significant adjustments — vocational shifts, marital conversations, parenting recalibrations. Receive without rushing.**
+**Veterans carry the whole Going Deeper arc into tonight. Most will land cleanly; some will discover the interlude took more than they noticed. Receive without alarm; Going Out re-roots quickly.**
 
-**Watch for: the parent whose gap landing involves vocational rupture or transition (a job ending; a calling re-emerging; a sabbatical considered). Receive; Going Out engages this in Wks 4–9. Pastoral support for the immediate decisions.**
+**Watch for: the veteran whose gap landing involved a calling moment (‘I think I know what I am supposed to do’ or ‘I have been resisting what I think I am supposed to do’). Honour without rushing. Pastoral 1:1 within the week if welcomed.**
 
-**Watch for: the parent whose H11.3 question intensified across the interlude rather than resolving. The intensification may itself be data. Going Out will engage what is meant to be engaged.**
+**Watch for: the veteran whose H11.3 question has been suppressed across the interlude because work or household pressure intensified. Receive without analysis; Going Out will surface what is meant to surface.**
 
-**Watch for: the parent whose teen-in-the-cohort had a hard gap. Cross-cohort awareness; the parent does not adjudicate the teen’s Going Out participation publicly tonight.**
+**Watch for: the veteran whose schedule shifts across Going Out (a move, a job transition, a travel-heavy season). The twelve weeks may not all be accessible; the team holds the real schedule honestly. Brief planning conversation outside the session about what participation looks like.**
 
-**Watch for: the parent whose marriage worked or did not work across the interlude. The cohort is not the venue for marital adjudication; pastoral support outside the session.**
+**Watch for: the veteran whose Wk 10 Discerner role from Going Deeper produced a calling decision. The integration window may still be active; the cohort holds without pressing for resolution.**
 
-**Watch for: the parent who is reconsidering whether to continue at all. Some parents return to Wk 1 having decided across the interlude that they need a different kind of support. Pastoral 1:1; honest non-continuation is honoured.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often arrive with the longer arc of the work in view. The interlude may have produced significant adjustments — vocational shifts, marital conversations, ministry recalibrations. Receive without rushing.**
+
+**Watch for: the leader whose gap landing involves vocational rupture or transition (a role ending; a calling re-emerging; a sabbatical considered). Receive; Going Out engages this in Wks 4–9. Pastoral support for the immediate decisions.**
+
+**Watch for: the leader whose H11.3 question intensified across the interlude rather than resolving. The intensification may itself be data. Going Out will engage what is meant to be engaged.**
+
+**Watch for: the member whose spouse in the room had a hard gap. The couple’s landing is theirs; neither adjudicates the other’s Going Out participation publicly tonight.**
+
+**Watch for: the member whose marriage worked or did not work across the interlude. The cohort is not the venue for marital adjudication; pastoral support outside the session.**
+
+**Watch for: the leader who is reconsidering whether to continue at all. Some return to Wk 1 having decided across the interlude that they need a different kind of support. Pastoral 1:1; honest non-continuation is honoured — a conversation with the convening leader, not a form.**
 
 **Closing Practice in Detail**
 
@@ -471,9 +469,9 @@ The team meets the day after Wk 1 for a 60-minute debrief.
 
 **•** The Wk 10 Discerner if their integration is still active.
 
-**•** Any non-continuer who reconsidered tonight — confirm the registration logistics or honour the decision either way.
+**•** Any non-continuer who reconsidered tonight — walk the conversation with the convening leader, or honour the decision either way.
 
-**•** Any parent whose teen had a hard gap, or vice versa.
+**•** Any member whose spouse in the room had a hard gap, or vice versa.
 
 **Handouts**
 
