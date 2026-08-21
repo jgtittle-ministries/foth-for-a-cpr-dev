@@ -12,7 +12,7 @@ Week 7
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 7
 
 **Connect focus.** God (deepened). Second session of the God-deepened block. Wk 6’s individual extended hearing is the foundation; tonight is the corporate version.
 
-**Mode.** Whole-room. No cohort split. The whole cohort sits as one circle with the Bringer’s chair in the centre. ONE Bringer pre-briefed Saturday. ONE real question. The cohort listens together; speaks back; the Bringer weighs.
+**Mode.** Whole-room. No circle split. The whole cohort sits as one circle with the Bringer’s chair in the centre. ONE Bringer pre-briefed Saturday. ONE real question. The cohort listens together; speaks back; the Bringer weighs.
 
 **Re-entry.** This session follows the series’ two-week practice hold; Block 2 is the what-held round on extended PROAPT and the Tells.
 
@@ -54,11 +54,11 @@ Week 7
 
 **The Bringer’s question is too big to be held in one session. ‘Should I divorce my husband?’ ‘Am I being called to leave my church?’ The pre-brief on Saturday should have screened questions of this magnitude; if one slipped through, the Lead Companion gently re-frames the question to a sub-question that can be honestly held tonight, with the larger question routed to pastoral discernment outside the session.**
 
-**The Bringer disclosing material that exceeds what corporate prayer can hold (active suicidality, current abuse, mandatory-reporting territory). Section 6 protocol activates; the listening prayer pivots to crisis support; pastoral / clinical backup engaged.**
+**The Bringer disclosing material that exceeds what corporate prayer can hold (active suicidality, current abuse, mandatory-reporting territory). The safeguarding frame activates; the listening prayer pivots to crisis support; pastoral / clinical backup engaged.**
 
 **Listeners using ‘what I heard’ to deliver feedback they wanted to give anyway. ‘God told me you should stop being so judgmental of your sister.’ The Lead Companion catches this: ‘That sounds like advice you are giving in God’s name. Speak only what came to you while you were listening, not what you wanted to say to [Bringer].’**
 
-**Junior teens watching parents speak prophetically into other parents (or vice versa). Cross-cohort dynamics multiply. The team is briefed on which families are present and which speakings could land sideways; Cohort Companions watch their cohort members in real time.**
+**Members watching their spouse speak prophetically into another member — or the room watching its own pastor spoken into. The dynamics multiply. The team is briefed on which couples are present and which speakings could land sideways; Cohort Companions watch their circles’ members in real time.**
 
 **The Bringer freezing in the centre chair. Corporate attention is heavy. The Lead Companion sits adjacent; is available; offers brief breaks if the Bringer signals they want one. The Bringer can choose not to weigh aloud at the end — they can name ‘I will weigh privately and report back to my standing pair’ instead.**
 
@@ -68,7 +68,7 @@ Week 7
 
 *Crisis risk is moderate-to-high. Two-call protocol active. The Bringer’s pre-brief on Saturday is the primary risk-reduction; the rest of the contingencies handle live-session edge cases.*
 
-**If the Bringer’s presented question reveals material that crosses thresholds (suicidality, current abuse, active intent to harm). Stop the listening prayer immediately. Lead Companion engages with the Bringer alongside one Cohort Companion; the room is dismissed briefly to a side room; pastoral / clinical backup engaged within 15 minutes. Section 6 protocol.**
+**If the Bringer’s presented question reveals material that crosses thresholds (suicidality, current abuse, active intent to harm). Stop the listening prayer immediately. Lead Companion engages with the Bringer alongside one Cohort Companion; the room is dismissed briefly to a side room; pastoral / clinical backup engaged within 15 minutes. The safeguarding frame applies.**
 
 **If a listener’s speaking-back delivers something the Bringer experiences as accusatory or shaming. The Lead Companion interrupts gently: ‘I want to pause here. [Bringer], you do not have to receive this; we will weigh together what was said. [Listener], please clarify the tone of what you heard.’ The room learns; the Bringer is not left holding the accusation.**
 
@@ -80,7 +80,7 @@ Week 7
 
 **If multiple listeners speak the same theme strongly and the Lead Companion senses conviction (rare but real). The Lead Companion names what is happening without claiming authority: ‘Several of us have heard a similar theme. The convergence is data; [Bringer] weighs it; pastoral conversation may follow.’ No declaration that the convergence is from God.**
 
-**Default. Section 6 of the Going Deeper Handbook. Pastoral / clinical backup confirmed by name and number. Lead Companion carries phone access in the room.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical backup confirmed by name and number. Lead Companion carries phone access in the room.**
 
 **Session at a Glance**
 
@@ -152,7 +152,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 **3.** Walk the protocol step by step. Who sits where; how the Lead Companion opens the speaking-back round; what intervention language each Cohort Companion carries; what the cue for ending the round is. Rehearse the Lead Companion’s response to listeners drifting authoritative (‘God told me you should’). (15 min)
 
-**4.** Cross-family review. Identify in advance any teen whose parent is in the room and whose speaking-back to the Bringer could land cross-cohort awkwardly; same in reverse. Cohort Companions are responsible for watching their cohort’s members during the round. (10 min)
+**4.** Cross-household review. Identify in advance any member whose spouse is in the room and whose speaking-back to the Bringer could land awkwardly at home; note whether the Bringer’s spouse is present. Cohort Companions are responsible for watching their circles’ members during the round. (10 min)
 
 **5.** Crisis contingencies read aloud. Two-call protocol. Pastoral / clinical backup confirmed by name and number for the night. (5 min)
 
@@ -170,7 +170,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 **•** Confirm pastoral / clinical backup by name and number for the night.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs with the Bringer’s chair in the centre, the Lead Companion’s chair adjacent to the Bringer, the Bringer’s standing pair partner’s chair on the Bringer’s other side.
+**•** Confirm room layout: ONE large circle — a chair for every member — with the Bringer’s chair in the centre, the Lead Companion’s chair adjacent to the Bringer, the Bringer’s standing pair partner’s chair on the Bringer’s other side.
 
 **•** Confirm a quiet side room available in case the session pivots to crisis support.
 
@@ -178,7 +178,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs with ONE chair in the geometric centre for the Bringer.
+**•** Chairs in ONE large single circle, one per member, with ONE chair in the geometric centre for the Bringer.
 
 **•** Lead Companion’s chair adjacent to the centre chair (about 2 feet to the Bringer’s right). Bringer’s standing pair partner’s chair on the Bringer’s left.
 
@@ -210,7 +210,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 | Day before | Walk the room. Confirm centre-chair geometry. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers. Lead Companion does final check-in with Bringer (10 min) in private. | All Companions + Bringer |
 | T-30 min | Set up. Place handouts. Confirm centre chair and adjacent seating. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -219,7 +219,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door; remind: phones off tonight, not silent. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door; remind: phones off tonight, not silent. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight the cohort listens for one of us.’ |
 | 7:07–7:16 | Block 2: Practice hold re-entry — the what-held round | Shared circle | Lead Comp | The hearing that continued and lapsed; the Tell that surprised; the silence. |
 | 7:16–7:29 | Block 3: 1 Cor 14 + corporate listening teaching | Shared circle | Lead Comp | Read passage. Teach the architecture. Frame the Bringer. |
@@ -227,7 +227,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 | 7:33–7:53 | Block 5: Silent corporate listening | Shared circle | Lead Comp | 20 min silent. The cohort listens FOR the Bringer. Bringer journals or sits silently. |
 | 7:53–8:12 | Block 6: Speaking-back round | Shared circle | Lead Comp | Each cohort member speaks back briefly what they heard. ‘I heard’ / ‘I sensed.’ Bringer receives in silence with notes. |
 | 8:12–8:20 | Block 7: Bringer weighs and names | Shared circle | Bringer + Lead Comp | Bringer takes 8 min: 5 min silence to weigh, then 3 min to name briefly what landed and what is set aside. |
-| 8:20–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Bringer journals daily. |
+| 8:20–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp | Each member journals what they did NOT speak. Bringer journals daily. |
 | 8:23–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 8. Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -416,7 +416,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 *Watch for: the Bringer who names that nothing landed. Honest. ‘That is honest data. The room listened; nothing converged that you can receive tonight; the question may need different shape or different time. Pastoral conversation this week.’*
 
 **Block 8 — Between-Session Practice (8:20–8:23, 3 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -447,55 +447,45 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Each cohort is doing this differently inside the same circle. The Cohort Companions read their cohort’s members across the session and follow up offline as needed.*
+*Tonight there is no circle split. The room’s members are doing this differently inside the same circle. The Cohort Companions read their circles’ members across the session and follow up offline as needed.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens may struggle to listen FOR the Bringer (rather than for themselves) for 20 silent minutes. Coach in the cohort’s pre-meet — not on Tuesday in front of the room. Briefly pre-arrange: ‘When the silent listen starts, pray for [Bringer] by name. Then ask: what is on God’s heart for [Bringer]? Sit with what comes.’**
-
-**In the speaking-back round, junior teens often speak short and concrete (‘I heard the word "steady" for you’) rather than long and abstract. Honor the concrete; affirm the brevity.**
-
-**Watch for: the junior teen who is silent in the speaking-back round but visibly emotional. Cohort Companion follow-up offline; the unspoken hearing may be significant.**
-
-**Watch for: the junior teen whose speaking-back is about a parent in the room rather than the Bringer. Gently redirect: ‘Speak only what came to you for [Bringer]. The other thing is for your standing pair.’**
-
-**Watch for: the junior teen who says ‘God told me you should’ despite the protocol. Lead Companion catches this; gently: ‘Restate that as I-heard.’ Junior teens often pick up the restatement without difficulty if the cue is clear.**
-
-**Watch for: the junior teen who is overwhelmed by the seriousness of the room. Cohort Companion sits beside them; offline check-in at the close.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens are more likely to drift articulate-but-not-FOR-the-Bringer. ‘I have a long thought about how [Bringer]’s situation reminds me of a passage I read last week.’ Lead Companion catches: ‘Specifically what came to you FOR [Bringer]?’**
+**First-timers may struggle to listen FOR the Bringer (rather than for themselves) for 20 silent minutes. Coach before Tuesday, not in front of the room: ‘When the silent listen starts, pray for [Bringer] by name. Then ask: what is on God’s heart for [Bringer]? Sit with what comes.’**
 
-**Watch for: the senior teen who has read enough about prophecy to want to demonstrate prophetic hearing. ‘I am getting a strong word for [Bringer].’ Affirm the openness; gently constrain: ‘Whatever the strength, frame in I-heard language. The Bringer weighs.’**
+**First-timers often speak short and concrete (‘I heard the word "steady" for you’) rather than long and abstract. Honor the concrete; affirm the brevity.**
 
-**Watch for: the senior whose speaking-back is for a Bringer who is the parent of a friend in another cohort. The cross-cohort dynamic is alive; the senior is briefed in advance to listen for [Bringer], not for the friend’s parent specifically.**
+**Watch for: the member who is silent in the speaking-back round but visibly emotional. Cohort Companion follow-up offline; the unspoken hearing may be significant.**
 
-**Watch for: the senior who tries to use the speaking-back to address something between them and the Bringer that is unaddressed elsewhere. Pastoral 1:1 within the week; do NOT use the speaking-back for relational work.**
+**Watch for: the member who says nothing came and feels like they failed. Affirm aggressively. ‘Silence in the round is not failure; silence is one of the honest answers. Some weeks you will speak; some weeks you will hold what came in the silent listen for your own walking.’**
 
-**Watch for: the senior who says nothing came in the speaking-back and feels like they failed. Affirm aggressively. ‘Silence in the round is not failure; silence is one of the honest answers. Some weeks you will speak; some weeks you will hold what came in the silent listen for your own walking.’**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents are most at risk of drifting authoritative. Years of parenting language and church-leadership language can produce ‘God is calling you to’ phrasing without the parent noticing. Lead Companion catches each instance; the team is briefed to expect it.**
+**Veterans are more likely to drift articulate-but-not-FOR-the-Bringer. ‘I have a long thought about how [Bringer]’s situation reminds me of a passage I read last week.’ Lead Companion catches: ‘Specifically what came to you FOR [Bringer]?’**
 
-**Watch for: the parent whose speaking-back is for a Bringer who is their own teen across cohorts (rare; if the Bringer is a teen with a parent in the room, the team briefs the parent in advance to consider passing in the speaking-back, since cross-family hearing in this format is hard to land cleanly).**
+**Watch for: the veteran who has read enough about prophecy to want to demonstrate prophetic hearing. ‘I am getting a strong word for [Bringer].’ Affirm the openness; gently constrain: ‘Whatever the strength, frame in I-heard language. The Bringer weighs.’**
 
-**Watch for: the parent whose speaking-back is for the Bringer who is their own spouse. Same principle; if the Bringer is one spouse, the other spouse is briefed in advance to consider passing or to hold their hearing for the at-home conversation rather than the public round.**
+**Watch for: the veteran who tries to use the speaking-back to address something between them and the Bringer that is unaddressed elsewhere. Pastoral 1:1 within the week; do NOT use the speaking-back for relational work.**
 
-**Watch for: the parent whose speaking-back is heavy with their own life context. ‘I heard what I have been hearing for myself this season — \_\_\_\_\_.’ The parallel may be real; speaking it FOR the Bringer requires confidence that it is for the Bringer specifically. If unsure, pass.**
+**The ordained and the staff**
 
-**Watch for: the parent who tries to offer pastoral counsel in the speaking-back. Lead Companion: ‘Counsel is for offline. Tonight: only what came to you while you were listening, framed in I-heard.’**
+## Adjustments
 
-**Watch for: the parent Bringer who, when weighing, tries to set aside what was said too quickly because it is uncomfortable. Lead Companion does not push the Bringer to receive; but during their pre-brief Saturday, the Lead Companion can name in advance: ‘Weighing is not the same as setting aside what is hard to hear. Sit with discomfort before deciding.’**
+**The ordained are most at risk of drifting authoritative. Years of pulpit language and pastoral-counsel language can produce ‘God is calling you to’ phrasing without the speaker noticing. Lead Companion catches each instance; the team is briefed to expect it.**
+
+**Watch for: the member whose spouse is the Bringer. The spouse is briefed in advance to consider passing, or to hold their hearing for the at-home conversation rather than the public round — spousal hearing in this format is hard to land cleanly.**
+
+**Watch for: the speaking-back that is heavy with the speaker’s own life context. ‘I heard what I have been hearing for myself this season — \_\_\_\_\_.’ The parallel may be real; speaking it FOR the Bringer requires confidence that it is for the Bringer specifically. If unsure, pass.**
+
+**Watch for: the leader who tries to offer pastoral counsel in the speaking-back. Lead Companion: ‘Counsel is for offline. Tonight: only what came to you while you were listening, framed in I-heard.’**
+
+**Watch for: the Bringer who, when weighing, tries to set aside what was said too quickly because it is uncomfortable. The Lead Companion does not push the Bringer to receive; but during the Saturday pre-brief, the Lead Companion can name in advance: ‘Weighing is not the same as setting aside what is hard to hear. Sit with discomfort before deciding.’**
 
 **Closing Practice in Detail**
 
@@ -569,7 +559,7 @@ The team meets the day after Wk 7 for a 75-minute debrief. The session’s spiri
 
 **•** Anyone whose silent listen surfaced material in their own life that exceeded the parallel-work frame — standing pair conversation + Cohort Companion brief check-in.
 
-**•** Any listener whose speaking-back was for a Bringer who is their own family member in another cohort — pastoral 1:1 within the week if the cross-family dynamic surfaced anything heavy.
+**•** Any listener whose speaking-back was for a Bringer who is their own spouse — pastoral 1:1 within the week if the household dynamic surfaced anything heavy.
 
 **Handouts**
 
