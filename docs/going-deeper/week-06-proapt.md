@@ -12,7 +12,7 @@ Week 6
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 6
 
 **Connect focus.** God (deepened). The first session of the God-deepened block; Wks 7 and 8 build directly on tonight.
 
-**Mode.** Shared teaching of extended PROAPT (15 min). Cohort circles for the extended PROAPT itself (25 min). MERGE for the Tell step — each participant tells one specific person OUTSIDE their cohort what they heard (20 min).
+**Mode.** Shared teaching of extended PROAPT (15 min). Circles for the extended PROAPT itself (25 min). MERGE for the Tell step — each participant tells one specific person OUTSIDE their circle what they heard (20 min).
 
 **Center.** The Tell step. P-R-O-A-P-T — Pray, Read, Observe, Apply, Pray, TELL. Most PROAPT practitioners stop at the second Pray. Tell is the step that converts hearing into a habit. Tonight makes Tell happen in the room, with a witness from a different cohort, before participants leave.
 
@@ -46,7 +46,7 @@ Week 6
 
 **The Observe step running long, the Apply step running short. The most common pattern in extended PROAPT is over-observing (‘the text says X, then Y, then Z’) and under-applying (‘so what does this mean for me’). The Cohort Companion watches the time; gently rebalances.**
 
-**The Tell step deflected to a generic share. ‘I’m going to tell my husband.’ (Husband is in another cohort tonight; that counts.) ‘I’m going to tell my pastor.’ (May or may not count — see protocol.) The Tell is to a SPECIFIC PERSON who would receive what was specifically heard. The protocol is on H6.3.**
+**The Tell step deflected to a generic share. ‘I’m going to tell my husband.’ (Husband is in another circle tonight; that counts.) ‘I’m going to tell my pastor.’ (May or may not count — see protocol.) The Tell is to a SPECIFIC PERSON who would receive what was specifically heard. The protocol is on H6.3.**
 
 **The Tell step performed rather than practiced. ‘What I want everyone to know is...’ is not a Tell; it is a public statement. The Tell is private, specific, and to ONE person. The merge structure prevents this drift, but the Cohort Companion names the move explicitly during the cohort PROAPT.**
 
@@ -54,9 +54,9 @@ Week 6
 
 **The participant who hears too much. Some participants will produce four or five ‘things the Lord said’ in 25 minutes. Usually this is anxiety dressed as hearing. The Cohort Companion asks: ‘Of those, which is the SPECIFIC one for you tonight?’ The Tell step requires one specific item, not a list.**
 
-**The cross-cohort Tell creating awkwardness. The Tell is to someone OUTSIDE your cohort — by design. Some participants find this exposing. The structure is intentional: the Tell across cohorts strengthens the whole room and prevents the within-cohort echo chamber. The teaching frames this; the practice walks it.**
+**The cross-circle Tell creating awkwardness. The Tell is to someone OUTSIDE your circle — by design. Some participants find this exposing. The structure is intentional: the Tell across circles strengthens the whole room and prevents the within-circle echo chamber. The teaching frames this; the practice walks it.**
 
-**The teen telling a parent (or vice versa) who is in another cohort. This is intended; it is also asymmetrical. The protocol on H6.3 names the family case explicitly: brief, specific, no follow-on conversation tonight — the Tell stands as it is spoken.**
+**The member telling their spouse in another circle. This is intended; it is also different in kind. The protocol on H6.3 names the household case explicitly: brief, specific, no follow-on conversation tonight — the Tell stands as it is spoken.**
 
 **Last week’s confession material surfacing during PROAPT. Possible. Often the cleared channel hears differently in the same week. Cohort Companion receives without integrating the two streams; pastoral 1:1 if the surfacing exceeds Wk 6’s capacity.**
 
@@ -70,11 +70,11 @@ Week 6
 
 **If a participant becomes flooded during the Tell step (‘I can’t say this to that person’). Cohort Companion stays. Reassess: is the Tell appropriate to that person? The protocol on H6.3 has guardrails; sometimes the right Tell is not the first Tell that came to mind. Pastoral 1:1 within the week if needed.**
 
-**If a teen’s Tell to a parent (or vice versa) opens material that exceeds the moment. The Cohort Companion overseeing the Tell pairs follow-up briefly with both family members at the close: ‘What was said tonight is what was said tonight; the conversation can continue at home if you want it to. We are walking with you.’**
+**If a spouse-to-spouse Tell opens material that exceeds the moment. The Cohort Companion overseeing the Tell pairs follows up briefly with both at the close: ‘What was said tonight is what was said tonight; the conversation can continue at home if you want it to. We are walking with you.’**
 
 **If a participant’s Tell-recipient is a person not in the room (a friend, a colleague). The Tell is the within-room one tonight to a different cohort partner; the larger Tell to the outside person is the between-session practice. Do not try to combine.**
 
-**Default. Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
 
 **Session at a Glance**
 
@@ -82,11 +82,11 @@ Week 6
 
 Vol 1 Exp 1 of IJH names the Word→Hearing→Faith chain as the foundational hearing law of the entire project: 95% confidence. Romans 10:17 is the source. Word produces hearing; hearing produces faith. The chain is sequential, observable, and reversible — break the hearing step and faith starves; restore the hearing step and faith returns. PROAPT is the practical method by which a believer practices the hearing step daily.
 
-Getting Started taught PROAPT as a 6-step practice on short passages. P-R-O-A-P-T — Pray, Read, Observe, Apply, Pray, Tell. The Getting Started practice ran in 8–10 minutes per session, on 5–7 verse passages, designed for daily-practice formation in the home environment. It worked: most cohorts reported by Getting Started’s Wk 6 that PROAPT had become a habit for at least three or four days a week.
+Getting Started taught PROAPT as a 6-step practice on short passages. P-R-O-A-P-T — Pray, Read, Observe, Apply, Pray, Tell. The Getting Started practice ran in 8–10 minutes per session, on 5–7 verse passages, designed for daily-practice formation in the home environment. It worked: most cohorts reported by the close of Getting Started’s PROAPT weeks that the practice had become a habit for at least three or four days a week.
 
 Going Deeper extends PROAPT in two directions. First, longer passages — a full chapter of Romans, an entire psalm, a whole Gospel pericope. The longer passage requires sustained attention, multiple read-throughs, and a different relationship between Observe and Apply than the short passage demands. Second, the Tell step gets centred. Most PROAPT practitioners drop the Tell step within a few weeks of starting. ‘I heard what I heard; I journaled it; that’s enough.’ The Tell step — saying out loud, to a specific person, what was specifically heard — is the step that converts hearing into a habit and turns the believer into someone the Spirit speaks through, not just to.
 
-Tonight makes the Tell step real-time. Each participant does extended PROAPT in their cohort circle; then the whole room merges; then each participant finds a specific partner from a DIFFERENT cohort and Tells that partner what they heard. The cross-cohort design prevents the within-cohort echo chamber and strengthens the whole room as a hearing community.
+Tonight makes the Tell step real-time. Each participant does extended PROAPT in their circle; then the whole room merges; then each participant finds a specific partner from a DIFFERENT circle and Tells that partner what they heard. The cross-circle design prevents the within-circle echo chamber and strengthens the whole room as a hearing community.
 
 Wk 5 cleared the channel; Wk 6 uses it. The two sessions are paired. From Vol 2 Exp 4: ‘The hearing channel and the sin channel are the same channel; what loads one loads the other.’ Last week’s confession is structurally the prerequisite for tonight’s extended hearing.
 
@@ -98,9 +98,9 @@ Wk 5 cleared the channel; Wk 6 uses it. The two sessions are paired. From Vol 2 
 
 **•** Wk 5’s confession-and-restoration. The cleared channel is the foundation for extended hearing. Some participants will hear tonight in ways they could not have heard last month.
 
-**•** Wk 4’s co-processing. Tonight’s cohort PROAPT is silent and individual, but the cohort space is co-processing the Spirit’s word in parallel — the Wk 4 frame applies.
+**•** Wk 4’s co-processing. Tonight’s circle PROAPT is silent and individual, but the circle space is co-processing the Spirit’s word in parallel — the Wk 4 frame applies.
 
-**•** Wk 3’s standing pair. The standing pair is NOT the Tell partner tonight. The Tell partner is from a DIFFERENT cohort. The standing pair carries the between-session work, including ‘what did you hear; who did you tell?’
+**•** Wk 3’s standing pair. The standing pair is NOT the Tell partner tonight. The Tell partner is from a DIFFERENT circle. The standing pair carries the between-session work, including ‘what did you hear; who did you tell?’
 
 **•** Hebrews 12:1–2 — ‘looking to Jesus.’ Wks 6, 7, 8 are the practical work of the looking-to-Jesus clause. Tonight is its working entry.
 
@@ -124,11 +124,11 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **1.** Each Companion names what they heard from extended PROAPT this week and who they told. Specificity is the discipline; the team learns the practice by hearing each other do it. (20 min)
 
-**2.** Walk Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 2 Exp 7 (PROAPT) together. Make sure the team has the same vocabulary the cohort circles will use. (10 min)
+**2.** Walk Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 2 Exp 7 (PROAPT) together. Make sure the team has the same vocabulary the circles will use. (10 min)
 
-**3.** Walk the passage choices. Romans 12 vs. Psalm 32. Decide together: do all three cohorts work the same passage, or does junior get one and senior/parent another? Most pilots default to: juniors and new participants get Psalm 32; senior teens and parents who completed Getting Started get Romans 12. Confirm. (10 min)
+**3.** Walk the passage choices. Romans 12 vs. Psalm 32. Decide together: do all circles work the same passage, or is a default named by experience? Most cohorts default to: new participants get Psalm 32; veterans of Getting Started get Romans 12. Confirm. (10 min)
 
-**4.** Walk the cross-cohort Tell pairings. The pairings are NOT pre-assigned; they’re self-chosen in the merge. But the Cohort Companions identify in advance any participant who would struggle to find a Tell partner naturally (a teen whose only natural cross-cohort person is their parent and that’s acute right now, a parent whose teen isn’t in the program). The team has a fallback option for each. (10 min)
+**4.** Walk the cross-circle Tell pairings. The pairings are NOT pre-assigned; they’re self-chosen in the merge. But the Cohort Companions identify in advance any participant who would struggle to find a Tell partner naturally (a member whose only natural cross-circle person is their spouse and that’s acute right now, a new participant with little informal contact beyond their own circle). The team has a fallback option for each. (10 min)
 
 **5.** Crisis contingencies read aloud. (3 min)
 
@@ -148,13 +148,13 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm cohort spaces — each space needs quiet writing time for 25 minutes; a small move at the close to merge into the main room for the Tell step.
+**•** Confirm circle spaces — each space needs quiet writing time for 25 minutes; a small move at the close to merge into the main room for the Tell step.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split; back to one large circle for the Tell merge.
+**•** Chairs in main room as one large circle for opening; circle spaces ready for the split; back to one large circle for the Tell merge.
 
 
 **•** Personal Heart Journals.
@@ -163,11 +163,11 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **•** Handouts H6.1, H6.2, H6.3, H6.4 stacked at each chair.
 
-**•** Tissues in each cohort space and main room.
+**•** Tissues in each circle space and main room.
 
-**•** Multiple copies of large-print Bibles (ESV) in each cohort space — enough for participants who don’t bring their own.
+**•** Multiple copies of large-print Bibles (ESV) in each circle space — enough for participants who don’t bring their own.
 
-**•** Wall clock or visible timer in each cohort space; the Lead Companion carries one as well for the merge.
+**•** Wall clock or visible timer in each circle space; the Lead Companion carries one as well for the merge.
 
 **•** Pens at every chair — PROAPT requires writing; some participants will not have brought one.
 
@@ -180,11 +180,11 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion does extended PROAPT three times on the chosen passage. Tells someone each time. | All Companions |
-| 48 hr before | Team pre-meet (60 min). Passage decision. Cross-cohort Tell fallback list. | All Companions |
-| Day before | Walk every cohort space and main room. Confirm pastoral / clinical backup. | Lead Comp |
+| 48 hr before | Team pre-meet (60 min). Passage decision. Cross-circle Tell fallback list. | All Companions |
+| Day before | Walk every circle space and main room. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers. Final prayer. | All Companions |
-| T-30 min | Cohort Companions prep their cohort spaces. Handouts placed. Pens at every chair. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-30 min | Cohort Companions prep their circle spaces. Handouts placed. Pens at every chair. | All Companions |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -193,14 +193,14 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, pens at every chair. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags, pens at every chair. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the God-deepened block.’ |
 | 7:07–7:15 | Block 2: Wk 5 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 5 — the EXERCISE not content. Mid-week pair check-in confirmation. |
 | 7:15–7:29 | Block 3: PROAPT Extended teaching + the Tell step centred | Shared circle | Lead Comp | Review PROAPT briefly. Teach extension to longer passages. Centre the Tell step. |
 | 7:29–7:33 | Block 4: Bridge to split + passage read aloud | Shared circle | Lead Comp | Read both Romans 12:1–6 and Psalm 32:1–7 aloud. Frame the cohort PROAPT. Pray. Split. |
-| 7:33–7:56 | Block 5: Extended PROAPT in cohort circles | Cohort circles (silent + brief share) | Cohort Facs | 20 min silent extended PROAPT; 5 min very brief cohort share — ONE specific thing each heard. |
-| 7:56–8:15 | Block 6: Merge for the Tell step | Shared circle → cross-cohort pairs | Lead Comp | Frame the Tell. Cross-cohort pairing — each finds a partner from a DIFFERENT cohort. 12 min in pairs (each Tells; each receives). 4 min: voluntary public Tells (2–3). |
-| 8:15–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily extended PROAPT this week. One Tell each weekday. |
+| 7:33–7:56 | Block 5: Extended PROAPT in circles | Circles (silent + brief share) | Cohort Comps | 20 min silent extended PROAPT; 5 min very brief circle share — ONE specific thing each heard. |
+| 7:56–8:15 | Block 6: Merge for the Tell step | Shared circle → cross-circle pairs | Lead Comp | Frame the Tell. Cross-circle pairing — each finds a partner from a DIFFERENT circle. 12 min in pairs (each Tells; each receives). 4 min: voluntary public Tells (2–3). |
+| 8:15–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp | Daily extended PROAPT this week. One Tell each weekday. |
 | 8:19–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 7 (corporate listening prayer). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -216,7 +216,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Tonight is Wk 6. We are at the opening of the God-deepened block — Wks 6, 7, 8 — the practical work of the ‘looking to Jesus’ clause in Hebrews 12. Last Tuesday we cleared the channel; this Tuesday we use it.”*
 
-*“Tonight extends PROAPT. From short passages and brief sessions to longer passages and longer sessions — and we centre the step that most PROAPT practitioners drop within a few weeks of starting: Tell. We are going to do extended PROAPT in our cohorts; then we are going to merge; then each of you is going to tell ONE specific person from a DIFFERENT cohort what you specifically heard. The Tell happens in the room, before you leave.”*
+*“Tonight extends PROAPT. From short passages and brief sessions to longer passages and longer sessions — and we centre the step that most PROAPT practitioners drop within a few weeks of starting: Tell. We are going to do extended PROAPT in our circles; then we are going to merge; then each of you is going to tell ONE specific person from a DIFFERENT circle what you specifically heard. The Tell happens in the room, before you leave.”*
 
 *“Container reminder: what you hear tonight is between you and the Lord; what you choose to Tell is between you and your Tell partner. Specificity is the discipline. The Spirit speaks specifically; we listen specifically; we tell specifically.”*
 
@@ -276,9 +276,9 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **Tell happens within 24 hours. The hearing fades; the Tell preserves and confirms. Tell late and you are reporting; Tell within a day and you are completing the chain.**
 
-**Tonight makes the Tell happen IN the room. Each of you is going to find a partner from a DIFFERENT cohort — deliberately not your own cohort, deliberately not your standing pair — and Tell that partner what you specifically heard during cohort PROAPT.**
+**Tonight makes the Tell happen IN the room. Each of you is going to find a partner from a DIFFERENT circle — deliberately not your own circle, deliberately not your standing pair — and Tell that partner what you specifically heard during the circle PROAPT.**
 
-*“The cross-cohort Tell is design, not accident. Within-cohort echoes are real — you have heard each other six weeks of Tuesdays. Telling a teen, parent, or peer in another cohort makes the Tell land differently and strengthens the room as a hearing community. Wk 7’s corporate listening prayer and Wk 8’s group-hearing depend on this room being a cross-cohort hearing community; tonight is the first time we practice it.”*
+*“The cross-circle Tell is design, not accident. Within-circle echoes are real — you have heard each other six weeks of Tuesdays. Telling someone from another circle makes the Tell land differently and strengthens the room as a hearing community. Wk 7’s corporate listening prayer and Wk 8’s group-hearing depend on this room being a whole-cohort hearing community; tonight is the first time we practice it.”*
 
 **Block 4 — Bridge to Split + Passage Read Aloud (7:29–7:33, 4 min)**
 ## Script
@@ -309,18 +309,18 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Pray with me. Father, you speak. Specifically, in Scripture, today. We are going to take 25 minutes to listen with care to a passage we may have read before but have not heard yet tonight. Speak the specific word you have for each of us. Let us hear, for hearing produces faith. Amen.”*
 
-*“Junior teens with [name] — default Psalm 32. Senior teens with [name] — default Romans 12. Parents with [name] — default Romans 12. Twenty-five minutes. Go.”*
+*“Circle assignments are on the wall. First-time participants — default Psalm 32; veterans — default Romans 12. Twenty-five minutes. Go.”*
 
-**Block 5 — Extended PROAPT in Cohort Circles (7:33–7:56, 23 min)**
-Each cohort circle works in parallel. The structure is identical.
+**Block 5 — Extended PROAPT in Circles (7:33–7:56, 23 min)**
+Each circle works in parallel. The structure is identical.
 
-**Inside the cohort circle — Companion script**
+**Inside the circle — Companion script**
 
 ## Opening (2 min)
 
 *“Twenty minutes silent extended PROAPT. Five minutes brief share — ONE specific thing each of you heard, around the circle.”*
 
-*“Worksheet H6.2 has both passages plus the extended PROAPT structure. Default for our cohort is [Psalm 32 / Romans 12]. Use the other if something specific is calling you to it.”*
+*“Worksheet H6.2 has both passages plus the extended PROAPT structure. Default for our circle is [Psalm 32 / Romans 12]. Use the other if something specific is calling you to it.”*
 
 *“Rhythm: 3 min Pray → 8 min Read three times → 5 min Observe → 5 min Apply on ONE specific thing for YOU tonight → 3 min Pray on what came up. Tell happens after the merge.”*
 
@@ -340,15 +340,15 @@ Each cohort circle works in parallel. The structure is identical.
 
 **Watch for: the new participant or one who has not done extended PROAPT before. Cohort Companion sits closer; nods if the participant looks lost. Brief 30-second 1:1 if a participant raises a hand.**
 
-## Cohort share (5 min)
+## Circle share (5 min)
 
 *“Time. Around the circle, ONE specific thing each of you heard. Specific. Not ‘God spoke about my heart’ — ‘I heard, on Romans 12:2, that the renewal of my mind is supposed to be testable, and I have stopped testing it lately.’ That level of specificity. About 30 seconds each. Pass anytime.”*
 
 *(Cohort Companion goes first, with their own ONE specific thing from the silent PROAPT just done. The model matters.)*
 
-*(Around the circle. With 8 people that is 4 minutes; with 12 people that is 6 minutes. If the cohort is large, only 2/3 share.)*
+*(Around the circle. With 8 people that is 4 minutes; with 12 people that is 6 minutes. If the circle is large, only 2/3 share.)*
 
-*“Good. Hold what you just named. We merge with the other cohorts in a moment for the Tell step.”*
+*“Good. Hold what you just named. We merge with the other circles in a moment for the Tell step.”*
 
 **Cohort Companion: when to intervene**
 
@@ -358,12 +358,12 @@ Each cohort circle works in parallel. The structure is identical.
 
 **•** If a participant says they heard nothing — affirm. ‘That is honest. The architecture works on faithful presence; affect is not always the marker. The Tell step still happens — you can Tell your partner that you read carefully and nothing specific surfaced. That is itself honest data.’
 
-**•** If a participant’s share crosses thresholds (a hearing that names a harmful action; something that reads as not-the-Spirit) — receive without naming threshold; Cohort Companion notes for pastoral 1:1; do not engage in the cohort circle.
+**•** If a participant’s share crosses thresholds (a hearing that names a harmful action; something that reads as not-the-Spirit) — receive without naming threshold; Cohort Companion notes for pastoral 1:1; do not engage in the circle.
 
-**•** Watch the time at 25 min. The merge for the Tell step is the formation centre of the night; do not let the cohort share run long.
+**•** Watch the time at 25 min. The merge for the Tell step is the formation centre of the night; do not let the circle share run long.
 
 **Block 6 — Merge for the Tell Step (7:56–8:15, 19 min)**
-All three cohorts return to the main room. Chairs are loose; the geometry is open for free movement.
+All circles return to the main room. Chairs are loose; the geometry is open for free movement.
 
 ## Lead Companion script — opening (3 min)
 
@@ -371,36 +371,36 @@ All three cohorts return to the main room. Chairs are loose; the geometry is ope
 
 *“Here is the Tell step. We do it now, in the room, before you leave. The protocol is on H6.3.”*
 
-*“Find a partner from a DIFFERENT cohort. NOT your own cohort. NOT your standing pair. NOT your spouse if your spouse is in another cohort tonight (we will name a different protocol for that case in a moment). Look for a teen if you are a parent; look for a parent if you are a teen; look across the room.”*
+*“Find a partner from a DIFFERENT circle. NOT your own circle. NOT your standing pair. NOT your spouse (we will name a protocol for that case in a moment). Look across the room for the person you have worked with least.”*
 
 *“In the pair: 6 minutes total, split evenly. Each person Tells their specific thing. The receiving partner does NOT respond with their own Tell yet — they receive, ask one clarifying question if it would help (‘what verse?’), and confirm: ‘I heard that you heard \_\_\_\_. Thank you.’ Then switch directions. Each Tell is about 90 seconds; the confirming response is about 90 seconds. Six minutes total.”*
 
 *“If one partner finishes early, the silence holds the rest of the time — do not refill it.”*
 
-*“Special cases. If a teen Tells a parent (or vice versa) in another cohort, the Tell is brief, specific, and complete — no follow-on conversation tonight; the Tell stands as it is spoken; you can revisit at home if welcomed. If a spouse Tells a spouse in another cohort, same protocol — the Tell stands tonight; conversation continues at home.”*
+*“Special case. If a spouse Tells a spouse from another circle, the Tell is brief, specific, and complete — no follow-on conversation tonight; the Tell stands as it is spoken; the conversation continues at home if welcomed.”*
 
 *“Find your partner now. We start the 6-minute timer when most pairs have settled.”*
 
-## Cross-cohort pair Tell (12 min total)
+## Cross-circle pair Tell (12 min total)
 
 **Six minutes for the pair Tell (3 min each direction).**
 
-**Six minutes additional for participants without an obvious partner. Lead Companion and one Cohort Companion visibly available to help anyone unpaired find someone. Going Deeperback list from team pre-meet is engaged here.**
+**Six minutes additional for participants without an obvious partner. Lead Companion and one Cohort Companion visibly available to help anyone unpaired find someone. The Tell Buddies fallback list from team pre-meet is engaged here.**
 
 **During the pair Tells, Lead Companion and Cohort Companions float visibly — not eavesdropping, but available. Watch for any Tell that opens material exceeding the moment.**
 
-**If a Tell exceeds the moment (a teen telling a parent something heavy and the parent flooding, or vice versa), Cohort Companion gently intervenes: ‘What was said is what was said. Take a breath together. The conversation can continue at home tonight; the room held what mattered.’**
+**If a Tell exceeds the moment (a spouse telling a spouse something heavy and the receiver flooding), Cohort Companion gently intervenes: ‘What was said is what was said. Take a breath together. The conversation can continue at home tonight; the room held what mattered.’**
 
 ## Voluntary public Tells (4 min)
 
-*“Welcome back to the circle. Two or three of you, voluntarily, share with the whole room: what did you Tell, briefly, and what was it like to Tell it across cohorts to someone you don’t usually work with?”*
+*“Welcome back to the circle. Two or three of you, voluntarily, share with the whole room: what did you Tell, briefly, and what was it like to Tell it across circles to someone you don’t usually work with?”*
 
 *(Voluntary; brief; 60 seconds each. Receive without commentary.)*
 
-*(Lead Companion closing observation, one sentence.) “What I notice is \_\_\_\_\_. (Specific. ‘This room is becoming a hearing community across cohorts.’ Or: ‘Several of you said the cross-cohort Tell felt different from a within-cohort share.’ Whatever the actual observation is.)”*
+*(Lead Companion closing observation, one sentence.) “What I notice is \_\_\_\_\_. (Specific. ‘This room is becoming a hearing community across circles.’ Or: ‘Several of you said the cross-circle Tell felt different from a within-circle share.’ Whatever the actual observation is.)”*
 
 **Block 7 — Between-Session Practice (8:15–8:19, 4 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -433,63 +433,49 @@ All three cohorts return to the main room. Chairs are loose; the geometry is ope
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Default passage: Psalm 32 (shorter, narrative, connects to Wk 5’s confession). Romans 12 is too dense for most juniors in 25 minutes.**
-
-**Extended PROAPT for juniors is 20 minutes, not 25. Two read-throughs, not three. Observe is 3 min; Apply is 5 min; the second Pray is 3 min.**
-
-**Watch for: junior teens who shrink the passage (‘I just used verse 1’). Gently: ‘Read all seven verses. The whole thing is the passage tonight.’**
-
-**Watch for: junior teens whose Apply is moralistic (‘so I should do better at praying’). Push for what was specifically heard: ‘What did the Spirit specifically point out to you tonight, in this passage, about THIS season of your life?’**
-
-**Watch for: junior teens whose Tell partner ends up being their own parent across cohorts. The protocol is: brief, specific, no follow-on conversation tonight. Cohort Companion briefs both sides if the pairing emerges.**
-
-**Watch for: junior teens who hear nothing and feel like they did it wrong. Affirm aggressively. ‘Hearing nothing specific tonight is not failure. The architecture works on faithful presence.’**
-
-**Watch for: junior teens who, in the cross-cohort merge, pair only with other juniors. The point is cross-cohort, including across age. Cohort Companion gently steers a junior toward a senior or parent partner if needed.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Default passage: Romans 12 (or Psalm 32 if a senior asks). Senior teens who completed Getting Started have done enough PROAPT to handle the longer text.**
+**Default passage: Psalm 32 (shorter, narrative, connects to Wk 5’s confession). Romans 12 is dense for a first extended PROAPT in 25 minutes.**
 
-**Full extended PROAPT structure: 25 minutes; three read-throughs; full Observe and Apply.**
+**Watch for: the member who shrinks the passage (‘I just used verse 1’). Gently: ‘Read the whole psalm. The whole thing is the passage tonight.’**
 
-**Watch for: the senior whose extended PROAPT becomes academic (‘Paul is using a chiastic structure here’). Affirm; redirect: ‘And what is the SPECIFIC thing the Spirit is highlighting for YOU tonight?’**
+**Watch for: the member whose Apply is moralistic (‘so I should do better at praying’). Push for what was specifically heard: ‘What did the Spirit specifically point out to you tonight, in this passage, about THIS season of your life?’**
 
-**Watch for: the senior whose Apply is everything-at-once (‘five things I noticed’). Push to ONE: ‘Of those, which is the ONE for you tonight?’**
+**Watch for: the member who hears nothing and feels like they did it wrong. Affirm aggressively. ‘Hearing nothing specific tonight is not failure. The architecture works on faithful presence.’**
 
-**Watch for: the senior whose Tell partner is a parent in another cohort. Possible; the Tell is brief and specific. If the senior’s heard-thing is something they would naturally tell their parent anyway, the Tell still counts as Tell — the cross-cohort dynamic remains. Cohort Companion briefs both sides.**
+**Watch for: the member who, in the cross-circle merge, pairs only with the people they already know. The point is cross-circle. Cohort Companion gently steers toward the least-familiar partner if needed.**
 
-**Watch for: the senior who finds the cross-cohort Tell exposing. ‘I don’t know any of the parents.’ The Lead Companion and Cohort Companion are visibly available to help; Going Deeperback list is engaged.**
-
-**Watch for: the senior whose extended PROAPT surfaces material from Wk 5’s confession that is still working. Cohort Companion: ‘What you heard tonight may be the next layer of last week’s work. Bring it to your standing pair this week.’**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Default passage: Romans 12. Some parents may pick Psalm 32 — honour the choice.**
+**Default passage: Romans 12 (or Psalm 32 if asked). Veterans of Getting Started have done enough PROAPT to handle the longer text. Full structure: 25 minutes; three read-throughs; full Observe and Apply.**
 
-**Full extended PROAPT structure.**
+**Watch for: the veteran whose Apply is everything-at-once (‘five things I noticed’). Push to ONE: ‘Of those, which is the ONE for you tonight?’**
 
-**Watch for: the parent whose extended PROAPT becomes a survey of the whole chapter (‘Paul says X then Y then Z then —’). Push for ONE specific thing for tonight. The breadth is the read-and-observe steps; the focus is Apply.**
+**Watch for: the veteran who finds the cross-circle Tell exposing. ‘I don’t really know that circle.’ The Lead Companion and Cohort Companion are visibly available to help; the Tell Buddies fallback list is engaged.**
 
-**Watch for: the parent whose Apply is intellectualized (‘the principle of testing the will of God in v.2 applies to the question of how I evaluate decision-making in my work’). Push toward concrete: ‘What is the SPECIFIC decision the Spirit is naming?’**
+**Watch for: the veteran whose extended PROAPT surfaces material from Wk 5’s confession that is still working. Cohort Companion: ‘What you heard tonight may be the next layer of last week’s work. Bring it to your standing pair this week.’**
 
-**Watch for: the parent whose Tell partner is their own teen across cohorts. Brief, specific, complete tonight; conversation continues at home if welcomed. The parent does not use the Tell as a sermon to the teen.**
+**The ordained and the staff**
 
-**Watch for: the parent whose Tell partner is their spouse from another cohort. Same protocol; the Tell stands tonight; conversation continues at home. The Tell is what was heard, not a marital topic.**
+## Adjustments
 
-**Watch for: the parent who couldn’t finish the Apply step — they got stuck on Observe and ran out of time. Cohort Companion: ‘Carry the Apply into your daily PROAPT this week. Same passage; finish the Apply step; Tell someone tomorrow.’**
+**Watch for: the extended PROAPT that becomes academic (‘Paul is using a chiastic structure here’). The ordained have exegetical reflexes that can outrun their hearing. Affirm; redirect: ‘And what is the SPECIFIC thing the Spirit is highlighting for YOU tonight?’**
 
-**Watch for: the parent whose extended PROAPT produces something they sense the family needs to hear together. Hold; the family conversation is between-session work, not tonight’s Tell. Pastoral 1:1 if the conversation requires support.**
+**Watch for: the survey Apply (‘Paul says X then Y then Z then —’). Push for ONE specific thing for tonight. The breadth is the read-and-observe steps; the focus is Apply.**
+
+**Watch for: the intellectualized Apply (‘the principle of testing the will of God in v.2 applies to how I evaluate decision-making in my work’). Push toward concrete: ‘What is the SPECIFIC decision the Spirit is naming?’**
+
+**Watch for: the leader whose Tell partner is their spouse from another circle. Brief, specific, complete tonight; conversation continues at home. The Tell is what was heard, not a marital topic.**
+
+**Watch for: the leader who couldn’t finish the Apply step — stuck on Observe and out of time. Cohort Companion: ‘Carry the Apply into your daily PROAPT this week. Same passage; finish the Apply step; Tell someone tomorrow.’**
+
+**Watch for: the leader whose extended PROAPT produces something they sense the congregation needs to hear. Hold. Tonight’s Tell is one person; what the church hears, and when, is discernment work with the covering, not tonight’s exercise.**
 
 **Closing Practice in Detail**
 
@@ -515,11 +501,11 @@ The team meets the day after Wk 6 for a 60-minute debrief. The cross-cohort Tell
 
 **Signs the session worked**
 
-**•** Each cohort circle had at least one participant whose Apply was specific (a verse, a thing, for tonight, for them).
+**•** Each circle had at least one participant whose Apply was specific (a verse, a thing, for tonight, for them).
 
-**•** The cohort share landed in 5 minutes. The Cohort Companion held the time.
+**•** The circle share landed in 5 minutes. The Cohort Companion held the time.
 
-**•** The cross-cohort merge produced visible cross-pairings — teens with parents, junior with senior, parent with teen-not-their-own — not within-cohort echo pairings.
+**•** The cross-circle merge produced visible cross-pairings — members paired with the people they have worked with least — not within-circle echo pairings.
 
 **•** The pair Tell ran 6 minutes. Each pair completed both directions. Confirming responses (‘I heard that you heard \_\_\_\_’) were specific.
 
@@ -531,19 +517,19 @@ The team meets the day after Wk 6 for a 60-minute debrief. The cross-cohort Tell
 
 **•** Multiple participants’ Apply was generic. The Tell that followed was generic. The chain was hollow.
 
-**•** The cohort share ran long; the cross-cohort merge got compressed.
+**•** The circle share ran long; the cross-circle merge got compressed.
 
-**•** Participants paired within cohorts despite the cross-cohort instruction. The teaching frame did not hold.
+**•** Participants paired within circles despite the cross-circle instruction. The teaching frame did not hold.
 
-**•** A teen-parent Tell exceeded the moment without the Cohort Companion noticing.
+**•** A spouse-to-spouse Tell exceeded the moment without the Cohort Companion noticing.
 
-**•** Several participants left without completing a Tell. Going Deeperback list was not engaged.
+**•** Several participants left without completing a Tell. The Tell Buddies fallback list was not engaged.
 
 **If the session did not work — what to adjust for Wk 7**
 
 **•** If Apply was generic, Wk 7’s opening can name the pattern: ‘Last week several of us heard at the level of theme rather than specific. Tonight’s corporate listening prayer requires specific hearing for one specific question.’ The discipline of specificity continues.
 
-**•** If cross-cohort pairing did not hold, Wk 8’s structure (the cohort hearing about itself) can re-anchor the cross-cohort architecture explicitly.
+**•** If cross-circle pairing did not hold, Wk 8’s structure (the cohort hearing about itself) can re-anchor the cross-circle architecture explicitly.
 
 **•** If Tells were missed, the standing-pair check-in for this week prioritizes the Tell discipline: ‘who did you tell’ is the framing question.
 
@@ -551,13 +537,13 @@ The team meets the day after Wk 6 for a 60-minute debrief. The cross-cohort Tell
 
 **•** Anyone whose extended PROAPT surfaced material connected to Wk 5’s confession that is still working. Standing-pair conversation + Cohort Companion brief check-in.
 
-**•** Anyone whose cross-cohort Tell created cross-family material (teen-parent, spouse-spouse) that requires pastoral support to land well at home. Pastoral 1:1 within 48 hours.
+**•** Anyone whose cross-circle Tell created household material (spouse to spouse) that requires pastoral support to land well at home. Pastoral 1:1 within 48 hours.
 
-**•** Anyone who could not find a Tell partner in the merge — or who did but felt the Tell was hollow. Brief warm contact: ‘The Tell across cohorts is unusual the first time. The discipline grows; this week’s daily Tells will compound.’
+**•** Anyone who could not find a Tell partner in the merge — or who did but felt the Tell was hollow. Brief warm contact: ‘The Tell across circles is unusual the first time. The discipline grows; this week’s daily Tells will compound.’
 
 **•** Anyone whose extended PROAPT produced nothing specific. Cohort Companion: ‘Hearing nothing is not failure. Try the same passage again at home Wednesday morning; the third reading often opens what the first did not.’
 
-**•** Anyone whose Tell-partner pairing was a teen-parent across cohorts and produced material at home that needs pastoral support. Cross-cohort follow-up by the appropriate Companions.
+**•** Anyone whose Tell-partner pairing was spouse-to-spouse across circles and produced material at home that needs pastoral support. Cross-circle follow-up by the appropriate Companions.
 
 **Handouts**
 
@@ -703,11 +689,11 @@ Person’s response (one phrase): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Tonight’s Tell — the cross-cohort pair**
 
-## Find a partner from a DIFFERENT cohort. Not your own; not your standing pair; not your spouse only.
+## Find a partner from a DIFFERENT circle. Not your own; not your standing pair; not your spouse only.
 
 **Six minutes total. Three minutes each direction. Each Tell about 90 seconds; the receiving partner’s confirming response (‘I heard that you heard \_\_\_\_. Thank you.’) about 90 seconds.**
 
-**Special case — family across cohorts. If you Tell your own teen, parent, or spouse from another cohort: brief, specific, complete tonight — no follow-on conversation in the room. You can revisit at home if welcomed.**
+**Special case — your spouse across circles. If you Tell your own spouse from another circle: brief, specific, complete tonight — no follow-on conversation in the room. You can revisit at home if welcomed.**
 
 **Special case — nothing specific to Tell. ‘I read carefully and nothing specific surfaced’ is itself a Tell. Tell that to your partner; the architecture works on faithful presence.**
 
