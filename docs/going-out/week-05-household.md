@@ -12,7 +12,7 @@ Week 5
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -24,17 +24,17 @@ Week 5
 
 ## WEEK 5 — THE HOUSEHOLD WITNESS (90 minutes)
 
-**Aim.** Engage the household domain — family-of-origin and present household — as a specific sent-context for each cohort member. Surface what the past week’s household-domain Tell revealed; walk the standing pair through the harder material the household surfaces; receive the cohort circle’s honest range; close briefly as a body.
+**Aim.** Engage the household domain — family-of-origin and present household — as a specific sent-context for each cohort member. Surface what the past week’s household-domain Tell revealed; walk the standing pair through the harder material the household surfaces; receive each circle’s honest range; close briefly as a body.
 
 **Anchor scripture.** Deuteronomy 6:4–9 (the Shema — the household formation mechanism); Acts 16:31–34 (the Philippian jailer’s household conversion — the household as a unit of witness and formation); 1 Timothy 5:8 (‘if anyone does not provide for his relatives, and especially for members of his household, he has denied the faith’); 1 Peter 3:1–2 (witness without a word — specifically in marriage, but applicable broadly to long household relationships).
 
 **Connect focus.** Mission close to home, household domain. Where the witness is most exposed because the receivers know the witness’s history.
 
-**Mode.** Cohort-split into junior teens / senior teens / parents (60 min each, parallel). The merge for shared circle close (10 min).
+**Mode.** Circle-split into circles of four to eight (60 min, parallel). The merge for shared circle close (10 min).
 
-**Center.** Brief teaching frame (10 min). Standing pair work in cohort spaces — each pair walks the household witness substantively (15 min per direction). Cohort circle hears patterns from the pair work (10 min). Cohort Companion captures patterns; the merge integrates.
+**Center.** Brief teaching frame (10 min). Standing pair work in circle spaces — each pair walks the household witness substantively (15 min per direction). Each circle hears patterns from the pair work (10 min). Cohort Companion captures patterns; the merge integrates.
 
-**Between-session practice.** This week’s outside-cohort Tell shifts to the VOCATIONAL domain (workplace, school, professional context). Daily noticing question shifts again: ‘Where in my work today is my witness being shaped, refined, or tested?’ Standing pair check-in this week: ‘What is the vocational witness asking of you that the household witness made visible?’
+**Between-session practice.** This week’s outside-cohort Tell shifts to the VOCATIONAL domain (workplace, ministry, professional context). Daily noticing question shifts again: ‘Where in my work today is my witness being shaped, refined, or tested?’ Standing pair check-in this week: ‘What is the vocational witness asking of you that the household witness made visible?’
 
 **IJH source.** Vol 1 FL.XXI Household Formation Law (the Shema’s formation mechanism); Vol 1 FL.XXVIII Generational Nested Structure Law (the personal nested structure extended to household and people); Vol 2 Exp 9 (Community as Amplifier applied to outward witness).
 
@@ -46,11 +46,11 @@ Week 5
 
 **Marital material in the standing pair. A married participant’s household witness work surfaces marital tension. The pair partner is not the spouse; the architecture protects against detailed disclosure. Confession-as-architecture from Going Deeper Wk 5 holds: name the pattern, not the disclosure.**
 
-**Cross-cohort family Tells. A teen’s household Tell involves their parent who is in another cohort, or vice versa. The cohort split tonight protects the developmental space; cross-cohort awareness is held privately by Companions; pastoral conversation outside the session as needed.**
+**Cross-circle spouse Tells. A member’s household Tell involves their spouse who is in another circle. The circle split tonight protects the pair space; cross-circle awareness is held privately by Companions; pastoral conversation outside the session as needed.**
 
 **Family-of-origin abuse material. A member’s Tell or pair work surfaces childhood abuse memories (their own or a sibling’s). Receive without making it the cohort’s focus; pastoral 1:1 within 24 hours; clinical referral as appropriate; mandatory-reporting law applies if a current minor is at risk.**
 
-**Parenting material that involves a teen in the cohort. A parent’s household witness work surfaces concerns about their own teen who is in another cohort. The architecture refuses adjudication; pastoral cross-cohort conversation OUTSIDE the session.**
+**Parenting material with a spouse in the room. A member’s household witness work surfaces parenting concerns their spouse — seated in another circle tonight — carries differently. The architecture refuses adjudication; pastoral conversation with the couple OUTSIDE the session.**
 
 **Religious-tradition tension within households. A member’s household includes spouses or family members of different faith traditions or no faith tradition; the witness is layered with relational complexity. Receive cleanly; the three-mode framework from Wk 4 is the working architecture.**
 
@@ -60,25 +60,25 @@ Week 5
 
 **Adoption / blended family / step-parent dynamics. The household witness is layered. Receive without adjudicating the family system; the witness emerges in specific moments, not in resolving the system.**
 
-**Domestic violence material. If a member’s household Tell or pair work reveals current or recent domestic abuse, Section 6 protocol immediately. The cohort space is not the venue; pastoral and clinical referrals required; safety is the first concern.**
+**Domestic violence material. If a member’s household Tell or pair work reveals current or recent domestic abuse, the safeguarding frame governs immediately (Leadership Year Handbook §7 and the host church’s policy). The room is not the venue; pastoral and clinical referrals required; safety is the first concern.**
 
 ## CRISIS CONTINGENCIES (Week 5)
 
 *Crisis risk is high. Household material surfaces the deepest formation work the cohort engages in.*
 
-**If domestic violence is disclosed (current or recent): Section 6 protocol immediately. Pastoral / clinical / law enforcement referrals as appropriate. Two-adult rule for any safety-related conversation. The participant’s safety is the first priority; the witness conversation is suspended.**
+**If domestic violence is disclosed (current or recent): the safeguarding frame governs immediately (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical / law enforcement referrals as appropriate. Two-adult rule for any safety-related conversation. The participant’s safety is the first priority; the witness conversation is suspended.**
 
 **If childhood abuse is disclosed and a current minor is at risk (a sibling still at home; a niece / nephew): mandatory-reporting law applies. The team’s discipline is law-following; the architecture handles the pastoral support around it.**
 
-**If a member’s household witness work surfaces acute mental-health crisis (their own or a household member’s): pastoral 1:1 immediately; clinical referrals; Section 6 protocol.**
+**If a member’s household witness work surfaces acute mental-health crisis (their own or a household member’s): pastoral 1:1 immediately; clinical referrals; the safeguarding frame governs.**
 
-**If a marriage in the cohort surfaces material across both members’ cohorts (one in parent cohort, one in another — unusual but possible) that suggests rupture: cross-cohort pastoral conversation with both partners separately; couples’ therapy referral as appropriate; the cohort space is not the venue.**
+**If a marriage in the cohort surfaces material across both spouses’ circles that suggests rupture: pastoral conversation with both partners separately; couples’ therapy referral as appropriate; the room is not the venue.**
 
-**If a teen’s household Tell reveals their parent is the source of harm: mandatory-reporting law applies. The teen Companion stays close to the teen; pastoral safety planning; clinical referrals; the cohort space supports the teen without exposing the family dynamics in the room.**
+**If a member’s household Tell reveals someone in their home is the source of harm: safety first; mandatory-reporting law applies where a minor or vulnerable adult is at risk. The Cohort Companion stays close to the member; pastoral safety planning; clinical referrals; the room supports the member without exposing the family dynamics.**
 
 **If multiple members surface household material at once and the team’s pastoral capacity is overrun: the team triages. Lead Companion handles immediate crisis; cohort Companions hold less acute pastoral 1:1s across the next 48 hours; pastoral / clinical backup engaged for the most acute cases.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1 (carried forward).**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -90,7 +90,7 @@ The household domain is the costliest close-to-home witness context for many coh
 
 The Acts 16 jailer story and the 1 Peter 3 marriage passage both name household conversion and household witness as legitimate categories. The 1 Timothy 5 passage names household provision as part of faith's integrity. These passages together establish what Vol 1 names: the household is a structural unit of formation and witness, not an aggregation of individual believers. For some cohort members, the household will be the site in which their downhill calling is enacted (their primary calling is elsewhere — a group, a workplace, a third-place arc — and the household supports that calling). For other cohort members, the household IS the downhill calling — the family that already exists is the unit of witness, and the participant's long obedience is the household work itself, not the launching of something beyond it. Tonight's work serves both, with the cohort attending to which configuration each member is bringing.
 
-Tonight’s cohort-split lets each developmental stage engage the household with appropriate texture. Junior teens engage parents and siblings; senior teens engage the household they are about to leave (or have just left); parents engage spouse, children, and extended family-of-origin. The standing pair work — substantive, 15 minutes per direction — carries most of the formation tonight.
+Tonight’s circle split gives each member a small room for costly material. The household configurations in an adult cohort differ widely — a spouse and children at home; an empty nest; a single household; family-of-origin at a distance; an aging parent being cared for in the home. The standing pair work — substantive, 15 minutes per direction — carries most of the formation tonight.
 
 **Dependencies**
 
@@ -98,7 +98,7 @@ Tonight’s cohort-split lets each developmental stage engage the household with
 
 **•** This week’s household-domain outside-cohort Tell. Each member should arrive having attempted at least one household-domain Tell.
 
-**•** Going Out WWks 1–4. Body-sent architecture; sent-context sentence; three modes; daily-Tells data.
+**•** Going Out Wks 1–4. Body-sent architecture; sent-context sentence; three modes; daily-Tells data.
 
 **•** Going Deeper Wk 5 (confession architecture). The pair architecture used tonight is the same shape as confession — specific, owned, brief, honest. The pair partner does not interpret or fix.
 
@@ -114,7 +114,7 @@ Each Companion does three things this week.
 
 First — do this week’s household-domain Tell yourself. Note specifically what was honest, what was performed, what was avoided. The team’s honesty about household witness shapes the team’s capacity to hold the cohort’s.
 
-Second — review your cohort’s members one by one with their household configuration in mind. Who is married? Who has a complex family-of-origin? Who is in active estrangement? Who is in long caregiving? Who has cross-cohort family material? Bring the cohort-mapping to the team meeting.
+Second — review your circle’s members one by one with their household configuration in mind. Who is married? Who has a complex family-of-origin? Who is in active estrangement? Who is in long caregiving? Whose spouse is in the room? Bring the circle-mapping to the team meeting.
 
 Third — sit with Deuteronomy 6:4–9 for 15 minutes. The Shema’s formation mechanism is the architectural backbone of tonight’s teaching. ‘When you sit in your house, when you walk by the way, when you lie down, when you rise.’ The witness is woven into the ordinary.
 
@@ -126,11 +126,11 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **2.** Walk Deuteronomy 6:4–9 and the supporting passages together. Discuss household-as-unit theology. (15 min)
 
-**3.** Cohort-by-cohort review. Each Cohort Companion reports their cohort’s household configurations and known dynamics. The team holds these together. (25 min)
+**3.** Circle-by-circle review. Each Cohort Companion reports their circle’s household configurations and known dynamics. The team holds these together. (25 min)
 
-**4.** Special-cases triage: members with active estrangement; members in marital difficulty; members in caregiving exhaustion; members with cross-cohort family material; members with childhood-abuse history; members in single / non-traditional household configurations. (15 min)
+**4.** Special-cases triage: members with active estrangement; members in marital difficulty; members in caregiving exhaustion; members whose spouse is in the room; members with childhood-abuse history; members in single / non-traditional household configurations. (15 min)
 
-**5.** Walk the run sheet. Cohort-split rhythm; substantive pair work; cohort circle pattern surfacing; brief merge. Time discipline. (10 min)
+**5.** Walk the run sheet. Circle-split rhythm; substantive pair work; circle pattern surfacing; brief merge. Time discipline. (10 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (5 min)
 
@@ -146,9 +146,9 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **•** Print the Between-Session card (H5.4) — one per participant.
 
-**•** Three flip charts — one per cohort space — with markers, for capturing patterns.
+**•** A flip chart in each circle space, with markers, for capturing patterns.
 
-**•** Confirm room layout: three cohort spaces; shared circle space at the close.
+**•** Confirm room layout: circle spaces for circles of four to eight; shared circle space at the close.
 
 **•** Confirm pastoral / clinical backup.
 
@@ -156,20 +156,20 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **Materials checklist**
 
-**•** Three cohort spaces with chairs in small circles. Shared circle for opening / closing.
+**•** Circle spaces with chairs in small circles. Shared circle for opening / closing.
 
 
 **•** Personal Heart Journals.
 
 **•** Whiteboard with Deuteronomy 6:4–9.
 
-**•** Three flip charts.
+**•** Flip charts (one per circle).
 
 **•** Handouts H5.1, H5.2, H5.3, H5.4 stacked at each chair.
 
 **•** Tissues throughout.
 
-**•** Wall clock or timer in each cohort space.
+**•** Wall clock or timer in each circle space.
 
 **•** Crisis Quick-Reference Card in every Companion’s pocket.
 
@@ -182,11 +182,11 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is the costliest close-to-home witness.’ |
 | 7:11–7:20 | Block 2: Shema + household theology (teaching) | Shared circle | Lead Companion | Read Deut 6, Acts 16, 1 Tim 5, 1 Pet 3. Walk household-as-unit. |
-| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
-| 7:25–7:53 | Block 3: Standing pair work | Cohort circles (in pairs) | Cohort Companions float | 15 min per direction; 30 min total. |
-| 7:53–8:06 | Block 4: Cohort circle pattern surfacing | Cohort circles | Cohort Companions | Each member briefly: ONE pattern. Companion captures on flip chart. |
-| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
-| 8:11–8:21 | Block 5: Shared circle merge — the body of household contexts | Shared circle | Lead Companion | Lead names cross-cohort patterns; brief weighing. |
+| 7:20–7:25 | Transition to circle spaces | All | All Companions | Move into the circles. |
+| 7:25–7:53 | Block 3: Standing pair work | Circles (in pairs) | Cohort Companions float | 15 min per direction; 30 min total. |
+| 7:53–8:06 | Block 4: Circle pattern surfacing | Circles | Cohort Companions | Each member briefly: ONE pattern. Companion captures on flip chart. |
+| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Circles merge. |
+| 8:11–8:21 | Block 5: Shared circle merge — the body of household contexts | Shared circle | Lead Companion | Lead names cross-circle patterns; brief weighing. |
 | 8:21–8:30 | Block 6: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Wk 6 is vocational. Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -235,7 +235,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 ## Why the household is the costliest
 
-**THE RECEIVERS KNOW YOUR HISTORY. A spouse who has watched the believer’s real life cannot be witnessed-to with constructed phrases. A child who has watched the parent’s responses to pressure cannot be witnessed-to without the parent’s own integrity at the centre. A parent who watched the teen’s growing up cannot be witnessed-to as if the past did not exist.**
+**THE RECEIVERS KNOW YOUR HISTORY. A spouse who has watched the believer’s real life cannot be witnessed-to with constructed phrases. A child who has watched the parent’s responses to pressure cannot be witnessed-to without the parent’s own integrity at the centre. Your own parent, who watched your growing up, cannot be witnessed-to as if the past did not exist.**
 
 **PERFORMANCE IS IMPOSSIBLE. The body has been seen for years or decades. Whatever performance the witness might offer in the workplace is not available at home; the household sees through it.**
 
@@ -243,9 +243,9 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **AND THE WITNESS IS NEVER ASKED BACK INTO HARM. Confessing how you have fallen short with your household is owned for your own part only — it is never taking responsibility for what was done to you. Honoring your household (Deut. 6; 1 Tim. 5) never overrides your safety. Forgiving a family member is an interior release before God; it is not the same as restored trust or returning to where you are harmed, and trust is rebuilt only with real change over time (Luke 17:3; Rom. 12:18–19). For some, faithful obedience this season looks like distance, not reunion — estrangement can itself be obedience.**
 
-*“Go to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. The pair work begins after a brief settling.”*
+*“Go to your circle spaces — assignments are on the wall, circles of four to eight, each with its Companion. The pair work begins after a brief settling.”*
 
-**Block 3 — Standing Pair Work (7:25–7:53, 28 min, cohort-split)**
+**Block 3 — Standing Pair Work (7:25–7:53, 28 min, circle-split)**
 ## Cohort Companion script (90 sec)
 
 *“Your standing pair. Fifteen minutes per direction; thirty minutes total. The architecture is the same shape as Going Deeper Wk 5’s confession block — ONE specific moment, named, owned without justification, brief.”*
@@ -262,47 +262,47 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **Cohort Companion floats. Watches for pairs that are stuck (silence beyond the productive kind), pairs that are interpreting/advising despite the protocol, pairs where the speaker is performing rather than honest.**
 
-**If a pair surfaces material indicating active domestic violence, abuse, or safety threshold crossing: Cohort Companion stays close immediately; pastoral 1:1 within minutes of the session’s close; Section 6 protocol.**
+**If a pair surfaces material indicating active domestic violence, abuse, or safety threshold crossing: Cohort Companion stays close immediately; pastoral 1:1 within minutes of the session’s close; the safeguarding frame governs.**
 
 **If a pair surfaces marital tension or family-of-origin abuse: receive without making it the cohort’s focus; pastoral 1:1 within 24 hours.**
 
-**Time discipline. At 15 min: switch. At 30 min: stop. The cohort circle’s pattern surfacing needs its time.**
+**Time discipline. At 15 min: switch. At 30 min: stop. The circle’s pattern surfacing needs its time.**
 
 **If a pair runs out of material early: Cohort Companion can offer a refining question: ‘Where in your household is the witness most invisible right now? What might be asked of you next?’**
 
-**Block 4 — Cohort Circle Pattern Surfacing (7:53–8:06, 13 min, cohort-split)**
+**Block 4 — Circle Pattern Surfacing (7:53–8:06, 13 min, circle-split)**
 ## Cohort Companion script (60 sec)
 
-*“Around our cohort circle. Each of us, briefly — about 30–40 seconds. ONE pattern from your pair work. Not the content; the pattern. ‘What I noticed about my household witness is \_\_\_\_.’”*
+*“Around our circle. Each of us, briefly — about 30–40 seconds. ONE pattern from your pair work. Not the content; the pattern. ‘What I noticed about my household witness is \_\_\_\_.’”*
 
 *“If your pair work surfaced material too heavy to name even in pattern form, you may pass. The cohort holds.”*
 
-*“I will capture key patterns on the flip chart so the merge can see what our cohort is bringing.”*
+*“I will capture key patterns on the flip chart so the merge can see what our circle is bringing.”*
 
-*(Around the cohort. 30–40 seconds per member. Cohort Companion captures on flip chart.)*
+*(Around the circle. 30–40 seconds per member. Cohort Companion captures on flip chart.)*
 
-*“Good. We hold our cohort’s body of household witness. The shared circle merge follows.”*
+*“Good. We hold our circle’s body of household witness. The shared circle merge follows.”*
 
 ## During pattern surfacing
 
 **If a member starts to disclose detail rather than name pattern: gentle redirect. ‘Hold the detail; we are tracking what shape the witness is taking.’**
 
-**If a member’s pattern reveals cross-cohort dynamics (a parent in another cohort): use indirect language; the Companion captures it on the flip chart in non-identifying form.**
+**If a member’s pattern reveals cross-circle dynamics (a spouse in another circle): use indirect language; the Companion captures it on the flip chart in non-identifying form.**
 
 **If multiple members surface the same pattern (‘my household witness is invisible right now’; ‘I have been avoiding the conversation with my parent for years’): note the cluster. The cluster is data.**
 
 **Block 5 — Shared Circle Merge (8:11–8:21, 10 min)**
 ## Lead Companion script
 
-*“Three flip charts. Three cohorts. The body of household witness patterns. Let me read what surfaced — patterns, not detail.”*
+*“The flip charts — one from each circle. The body of household witness patterns. Let me read what surfaced — patterns, not detail.”*
 
-*(Lead Companion stands by the three flip charts; reads briefly across them; names 3–5 patterns. Specific. Drawn from what was actually shared.)*
+*(Lead Companion stands by the flip charts; reads briefly across them; names 3–5 patterns. Specific. Drawn from what was actually shared.)*
 
 *(Examples: ‘Several patterns: invisible witness in households where the witness has been long; long-avoided conversations now seeking openings; the household witness asking honest confession of how the witness has fallen short; the household witness of presence under suffering; the household witness of long faithfulness in caregiving.’)*
 
 *“What strikes me about the body together — \_\_\_\_.”*
 
-*(One observation; specific. Examples: ‘Multiple cohorts surfaced the same pattern: the household witness most needed is the one most avoided. This is data about us as a body together.’)*
+*(One observation; specific. Examples: ‘Multiple circles surfaced the same pattern: the household witness most needed is the one most avoided. This is data about us as a body together.’)*
 
 *“Two or three voluntary contributions: does what I named ring true to you about us as a body?”*
 
@@ -321,7 +321,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 *(Around the circle. 5 seconds per person.)*
 
-*“Good. Wk 6 is the vocational witness. This week’s Tell is in workplace, school, or vocational context. Bring your honest engagement.”*
+*“Good. Wk 6 is the vocational witness. This week’s Tell is in workplace, ministry, or professional context. Bring your honest engagement.”*
 
 *“If anything tonight surfaced material heavier than the week can hold, standing pair first, Cohort Companion next, pastoral / clinical referrals are available. Particularly tonight: do not carry household material alone.”*
 
@@ -331,57 +331,49 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
+*Tonight splits into circles of four to eight. Every member holds the same discipline: ONE relational dyad for the pair work, not the household-as-system. The Cohort Companions read their own circle’s members through the pair work and the pattern surfacing.*
 
-## Adjustments
-
-**Junior teens are typically still IN their family-of-origin household full-time. The household witness for them is parents, siblings, possibly extended family living in the home. The receivers are the people who can see the teen most fully.**
-
-**Watch for: the junior teen whose household is in active rupture (parental divorce in process, sibling crisis, recent family bereavement). The pair work surfaces this; pastoral 1:1 within 24 hours.**
-
-**Watch for: the junior teen whose household witness is mostly silent presence. Honour. Verbal witness in the family-of-origin develops slowly for many junior teens.**
-
-**Watch for: the junior teen whose Tell-receiver was a parent who is in another cohort. The teen Companion holds the cross-cohort awareness; pastoral cross-cohort conversation if needed.**
-
-**Watch for: the junior teen whose pair work surfaces parental harm or abuse. Mandatory-reporting law applies; Section 6 protocol immediately.**
-
-**Watch for: the junior teen whose household includes a step-parent, foster placement, or non-biological caregiver. The architecture honors the household as it is, not as it might be.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens are often at the threshold of leaving the household-of-origin or have just left (college). The household witness is layered with the question of separation: how does witness change as the relational structure changes?**
+**First-timers often find the household witness is mostly silent presence. Honour. Verbal witness in the closest relationships develops slowly; the witness of years of ordinary faithfulness is already real.**
 
-**Watch for: the senior whose household witness work surfaces a difficult parent relationship the senior is preparing to physically leave. The witness in the leaving is real; pastoral 1:1 to walk the transition.**
+**Watch for: the first-timer whose household is in active rupture (a divorce in process, a family crisis, a recent bereavement). The pair work surfaces this; pastoral 1:1 within 24 hours.**
 
-**Watch for: the senior whose witness has been suppressed in the household because of teen-parent dynamics that have not allowed it. Wk 5 may be the first time the senior names what could be possible. Honour without rushing toward action.**
+**Watch for: the first-timer whose household includes step-family, blended-family, or non-biological caregiving relationships. The architecture honors the household as it is, not as it might be.**
 
-**Watch for: the senior whose Tell-receiver was a younger sibling. The witness is real; the sibling relationship is often where senior teens’ most consequential household witness happens.**
+**Watch for: the first-timer whose pair work surfaces harm in the home — theirs or someone else’s. The safeguarding frame governs; safety first; pastoral 1:1 immediately after the session.**
 
-**Watch for: the senior whose household includes complicated step-parent or blended-family dynamics. Pastoral support for the texture; the architecture engages without adjudicating.**
-
-**Watch for: the senior whose household witness is shaped by upcoming separation (graduation, college). The pair work surfaces what the witness can be in the remaining months.**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents have the most complex household domain — spouse, children of varying ages, often family-of-origin still living, possibly extended family in caregiving relationships. The discipline tonight is choosing ONE relational dyad for the pair work, not the household-as-system.**
+**Veterans are often in households whose structure is changing — children leaving home, a move under consideration, retirement approaching, an aging parent moving in. The household witness is layered with the question of transition: how does witness change as the relational structure changes?**
 
-**Watch for: the parent whose pair work surfaces marital tension. The architecture protects: pattern, not detail; the spouse is not in the room; the Cohort Companion supports the pair without intervening in the marriage.**
+**Watch for: the veteran whose witness has been suppressed in the household for years because the dynamics have not allowed it. Wk 5 may be the first time they name what could be possible. Honour without rushing toward action.**
 
-**Watch for: the parent whose pair work surfaces concerns about a teen IN the cohort. Cross-cohort awareness; pastoral cross-cohort conversation OUTSIDE the session; the cohort space refuses adjudication.**
+**Watch for: the veteran whose Tell-receiver was a sibling. The witness is real; the sibling relationship is often where the most consequential family-of-origin witness happens.**
 
-**Watch for: the parent in active caregiving for an aging parent or ill child. The witness in long faithfulness is real; sabbath-rhythm conversation in pastoral 1:1.**
+**Watch for: the veteran whose pair work surfaces unresolved family-of-origin material from decades ago. Pastoral 1:1 within the week; clinical referral if significant trauma is surfacing.**
 
-**Watch for: the parent whose household witness work surfaces unresolved family-of-origin material from decades ago. Pastoral 1:1 within the week; clinical referral if significant trauma is surfacing.**
+**The ordained and the staff**
 
-**Watch for: the parent whose Tell-receiver was their own adult child outside the cohort. Honour; this is often where parents’ most consequential household witness happens.**
+## Adjustments
 
-**Watch for: the parent in single / non-traditional household configuration (single, divorced, widowed). The architecture applies; the household domain is whatever the parent’s actual household is, not what cultural expectations imagine.**
+**The ordained often carry the most complex household domain — spouse, children, family-of-origin, sometimes caregiving — plus a dynamic no one else in the room has: a household that lives with the office. A pastor’s family is watched by a congregation; the home can quietly become an extension of the church. The household witness tonight is as a person — the spouse and children have already seen through everything else.**
+
+**Watch for: the leader whose pair work surfaces marital tension. The architecture protects: pattern, not detail; the spouse is not the pair partner; the Cohort Companion supports the pair without intervening in the marriage.**
+
+**Watch for: the leader whose spouse is IN the room tonight, in another circle. Cross-circle awareness held privately; pastoral conversation with the couple outside the session if the pair work surfaces material both carry.**
+
+**Watch for: the leader in active caregiving for an aging parent or an ill family member. The witness in long faithfulness is real; sabbath-rhythm conversation in pastoral 1:1.**
+
+**Watch for: the leader whose Tell-receiver was their own adult child. Honour; this is often where a leader’s most consequential household witness happens.**
+
+**Watch for: the leader in a single / non-traditional household configuration (single, divorced, widowed). The architecture applies; the household domain is whatever the actual household is, not what congregational expectations imagine.**
 
 **Closing Practice in Detail**
 
@@ -391,7 +383,7 @@ Standard pattern. The pair work and the merge’s reception of the body of house
 
 ## This week’s practice
 
-**This week’s outside-cohort Tell is in the VOCATIONAL domain. Workplace, school, professional context.**
+**This week’s outside-cohort Tell is in the VOCATIONAL domain. Workplace, ministry, professional context.**
 
 **Daily noticing question shifts: ‘Where in my work today is my witness being shaped, refined, or tested?’**
 
@@ -407,13 +399,13 @@ The team meets the day after Wk 5 for a 75-minute debrief (longer than usual bec
 
 **Signs the session worked**
 
-**•** The pair work produced substantive engagement in each cohort space; the architecture held.
+**•** The pair work produced substantive engagement in each circle space; the architecture held.
 
-**•** The cohort circle pattern surfacing produced honest patterns without exposing detail.
+**•** The circle pattern surfacing produced honest patterns without exposing detail.
 
-**•** The merge integrated three cohort flip charts into a body-of-household-witness picture.
+**•** The merge integrated the circles’ flip charts into a body-of-household-witness picture.
 
-**•** Cross-cohort family material was held privately; no adjudication in the cohort space.
+**•** Cross-circle spouse material was held privately; no adjudication in the room.
 
 **•** By Friday, the team has followed up on every member whose pair work surfaced acute material.
 
@@ -421,9 +413,9 @@ The team meets the day after Wk 5 for a 75-minute debrief (longer than usual bec
 
 **•** Pair work drifted into interpretation/advice; the architecture broke.
 
-**•** A member’s detail entered the cohort circle that should have stayed in the pair.
+**•** A member’s detail entered the circle that should have stayed in the pair.
 
-**•** Cross-cohort family material surfaced in the merge inadequately handled.
+**•** Cross-circle spouse material surfaced in the merge inadequately handled.
 
 **•** A member’s acute material (abuse, domestic violence, mental-health crisis) was not flagged for follow-up.
 
@@ -431,13 +423,13 @@ The team meets the day after Wk 5 for a 75-minute debrief (longer than usual bec
 
 **People to follow up with this week**
 
-**•** Anyone whose pair work surfaced active domestic violence, abuse, or safety threshold crossing — Section 6 protocol.
+**•** Anyone whose pair work surfaced active domestic violence, abuse, or safety threshold crossing — the safeguarding frame governs.
 
 **•** Anyone whose pair work surfaced marital tension, family-of-origin abuse, caregiving exhaustion, or estrangement material.
 
-**•** Any cross-cohort family material; pastoral conversation with both teen and parent separately.
+**•** Any cross-circle spouse material; pastoral conversation with each spouse separately.
 
-**•** Any senior whose pair work surfaced significant material about preparing to leave the household.
+**•** Any member whose pair work surfaced significant material about a household transition under way (a move, a separation, a child leaving home).
 
 **•** Anyone in single / non-traditional household configuration whose architecture lands awkwardly.
 
@@ -533,7 +525,7 @@ Practically: the household is not a setting in which individual formation happen
 
 **THREE — Brought, not just acknowledged. ‘I bring this to the Lord and to my pair partner’; not just ‘I notice this about myself.’**
 
-**FOUR — To one trusted pair partner. Not the cohort circle. Not your spouse. Your standing pair.**
+**FOUR — To one trusted pair partner. Not the circle. Not your spouse. Your standing pair.**
 
 **FIVE — With the partner’s witness sentence at the close: ‘What I heard you saying about your household witness is \_\_\_\_.’**
 
@@ -565,7 +557,7 @@ Practically: the household is not a setting in which individual formation happen
 
 ## This week’s practice — four pieces
 
-**ONE — This week’s outside-cohort Tell is in the VOCATIONAL domain. Workplace (parents). School / classmates / teachers (teens). The daily-rhythm context where you spend the bulk of your hours.**
+**ONE — This week’s outside-cohort Tell is in the VOCATIONAL domain. Workplace, ministry, professional context — the daily-rhythm context where you spend the bulk of your hours.**
 
 **TWO — Daily noticing question shifts: ‘Where in my work today is my witness being shaped, refined, or tested?’ Brief; honest; once each morning.**
 
@@ -579,7 +571,7 @@ Practically: the household is not a setting in which individual formation happen
 
 **Pastoral 1:1 with your Cohort Companion or Lead Companion this week. Do not carry household material alone.**
 
-**Honoring your household never means returning to, or trusting, someone who is harming you. Forgiveness is an interior release before God; safety and faithful obedience can require distance, and trust is rebuilt only with real change over time (Luke 17:3). If someone in your household is hurting you, tell your Cohort Companion or another trusted adult — that is not disloyalty; it is the brave and faithful thing.**
+**Honoring your household never means returning to, or trusting, someone who is harming you. Forgiveness is an interior release before God; safety and faithful obedience can require distance, and trust is rebuilt only with real change over time (Luke 17:3). If someone in your household is hurting you, tell your Cohort Companion or someone you trust outside the room — that is not disloyalty; it is the brave and faithful thing.**
 
 **Pastoral / clinical referrals are available (Appendix D of the Going Deeper Handbook v1.1). Some household material is best held by trained clinical support; the cohort architecture is not the venue for what crosses into clinical territory.**
 
