@@ -40,7 +40,7 @@ Adult edition — the leadership-first year (FotH for a CPR)
 
 ## WATCH FOR (Week 13 specific risks)
 
-- The participant for whom "the dry season" is not hypothetical — tonight describes their current life. Expect at least one. This is the session working, not failing: the card exists so that this person hears "not a verdict" while the room is still warm. The adult Companion follows up within 48 hours.
+- The participant for whom "the dry season" is not hypothetical — tonight describes their current life. Expect at least one. This is the session working, not failing: the card exists so that this person hears "not a verdict" while the room is still warm. The experienced Companion follows up within 48 hours.
 - The idealized Rhythm Card. All the daily boxes checked, PROAPT twice a day, a two-hour sabbath plan from a fifteen-year-old with a January exam schedule. Coach honesty in the circles: "Write the rhythm you will actually keep, not the one that impresses you."
 - Treating the Path Home Card as morbid — "why are we planning for failure?" Reframe: a fire extinguisher is not a plan to burn the house down. We put it on the wall precisely because we intend to live here a long time.
 - The rotation leader turning teaching into performance. This is their biggest lift, and the temptation is to be impressive rather than clear. Coach in the second-running prep: the card does the work; your job is to hand it over plainly.
@@ -51,7 +51,7 @@ Adult edition — the leadership-first year (FotH for a CPR)
 
 *Week 13 is lower-risk than Weeks 3–6 — the teaching is scripted and low-disclosure by design — but it is not zero. Teaching the dry season out loud can surface genuine desolation, or a participant's quiet fear that their faith is failing. That is the material this session exists to hold. Standard Section 6 protocols apply.*
 
-**If a participant says, in the room or after, "I think my dryness is the bad kind."** Do not diagnose. Ask the card's own question, gently: "When you're honest — do you still miss Him? Does the distance ache?" Receive whatever comes without a verdict. Then schedule the follow-up: "Let's sit down this week and read the card together slowly. That's exactly what it's for." The sorting happens in an unhurried conversation with one trusted adult — never in the room, never on the spot.
+**If a participant says, in the room or after, "I think my dryness is the bad kind."** Do not diagnose. Ask the card's own question, gently: "When you're honest — do you still miss Him? Does the distance ache?" Receive whatever comes without a verdict. Then schedule the follow-up: "Let's sit down this week and read the card together slowly. That's exactly what it's for." The sorting happens in an unhurried conversation with one trusted person — never in the room, never on the spot.
 
 **If the dry-season teaching visibly lands on someone mid-block.** The handoff is scripted (Block 6): the leader finishes the teaching point; the experienced Companion moves quietly to the person; the teaching continues. Do not stop the session. Do not spotlight the person.
 
@@ -170,7 +170,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 
 # **Block-by-Block: Scripts and Notes**
 
-*The italicized scripts in Blocks 1, 3, 4, 6, and 7 are the rotation leader's, delivered from H13.1. They are written out fully because this is a teaching lift — but the senior should own them, not read them.*
+*The italicized scripts in Blocks 1, 3, 4, 6, and 7 are the rotation leader's, delivered from H13.1. They are written out fully because this is a teaching lift — but the leader should own them, not read them.*
 
 ## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 ## Script (rotation leader)
@@ -429,7 +429,7 @@ Two printed handouts for Week 13, plus the three shared cards reprinted per part
 ## The handoff (if the teaching lands on someone in the room)
 
 - The Lead Companion catches your eye and nods. **Finish your teaching point — cleanly.**
-- The adult moves to the person. **You keep teaching.** No pause, no glance, no spotlight. The room should not notice.
+- The Companion moves to the person. **You keep teaching.** No pause, no glance, no spotlight. The room should not notice.
 - You never hold the person. That is the bright line, and keeping it is the most leaderly thing you will do all night.
 
 ## If someone asks you, tonight or ever, "is my dryness the bad kind?"
