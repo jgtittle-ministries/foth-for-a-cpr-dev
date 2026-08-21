@@ -6,13 +6,13 @@ Week 8
 
 **Hearing God — PROAPT II**
 
-*The second running — the practice received last week is led this week, by one of the cohort's own seniors*
+*The second running — the practice received last week is led this week, by one of the cohort itself*
 
 ![Scripture, open on the table.](images/wk06-proapt.jpg)
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -20,19 +20,19 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. Tonight a Companion-in-Formation leads the full walk-through. The adult team's discipline is to be present and not lead.*
+*Print this page on cardstock. Two copies in the room. Tonight a rotation leader leads the full walk-through. The adult team's discipline is to be present and not lead.*
 
 ## WEEK 8 — HEARING GOD — PROAPT II (90 minutes)
 
-**Aim.** Complete the second running of PROAPT — the full six-step walk-through led by a Companion-in-Formation with a fresh passage — and mark the series midpoint with the Mid-Series Pulse.
+**Aim.** Complete the second running of PROAPT — the full six-step walk-through led by a rotation leader with a fresh passage — and mark the series midpoint with the Mid-Series Pulse.
 
 **Anchor scripture.** Romans 10:17 (faith comes from hearing) and Mark 2:1–12 (the paralytic through the roof) as the worked example.
 
 **Connect focus.** God. Week 7 opened the vertical channel; tonight the cohort works it a second time, and one of their own leads the working.
 
-**Mode.** Teen-led end to end, adult in the room. Shared walk-through led by the Companion-in-Formation; SPLIT for pair practice in cohort circles; MERGE for the Leader Feedback Round, the Mid-Series Pulse, and closing.
+**Mode.** Member-led end to end, an experienced Companion in the room. Shared walk-through led by the rotation leader; SPLIT for pair practice in cohort circles; MERGE for the Leader Feedback Round, the Mid-Series Pulse, and closing.
 
-**Center.** The Companion-in-Formation leads the whole cohort through PROAPT on Mark 2:1–12 — all six steps, timed, from their facilitation card. Then pairs work in cohort circles as in Week 7, with the Tell step shared back into the cohort circle.
+**Center.** The rotation leader leads the whole cohort through PROAPT on Mark 2:1–12 — all six steps, timed, from their facilitation card. Then pairs work in cohort circles as in Week 7, with the Tell step shared back into the cohort circle.
 
 **Between-session practice.** Daily PROAPT continues (the journal Week 7–8 pages). Plus: complete the Mid-Series Pulse and bring it back Tuesday.
 
@@ -40,17 +40,17 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 8 specific risks)
 
-- The senior teaching *about* PROAPT instead of leading people *through* it. The temptation of every first-time leader is to explain. Coach in the dry run: fewer words, more silence, keep the cohort working.
-- The cohort deferring to the adult in the room instead of the senior. If eyes keep drifting to the Lead Companion, the block is not teen-led. Adults: physically sit back. Chairs against the wall, not in the circle, during the walk-through.
+- The rotation leader teaching *about* PROAPT instead of leading people *through* it. The temptation of every first-time leader is to explain. Coach in the dry run: fewer words, more silence, keep the cohort working.
+- The cohort deferring to the adult in the room instead of the rotation leader. If eyes keep drifting to the Lead Companion, the block is not member-led. Adults: physically sit back. Chairs against the wall, not in the circle, during the walk-through.
 - Daily-practice drop-off at the midpoint. It is normal and the Pulse will show it. Normalize restarting without guilt — the chain picks up where you are, not where you were supposed to be.
 - The participant who has done zero daily PROAPT since Week 7 and feels exposed tonight. No shame. Tonight is a fresh start, and the walk-through requires nothing they have not already done once in the room.
-- Treating tonight as a repeat. It is not a repeat; it is a completion. Week 7 gave everyone one pass; tonight gives everyone a second pass and gives one senior their marquee. Name that at the open.
+- Treating tonight as a repeat. It is not a repeat; it is a completion. Week 7 gave everyone one pass; tonight gives everyone a second pass and gives one member their marquee. Name that at the open.
 
 ## CRISIS CONTINGENCIES (Week 8)
 
-Week 8 is the cleanest teen-led block in the series by design — scripted practice, low disclosure risk. Standard Section 6 protocols apply, and the bright line of Section 11.2 governs the night: the senior leads the process; the adults hold anything heavy.
+Week 8 is the cleanest member-led block in the series by design — scripted practice, low disclosure risk. The standard safeguarding frame applies, and the bright line governs the night: the rotation leader leads the process; the experienced Companions hold anything heavy.
 
-**If a pair's Apply or Tell turns heavy while the senior is leading.** The senior's only job is the handoff — catch the adult's eye, hand it over, keep holding the room. No heroics. Rule two of the three rules that never bend: a Companion-in-Formation never takes a disclosure.
+**If a pair's Apply or Tell turns heavy while the rotation leader is leading.** The rotation leader's only job is the handoff — catch the adult's eye, hand it over, keep holding the room. No heroics. Rule two of the three rules that never bend: a rotation leader never takes a disclosure.
 
 **If the Pulse framing stirs something.** Rare, but the halfway question ("how present have I actually been?") can land hard on someone who knows the answer. Watch faces during the close. Follow up offline within 48 hours.
 
@@ -58,32 +58,32 @@ Week 8 is the cleanest teen-led block in the series by design — scripted pract
 
 ## **Why this session, this week**
 
-Last week the cohort received PROAPT — the adult team taught it and everyone worked one passage twice. Tonight the practice comes back around, and the mechanism of the whole leadership pipeline is on display: see one, do one, in the same series, in front of the cohort. A Companion-in-Formation who sat as a participant in Week 7 stands tonight and leads the full six-step walk-through with a fresh passage.
+Last week the cohort received PROAPT — the adult team taught it and everyone worked one passage twice. Tonight the practice comes back around, and the mechanism of the whole leadership pipeline is on display: see one, do one, in the same series, in front of the cohort. A rotation leader who sat as a participant in Week 7 stands tonight and leads the full six-step walk-through with a fresh passage.
 
-Nothing new is taught tonight. That is the point. The second running teaches nothing new; it completes a process the cohort has already begun, and it is the slot a senior leads. Because the practice is scripted and the disclosure risk is low, it is the safest possible first full lead — which is exactly why the series puts it here.
+Nothing new is taught tonight. That is the point. The second running teaches nothing new; it completes a process the cohort has already begun, and it is the slot a member leads. Because the practice is scripted and the disclosure risk is low, it is the safest possible first full lead — which is exactly why the series puts it here.
 
 Tonight is also the halfway mark: seven weeks behind, seven ahead. The Mid-Series Pulse goes home in every hand at the close and comes back at the Week 9 door. The team will use it.
 
-## **What "the senior leads" means tonight**
+## **What "the rotation leader leads" means tonight**
 
 The bright line (Handbook 11.2) drawn for tonight specifically:
 
-| **The Companion-in-Formation leads** | **The adult team holds** |
+| **The rotation leader leads** | **The adult team holds** |
 | --- | --- |
 | The welcome, the blessing, the container restatement. | Nothing visible, if the night goes well. |
 | The halfway framing and the daily-practice check-in. | Any disclosure, confession, or crisis that surfaces — instantly, on the handoff. |
 | The full six-step walk-through, timed, from the facilitation card. | The Leader Feedback Round (the Lead Companion runs it). |
 | The bridge to the split and the closing blessing. | The Mid-Series Pulse distribution and framing. |
 
-The three rules that never bend (Handbook 11.6) are in force: the senior never counts as one of the two adults; the senior never takes a disclosure; the senior leads only what they have first received. All three are satisfied by design tonight — two adults are in the room, the handoff is rehearsed, and the senior received this exact practice as a participant in Week 7.
+The three rules that never bend are in force: the rotation leader never counts as one of the two Companions for a disclosure; the rotation leader never takes a disclosure; the rotation leader leads only what they have first received. All three are satisfied by design tonight — two Companions are in the room, the handoff is rehearsed, and the rotation leader received this exact practice as a participant in Week 7.
 
 ## **Dependencies**
 
 ## From prior sessions
 
 - Week 7: The cohort has done PROAPT once in the room and (in some measure) daily since. Tonight assumes the six steps are familiar, not mastered.
-- Week 4: The cohort has already watched a senior lead a second running (Telling Your Story II). Tonight is not the first time one of their own has held the front of the room.
-- Weeks 1 and 5: The container holds and its conditions are explicit. The senior will restate them from memory.
+- Week 4: The cohort has already watched a member lead a second running (Telling Your Story II). Tonight is not the first time one of their own has held the front of the room.
+- Weeks 1 and 5: The container holds and its conditions are explicit. The rotation leader will restate them from memory.
 - Week 6: The confession channel remains open. If tonight's Apply touches it, the adults hold it.
 
 ## **Connect focus**
@@ -94,30 +94,30 @@ God. The second of the God-connection sessions. Weeks 9–11 (the Garden twice, 
 
 ## **Personal pre-work**
 
-Every Companion continues daily PROAPT. The midpoint is where the team's own practice quietly thins — and the teens will know. Be a current practitioner on Tuesday night, not a supervisor of one.
+Every Companion continues daily PROAPT. The midpoint is where the team's own practice quietly thins — and the room will know. Be a current practitioner on Tuesday night, not a supervisor of one.
 
-The Lead Companion PROAPTs Mark 2:1–12 at least twice in the week before the session — not to lead it, but to know its terrain well enough to coach the senior on it.
+The Lead Companion PROAPTs Mark 2:1–12 at least twice in the week before the session — not to lead it, but to know its terrain well enough to coach the rotation leader on it.
 
-## **Coaching the Companion-in-Formation**
+## **Coaching the rotation leader**
 
 This is the week's real pre-work. Three commitments, non-negotiable:
 
-1. **The senior PROAPTs the chosen passage daily for at least three days before leading it.** They cannot lead the cohort into a passage they have not lived in. Three days minimum; every day is better. The passage will speak differently on the third hearing than the first — and that experience is exactly what they will be inviting the cohort into.
-2. **The senior meets the Lead Companion once mid-week for a full dry run.** The whole walk-through, out loud, timed, from the facilitation card (H8.1) — not a conversation about it. The Lead Companion plays the cohort. Coach the two classic first-lead errors: explaining instead of leading, and rushing the silences. Fewer words. Trust the steps.
+1. **The rotation leader PROAPTs the chosen passage daily for at least three days before leading it.** They cannot lead the cohort into a passage they have not lived in. Three days minimum; every day is better. The passage will speak differently on the third hearing than the first — and that experience is exactly what they will be inviting the cohort into.
+2. **The rotation leader meets the Lead Companion once mid-week for a full dry run.** The whole walk-through, out loud, timed, from the facilitation card (H8.1) — not a conversation about it. The Lead Companion plays the cohort. Coach the two classic first-lead errors: explaining instead of leading, and rushing the silences. Fewer words. Trust the steps.
 3. **Rehearse the handoff.** Ask it straight in the dry run: "A pair's Apply turns heavy while you're leading — what do you do?" The answer, every time: catch the adult's eye, hand it over, keep holding the container. No heroics. Drill it until the answer is boring.
 
-**The passage.** Mark 2:1–12 is the default — concrete, narrative, rich in Observe material (four friends, a dug-open roof, forgiveness before healing, the scribes' silent objection). The senior may choose another narrative passage with the Lead Companion's agreement. Note that many participants will have already PROAPTed Mark 2:1–12 in their daily practice (it was Day 6 on the junior sheet). That is fine, and worth naming from the front: a passage speaks differently on a second hearing. That is half of what tonight demonstrates.
+**The passage.** Mark 2:1–12 is the default — concrete, narrative, rich in Observe material (four friends, a dug-open roof, forgiveness before healing, the scribes' silent objection). The rotation leader may choose another narrative passage with the Lead Companion's agreement. Note that many participants will have already PROAPTed Mark 2:1–12 in their daily practice (it was Day 6 on the Track One sheet). That is fine, and worth naming from the front: a passage speaks differently on a second hearing. That is half of what tonight demonstrates.
 
 ## **Team pre-work**
 
-1. Confirm the passage and the senior who is leading. Confirm which adult holds the handoff (usually the Lead Companion) and make sure the senior knows exactly where that adult will be sitting.
-2. Agree the discipline of the night: adults out of the circle during the walk-through, eyes on the senior, no rescuing. A ten-second stumble the senior recovers from is worth more to their formation than a smooth block an adult saved.
+1. Confirm the passage and the rotation leader who is leading. Confirm which adult holds the handoff (usually the Lead Companion) and make sure the rotation leader knows exactly where that adult will be sitting.
+2. Agree the discipline of the night: Companions out of the circle during the walk-through, eyes on the rotation leader, no rescuing. A ten-second stumble the rotation leader recovers from is worth more to their formation than a smooth block a Companion saved.
 3. Walk the Leader Feedback Round order (Handbook 11.7): affirmation first, growth second (one thing, not a list), group feedback only by the leader's consent, popcorn-style, "for you" language.
 4. Print and count the Mid-Series Pulse (H8.3) — one per participant plus spares. Decide the return point now: the Week 9 door, into the box, folded.
 
 ## **Logistics pre-work**
 
-1. Print the Companion-in-Formation's facilitation card (H8.1, cardstock, two copies — one for the senior, one spare).
+1. Print the rotation leader's facilitation card (H8.1, cardstock, two copies — one for the rotation leader, one spare).
 2. Print the Mark 2:1–12 worked-example handout (H8.2, one per participant).
 3. Print the Mid-Series Pulse (H8.3, one per participant plus spares).
 4. Confirm cohort spaces from prior weeks.
@@ -130,45 +130,45 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 - Phone-box at the door.
 - Personal Heart Journals (each participant brings).
 - Bibles — every participant has access. PROAPT works best with a physical Bible.
-- Facilitation card: H8.1 (the senior's copy, plus one spare).
+- Facilitation card: H8.1 (the rotation leader's copy, plus one spare).
 - Mark 2:1–12 handout: H8.2 (one per participant, with the passage printed and space to write).
 - Mid-Series Pulse: H8.3 (one per participant, plus spares; pens available).
 - Three private cohort spaces.
-- Whiteboard or flip chart (the senior may want PROAPT on the board; their call).
+- Whiteboard or flip chart (the rotation leader may want PROAPT on the board; their call).
 
 ### **Pre-session preparation timeline**
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Confirm passage and senior. Senior begins daily PROAPT on the passage. Print all handouts. | Lead Comp + Comp-in-Formation |
-| Mid-week | Full dry run, timed, from the card. Rehearse the handoff. | Lead Comp + Comp-in-Formation |
-| Day before | Senior PROAPTs the passage a final time. Lead Companion walks the room. | Both |
-| T-30 min | All Companions and the senior in room. PRAY through the passage as a team. Senior sets the space. | All |
-| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
-| T-0 | Doors close. The Companion-in-Formation opens. | Comp-in-Formation |
+| Week before | Confirm passage and leader. The rotation leader begins daily PROAPT on the passage. Print all handouts. | Lead Comp + rotation leader |
+| Mid-week | Full dry run, timed, from the card. Rehearse the handoff. | Lead Comp + rotation leader |
+| Day before | The rotation leader PROAPTs the passage a final time. Lead Companion walks the room. | Both |
+| T-30 min | All Companions and the rotation leader in room. PRAY through the passage as a team. The rotation leader sets the space. | All |
+| T-15 min | Door opens. Standard arrival. | Co-Comp |
+| T-0 | Doors close. The rotation leader opens. | rotation leader |
 
 # **Detailed 90-Minute Run Sheet**
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:07 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The halfway framing. |
-| 7:07–7:15 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
-| 7:15–7:20 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
-| 7:20–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
-| 7:32–7:34 | Block 5: Bridge to the split and pair structure | Shared | Comp-in-Formation | Pair structure restated. Pray. Split. |
+| 6:45–7:00 | Arrival window | Forming | Co-Comp | Standard arrival. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared | rotation leader | Aaronic blessing. Container. The halfway framing. |
+| 7:07–7:15 | Block 2: Daily-practice check-in | Shared | rotation leader | How did the daily PROAPT go? Normalize restarting. |
+| 7:15–7:20 | Block 3: Why a second running | Shared | rotation leader | Romans 10:17 restated. Frame the fresh passage. |
+| 7:20–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | rotation leader | The marquee. All six steps, timed, from the card. Adults sit back. |
+| 7:32–7:34 | Block 5: Bridge to the split and pair structure | Shared | rotation leader | Pair structure restated. Pray. Split. |
 | 7:34–8:02 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | As Week 7. Switch reader/listener at 13 min. |
 | 8:02–8:12 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells the cohort circle ONE thing they heard. |
 | 8:12–8:18 | Block 8: Merge and Leader Feedback Round | Shared | Lead Comp | Handbook 11.7. Affirmation, growth, consent, popcorn. |
 | 8:18–8:24 | Block 9: Mid-Series Pulse and between-session | Shared | Lead Comp | Pulse distributed and framed. Bring it back Tuesday. |
-| 8:24–8:30 | Block 10: Closing container | Shared | Comp-in-Formation | Container reaffirmed. Aaronic blessing. |
+| 8:24–8:30 | Block 10: Closing container | Shared | rotation leader | Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-*Blocks 1–5 and 10 are the Companion-in-Formation's blocks. The italicized scripts in those blocks are theirs — written here as a model for the dry run, not a cage. The senior should say it in their own words; what is fixed is the shape, the timings, and the handoff rule.*
+*Blocks 1–5 and 10 are the rotation leader's blocks. The italicized scripts in those blocks are theirs — written here as a model for the dry run, not a cage. The rotation leader should say it in their own words; what is fixed is the shape, the timings, and the handoff rule.*
 
 ## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
-## Companion-in-Formation's script
+## rotation leader's script
 
 *"Welcome back. Phones in the box. Let me speak the blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
 
@@ -180,10 +180,10 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 ### **Note for the adult team**
 
-From the moment the senior starts speaking, sit back — outside the circle, eyes on the senior, faces warm and unhelpful. If the cohort looks to you, look at the senior. The room learns who is leading from where the adults look.
+From the moment the rotation leader starts speaking, sit back — outside the circle, eyes on the rotation leader, faces warm and unhelpful. If the cohort looks to you, look at the rotation leader. The room learns who is leading from where the Companions look.
 
 ## **Block 2 — Daily-Practice Check-in (7:07–7:15, 8 min)**
-## Companion-in-Formation's script
+## rotation leader's script
 
 *"Quick check-in on the daily PROAPT. One sentence each, whoever wants: how did the week of daily practice actually go? Honest answers. 'I did two days and stopped' is an honest answer."*
 
@@ -196,7 +196,7 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 *(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Why a Second Running (7:15–7:20, 5 min)**
-## Companion-in-Formation's script
+## rotation leader's script
 
 *"The verse under all of this is still Romans 10:17: 'So faith comes from hearing, and hearing through the word of Christ.' Word, hearing, faith. The chain only works if we hear — and hearing is a skill, and skills take reps. Last week was rep one. Tonight is rep two."*
 
@@ -205,13 +205,13 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 *"Same six steps as last week. I'll keep us on time. Handouts are coming around — Bibles open to Mark 2."*
 
 ## **Block 4 — PROAPT Walked Together: Mark 2:1–12 (7:20–7:32, 12 min)**
-This is the marquee block of the night. The Companion-in-Formation leads all six steps, timed, from their facilitation card (H8.1). The cohort works their handout (H8.2). The adult team does not speak unless the handoff comes.
+This is the marquee block of the night. The rotation leader leads all six steps, timed, from their facilitation card (H8.1). The cohort works their handout (H8.2). The adult team does not speak unless the handoff comes.
 
-## How the senior walks it (from the card)
+## How the rotation leader walks it (from the card)
 
 **PRAY (90 sec). "Thirty seconds, eyes closed. Tell the Holy Spirit you want to hear what He has for you tonight — not what you already know about this passage. Especially if you've read it this week." Silence. Then: "Holy Spirit, You are welcome here. Speak. We are listening."**
 
-**READ (2 min). "Read it slowly, on your own, just to receive it. Don't analyze yet." The senior reads it once aloud, unhurried, then silence while the cohort reads.**
+**READ (2 min). "Read it slowly, on your own, just to receive it. Don't analyze yet." The rotation leader reads it once aloud, unhurried, then silence while the cohort reads.**
 
 **OBSERVE (3.5 min). "What do you notice? Write three things. What stands out? What's strange? Four men carry one man — what does that take? They wreck a roof — whose roof? Jesus sees their faith — whose faith? He forgives before He heals — why that order?" Take 60 seconds writing, then ask 3–4 people to share one observation each. Receive; don't evaluate.**
 
@@ -223,12 +223,12 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 
 ### **Notes for the adult team during Block 4**
 
-- Do not rescue a silence. The senior was coached to hold them; let them.
-- If the senior stumbles on a timing, let the stumble happen and let them recover. That recovery is the formation.
-- The handoff: if any sharing turns heavy, the senior catches the designated adult's eye and hands it over — and the adult takes it fully, immediately, without making the handoff feel like an alarm. The senior keeps holding the room.
+- Do not rescue a silence. The rotation leader was coached to hold them; let them.
+- If the rotation leader stumbles on a timing, let the stumble happen and let them recover. That recovery is the formation.
+- The handoff: if any sharing turns heavy, the rotation leader catches the designated adult's eye and hands it over — and the adult takes it fully, immediately, without making the handoff feel like an alarm. The rotation leader keeps holding the room.
 
 ## **Block 5 — Bridge to the Split and Pair Structure (7:32–7:34, 2 min)**
-## Companion-in-Formation's script
+## rotation leader's script
 
 *"Same pair structure as last week. In your cohort circle you'll pair up — one Reader, one Listener. Reader leads the six steps; Listener works alongside without interrupting. After thirteen minutes, switch. Stay with Mark 2 or take a fresh passage — Reader's choice."*
 
@@ -269,7 +269,7 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 **Closing of cohort (1 min). Cohort Companion: "Take what you heard with you. It was given to be walked out."**
 
 ## **Block 8 — Merge and Leader Feedback Round (8:12–8:18, 6 min)**
-Everyone back in the single circle. The Lead Companion runs the Leader Feedback Round (Handbook 11.7) for the Companion-in-Formation, while the cohort is still present. The order is fixed.
+Everyone back in the single circle. The Lead Companion runs the Leader Feedback Round (Handbook 11.7) for the rotation leader, while the cohort is still present. The order is fixed.
 
 ## Script (Lead Companion)
 
@@ -279,7 +279,7 @@ Everyone back in the single circle. The Lead Companion runs the Leader Feedback 
 
 *"One thing to try differently next time."* (One thing. Two at most. Not a list.)
 
-*"[Name] — would you like feedback from the group too?"* (The senior decides. If no, the round ends here — no pressure, no exposure.)
+*"[Name] — would you like feedback from the group too?"* (The rotation leader decides. If no, the round ends here — no pressure, no exposure.)
 
 *(If yes, popcorn-style:)* *"For anyone who has something — what worked well for you? One suggestion for [name] to consider next time?"*
 
@@ -296,10 +296,10 @@ The "for you" language matters: the group reflects on their own experience, not 
 
 *"You can sign it or leave it anonymous — your choice; there's a line at the bottom you can skip. Fold it, bring it back Tuesday, drop it in the box at the door. Every one of these gets read."*
 
-*"Parents and teens each fill out your own. Don't compare answers unless you want to — although honestly, that might be a good conversation in the car."*
+*“Each of you fills out your own. Don’t compare answers unless you want to — although honestly, comparing them over coffee this week might be the best conversation you have.”*
 
 ## **Block 10 — Closing Container (8:24–8:30, 6 min)**
-## Companion-in-Formation's script
+## rotation leader's script
 
 *"One thing before we close. Seven weeks ago none of us had done this. Tonight we ran the whole practice ourselves — and next Tuesday we go deeper, into the Garden. What we practiced tonight is the skill the Garden depends on: hearing Him. Keep the daily practice alive this week. It's the hinge."*
 
@@ -311,38 +311,31 @@ The "for you" language matters: the group reflects on their own experience, not 
 
 # **Differentiation by Cohort**
 
-## **Junior teens (12–14)**
+## Those doing this work for the first time
 
-The second running lands well with juniors — the structure is now familiar, and familiarity frees attention for the hearing itself.
+The second running lands well with first-timers — the structure is now familiar, and familiarity frees attention for the hearing itself.
 
-## Adjustments
+- Mark 2:1–12 was Day 6 on the Track One sheet, so many will have seen it. Lean into the second-hearing frame rather than apologizing for it.
+- The Apply prompts on the card (on the mat / one of the four / the roof) are concrete. Use them verbatim.
+- Pulse: assure the room the 1–10 question is not a grade and nobody is in trouble for a low number. “4 — I keep thinking about the budget meeting” is gold for the team.
 
-- Mark 2:1–12 was Day 6 on their passage sheet, so many juniors have seen it. Lean into the second-hearing frame rather than apologizing for it.
-- The Apply prompts on the card (on the mat / one of the four / the roof) are concrete enough for juniors. Use them verbatim.
-- Watch for juniors who idolize the senior leading — or who test them. Both are normal. The Cohort Companions hold discipline issues so the senior never has to.
-- Pulse: assure juniors the 1–10 question is not a grade and nobody is in trouble for a low number. A junior who writes "4 — I keep thinking about practice" has given the team gold.
+## The veterans
 
-## **Senior teens (15–18)**
+Tonight one of their own is at the front. That changes the room for every member in it, whether they are leading or watching.
 
-Tonight one of their own is at the front. That changes the room for every senior in it, whether they are leading or watching.
+- The members not leading tonight are watching their own future — several of them will take a later slot. Name it privately: “Watch how this goes. Your slot is coming.”
+- Watch for the member who competes with the leader — the too-sharp Observe, the show-off Apply. Redirect to specificity, which is humbling in the right way.
+- Tell step: veterans still hesitate to claim God said something specific. Same gentle affirmation as Week 7 — “what you heard counts even if you’re not 100% sure it was Him.”
+- Pulse: the most useful Q3 answers come when pushed past “participate more.” Ask for behavior: what, when, how often.
 
-## Adjustments
+## The ordained and the staff
 
-- The seniors not leading tonight are watching their own future — several of them will take Week 10 or Week 13. Name it privately: "Watch how this goes. Your slot is coming."
-- Watch for the senior who competes with the leader — the too-sharp Observe, the show-off Apply. Redirect to specificity, which is humbling in the right way.
-- Tell step: seniors still hesitate to claim God said something specific. Same gentle affirmation as Week 7 — "what you heard counts even if you're not 100% sure it was Him."
-- Pulse: seniors give the most useful Q3 answers when pushed past "participate more." Ask for behavior: what, when, how often.
+One of the cohort leading the room is, for some of the ordained, the most persuasive thing this series will ever show them about what the year is building.
 
-## **Parents**
-
-A teenager leading the room is, for some parents, the most persuasive thing this series will ever show them.
-
-## Adjustments
-
-- The hardest differentiation of the night: the leading senior's own parent is in the room. Brief them beforehand — no coaching from the circle, no beaming commentary, no rescue. Receive their teen's leadership like everyone else's.
-- Watch for parents who direct answers to the adults during the walk-through. Adults redirect with their eyes: look at the senior.
-- Pulse: parents' honest Q1 answers ("body in the room, mind on the mortgage") are exactly what the instrument is for. Say so.
-- The car-ride conversation after tonight — a parent telling their teen what they saw in the senior who led — is between-session gold. Suggest it.
+- The hardest differentiation of the night: the rotation leader’s spouse or closest colleague is in the room. Brief them beforehand — no coaching from the circle, no beaming commentary, no rescue. Receive the leadership like everyone else’s.
+- Watch for members who direct answers to the Companions during the walk-through. The Companions redirect with their eyes: look at the rotation leader.
+- Pulse: honest Q1 answers (“body in the room, mind on the mortgage”) are exactly what the instrument is for. Say so.
+- The ride-home conversation after tonight — a member telling their spouse what they saw in the one who led — is between-session gold. Suggest it.
 
 # **Closing Practice in Detail**
 
@@ -356,7 +349,7 @@ Frame the Pulse not as a survey but as a small act of the same honesty the serie
 
 ### **Layer 3 — The Aaronic blessing**
 
-Same as prior weeks — spoken tonight by the Companion-in-Formation, which is its own quiet milestone.
+Same as prior weeks — spoken tonight by the rotation leader, which is its own quiet milestone.
 
 # **Between-Session Practice**
 
@@ -370,23 +363,23 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 
 ### **Signs the session worked**
 
-- The senior led all six steps within a few minutes of the card's timings, and led people *through* the practice rather than talking *about* it — specifically, the Apply coaching pushed for specifics.
-- The cohort answered to the senior, not to the adults. Eyes stayed forward.
+- The rotation leader led all six steps within a few minutes of the card's timings, and led people *through* the practice rather than talking *about* it — specifically, the Apply coaching pushed for specifics.
+- The cohort answered to the rotation leader, not to the adults. Eyes stayed forward.
 - Tell-step contributions were specific and varied — and at least one was costly. Note who.
 - The Pulse went out cleanly: every hand, framed without apology, return point clear.
-- The Leader Feedback Round ran in order and the senior received both halves without inflating or collapsing.
+- The Leader Feedback Round ran in order and the rotation leader received both halves without inflating or collapsing.
 
 ### **Signs the session did not work**
 
-- The senior lectured — long explanations, short silences, cohort watching instead of working.
-- The room deferred to the adults; the walk-through was teen-fronted but adult-led.
+- The rotation leader lectured — long explanations, short silences, cohort watching instead of working.
+- The room deferred to the Companions; the walk-through was member-fronted but Companion-led.
 - The daily-practice check-in surfaced near-total drop-off and it was met with guilt rather than a fresh start.
 - The Pulse was rushed or apologized for ("if you have time..."). It is not optional homework; it steers seven weeks.
 
-### **The senior's debrief (separate, within 48 hours)**
+### **The rotation leader's debrief (separate, within 48 hours)**
 
 - How did the full lead go from the inside — specifically the Apply coaching? Could they push for specificity without prying?
-- What did the room do in the first ten seconds when something went sideways — and what did the senior do? (There is always a sideways moment. Find it and mine it.)
+- What did the room do in the first ten seconds when something went sideways — and what did the rotation leader do? (There is always a sideways moment. Find it and mine it.)
 - Did the handoff rehearsal hold, or was it never tested? If never tested, re-drill it anyway before Week 10.
 - What to coach before their next lead: Week 10 is Garden of Your Heart II — a guided interior exercise, a much bigger lift than a scripted practice. Name one growth edge from tonight and build the Week 10 coaching around it.
 
@@ -394,17 +387,17 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 
 - Anyone the halfway framing or the Pulse visibly landed on. Offline within 48 hours.
 - Anyone whose daily practice is at zero and who seemed exposed by the check-in. Fresh-start conversation, no shame.
-- The senior's parent — a two-minute word about what the team saw in their teen.
+- The rotation leader's spouse, if they are in the cohort — a two-minute word about what the team saw in the one who led.
 
 # **Handouts**
 
-Three handouts for Week 8. The facilitation card is for the Companion-in-Formation; the worked example and the Pulse are for every participant.
+Three handouts for Week 8. The facilitation card is for the rotation leader; the worked example and the Pulse are for every participant.
 
-- H8.1 — Companion-in-Formation's PROAPT Facilitation Card (cardstock, the senior's copy plus a spare)
+- H8.1 — rotation leader's PROAPT Facilitation Card (cardstock, the rotation leader's copy plus a spare)
 - H8.2 — Mark 2:1–12 Worked Example (with space to write each step)
 - H8.3 — The Mid-Series Pulse (one page, every participant, returns at the Week 9 door)
 
-**Handout H8.1 — The Companion-in-Formation's PROAPT Facilitation Card**
+**Handout H8.1 — The rotation leader's PROAPT Facilitation Card**
 
 *Print on cardstock. This is your card for the walk-through. The timings keep you honest; the one-liners keep you moving. Fewer words, more silence. You are leading people through the practice, not teaching about it.*
 
