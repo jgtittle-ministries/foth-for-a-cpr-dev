@@ -12,7 +12,7 @@ Week 10
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 10
 
 **Connect focus.** Mission (deepened) — apex. The work that the entirety of Going Deeper has built toward, for ONE member tonight. The cohort’s capacity to do this work for one member is itself a sign of formation maturity.
 
-**Mode.** Whole-room. No cohort split. The whole cohort sits as one circle with the Discerner’s chair in the centre, similar to Wk 7’s geometry but with longer listening time and a possible commissioning moment.
+**Mode.** Whole-room. No circle split. The whole cohort sits as one circle with the Discerner’s chair in the centre, similar to Wk 7’s geometry but with longer listening time and a possible commissioning moment.
 
 **Center.** The Discerner’s emerging calling. NOT ‘what should I do with my life’ — a specific direction the Discerner has been sensing (a job, a ministry, a place, a role, a specific setting-apart). The cohort’s job is to listen FOR the Discerner; speak back humbly what they heard; weigh together with the Discerner whether the Spirit is confirming or correcting. If the discernment converges, the cohort may lay hands and bless the sending.
 
@@ -52,7 +52,7 @@ Week 10
 
 **The Discerner who shifts the question mid-session. Possible. ‘What I came in to discern is shifting as the cohort listens.’ Honour. The Lead Companion may invite a brief pause in the surfacing for the Discerner to re-frame. Sometimes the listening reveals that the original question was the wrong question.**
 
-**Family-across-cohorts implications. If the Discerner’s calling has direct family implications (a teen choosing a college far from home; a parent considering a vocational change that affects the family; a parent considering a ministry that pulls from family time), pastoral 1:1 with all family members across cohorts within 48 hours.**
+**Household implications. If the Discerner’s calling has direct household implications (a vocational change that affects the family; a ministry that pulls from family time; a move), pastoral 1:1 with the household — spouse in the cohort or not — within 48 hours.**
 
 **The cohort hearing nothing for the Discerner. Possible and honest. ‘I listened; nothing specific surfaced for [Discerner’s name].’ The Lead Companion affirms; the Discerner integrates the cohort’s honest silence as data. Hearing nothing is not the cohort failing the Discerner; it may be the Spirit’s timing.**
 
@@ -74,11 +74,11 @@ Week 10
 
 **If the Discerner’s calling involves leaving the cohort’s church or community. Receive humbly. The cohort cannot retain a calling that is sending. Pastoral support for the Discerner; pastoral support for the broader community as the Discerner integrates.**
 
-**If a teen Discerner’s calling involves significant separation from family (college far away, a ministry plan parents are concerned about). The teen’s parent in another cohort hears it in real time. Pre-handled per the team pre-meet protocol; pastoral 1:1 with the family within 48 hours.**
+**If the Discerner’s calling involves significant separation (a move, a ministry plan their spouse has concerns about) and the spouse hears it named in real time. Pre-handled per the team pre-meet protocol; pastoral 1:1 with the couple within 48 hours.**
 
 **If after the listening and surfacing, the cohort’s contributions converge on the Discerner stopping or postponing the calling rather than walking into it. Lead Companion names this honestly. ‘What we heard was the Spirit’s confirmation that this direction is not now; the Discerner integrates this with weight.’ Pastoral 1:1; the Discerner is not abandoned because the calling did not get confirmed.**
 
-**Default. Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold.**
 
 **Session at a Glance**
 
@@ -88,7 +88,7 @@ Acts 13:1–3 names what is, structurally, the most significant moment in the es
 
 From Vol 4 (and the MSFIG group taxonomy): this is Level 5 group formation. A body that hears the Spirit speak about specific members of the body, weighs what was heard, and acts on it. Acts 13 is the New Testament archetype of corporate calling discernment. Acts 15 (the Jerusalem Council) is the related case where the body discerns a doctrinal question through the same architecture — they listened to what God had been doing, weighed scripture, and concluded ‘it has seemed good to the Holy Spirit and to us.’ Both texts assume the body has the capacity to discern together.
 
-Wk 10 attempts the Antioch architecture for ONE cohort member — the Discerner — whose emerging calling is at a discernment point. The pilot cohort is unlikely to be at Level 5 sustainably; we are attempting it tonight for one specific moment. The honest aim is to enact the architecture, with humility about what we can produce — and to give the Discerner a real corporate moment of discernment that will inform their integration over the following weeks.
+Wk 10 attempts the Antioch architecture for ONE cohort member — the Discerner — whose emerging calling is at a discernment point. A first cohort is unlikely to be at Level 5 sustainably; we are attempting it tonight for one specific moment. The honest aim is to enact the architecture, with humility about what we can produce — and to give the Discerner a real corporate moment of discernment that will inform their integration over the following weeks.
 
 The choice of Discerner is significant. This is the highest-stakes volunteer slot in Going Deeper. Two protocols for selecting the Discerner are described in Pre-Work below; the team picks the one that fits the pilot cohort and the specific Discerners available.
 
@@ -130,13 +130,13 @@ Wk 10 needs ONE pre-briefed Discerner. The team uses one of the two protocols be
 
 ## PROTOCOL A — Team identification (default for first-pilot cohorts)
 
-**The Cohort Companions identify, at the Wk 9 pre-meet, one or two prospective Discerners per cohort whose emerging calling is at a discernment point. Same five readiness signals as the Wk 7 Bringer Selection Worksheet (see Addenda Section E), but with two additional Wk 10-specific signals:**
+**The Cohort Companions identify, at the Wk 9 pre-meet, one or two prospective Discerners per circle whose emerging calling is at a discernment point. Same five readiness signals as the Wk 7 Bringer Selection Worksheet (see Addenda Section E), but with two additional Wk 10-specific signals:**
 
 **ADDITIONAL SIGNAL ONE — the calling is real and currently at a decision-point, not vague or future. The Discerner is sensing a specific direction in the next 3–9 months: a job change, a degree, a ministry, a place, a specific setting-apart. ‘I might do something different someday’ is not Wk 10.**
 
-**ADDITIONAL SIGNAL TWO — the cohort can hold what surfaces. The Discerner’s calling can be received by the cohort without significant relational rupture among other members. A teen Discerner whose calling involves leaving home far away — this is real and the cohort can hold it. A parent Discerner whose calling is a marital separation that has not yet been disclosed — this is bigger than the cohort can hold and pastoral support is the architecture, not corporate listening prayer.**
+**ADDITIONAL SIGNAL TWO — the cohort can hold what surfaces. The Discerner’s calling can be received by the cohort without significant relational rupture among other members. A Discerner whose calling involves leaving a long-held role — this is real and the cohort can hold it. A Discerner whose calling is a marital separation that has not yet been disclosed — this is bigger than the cohort can hold and pastoral support is the architecture, not corporate listening prayer.**
 
-**The team selects ONE Discerner across the three cohorts. The Cohort Companion who knows the Discerner best holds primary discernment. The selected Discerner is contacted by Saturday with the invitation; pre-brief by Monday evening; final confirmation Tuesday morning.**
+**The team selects ONE Discerner across the circles. The Cohort Companion who knows the Discerner best holds primary discernment. The selected Discerner is contacted by Saturday with the invitation; pre-brief by Monday evening; final confirmation Tuesday morning.**
 
 ## PROTOCOL B — Self-nomination via Volunteer Application (advanced or returning cohorts)
 
@@ -162,7 +162,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 **4.** Walk the run sheet. The geometry tonight is the centre-chair geometry of Wk 7 with longer listening time and a possible commissioning moment. The Lead Companion and the Cohort Companion who pre-briefed the Discerner sit closest to the centre. Confirm. (15 min)
 
-**5.** Family-across-cohorts review. If the Discerner’s calling has direct family implications for someone in another cohort, the team plans the cross-cohort pastoral conversation for after Tuesday. (10 min)
+**5.** Household review. If the Discerner’s calling has direct household implications for someone else in the cohort — a spouse above all — the team plans the pastoral conversation for after Tuesday. (10 min)
 
 **6.** Commissioning protocol decision. Tonight’s laying-on-of-hands is contingent on convergence; the team rehearses both outcomes — convergence with commissioning, and non-convergence with integration-only — so the Lead Companion does not improvise. (10 min)
 
@@ -184,13 +184,13 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs with the Discerner’s chair in the geometric centre and the Lead Companion’s chair beside it.
+**•** Confirm room layout: ONE large circle — a chair for every member — with the Discerner’s chair in the geometric centre and the Lead Companion’s chair beside it.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs, with the Discerner’s chair in the geometric centre and the Lead Companion’s chair beside it (forming the centre dyad).
+**•** Chairs in ONE large single circle, one per member, with the Discerner’s chair in the geometric centre and the Lead Companion’s chair beside it (forming the centre dyad).
 
 
 **•** Personal Heart Journals.
@@ -222,7 +222,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 | T-90 min | Lead Companion does final 15-min check-in with the Discerner. | Lead Companion + Discerner |
 | T-60 min | Team gathers. Final prayer. | All Companions |
 | T-30 min | Set up. Place handouts. Confirm centre chair. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -231,7 +231,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight enacts Acts 13.’ |
 | 7:07–7:15 | Block 2: Wk 9 landing (one word) | Shared circle | Lead Comp | ONE word about the shadow noticing this week. |
 | 7:15–7:29 | Block 3: Acts 13 + Antioch teaching | Shared circle | Lead Comp | Read Acts 13:1–3. Walk the four-element architecture. Frame the Discerner’s presence. |
@@ -239,7 +239,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 | 7:37–7:59 | Block 5: Silent intercession + listening for the Discerner | Shared circle (silent) | Lead Comp | 22 min. Hold full time. Cohort listens FOR the Discerner. |
 | 7:59–8:12 | Block 6: Surfacing — what the cohort heard for the Discerner | Shared circle | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
 | 8:12–8:19 | Block 7: Discerner integration + possible commissioning | Shared circle | Lead Companion + Discerner | Discerner weighs aloud what surfaced. If convergence: laying-on-of-hands and blessing. If not: integration-only. |
-| 8:19–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Standing-pair check-in. |
+| 8:19–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp | Each member journals what they did NOT speak. Standing-pair check-in. |
 | 8:23–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 11 (cohort assessment). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -416,7 +416,7 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 **If the cohort’s contributions converged BUT the Discerner is not ready: integration-only. The Discerner’s readiness, not the cohort’s convergence, is the discriminator. Do not pressure into commissioning.**
 
 **Block 8 — Between-Session Practice (8:19–8:23, 4 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -447,51 +447,47 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Each cohort’s members listen and contribute as part of the whole-room body. The Cohort Companions read their own cohort’s members across the session and follow up offline as needed.*
+*Tonight there is no circle split. The room’s members listen and contribute as one body. The Cohort Companions read their circles’ members across the session and follow up offline as needed.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often hear concrete impressions for the Discerner — a specific image, a specific phrase, a specific encouragement. Concrete is good; the Lead Companion does not push juniors to abstract their hearing.**
-
-**Watch for: junior teens whose contribution is about themselves rather than the Discerner. Redirect: ‘What did you hear FOR [Discerner’s name]?’**
-
-**Watch for: junior teens who are activated by the Discerner being a parent in another cohort (or vice versa). The pre-meet has handled this; Cohort Companion sits beside the activated teen during the silent listening.**
-
-**Watch for: junior teens for whom the silent listening is destabilizing. The 22-minute silence is significantly longer than they have practiced; Cohort Companion follow-up offline within 24 hours.**
-
-**Watch for: junior teens who find the laying-on-of-hands moment unfamiliar. If commissioning happens, the Cohort Companion invites participation gently — juniors can lay hands too, with no obligation. The architecture is open to all members.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often hear vocational and identity impressions for the Discerner — connections to college, career, identity formation, relationships. These can be sharp.**
+**First-timers often hear concrete impressions for the Discerner — a specific image, a specific phrase, a specific encouragement. Concrete is good; the Lead Companion does not push anyone to abstract their hearing.**
 
-**Watch for: the senior whose contribution is generationally projected (‘our generation needs to\_\_\_\_\_’). Redirect to specific Discerner: ‘What did you hear specifically for [Discerner’s name]?’**
+**Watch for: the member whose contribution is about themselves rather than the Discerner. Redirect: ‘What did you hear FOR [Discerner’s name]?’**
 
-**Watch for: the senior whose own calling discernment is acute and is activated by witnessing the Discerner’s. The Wk 10 work for the Discerner becomes formation work for the senior; pastoral 1:1 within the week.**
+**Watch for: the member for whom the silent listening is destabilizing. The 22-minute silence is significantly longer than the cohort has practiced; Cohort Companion follow-up offline within 24 hours.**
 
-**Watch for: the senior whose contribution sounds prophetic and certain. ‘God told me you should \_\_\_\_\_.’ Receive humbly; redirect to humble form: ‘what came to me was, in your own words.’ Senior teen prophetic certainty often reveals more about the senior than about the Discerner.**
+**Watch for: the member who finds the laying-on-of-hands moment unfamiliar. If commissioning happens, the Cohort Companion invites participation gently — anyone can lay hands, with no obligation. The architecture is open to all members.**
 
-**Watch for: the senior whose contribution names a specific path the senior is currently considering for themselves. Receive without commenting. Pastoral support if the senior is using the Wk 10 listening to test their own emerging calling.**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often hear long-arc impressions for the Discerner — connections to family-of-origin, life-stage, vocation history. The Lead Companion weights parental contributions equally with senior teen and junior teen contributions; calling discernment does not privilege parental experience.**
+**Veterans often hear vocational and identity impressions for the Discerner — connections to role, season, relationships. These can be sharp; let the Discerner weigh them.**
 
-**Watch for: the parent whose contribution is parental advice dressed as hearing. ‘What I heard is that you should reconsider the timing.’ Redirect: ‘Speak humbly: what came to you for [Discerner’s name]?’ Sometimes parental wisdom IS the hearing; sometimes it is the parent’s own concern. The architecture sorts this through humility of form.**
+**Watch for: the veteran whose own calling discernment is acute and is activated by witnessing the Discerner’s. The Wk 10 work for the Discerner becomes formation work for the witness; pastoral 1:1 within the week.**
 
-**Watch for: the parent whose own teen-in-the-cohort’s calling is implied by the Discerner’s calling. ‘If [Discerner] does X, my own teen is going to want to do something similar.’ Hold privately; pastoral 1:1 if welcomed.**
+**Watch for: the veteran whose contribution sounds prophetic and certain. ‘God told me you should \_\_\_\_\_.’ Receive humbly; redirect to humble form: ‘what came to me was, in your own words.’ Prophetic certainty often reveals more about the speaker than about the Discerner.**
 
-**Watch for: the parent who is the spouse of the Discerner. Pre-handled per the team pre-meet protocol — in many cases, a married Discerner has the spouse’s explicit consent before bringing the calling into the cohort, and the spouse remains a silent witness during the surfacing.**
+**Watch for: the veteran whose contribution names a specific path the veteran is currently considering for themselves. Receive without commenting. Pastoral support if they are using the Wk 10 listening to test their own emerging calling.**
 
-**Watch for: the parent whose Wk 10 listening produces clarity about their OWN calling. The cohort’s formation work for the Discerner is also each member’s formation. Pastoral 1:1 if the parent is sensing a parallel discernment.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often hear long-arc impressions for the Discerner — connections to family-of-origin, life-stage, vocation history. The Lead Companion weights these contributions equally with everyone else’s; calling discernment does not privilege office or experience.**
+
+**Watch for: pastoral counsel dressed as hearing. ‘What I heard is that you should reconsider the timing.’ Redirect: ‘Speak humbly: what came to you for [Discerner’s name]?’ Sometimes seasoned wisdom IS the hearing; sometimes it is the counselor’s own concern. The architecture sorts this through humility of form.**
+
+**Watch for: the leader who hears the church’s interests in the Discerner’s calling (‘if [Discerner] goes, who leads their ministry?’). The organizational question is real and belongs at another table. Tonight the body listens for the Discerner, not for the org chart.**
+
+**Watch for: the member who is the spouse of the Discerner. Pre-handled per the team pre-meet protocol — a married Discerner has the spouse’s explicit consent before bringing the calling into the cohort, and the spouse remains a silent witness during the surfacing.**
+
+**Watch for: the leader whose Wk 10 listening produces clarity about their OWN calling. The cohort’s formation work for the Discerner is also each member’s formation. Pastoral 1:1 if a parallel discernment is sensed.**
 
 **Closing Practice in Detail**
 
@@ -563,7 +559,7 @@ The team meets the day after Wk 10 for a 75-minute debrief — longer than stand
 
 **•** Anyone whose contribution surfaced material larger than the Wk 10 surfacing round could hold. Brief warm contact + standing pair conversation.
 
-**•** Any teen whose parent is the Discerner (or vice versa). Family-across-cohorts pastoral support.
+**•** Any member whose spouse is the Discerner. Household pastoral support.
 
 **•** Any participant whose own calling discernment was activated by witnessing the Discerner’s. Pastoral support if welcomed.
 
