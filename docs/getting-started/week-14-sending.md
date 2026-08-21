@@ -181,7 +181,6 @@ The team sends an email to all families one week before Week 14 with the followi
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:00–6:30 | Arrival window with food | Open mingling | All Companions | Visiting family welcomed at door, oriented, paired with familiar Companion. |
 | 6:30–6:45 | Block 1: Welcome and integration teaching | Shared circle | Lead Comp | Aaronic blessing. Frame the night. Brief integration teaching: the four Connects, what we have done. |
 | 6:45–6:55 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief commissioning. Q&A from families. |
 | 6:55–7:05 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |

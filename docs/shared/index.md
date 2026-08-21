@@ -1,5 +1,7 @@
 # Shared participant materials
 
+*Adult year: these cards still speak in the family edition’s register in places — read them through the [Adult Register Key](../adult-register-key.md), and trust the [Leadership Year Handbook](../leadership-year-handbook.md) where they differ.*
+
 The participant-facing artifacts used across all three Fellowship of the Heart series. Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
 
 ---

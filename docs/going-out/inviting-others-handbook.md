@@ -14,6 +14,10 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *John G. Tittle • Curriculum draft v1, May 2026*
 
+!!! note "Adult-edition seed notice"
+
+    This handbook is carried from the family edition as seed material. In the adult year, the [Leadership Year Handbook](../leadership-year-handbook.md) governs wherever the two differ, and the [Adult Register Key](../adult-register-key.md) says how to read family-edition language until this file's adult rewrite lands. In particular, the minors-safeguarding apparatus applies only where minors are present; the adult year's safeguarding frame is the Leadership Year Handbook, with counsel review belonging to the entry gate.
+
 # A Letter to the Companion
 
 Welcome to Inviting Others.

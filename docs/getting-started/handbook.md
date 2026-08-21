@@ -16,6 +16,10 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *John G. Tittle • Curriculum draft v2, May 2026*
 
+!!! note "Adult-edition seed notice"
+
+    This handbook is carried from the family edition as seed material. In the adult year, the [Leadership Year Handbook](../leadership-year-handbook.md) governs wherever the two differ, and the [Adult Register Key](../adult-register-key.md) says how to read family-edition language until this file's adult rewrite lands. In particular, the minors-safeguarding apparatus applies only where minors are present; the adult year's safeguarding frame is the Leadership Year Handbook, with counsel review belonging to the entry gate.
+
 # A Letter to the Companion
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
@@ -147,12 +151,12 @@ For Companions who want to trace each session back to the IJH source. The claim 
 
 ## Who this is for
 
-The Getting Started series is designed for teens and parents from Covenant Christian Academy of Warrenton and the broader CCA community. The expected mix:
+The adult edition of Getting Started is designed for a church leadership cohort walking the leadership-first challenge: the adults a host church has commissioned to test this work on themselves before offering it to their families. The expected mix:
 
-- Teens, ages 12–18, attending with at least one parent (or grandparent or legal guardian acting in loco parentis).
-- Most teens will already identify as Christian; some will not, and that is not a barrier to participation. The series invites without coercing.
-- A wide range of formation maturity. Some teens will be at Affective Taxonomy Level 1 (showing up because Mom said). Some will already be at Level 3 (asking the questions on their own). Both belong.
-- Parents at varying levels of formation themselves. We design for the parent who has never done this kind of interior work, and we leave room for the parent who has.
+- Adults, commissioned by their church's covering, attending as themselves rather than as staff on duty. Titles come off at the door.
+- Most will already identify as mature believers; the series still invites without coercing, and the honest skeptic in a leadership chair is as welcome here as anywhere in this work.
+- A wide range of formation maturity, and that is the point: a room of fifty-year-olds is still a young room in September. Some arrive having never done this kind of interior work; some arrive having done much. Both belong, and the ladder reads the room, not the résumé.
+- Leaders at varying comfort with being led. This year asks the shepherds to be sheep first, and for some that will be the hardest practice in the series.
 
 ## Group size
 
@@ -166,6 +170,8 @@ The Getting Started series is designed for teens and parents from Covenant Chris
 | Total Companions required | 3–4 | See Section 3 for the team structure. |
 
 ## Junior and senior cohorts
+
+*Adult edition: there are no age cohorts — circles form per the [Adult Register Key](../adult-register-key.md), and their composition, including the single-gender question, is the host church’s call. The section below is the family edition’s design, kept as seed.*
 
 A 12-year-old and an 18-year-old are not the same audience. The curriculum splits them for cohort-specific work and brings them together for shared content.
 
@@ -187,6 +193,8 @@ As a general rule:
 Each session’s lesson plan specifies the mode (split vs. merged) for each block. Do not improvise this on the fly.
 
 ## The parent dimension
+
+*Adult edition: members’ households are the life this year forms people for, not the room’s configuration — read per the [Adult Register Key](../adult-register-key.md). The section below is the family edition’s design, kept as seed.*
 
 The parent role in this series is the design choice with the highest leverage and the greatest risk.
 
@@ -264,14 +272,14 @@ This series is the youth-and-parent on-ramp to the IJH journey. Every session dr
 - The Affective Taxonomy as the developmental backbone (Receiving → Responding → Valuing → Organization → Characterization).
 - Scripture as the floor. Every session is anchored in a specific passage; the IJH framework is offered as one way of seeing what scripture is showing us, not as the source of authority.
 
-## Respectful of CCA
+## Respectful of the host church
 
-Covenant Christian Academy is a classical Christian school in the Reformed-evangelical tradition. The Getting Started series is hosted in that environment and should be a good guest. We:
+Every run of this series lives inside a real congregation with a real tradition, and the series should be a good guest there. We:
 
 - Teach within a high view of scripture and historic Christian orthodoxy. The Apostles’ and Nicene Creeds are the doctrinal floor.
 - Do not require participants to embrace the more speculative or experiential elements of IJH (Volume 1’s resonance laws, much of Volume 3) to engage well. Where IJH overlaps cleanly with mainstream evangelical formation — storytelling, scripture engagement, confession, community, prayer — we lean there.
-- Introduce the experiential practices (Garden of Your Heart, Any Doubts?, the simplified hearing prayer in Week 8) gently and with explicit parent informed consent. These are invitations, not requirements.
-- Defer to the school’s policies on disputed theological questions. Where IJH and the school’s tradition differ on, e.g., the contemporary operation of certain spiritual gifts, we present scripture and trusted Christian voices on multiple sides and let participants and their families discern.
+- Introduce the experiential practices (Garden of Your Heart, Any Doubts?, the hearing prayer) gently and with each member’s own informed consent. These are invitations, not requirements — nothing in the year is demanded.
+- Defer to the covering on disputed theological questions. Where IJH and the host church’s tradition differ on, e.g., the contemporary operation of certain spiritual gifts, we present scripture and trusted Christian voices on multiple sides and let the cohort and its covering discern.
 
 ## What we lean into
 

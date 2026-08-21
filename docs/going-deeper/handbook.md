@@ -954,6 +954,10 @@ Both partners initial: \_\_\_\_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_\_\_\_ Date: \_\
 
 *The Rhythm Card is the practical architecture of endurance. The looking-to-Jesus is the practice. The race is the formation walking out across years and decades.*
 
+!!! note "Adult-edition seed notice"
+
+    This handbook is carried from the family edition as seed material. In the adult year, the [Leadership Year Handbook](../leadership-year-handbook.md) governs wherever the two differ, and the [Adult Register Key](../adult-register-key.md) says how to read family-edition language until this file's adult rewrite lands. In particular, the minors-safeguarding apparatus applies only where minors are present; the adult year's safeguarding frame is the Leadership Year Handbook, with counsel review belonging to the entry gate.
+
 # Appendix G — Integrated v1.2 Addenda
 
 *The five sections below originated as a separate Addenda Pack v1.2 (Tell Buddies, Triad Variants, Pilot Referral List, Onboarding Evening 1 Story-Share, Bringer Selection Worksheet) and were developed during the Wks 4–6 build cycle. They are now integrated here as Appendix G of the Master Handbook. Each section names the Master Handbook section into which it slots when the team uses the content; the integration is structural (the content lives here as the canonical source) and the section-by-section guidance below tells you which Handbook section each addendum applies to.*
