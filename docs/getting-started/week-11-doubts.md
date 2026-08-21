@@ -12,7 +12,7 @@ Week 11
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -46,8 +46,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Performative doubts. “I doubt that God exists” is rarely the real one. The real ones are smaller and more personal: “I doubt God actually likes me.” “I doubt He hears prayer about my brother.” Push gently for specificity.
 - The participant who insists they have no doubts. Honor it. Do not press. The practice does not require finding a doubt; it requires honesty. “I don’t notice any right now” is a complete answer.
 - Theologizing-in-the-circle. Partners will want to fix doubts with answers. The practice is not apologetics. The partner’s job is to receive, exaggerate gently, and re-read the scripture. Frame this explicitly.
-- Junior teens drifting into hypotheticals. “What if dinosaurs?” Redirect: “One thing you say you believe, that something in you isn’t fully sure about. Not a debate question — a heart question.”
-- Parents importing apologetics-class instincts. Especially in CCA’s context, parents may feel responsible to argue their children out of doubts. The Any Doubts? practice is the opposite of that. The team must model receiving without arguing.
+- Drifting into hypotheticals and debate questions. Redirect: “One thing you say you believe, that something in you isn’t fully sure about. Not a debate question — a heart question.”
+- Importing apologetics-class instincts. Leaders especially may feel responsible to argue a partner out of doubts — it is what they are trained for. The Any Doubts? practice is the opposite of that. The team must model receiving without arguing.
 - The doubt that surfaces is bigger than the exercise. Sometimes the named doubt is the door to a deeper unbelief. The Cohort Companion does not chase it tonight; they bless the naming and follow up offline.
 
 ## CRISIS CONTINGENCIES (Week 11)
@@ -58,7 +58,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If a participant becomes distressed during the exaggeration step.** Stop the exaggeration. Re-read the scripture. Sit with the participant. The exercise is not therapy; we do not push past distress.
 
-**If a teen surfaces material that suggests trauma underneath the doubt.** Receive. Bless. Do not interpret. Section 6 protocol if it crosses the safety threshold. Pastoral 1:1 within the week.
+**If a member surfaces material that suggests trauma underneath the doubt.** Receive. Bless. Do not interpret. The safeguarding frame if it crosses the safety threshold. Pastoral 1:1 within the week.
 
 **If you, the Companion, find yourself in a doubt of your own during the exercise.** That is not a disqualification. It is data. Continue facilitating. Bring your own doubt to the team debrief.
 
@@ -96,7 +96,7 @@ Write down five scriptures you say you believe. “God is good.” “He will pr
 
 Then run the practice on yourself. Read the scripture. Notice the doubt. Name it specifically. Exaggerate it. Sit with the feeling. Re-read the scripture. Notice what shifts. Two or three cycles. Journal what happens.
 
-Do not skip this. The teens will know within thirty seconds whether you have done your own version of what you are about to ask them to do.
+Do not skip this. The room will know within thirty seconds whether you have done your own version of what you are about to ask them to do.
 
 ## **Team pre-work**
 
@@ -139,9 +139,8 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 ## Pairing principles
 
 - Pair within the cohort, not across cohorts.
-- In the parent cohort: do not pair spouses with each other. Pair each parent with another parent.
-- In the senior cohort: avoid pairing dating couples or close best-friends if possible. Some emotional separation makes the practice work better.
-- In the junior cohort: pair across friendship groups when possible. Two best friends doing this together can drift into giggles or self-protection.
+- Do not pair spouses with each other, and avoid pairing closest friends or long-standing ministry partners where possible. Some emotional separation makes the practice work better.
+- Pair across the cohort’s natural clusters — staff with lay, veteran with newer. The slight stretch serves the honesty.
 - If a cohort has an odd number, the Cohort Companion pairs with one participant and another participant joins as a third (a triad of three works — the third person is a silent witness who reads the scripture aloud each time).
 
 ### **Pre-session preparation timeline**
@@ -152,7 +151,7 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 | Day before | Walk every space. Confirm pair groupings. | Lead Comp |
 | T-45 min | Team gathers. Walk crisis scenarios. Pray for each participant. | All Companions |
 | T-30 min | Each Cohort Companion preps their cohort space. Handouts placed. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-15 min | Door opens. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
@@ -161,7 +160,7 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags, phone-box. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
 | 7:07–7:17 | Block 2: Practice hold re-entry — the what-held round | Shared circle | Lead Comp | Visits kept and missed; the quiet weeks; anything heard, not yet told. |
 | 7:17–7:27 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
@@ -169,7 +168,7 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 | 7:35–7:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
 | 7:38–8:13 | Block 6: Any Doubts? in pairs | Cohort circles → pairs | Cohort Facs | Each pair runs 2–3 cycles, alternating roles. 35 min. |
 | 8:13–8:20 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
-| 8:20–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
+| 8:20–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp | Personal Doubts Inventory: one page in journal this week. |
 | 8:23–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Week 12. |
 
 # **Block-by-Block: Scripts and Notes**
@@ -263,7 +262,7 @@ Watch for: the demo is the most important three minutes of the night. The cohort
 
 *“Pray with me. Father, you knew the father in Mark 9 was honest. We come honestly tonight too. Where there is unbelief in us we have not named, give us courage to name it. Where there is faith we have not yet trusted, breathe on it. Help our unbelief. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
+*“[Name]’s circle, this side. [Name]’s circle, that side. Thirty-five minutes. Go.”*
 
 ## **Block 6 — Any Doubts? in Pairs (7:38–8:13, 35 min)**
 Each cohort circle splits into pairs. The Cohort Companion floats between pairs, observes, intervenes only when needed.
@@ -346,7 +345,7 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*
 
-*“One note: next Tuesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
+*“One note: next week is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the household blessing night and the commissioning. Plan to bring your households to the first of those. We are heading toward the sending.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
@@ -356,39 +355,25 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 # **Differentiation by Cohort**
 
-## **Junior teens (12–14)**
+## Those doing this work for the first time
 
-## Adjustments
+- Watch for drifting into hypotheticals. Redirect to a heart-doubt: “Something you say you believe — about you, about God — that something inside you isn’t fully sure about.”
+- Watch for the member who insists they have no doubts and seems anxious about it. Affirm: “Only the most honest people I know name doubts. You’re in good company either way.”
+- Sample scriptures (H11.3): Psalm 139:14, Romans 8:38–39, 1 John 4:19, Matthew 11:28–30 remain good first texts.
 
-- The practice card for juniors uses simpler language and a shorter rhythm. The exaggeration step is softened to “say it stronger.” See Handout H11.1 (junior version).
-- Sample scriptures (H11.3) for juniors include shorter, more concrete texts: Psalm 139:14, Romans 8:38–39, 1 John 4:19, Matthew 11:28–30.
-- Pair turns are 5 minutes, not 7. Junior pair-work runs faster.
-- Watch for: junior teens drifting into hypotheticals (“what if dinosaurs”). Redirect to a heart-doubt: “Something you say you believe — about you, about God — that something inside you isn’t fully sure about.”
-- Watch for: silliness from pair partners. Two best friends can drift into giggles. The Cohort Companion may need to re-pair on the night if it’s clear a pairing isn’t holding.
-- Watch for: the junior teen who insists they have no doubts and seems anxious about it. Affirm: “Only the most honest people I know name doubts. You’re in good company either way.”
+## The veterans
 
-## **Senior teens (15–18)**
+- Sample scriptures (H11.3) include texts the seasoned often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 23:1, John 14:1–3, James 1:5, Philippians 4:6–7.
+- Watch for: the member who wants to debate their partner’s doubt. Redirect: “You’re not the apologetics class tonight. Read, listen, re-read.”
+- Watch for: the member whose doubt is bigger than the exercise. (“I’m not sure I believe any of this anymore.”) Receive without alarm — a leader saying this aloud has carried it alone a long time. The Companion does not chase it. The convening leader follows up within 48 hours. Real doubts of that scale deserve real conversation, and the door out is real.
+- Watch for: the member who performs honesty — a doubt that sounds impressive but is not actually theirs. Gently: “That sounds true in general. What’s the smaller, more personal version of that?”
 
-## Adjustments
+## The ordained and the staff
 
-- The practice card for seniors uses the full IJH language. See Handout H11.1 (senior version).
-- Sample scriptures (H11.3) include texts seniors often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 139:13–16, John 14:1–3, Romans 8:38–39, James 1:5.
-- Pair turns are 7 minutes.
-- Watch for: the senior who wants to debate their partner’s doubt. Redirect: “You’re not the apologetics class tonight. Read, listen, re-read.”
-- Watch for: the senior whose doubt is bigger than the exercise. (“I’m not sure I believe any of this anymore.”) Receive without alarm. The Cohort Companion does not chase it. Lead Companion follows up within 48 hours. Real doubts of that scale deserve real conversation.
-- Watch for: the senior who performs honesty — produces a doubt that sounds impressive but is not actually theirs. Gently: “That sounds true in general. What’s the smaller, more personal version of that?”
-
-## **Parents**
-
-## Adjustments
-
-- The practice card for parents uses the full adult IJH language. See Handout H11.1 (parent version).
-- Sample scriptures (H11.3) include texts midlife parents often quietly doubt: Romans 8:28, Philippians 4:6–7, Psalm 23:1, James 1:2–4, Matthew 6:33, Romans 5:3–5.
-- Pair turns are 7 minutes.
-- Watch for: the parent who imports apologetics. “You know, scholars have shown that \_\_\_\_\_.” Redirect: “You are not the answer-man tonight. You are the witness.”
-- Watch for: the parent whose doubt centers on their child. “I doubt God will protect my daughter from \_\_\_\_\_.” This is real and appropriate; honor it. The pair partner just listens and re-reads.
-- Watch for: the parent who realizes mid-practice that they have been carrying a significant doubt about a specific painful event for years. The naming may be heavy. Cohort Companion stays close; Lead Companion follows up within the week.
-- In the parent cohort, the Cohort Companion may want to pre-name: “Tonight is not about converting your child’s doubts away. Tonight you are dealing with your own. The most useful thing you can do for your child’s faith is be honest about your own.”
+- Watch for: the member who imports apologetics. “You know, scholars have shown that \_\_\_\_\_.” Redirect: “You are not the answer-man tonight. You are the witness.”
+- Watch for: the member whose doubt centers on someone they love. “I doubt God will protect my daughter from \_\_\_\_\_.” This is real and appropriate; honor it. The pair partner just listens and re-reads.
+- Watch for: the member who realizes mid-practice that they have been carrying a significant doubt about a specific painful event — a church split, a death, an unanswered prayer — for years. The naming may be heavy. The Companion stays close; the convening leader follows up within the week.
+- The pulpit corollary, named at the debrief if it showed: some of the ordained have preached certainty over a private doubt for years. Tonight’s naming is the beginning of relief, not a crisis. Treat it that way.
 
 # **Closing Practice in Detail**
 
@@ -433,14 +418,14 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 
 - Anyone whose named doubt was clearly larger than the practice — a real crisis of faith. Pastoral 1:1 within the week.
 - Anyone who could not find a doubt and seemed troubled by it. Brief warm contact: “Sometimes the noticing happens later. Listen for it this week.”
-- Any parent whose named doubt centered on a painful family event. Pastoral 1:1 within the week if welcomed.
+- Any member whose named doubt centered on a painful event — a loss, a church season, an unanswered prayer. Pastoral 1:1 within the week if welcomed.
 - Anyone whose pair partner reported in debrief that the participant was struggling with the practice itself — not the doubt, the practice. Quiet check-in.
 
 # **Handouts**
 
 Three handouts for Week 11.
 
-- H11.1 — Any Doubts? Practice Card (junior, senior, and parent versions)
+- H11.1 — Any Doubts? Practice Card
 - H11.2 — Personal Doubts Inventory (between-session work)
 - H11.3 — Sample Scriptures (for participants who don’t have one in mind)
 
@@ -448,39 +433,13 @@ Three handouts for Week 11.
 
 *The four steps. Use this card during the pair work tonight, and any time afterward. Three versions on this page — use the one for your cohort.*
 
-## **Junior version (ages 12–14)**
-
-## The four steps
-
-**1. NAME. Your partner reads a scripture you picked. After they read, notice what stirs. If something inside you says ‘yes, but...’ — that’s the doubt. Say it out loud. Specific. “I doubt this applies to me.” Or, “I doubt God hears me when I pray about \_\_\_\_\_.”**
-
-**2. SAY IT STRONGER. Make the doubt bigger. Not smaller. “He doesn’t hear me at all.” This isn’t saying you believe it. It’s saying out loud what your heart has been quietly afraid of.**
-
-**3. FEEL IT. What does the doubt feel like in your body? Sad? Mad? Tired? Just sit with the feeling for a few seconds. Don’t try to make it go away.**
-
-**4. RE-READ. Ask your partner to read the scripture again. Slowly. Notice what is different now.**
-
-## **Senior version (ages 15–18)**
-
-## The four steps
-
-**1. NAME. Partner reads a scripture you have chosen — one you say you believe. After the read, notice what stirs. The flicker. “Yes, but...” That is the doubt. Name it specifically. “I doubt that this applies to me right now.” “I doubt that He hears prayer about my brother.” “I doubt that He is good toward me when I am tired.” Specific. Not abstract.**
-
-**2. EXAGGERATE. Counterintuitive but important. Make the doubt bigger. Say it stronger. “He doesn’t hear me at all. The years I prayed about that thing were a complete waste.” You are not endorsing the doubt. You are exposing it. The exaggeration moves it from a background hum to a foreground reality where the Spirit can address it.**
-
-**3. SIT. What does the doubt feel like in your body? Sad? Tired? Resigned? Sit with the feeling for ten or fifteen seconds. Don’t analyze it. Don’t fix it. Don’t spiritualize it. Feel it.**
-
-**4. RE-READ. Ask your partner to re-read the scripture. Slowly. Notice what is different. The Spirit does the work; you do the noticing. The doubt may not resolve in this round. That is fine.**
-
-## **Parent version**
-
 ## The four steps
 
 **1. NAME. Partner reads a scripture you have chosen. After the read, notice what stirs. The flicker beneath the assent. Name the doubt specifically. “I doubt that this works for the painful thing I have been carrying for fifteen years.” “I doubt that I am genuinely loved at the level my self-loathing is operating at.” “I doubt that He has actually been listening to my prayers about my marriage.” Specific.**
 
 **2. EXAGGERATE. Make it bigger. Say it strong. The professional self-management that has carried you through midlife is not what tonight is for. Strip it. “He has not been working that for good. He won’t.” The exaggeration is not a confession of disbelief. It is exposure of the brake.**
 
-**3. SIT. Feel it in your body. Many parents have been managing this kind of feeling for years without naming it. What is it? Grief? Anger? Tired resignation? Sit with it. Ten or fifteen seconds. Maybe longer.**
+**3. SIT. Feel it in your body. Many of us have been managing this kind of feeling for years without naming it. What is it? Grief? Anger? Tired resignation? Sit with it. Ten or fifteen seconds. Maybe longer.**
 
 **4. RE-READ. Partner re-reads. Slowly. Notice what is different. Often, the difference is not that the doubt is solved — it is that the scripture and the doubt are now in the room together, instead of the scripture in your mouth and the doubt buried.**
 
