@@ -124,7 +124,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **2.** Walk Acts 13:1–3. Read aloud once. Each Companion names one observation. (10 min)
 
-**3.** Cohort review. Each Cohort Companion brings their member-by-member private notes. The team holds these together; the Lead Companion looks for cross-cohort patterns. (25 min)
+**3.** Cohort review. Each Cohort Companion brings their member-by-member private notes. The team holds these together; the Lead Companion looks for cross-circle patterns. (25 min)
 
 **4.** Walk the run sheet. The circle split rhythm; the standing pair work first within each circle; the circle sharing around the room; the merge. Time pressure is real; team rehearses transitions. (15 min)
 

@@ -282,7 +282,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **If a member’s Tell crosses into harassment / abuse / conduct material: receive briefly without making it the cohort’s focus; pastoral 1:1 within 24 hours; refer to HR / institutional processes / law enforcement as appropriate.**
 
-**If a member’s contribution surfaces vocational discernment crisis: receive briefly; do not let the cohort space adjudicate; pastoral 1:1.**
+**If a member’s contribution surfaces vocational discernment crisis: receive briefly; do not let the room adjudicate; pastoral 1:1.**
 
 **If multiple members had no Tell or report vocational burnout: capture honestly. The cohort’s pattern is the cohort’s pattern.**
 

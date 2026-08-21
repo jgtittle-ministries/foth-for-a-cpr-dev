@@ -58,7 +58,7 @@ Week 7
 
 **The downhill-uphill confusion. From Vol 2: most members default to uphill mission language (‘what should I DO?’) rather than downhill (‘what does my presence in the third-place produce already?’). Tonight’s teaching introduces the distinction; Wk 8 will use it directly.**
 
-**Boundary uncertainty. A member’s third-place engagement raises questions about how much time, energy, or sustained attention to give a specific receiver. Pastoral 1:1; Going Out will not adjudicate boundary questions in the cohort space.**
+**Boundary uncertainty. A member’s third-place engagement raises questions about how much time, energy, or sustained attention to give a specific receiver. Pastoral 1:1; Going Out will not adjudicate boundary questions in the room.**
 
 ## CRISIS CONTINGENCIES (Week 7)
 

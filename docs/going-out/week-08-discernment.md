@@ -68,7 +68,7 @@ Week 8
 
 **If a member experiences acute distress during the discernment (the body landing on an engagement they cannot participate in; the body NOT landing on what the member needed it to land on; the cohort’s discernment surfacing a personal call the member is unprepared for). Receive the distress; pastoral 1:1 within 24 hours.**
 
-**If the cohort’s discernment surfaces material involving a specific population in need (a refugee community, a homeless-services partnership, a justice-related engagement) that requires institutional partnership: the cohort space discerns direction, not partnership specifics; pastoral / leadership conversation outside the session for partnership logistics.**
+**If the cohort’s discernment surfaces material involving a specific population in need (a refugee community, a homeless-services partnership, a justice-related engagement) that requires institutional partnership: the room discerns direction, not partnership specifics; pastoral / leadership conversation outside the session for partnership logistics.**
 
 **If a member’s pair-discerned possibility involves engagement beyond their household’s current capacity to absorb (overnight travel, financial commitment, geographic relocation): pastoral conversation outside the session — and a spouse’s own yes belongs in that conversation; the room honors the member’s discernment without making the household the obstacle.**
 
@@ -124,7 +124,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **2.** Walk Acts 13:1–3 and 1 Cor 14:29 together. Read aloud. Discuss the corporate-discernment architecture. (10 min)
 
-**3.** Cohort review. Each Cohort Companion reports what their circle’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-circle patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the cohort space tonight, not in the pre-meet. (20 min)
+**3.** Cohort review. Each Cohort Companion reports what their circle’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-circle patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the room tonight, not in the pre-meet. (20 min)
 
 **4.** Walk the run sheet carefully. Block 4 (contributions) and Block 5 (cohort weighing) are the architectural centre tonight; team rehearses how to hold weighing without driving toward a particular outcome. (20 min)
 
@@ -286,7 +286,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **If multiple members converge on similar contributions: capture without merging prematurely. The convergence is data the weighing block will engage.**
 
-**If a member contribution reveals concerning material (a personal calling beyond their capacity, a coercive dynamic with another cohort member, a politicized contribution that breaks the cohort’s peace): receive briefly; flag for pastoral 1:1 within 24 hours; do not adjudicate in the cohort space.**
+**If a member contribution reveals concerning material (a personal calling beyond their capacity, a coercive dynamic with another cohort member, a politicized contribution that breaks the cohort’s peace): receive briefly; flag for pastoral 1:1 within 24 hours; do not adjudicate in the room.**
 
 **Block 5 — Cohort Weighing (7:56–8:11, 15 min)**
 ## Lead Companion script

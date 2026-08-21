@@ -24,7 +24,8 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 | 6 | [Vocational](week-06-vocational.md) | Sent into the vocational context |
 | 7 | [Third Place](week-07-third-place.md) | Sent into the third place |
 | 8 | [Discernment](week-08-discernment.md) | The cohort discerns together where each member is sent |
-| 9 | [The Body Sent Beyond](week-09-body-sent-beyond.md) | The cohort beyond its own life |
+| — | *Practice Hold — [two weeks, no meetings](week-08-practice-hold.md)* | — |
+| 9 | [The Body Sent Beyond](week-09-body-sent-beyond.md) *(re-entry — opens on what held, at two levels)* | The cohort beyond its own life |
 | 10 | [What Going Out Produced](week-10-what-going-out-produced.md) | What was formed; what is being sent |
 | 11 | [Cohort Lands](week-11-cohort-lands.md) | The cohort's own landing at the Group Level |
 | 12 | [Long Obedience](week-12-long-obedience.md) | Closing the arc; the long road ahead |
@@ -65,6 +66,12 @@ Same shape as the other two series:
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them.
 - **Between-session practice** — the daily and weekly rhythm.
 - **IJH source** — where the material lives in *Intentional Journey of the Heart*.
+
+---
+
+## Status
+
+**Adult edition, 2026.** The leadership-first year (FotH for a CPR). The twelve sessions are re-authored to the adult register — the leadership cohort in circles of four to eight, the leader telling first at every invitation to tell, the practice hold after Week 8 with the two-level what-held re-entry at Week 9 (each person's practice, and the cohort's own yes to what the discernment night landed). The continuation the closing bridges to is the family year, at the host church's discernment and decision. The [Leadership Year Handbook](../leadership-year-handbook.md) governs wherever this series' own [handbook](handbook.md) and the [Inviting Others handbook](inviting-others-handbook.md), still carried as family-edition seed, differ.
 
 ---
 

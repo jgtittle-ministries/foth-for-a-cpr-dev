@@ -32,7 +32,7 @@ Week 12
 
 **Mode.** Whole-room. The cohort sits as one body for the closing. No circle split tonight.
 
-**Center.** Brief teaching frame on the architecture of closing (10 min). Standing-pair blessings spoken aloud (40 min). Cohort circle: each member ONE sentence about what the formation arc produced (15 min). Cohort speaks the Aaronic together over the cohort (5 min). H12.1 sending card given (5 min). Bridge to what continues (10 min). Final closing (5 min).
+**Center.** Brief teaching frame on the architecture of closing (10 min). Standing-pair blessings spoken aloud (40 min). Around the circle: each member ONE sentence about what the formation arc produced (15 min). Cohort speaks the Aaronic together over the cohort (5 min). H12.1 sending card given (5 min). Bridge to what continues (10 min). Final closing (5 min).
 
 **Between-session practice.** There is no between-session practice for Wk 12 — the formal series ends tonight. The continued practices (Rhythm Card, weekly Tells, standing-pair check-ins, the H12.1 sending card’s practices) carry into the long obedience without the formal series’ weekly cohort meeting. Members confirmed for the family-year team re-engage when that work begins. Members not continuing carry the year’s formation into their individual contexts. The cohort’s ongoing connection to one another, beyond the formal series, is whatever each pair and each set of relationships can honestly hold.
 
@@ -194,7 +194,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 | 6:30–7:00 | Extended arrival | Single circle | All Companions | Door opens 30 min early. Members arrive in their own time. Brief warm contact. |
 | 7:00–7:08 | Block 1: Open + Acts 20 architecture (teaching) | Shared circle | Lead Companion | Aaronic. Read Acts 20:36–38. Frame the closing’s architecture. |
 | 7:08–7:48 | Block 2: Standing-pair blessings spoken aloud | Shared circle (in pairs) | Cohort Companions float | 20 min per direction. Pair partners speak specific blessings to each other. |
-| 7:48–8:03 | Block 3: Cohort circle — each member ONE sentence | Shared circle | Lead Companion | Each member: ‘What the formation arc produced in me, in one sentence.’ |
+| 7:48–8:03 | Block 3: Around the circle — each member ONE sentence | Shared circle | Lead Companion | Each member: ‘What the formation arc produced in me, in one sentence.’ |
 | 8:03–8:13 | Block 4: Cohort speaks the Aaronic together | Shared circle (standing) | Lead Companion | The cohort stands in tight circle; speaks Aaronic together; one full minute of silence. |
 | 8:13–8:18 | Block 5: H12.1 sending card given | Shared circle | Lead Companion | Brief framing; cards already in members’ hands; cohort acknowledges. |
 | 8:18–8:25 | Block 6: Bridge to what continues | Shared circle | Lead Companion | Honest framing of continuation possibilities; the family year; long obedience. |
@@ -278,11 +278,11 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 ## If a pair partner is absent (illness, transition, departure)
 
-**The pair partner present speaks the blessing they prepared into the cohort space (briefly, with permission). The Cohort Companion may speak a brief receiving-on-behalf word.**
+**The pair partner present speaks the blessing they prepared into the room (briefly, with permission). The Cohort Companion may speak a brief receiving-on-behalf word.**
 
 **Pastoral 1:1 with the absent partner within the week to receive the blessing privately.**
 
-**Block 3 — Cohort Circle: Each Member ONE Sentence (7:48–8:03, 15 min)**
+**Block 3 — Around the Circle: Each Member ONE Sentence (7:48–8:03, 15 min)**
 
 ## Lead Companion script (60 sec)
 
@@ -294,7 +294,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“I will go first. Pass anytime.”*
 
-## During the cohort circle
+## During the round
 
 **Lead Companion goes first; models the architecture in one sentence.**
 
