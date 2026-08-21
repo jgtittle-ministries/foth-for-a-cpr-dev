@@ -48,7 +48,7 @@ The fifteen weeks are not fifteen independent lessons. They are one walk through
 - **Weeks 7–11** are **Connecting with God** — PROAPT as a hearing practice in scripture (two runnings), the Garden of Your Heart as a relational encounter (two runnings), the Any Doubts? practice for the gap between what we say and what we trust.
 - **Week 12** opens **Connecting with Mission** — uphill mission and downhill mission, gifts and passions, *the works prepared beforehand*.
 - **Week 13** installs the long walk — the Rhythm Card built personally, and the two mercy cards (Signs, Path Home) taught before the dry season rather than improvised inside it.
-- **Weeks 14–15** close in two movements — the whole cohort sent through a family commissioning, then the Companions-in-Formation commissioned as FC1 in a witnessed rite of their own.
+- **Weeks 14–15** close in two movements — the Household Blessing Night, where each member blesses their own people before witnesses, then the commissioning rite where the covering takes public authority and the church sends the cohort as its Formation Companion team.
 
 The second-running weeks (4, 8, 10) are where willing members lead — see the Leadership Year Handbook §4 (rotation) for the bright line between what the rotation leader leads and what an experienced Companion always holds.
 
@@ -65,7 +65,7 @@ Every file follows the same structure:
 - **Session at a Glance** — why this session, this week; dependencies on prior weeks; the Connect focus.
 - **Pre-Work** for the Companion team and, in some weeks, for participants.
 - **Materials and Setup** — checklist, room arrangement, pre-session preparation timeline.
-- **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 10).
+- **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 14).
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them, knowing the live room will ask for something slightly different than the page.
 - **Between-session practice** — the daily and weekly rhythm participants carry into the week.
 - **IJH source** — where the material lives in *Intentional Journey of the Heart*, for the Companion who wants to read further.
@@ -78,8 +78,8 @@ By Week 10 you will not need the page. By the end of *Going Out* you may be writ
 
 ## Cadence and logistics
 
-- **Length.** Weeks 1–9 are 90 minutes. Week 10 is 120 minutes (family commissioning night).
-- **Companion team.** A convening leader plus Co-Companions. Weeks 2–9 use a split-and-merge structure — shared opening and teaching, then SPLIT into circles of four to eight for the experiential center, MERGE for closing. Week 1 and Week 10 stay in the shared circle the entire session.
+- **Length.** Sessions run 90 minutes. Week 14 runs to 120 minutes (the Household Blessing Night).
+- **Companion team.** A convening leader plus Co-Companions. Most mid-series weeks use a split-and-merge structure — shared opening and teaching, then SPLIT into circles of four to eight for the experiential center, MERGE for closing. Week 1 and the two closing weeks stay in the shared circle the entire session.
 - **Cohort size.** Sized to support cohort circles of 4–5 in the split weeks.
 - **Participants.** The leadership cohort of a host church — the adults walking the leadership-first challenge (see [`../index.md`](../index.md) for the wider fit).
 
