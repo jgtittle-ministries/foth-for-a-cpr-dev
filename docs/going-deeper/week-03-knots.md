@@ -12,7 +12,7 @@ Week 3
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** Self (diagnostic, deepened). The capstone of the diagnostic block; companion to Wk 2’s soil work.
 
-**Mode.** Shared teaching of the knot taxonomy and the lie mechanism. SPLIT into cohort circles for paired diagnostic work with standing-pair partners (announced tonight). MERGE for closing.
+**Mode.** Shared teaching of the knot taxonomy and the lie mechanism. SPLIT into circles of four to eight for paired diagnostic work with standing-pair partners (announced tonight). MERGE for closing.
 
 **Center.** Each participant identifies one specific knot they are aware of in their interior right now. With their newly-announced standing pair partner, they walk through what the appropriate entry point looks like for that knot type. No knot is released this session. The naming and the mapping are the work tonight.
 
@@ -43,26 +43,26 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - This is the most clinically-adjacent session in Going Deeper. The knot taxonomy is therapeutic territory; the lie-at-the-root work is the territory of TPM and inner-healing prayer. The team is NOT credentialed to do that work in this room. We name the diagnostic categories; we do not run the therapeutic protocols. Boundary discipline is the night.
 - Diagnostic curiosity becoming therapeutic exposure. A participant who names a knot tonight may instinctively want to keep going — ‘what’s the lie? what’s the memory?’ Cohort Companions redirect: ‘Tonight is naming. The deeper work is for a session designed to hold it.’
 - Self-diagnosis used as identity. ‘I am a shame person.’ The taxonomy is for naming what is operating in this season, not for installing a new label. Each person has all four types operating in different places.
-- The teen who maps trauma. Some teens will surface trauma material disguised as a knot. Receive without interpretation; pastoral / clinical referral within 48 hours. Section 6 of the handbook applies.
-- The parent who maps a knot tied to a specific person in the room. ‘My anger knot is about my husband, who is in the parent cohort.’ Cohort Companion: redirect to the interior reality (the anger is in you), not the relational adjudication. Pastoral 1:1 within the week if welcomed.
-- When a participant names anger at someone who hurt them, never let “release the claim / forgive” be heard as “reconcile” or “go back” — forgiveness is interior; trust and reunion are separate and depend on the other’s change. **If a minor names current or ongoing harm from a parent or caregiver, this is a safety matter, not a forgiveness exercise — follow Section 6 and the mandatory-reporting steps.**
+- The member who maps trauma. Some adults will surface trauma material disguised as a knot — decades old and never told. Receive without interpretation; pastoral / clinical referral within 48 hours. The safeguarding frame applies.
+- The member who maps a knot tied to a specific person in the room. ‘My anger knot is about my husband, who is in another circle.’ Cohort Companion: redirect to the interior reality (the anger is in you), not the relational adjudication. Pastoral 1:1 within the week if welcomed.
+- When a participant names anger at someone who hurt them, never let “release the claim / forgive” be heard as “reconcile” or “go back” — forgiveness is interior; trust and reunion are separate and depend on the other’s change. **If anyone names current or ongoing harm — their own, or harm involving a minor in their household — this is a safety matter, not a forgiveness exercise: follow the safeguarding frame and, where a minor is involved, the mandatory-reporting steps.**
 - The veteran of Getting Started who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 11 (Getting Started) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
-- The new participant whose two-evening onboarding didn’t cover the soil-and-knot architecture. Pair them with a veteran for the cohort exercise; the Cohort Companion floats nearby.
+- The new participant whose two-evening onboarding didn’t cover the soil-and-knot architecture. Pair them with a veteran for the circle exercise; the Cohort Companion floats nearby.
 - Tears are normal tonight. Naming a long-held knot for the first time produces tears. The cohort holds the tears; the team does not interpret them; the work continues at the participant’s pace.
 
 ## CRISIS CONTINGENCIES (Week 3)
 
 **Highest crisis risk in Going Deeper so far. Pastoral / clinical backup confirmed for the night. Two-call protocol: Lead Companion calls within an hour for any disclosure that crosses the threshold.**
 
-**If a participant surfaces trauma material (specific abuse, dissociation, panic response).** Stop the cohort’s work for that participant. Cohort Companion stays with them; quiet, low pressure: ‘We are here. You don’t have to do anything right now.’ Lead Companion brings in pastoral / clinical backup within the hour. No interpretation in the room. No narrative-construction in the cohort. Pastoral 1:1 within 48 hours; clinical referral as appropriate. Section 6 protocol.
+**If a participant surfaces trauma material (specific abuse, dissociation, panic response).** Stop the circle’s work for that participant. Cohort Companion stays with them; quiet, low pressure: ‘We are here. You don’t have to do anything right now.’ Lead Companion brings in pastoral / clinical backup within the hour. No interpretation in the room. No narrative-construction in the circle. Pastoral 1:1 within 48 hours; clinical referral as appropriate. The safeguarding frame applies.
 
-**If a teen surfaces material that suggests current abuse.** Virginia mandatory-reporting protocol applies. Two-adult rule. The team follows the law without exception. Lead Companion and Cohort Companion step aside with the teen; pastoral / clinical backup called immediately.
+**If a disclosure suggests current abuse — of the member, or of a minor in anyone’s household.** The mandatory-reporting law applies wherever a minor is involved. Two Companions. The team follows the law without exception. Lead Companion and Cohort Companion step aside with the member; pastoral / clinical backup called immediately.
 
-**If a participant becomes flooded (cannot stop crying, cannot speak, freezes).** Cohort Companion stays with the participant; Co-Companion continues holding the cohort’s work. Do NOT push through the flooding. After 5 minutes, gentle offer to step out. After the session: 24-hour contact protocol; pastoral 1:1 within the week.
+**If a participant becomes flooded (cannot stop crying, cannot speak, freezes).** Cohort Companion stays with the participant; Co-Companion continues holding the circle’s work. Do NOT push through the flooding. After 5 minutes, gentle offer to step out. After the session: 24-hour contact protocol; pastoral 1:1 within the week.
 
-**If a participant names a specific person in the cohort (cross-cohort: ‘my mom is the source of my fear knot’ when mom is in parent cohort).** Receive without naming. Do NOT engage cross-cohort during the session. Brief the involved parent-Cohort Companion after the session. Pastoral / clinical referral if the relational dynamic is acute.
+**If a participant names a specific person in the cohort (‘my spouse is the source of my fear knot’ when the spouse is in another circle).** Receive without naming. Do NOT engage across circles during the session. Brief the other circle’s Cohort Companion after the session. Pastoral / clinical referral if the relational dynamic is acute.
 
-**If you, the Companion, find yourself activated by what surfaces in your cohort.** That is real and not unusual. Continue facilitating tonight. Bring it to the team debrief. Do not let your activation contaminate your facilitation; do not suppress your activation as if it isn’t happening.
+**If you, the Companion, find yourself activated by what surfaces in your circle.** That is real and not unusual. Continue facilitating tonight. Bring it to the team debrief. Do not let your activation contaminate your facilitation; do not suppress your activation as if it isn’t happening.
 
 # **Session at a Glance**
 
@@ -89,7 +89,7 @@ That release work is not what we do tonight. The therapeutic protocols (TPM, GRH
 
 ## **Connect focus**
 
-Self, deepened diagnostic. The pair work happens in cohort circles with standing-pair partners (announced tonight at close); that pair partner becomes the relational unit for the rest of the series.
+Self, deepened diagnostic. The pair work happens in circles with standing-pair partners (announced tonight at close); that pair partner becomes the relational unit for the rest of the series.
 
 # **Pre-Work for the Companion Team**
 
@@ -108,15 +108,15 @@ Do not try to release the knot this week. The point is the diagnostic. You will 
 Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longer than the standard pre-meet because of the session’s clinical adjacency).
 
 1. Each Companion briefly names the knot type and lie they are working with personally. Optional disclosure level; respected. (15 min)
-2. Walk the four knot types together — read the four short paragraphs from Vol 2 Exp 6 aloud. Make sure the team has the same vocabulary the cohort circles will use. (15 min)
-3. Walk the run sheet, especially Block 5 (the diagnostic exercise in pairs). Each Cohort Companion names one specific concern about how the exercise will land in their cohort. (15 min)
+2. Walk the four knot types together — read the four short paragraphs from Vol 2 Exp 6 aloud. Make sure the team has the same vocabulary the circles will use. (15 min)
+3. Walk the run sheet, especially Block 5 (the diagnostic exercise in pairs). Each Cohort Companion names one specific concern about how the exercise will land in their circle. (15 min)
 4. Crisis contingencies read aloud. Two-call protocol confirmed. Pastoral / clinical backup confirmed by name and number for the night. (5 min)
 5. Pair selection finalized. Each Cohort Companion brings their pre-considered standing-pair list; team reviews together. (5 min)
 6. Pray for each participant by name. (5 min)
 
 ## **Logistics pre-work**
 
-1. Print the Knot Type Reference Card (H3.1) — one per participant. Junior, senior, parent versions on one shared card.
+1. Print the Knot Type Reference Card (H3.1) — one per participant.
 2. Print the Diagnostic Worksheet (H3.2) — one per participant.
 3. Print the Standing Pair Covenant (H3.3) — one per pair, signed and exchanged at the close.
 4. Print the Between-Session Practice card (H3.4) — one per participant.
@@ -131,10 +131,10 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 - Personal Heart Journals.
 - Whiteboard with the four knot types pre-written: GRIEF / SHAME / FEAR / ANGER. Below: “the lie at the root.”
 - Handouts H3.1, H3.2, H3.3, H3.4 stacked at each chair.
-- Three private spaces for cohort circles; within each, room for pairs to sit knee-to-knee with buffer space between pairs.
-- Tissues in every cohort space.
-- Large-print Bible (ESV) in each cohort space.
-- Wall clock or visible timer in each cohort space.
+- Private spaces for the circles; within each, room for pairs to sit knee-to-knee with buffer space between pairs.
+- Tissues in every circle space.
+- Large-print Bible (ESV) in each circle space.
+- Wall clock or visible timer in each circle space.
 - Crisis Quick-Reference Card in every Companion pocket.
 - Pastoral / clinical backup on call.
 
@@ -142,12 +142,12 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 ## Pairing principles — same as Going Deeper Handbook Section 8
 
-- Match within cohort, not across.
+- Match within the circle, not across.
 - Match across friendship lines where possible. Two best friends will self-protect.
 - Match across Getting-Started-and-new where possible. Veteran-and-new pairings carry vocabulary in both directions.
 - Spouses do not pair with each other. Marriage is not the formation we are doing.
-- Dating couples in the senior cohort do not pair with each other.
-- If a cohort has an odd number, one triad of three works.
+- Engaged and dating couples do not pair with each other.
+- If a circle has an odd number, one triad of three works.
 - Re-pairing by Wk 5 is acceptable if the partnership clearly isn’t holding. Do not force it.
 
 ### **Pre-session preparation timeline**
@@ -157,8 +157,8 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 | Week before | Each Companion runs the diagnostic on themselves. Print all handouts. Pastoral / clinical backup confirmed. | All Companions |
 | Day before | Walk every space. Confirm standing-pair lists. | Lead Comp |
 | T-60 min | Team gathers. Run the extended pre-meet (60 min). Pray for each participant. | All Companions |
-| T-30 min | Cohort Companions prep cohort spaces. Handouts placed. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-30 min | Cohort Companions prep circle spaces. Handouts placed. | All Companions |
+| T-15 min | Door opens. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
@@ -167,13 +167,13 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic blessing. Container reframe. Frame Wk 3 explicitly: ‘Tonight is diagnostic, not therapeutic.’ |
 | 7:07–7:15 | Block 2: One-word landing on Wk 2’s practice | Shared circle | Lead Comp | Each person, around: one word about how the soil-sit-with practice landed across the week. |
 | 7:15–7:29 | Block 3: Hebrews 12 and the knot architecture (teaching) | Shared circle | Lead Comp | Read Heb 12:1–3. Teach the four knot types. 17 min — the largest teaching block of the series so far. |
 | 7:29–7:36 | Block 4: The lie at the root (teaching) | Shared circle | Lead Comp | Read John 8:32, 8:44. Teach the lie mechanism. 8 min. |
 | 7:36–7:40 | Block 5: Bridge to split | Shared circle | Lead Comp | Frame the diagnostic exercise. Pray. Split. Standing-pair pre-announcement: ‘You will get a permanent partner at the close tonight.’ |
-| 7:40–8:09 | Block 6: Diagnostic exercise in cohort circles | Cohort circles → pairs (this-week-only) | Cohort Facs | Each participant names a knot type and walks the entry point with a partner. 30 min. THIS-WEEK pairing only — standing pairs are announced at close. |
+| 7:40–8:09 | Block 6: Diagnostic exercise in circles | Circles → pairs (this-week-only) | Cohort Comps | Each participant names a knot type and walks the entry point with a partner. 30 min. THIS-WEEK pairing only — standing pairs are announced at close. |
 | 8:09–8:16 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings about the EXERCISE (not the knot). Brief observation. 8 min. |
 | 8:16–8:21 | Block 8: Standing-pair announcement | Shared circle | Lead Comp | Cohort Companions announce standing pairs. Pairs introduce themselves briefly; sign covenant H3.3. |
 | 8:21–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Wk 4 (Co-Processing). |
@@ -295,7 +295,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 *“Okay. We move to the diagnostic exercise. H3.1 has the four knot types in a one-page reference. H3.2 is your worksheet. H3.3 is something we will get to at the close. H3.4 is the practice for this week.”*
 
-*“Tonight’s exercise: in cohort circles, you will pair with someone for thirty minutes — NOT your standing pair partner; that comes at the close. This is a one-time pairing for the diagnostic.”*
+*“Tonight’s exercise: in your circles, you will pair with someone for thirty minutes — NOT your standing pair partner; that comes at the close. This is a one-time pairing for the diagnostic.”*
 
 *“In the pair, each person takes 15 minutes. You name one specific knot type that is operating in your interior right now. You name where in your life it is operating. You name the lie at the root if you can find it. You walk through what the entry point is for that knot type — not to release it tonight, but to know what the work would require if and when you decide to do it.”*
 
@@ -303,12 +303,12 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 *“Pray with me. Father, you knew the writer of Hebrews. You know what we have laid aside, what we are still carrying, and what is still unbelief in us. Tonight we name what is heavy. We do not release it tonight; you will release it in the time and the way you choose. Help us name accurately. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty minutes. Go.”*
+*“Circle assignments are on the wall. Thirty minutes. Go.”*
 
-## **Block 6 — Diagnostic Exercise in Cohort Circles (7:40–8:09, 29 min)**
-Each cohort circle splits into pairs (this-week-only pairing; standing pairs come at close). Cohort Companion floats; intervenes only when needed.
+## **Block 6 — Diagnostic Exercise in Circles (7:40–8:09, 29 min)**
+Each circle splits into pairs (this-week-only pairing; standing pairs come at close). Cohort Companion floats; intervenes only when needed.
 
-### **Inside the cohort circle — Companion script**
+### **Inside the circle — Companion script**
 
 ## Opening (3 min)
 
@@ -338,8 +338,8 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 - If a pair drifts into hypothetical analysis (‘well, in theory, fear knots come from...’) — redirect to specifics: ‘What is your specific fear knot, in your specific life, today?’
 - If a participant cannot identify a knot type — affirm. ‘That’s honest. The taxonomy may not fit cleanly tonight; sometimes a knot is a mix of types. Name what you can name; leave the rest with us for the next few weeks.’
 - If a participant cannot find the lie — affirm. The lie often surfaces later, sometimes in the days following the session. The naming of the knot type alone is plenty of work for tonight.
-- If a participant surfaces material bigger than tonight — stop the pair work. Sit with the participant. Pastoral / clinical referral within 48 hours. Section 6 protocol applies.
-- If a participant becomes flooded — stop the pair work. Cohort Companion stays with them. Co-Companion (if available) holds the rest of the cohort. Brief offer to step out of the room. Do not push through.
+- If a participant surfaces material bigger than tonight — stop the pair work. Sit with the participant. Pastoral / clinical referral within 48 hours. The safeguarding frame applies.
+- If a participant becomes flooded — stop the pair work. Cohort Companion stays with them. Co-Companion (if available) holds the rest of the circle. Brief offer to step out of the room. Do not push through.
 - Watch the time carefully. The 15-minute switch is non-negotiable; if the first person hasn’t reached Q4, that is fine — the second person still gets their 15 minutes. Symmetry matters more than completion.
 
 ## **Block 7 — Merge and Surface (8:09–8:16, 7 min)**
@@ -395,47 +395,35 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 
 *“See you Tuesday.”*
 
-# **Differentiation by Cohort**
+# **Differentiation Notes**
 
-## **Junior teens (12–14)**
+## **Those doing this work for the first time**
 
 ## Adjustments
 
-- The knot taxonomy is presented in simpler language. Grief is “something you lost that hurts.” Shame is “feeling like there is something wrong with you that you have to hide.” Fear is “something your body is on guard against.” Anger is “something that feels unfair that you can’t let go of.”
-- The lie-at-the-root teaching is briefer. “There’s usually a small thing your heart believed in a moment when something hard happened. Often it was about you, or about God, or about whether people are safe. Sometimes you can find what that thing is — and that is good work to do later, with your parents or a Companion, not something we dig into here tonight.”
-- Juniors do the diagnostic naming only — which knot type is loudest, and where in life it shows up — and stop there in the room. The lie-at-the-root *processing* step (following a fear or shame back to an originating memory to find and replace the lie) is **not** done in the junior room; it is adult / Going-Deeper-senior work.
-- Juniors do **not** receive the H3.1 mechanism card (the full lie-at-root take-home). They get the simpler knot-type language only.
-- Sexuality, family secrets, and trauma memories are **not** opened in the junior room. If one surfaces, the Companion receives it gently, does not process it, and follows the pastoral 1:1 / Section 6 steps — including the mandatory-reporting steps if a current harm is named.
-- Pair turns are 10 minutes each, not 15. Junior pair-work runs faster.
-- Watch for: junior teens hypothesizing about their friends’ knots rather than their own. Redirect: ‘We are looking at our own interior tonight. Not our friends’.’
-- Watch for: the junior teen who maps a knot tied to a parent. Receive without interpretation; brief follow-up with the Cohort Companion after the session; pastoral 1:1 within the week.
-- If a junior names anger at someone who hurt them, say it plainly: forgiving is letting God carry the wrong so it stops eating at you — it does not mean you have to be close to that person again, and it never means going back somewhere you are not safe. If a junior describes a parent or adult hurting them *now*, that is not knot-work — stay with them, notify the pastoral / clinical backup that night, and follow the reporting steps.
-- Watch for: the junior teen who insists they have no knots. Affirm. ‘Sometimes the noticing happens later. Listen for it this week.’
-- Watch for: the junior teen who is genuinely flooded. Cohort Companion stays with them. Pastoral / clinical backup notified that night, regardless of whether the parent is in another room.
+- Keep the plain-language definitions close: grief is “something you lost that hurts.” Shame is “feeling like there is something wrong with you that you have to hide.” Fear is “something your body is on guard against.” Anger is “something that feels unfair that you can’t let go of.” Decades of church vocabulary can bury these; the plain words find them.
+- Watch for: the member who insists they have no knots. Affirm. ‘Sometimes the noticing happens later. Listen for it this week.’
+- Watch for: the member hypothesizing about other people’s knots rather than their own. Redirect: ‘We are looking at our own interior tonight.’
+- Watch for: the member who is genuinely flooded. Cohort Companion stays with them. Pastoral / clinical backup notified that night.
 
-## **Senior teens (15–18)**
+## **The veterans**
 
 ## Adjustments
 
 - The full IJH language is used. The four knot types, the lie-at-the-root mechanism, the entry-point taxonomy.
-- Pair turns are 15 minutes each.
-- Watch for: the senior who has read enough psychology or theology to want to debate the taxonomy. Affirm; redirect to specifics: ‘We can debate the categories another night. Tonight: which one is operating in your specific life right now?’
-- Watch for: the senior whose named knot is bigger than the cohort can carry — specific abuse memories, dissociation, suicidal ideation. Section 6 protocol; pastoral / clinical backup; mandatory reporting if applicable.
-- Watch for: the senior who maps shame onto identity-formation in dating, sexuality, or social-media life. Receive without interpretation; pastoral 1:1 within the week if welcomed.
-- Watch for: the senior who maps anger at a parent who is in the parent cohort. Receive without naming the parent. Brief the parent’s Cohort Companion after the session.
-- Watch for: the senior who performs depth (‘my real shame knot is...’ with a polished narrative). Gently: ‘What’s the smaller, more specific version of that?’
+- Watch for: the veteran who treats tonight as a recap of Getting Started’s Any Doubts? practice. Tonight goes where that session only pointed.
+- Watch for: the veteran who performs depth (‘my real shame knot is...’ with a polished narrative). Gently: ‘What’s the smaller, more specific version of that?’
+- Watch for: the veteran whose named knot involves their spouse or another specific person in the room. Receive without naming. Brief the other circle’s Cohort Companion after the session.
 
-## **Parents**
+## **The ordained and the staff**
 
 ## Adjustments
 
-- Full IJH language. Parents in this cohort have done Getting Started; the vocabulary is in place.
-- Pair turns are 15 minutes each.
-- Watch for: the parent whose named knot tracks back to family-of-origin material Getting Started didn’t reach. Receive without rushing. The naming may be heavier than expected. Pastoral 1:1 within the week.
-- Watch for: the parent who maps a knot tied to their teen’s recent behavior. Re-frame: ‘The knot is in YOU. The teen’s behavior is the trigger; the knot is yours.’
-- Watch for: the parent whose named lie is about God specifically. ‘God will not come through this time.’ ‘God didn’t protect me when I was 14, so he won’t now.’ This is real and appropriate; honor without rushing. Pastoral / spiritual-direction referral if welcomed.
-- Watch for: the parent who realizes mid-exercise that they have been carrying a specific knot for decades and has only now named it. The naming is heavy. Cohort Companion stays close; Lead Companion follows up within 48 hours.
-- Watch for: the parent whose mapped knot involves their spouse. Same protocol as senior teens — receive without naming the spouse. Brief the spouse’s Cohort Companion after the session if cross-cohort.
+- Watch for: the leader who has read enough psychology or theology to want to debate the taxonomy. Affirm; redirect to specifics: ‘We can debate the categories another night. Tonight: which one is operating in your specific life right now?’
+- Watch for: the leader whose named knot tracks back to family-of-origin material Getting Started didn’t reach. Receive without rushing. The naming may be heavier than expected. Pastoral 1:1 within the week.
+- Watch for: the leader who maps a knot tied to a congregant’s or a colleague’s recent behavior. Re-frame: ‘The knot is in YOU. Their behavior is the trigger; the knot is yours.’
+- Watch for: the leader whose named lie is about God specifically. ‘God will not come through this time.’ ‘God didn’t protect me when I was 14, so he won’t now.’ This is real and appropriate — and for the ordained it can be the most guarded sentence in the building. Honor without rushing. Pastoral / spiritual-direction referral if welcomed.
+- Watch for: the leader who realizes mid-exercise that they have been carrying a specific knot for decades and has only now named it. The naming is heavy. Cohort Companion stays close; Lead Companion follows up within 48 hours.
 
 # **Closing Practice in Detail**
 
@@ -457,7 +445,7 @@ The team meets the day after Wk 3 for a 60-minute debrief. Longer than standard;
 ### **Signs the session worked**
 
 - Each pair completed both 15-minute halves. The symmetry held.
-- Cohort Companions report at least one specific, honest knot-naming in their cohort — a participant who left with language they did not have at 7:00.
+- Cohort Companions report at least one specific, honest knot-naming in their circle — a participant who left with language they did not have at 7:00.
 - The merge one-word landings were varied and specific. Not all positive. ‘Heavy’ and ‘honest’ are both signs of work.
 - Tears appeared somewhere. Tonight they are appropriate.
 - Standing pairs were announced cleanly, signed the covenant, and left the room knowing who their partner is.
@@ -481,15 +469,14 @@ The team meets the day after Wk 3 for a 60-minute debrief. Longer than standard;
 
 - Anyone whose named knot was clearly larger than tonight’s exercise. Pastoral / inner-healing / clinical referral conversation within 72 hours.
 - Anyone who could not name a knot and seemed troubled. Brief warm contact: ‘Sometimes the naming happens later. Listen for it this week.’
-- Any teen whose named knot involves a parent in the program. Pastoral 1:1 with the teen within the week; brief the parent’s Cohort Companion confidentially.
-- Any parent whose named knot involves a spouse in the program (cross-cohort). Pastoral 1:1; brief the spouse’s Cohort Companion.
+- Anyone whose named knot involves another member of the program (a spouse or colleague in another circle). Pastoral 1:1; brief the other circle’s Cohort Companion confidentially.
 - Any standing pair where both partners or one partner expressed doubt about the pairing. Re-pair before Wk 5 if needed.
 
 # **Handouts**
 
 Four handouts for Wk 3.
 
-- H3.1 — Knot Type Reference Card (one shared card; junior, senior, parent versions of the entry-point language)
+- H3.1 — Knot Type Reference Card
 - H3.2 — Diagnostic Worksheet
 - H3.3 — Standing Pair Covenant
 - H3.4 — Between-Session Practice Card
