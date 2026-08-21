@@ -4,10 +4,10 @@
 
 ## A. Structure
 
-1. **Getting Started shape.** The original adult design was ten weeks; the seed is the fifteen-week gs-v1.0 edition. Decide the adult session map (compress 15 → 10, or re-derive 10 from the 22-week year's material). The 22-week teen edition is the innovation source, not the skeleton.
-2. **Mid-series breaks.** Two-week practice hold in the middle of each series. Placement principle from the club year: the break lands where a practice worth testing has just been commissioned, and the re-entry session opens with the what-held reading (practice-survival count, time-to-settled). Not automatically at N/2 — pick the seam per series.
+1. **Getting Started shape — RULED 2026-08-20: fifteen sessions stay.** John: the fifteen-week edition was a helpful decompression of the time available for the original ten weeks' material. The 22-week teen edition remains the innovation source, not the skeleton.
+2. **Mid-series breaks.** Getting Started — RULED + BUILT 2026-08-20: two holds, after sessions 5 and 10, giving a 5/5/5 rhythm; seams verified against the material (Week 5 commissions one-friendship-one-condition; Week 10's garden rhythm is explicitly 'a rhythm that survives'); pages `week-05-practice-hold.md` and `week-10-practice-hold.md`. Going Deeper and Going Out still open — placement principle stands: the hold lands where a practice worth testing has just been commissioned, and the re-entry session opens with the what-held reading (practice-survival count, time-to-settled).
 3. **Inter-series breaks.** At least two weeks. Note: GD week-01 and GO week-01 are already "welcome back" sessions — the design always assumed the gap. Retrofit gives the gap measurement work (same what-held reading at each series re-entry).
-4. **Calendar math.** 12 + 2 + 14 + 2 + 14 = 44 calendar weeks — a full formation year (Sep–Jun), or split across two years. John's call, probably per-church.
+4. **Calendar math.** GS 15 + 4 hold weeks = 19; GD 12 + 2 = 14; GO 12 + 2 = 14; plus two inter-series gaps: 19 + 2 + 14 + 2 + 14 = 51 calendar weeks — a wall-to-wall year. In practice the holds should overlay the natural calendar breaks (Christmas, Easter, school breaks) exactly as the club year's did, which is what makes the math livable. Per-church layout; possibly split across two years.
 5. **Session length: 90 minutes.** The 75-minute session was the club's after-school compression; the original quick-reference cards say 90. The adult edition gets its 90 back. Related: the spoken-liturgy ninety-minutes bundle deliberately left open on both existing sites — reconcile here.
 
 ## B. Innovations to retrofit from the 22-week year
@@ -22,6 +22,7 @@
 13. Permission ethic + Measurement Covenant, adult form. No minors simplifies safeguarding, not consent: named notes still need the asked-for conversation. Mirrors not levers, weep test, pages-never-care all carry over verbatim.
 14. Observation pack: an adult debrief page (one page per session, raw mark + rung + occasion note, decisions log at the team call) if the challenge year is observed — recommended, since the leadership cohort should experience being observed the way they will later observe.
 15. The frozen-observation-protocol discipline + decisions log, if 14 is adopted.
+15a. **Week 6 and Week 11 re-entry openings.** The hold pages promise the what-held round opens each re-entry session; the Week 6 and Week 11 session plans do not carry it yet. Build the round into their run sheets (the four-place discipline applies: heading, script, any deck, run sheet).
 
 ## C. Design questions John must rule
 

@@ -2,6 +2,10 @@
 
 *Fellowship of the Heart — Series 1 of 3*
 
+# August 2026 — The practice holds (adult edition)
+
+The adult edition gains its 5/5/5 rhythm: two-week practice holds after Week 5 and Week 10, each placed where a practice was just commissioned (the one-friendship-one-condition practice; the garden rhythm), each with a re-entry that opens on what held. The break is the series' most honest instrument: what continues when no meeting is holding you is what has been formed.
+
 # July 2026 — Safety additions (the Settle Protocol)
 
 A five-piece safety strengthening, adapted from a risk-stratified safety framework shared by an outside reviewer and translated into the series' own architecture:

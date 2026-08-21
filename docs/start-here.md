@@ -8,11 +8,11 @@ title: "Start here"
 
 **The offer, plainly.** Before this work reaches your families or your teenagers, you walk it yourselves. Three series across a formation year:
 
-1. **Getting Started** — the container, the telling of story, being known, and the first practices of hearing God. (Adult session map under retrofit; roughly ten sessions plus a two-week practice hold.)
+1. **Getting Started** — the container, the telling of story, being known, and the first practices of hearing God. Fifteen sessions in a 5/5/5 rhythm: five weeks, a two-week practice hold, five more, a second hold, and the final five.
 2. **Going Deeper** — twelve sessions: soils, knots, confession, hearing God in Scripture together, and the group beginning to hear as a body.
 3. **Going Out** — twelve sessions: the body sent, household and vocation, and the long obedience.
 
-Each series carries a **two-week practice hold** at its seam, and at least two weeks separate the series. The breaks are not gaps; they are the honest test. When no meeting is holding you, what continues at your kitchen table is what the year has actually formed.
+Getting Started carries **two two-week practice holds** at its seams; Going Deeper and Going Out each carry one at mid-series; and at least two weeks separate the series. The breaks are not gaps; they are the honest test. When no meeting is holding you, what continues at your kitchen table is what the year has actually formed.
 
 **What completing the challenge earns.** A leadership team that finishes is formed to lead the family-and-teen edition — the [twenty-two-week Getting Started year](https://fellowshipoftheheart.org) — in its own congregation, and it knows from the inside what it will be asking of its families.
 

@@ -64,6 +64,10 @@ window.SERIES = [
         "title": "Week 5 — Knowing and Being Known"
       },
       {
+        "path": "docs/getting-started/week-05-practice-hold.md",
+        "title": "Practice Hold I — Two Weeks, No Meetings"
+      },
+      {
         "path": "docs/getting-started/week-06-brave.md",
         "title": "Week 6 — Safe and Brave Together"
       },
@@ -82,6 +86,10 @@ window.SERIES = [
       {
         "path": "docs/getting-started/week-10-garden-2.md",
         "title": "Week 10 — The Garden of Your Heart II"
+      },
+      {
+        "path": "docs/getting-started/week-10-practice-hold.md",
+        "title": "Practice Hold II — Two Weeks, No Meetings"
       },
       {
         "path": "docs/getting-started/week-11-doubts.md",
@@ -407,6 +415,15 @@ window.PATH_TO_INFO = {
     "title": "Week 5 — Knowing and Being Known",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-04-story-2.md",
+    "next": "docs/getting-started/week-05-practice-hold.md"
+  },
+  "docs/getting-started/week-05-practice-hold.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Practice Hold I — Two Weeks, No Meetings",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-05-known.md",
     "next": "docs/getting-started/week-06-brave.md"
   },
   "docs/getting-started/week-06-brave.md": {
@@ -415,7 +432,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Week 6 — Safe and Brave Together",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-05-known.md",
+    "prev": "docs/getting-started/week-05-practice-hold.md",
     "next": "docs/getting-started/week-07-proapt.md"
   },
   "docs/getting-started/week-07-proapt.md": {
@@ -452,6 +469,15 @@ window.PATH_TO_INFO = {
     "title": "Week 10 — The Garden of Your Heart II",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-09-garden.md",
+    "next": "docs/getting-started/week-10-practice-hold.md"
+  },
+  "docs/getting-started/week-10-practice-hold.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Practice Hold II — Two Weeks, No Meetings",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-10-garden-2.md",
     "next": "docs/getting-started/week-11-doubts.md"
   },
   "docs/getting-started/week-11-doubts.md": {
@@ -460,7 +486,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Week 11 — Any Doubts?",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-10-garden-2.md",
+    "prev": "docs/getting-started/week-10-practice-hold.md",
     "next": "docs/getting-started/week-12-mission.md"
   },
   "docs/getting-started/week-12-mission.md": {

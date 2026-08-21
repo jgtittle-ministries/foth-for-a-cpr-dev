@@ -11,18 +11,19 @@ A church says: *we are interested in trying this out.* This sequence is the answ
 ## How it relates to the rest of the project
 
 - **A Church Prepared for Revival (CPR)** is the church-facing *why* — the published pilot proposal at churchpreparedforrevival.org. A church stirred by CPR and asking "how do we start?" gets pointed here.
-- **This sequence (FotH for a CPR)** is the *first step*: the adult, leadership-first walk. Three series, roughly ten, twelve, and twelve sessions, with deliberate breaks (see below).
+- **This sequence (FotH for a CPR)** is the *first step*: the adult, leadership-first walk. Three series of fifteen, twelve, and twelve sessions, with deliberate breaks (see below).
 - **The twenty-two-week Getting Started year** (fellowshipoftheheart.org) is the family-and-teen edition a formed leadership team runs afterward.
 
 ## The breaks are the instrument
 
 The CCA year taught us that the cleanest observation this work has is the break: when the structure stops holding anyone, what continues at kitchen tables is the internalization itself. The school calendar gave the club its breaks. The adult edition schedules them **on purpose**:
 
-- a two-week practice hold in the middle of each series, with the re-entry session opening on *what held*;
+- in Getting Started, two two-week practice holds giving the series a 5/5/5 rhythm (after sessions 5 and 10 — each seam lands where a practice was just commissioned: the one-friendship-one-condition practice at Week 5, the garden rhythm at Week 10), with each re-entry session opening on *what held*;
+- in Going Deeper and Going Out, a two-week practice hold at mid-series (placement to be ruled per series, same seam principle);
 - at least a two-week break between series (the second and third series already open with a "welcome back" session — the design always assumed the gap; now the gap is doing measurement work too).
 
 ## Status
 
-Freshly scaffolded. Seed content: Getting Started from the `gs-v1.0` edition (fifteen weeks — the closest surviving ancestor of the original ten-week adult design), Going Deeper and Going Out from the current twelve-week editions. Nothing has been retrofitted yet. The work list lives in `_implementation-notes/RETROFIT-BACKLOG.md` — read that first.
+Freshly scaffolded. Getting Started stays at fifteen sessions by ruling (2026-08-20): the fifteen-week edition was a helpful decompression of the original ten weeks' material. Its two practice holds are built (`week-05-practice-hold.md`, `week-10-practice-hold.md`). Going Deeper and Going Out are seeded from the current twelve-week editions, not yet retrofitted. The work list lives in `_implementation-notes/RETROFIT-BACKLOG.md` — read that first.
 
 Dev conventions carry over from the other repos: JD, fetch before pushing; `_implementation-notes/` never mirrors anywhere.
