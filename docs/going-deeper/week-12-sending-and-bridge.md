@@ -12,7 +12,7 @@ Week 12
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,11 +30,11 @@ Week 12
 
 **Connect focus.** Integration + Mission. Going Deeper closes; Going Out opens; the cohort itself becomes the body that has walked together and is now sent into the next stretch.
 
-**Mode.** Whole-room. No cohort split tonight. The cohort sits as one circle. Standing pair partners sit beside each other for the personal blessing block. Final Aaronic is spoken over the cohort and by the cohort.
+**Mode.** Whole-room. No circle split tonight. The cohort sits as one circle. Standing pair partners sit beside each other for the personal blessing block. Final Aaronic is spoken over the cohort and by the cohort.
 
 **Center.** Each member shares briefly from their Personal Reflection Frame (H11.3) — voluntary, brief, focused on the question they carry into the Going Out series. Standing pairs speak personal blessing over each other. Cohort speaks blessing over the cohort. Bridge to the Going Out series is named with specific dates and Going Out architecture preview.
 
-**Between-session practice (the interlude).** The Rhythm Card continues across the the interlude before Going Out begins. The standing pair continues; pairs may evolve into the Going Out series or release at the close of Going Deeper. Each member brings the question from H11.3 into the Going Out series; Going Out Wk 1 will engage it.
+**Between-session practice (the interlude).** The Rhythm Card continues across the interlude before Going Out begins. The standing pair continues; pairs may evolve into the Going Out series or release at the close of Going Deeper. Each member brings the question from H11.3 into the Going Out series; Going Out Wk 1 will engage it.
 
 **IJH source.** Vol 6 Part 2 (Council — Welcoming, Releasing, Grieving) and Vol 6 Part 3 (Succession Letter) for the bridge architecture; Hebrews 12:1–2 closing (the verse that opened Going Deeper now closes it); MSFIG (the cohort sent at whatever level it actually reached).
 
@@ -44,19 +44,19 @@ Week 12
 
 **Sentimental flattening. ‘What an amazing journey.’ ‘We all grew so much.’ The honest assessment of Wk 11 must hold tonight; sentimentality undoes Wk 11. Cohort Companion models specific naming over generic gratitude.**
 
-**Hidden refusal of the ending. Some members will resist closing because Going Out is months away and the interlude feels exposing. The interlude is real and is named honestly; pretending the gap doesn’t exist by extending tonight is not the answer.**
+**Hidden refusal of the ending. Some members will resist closing because Going Out is weeks away and the interlude feels exposing. The interlude is real and is named honestly; pretending the gap doesn’t exist by extending tonight is not the answer.**
 
 **Performance of being sent. ‘I am ready for everything God has next.’ The honest sending is from where the cohort actually is, not where it wishes it were. Cohort Companion: ‘Specifically, what is the next step?’**
 
 **Pressure to commit to Going Out tonight. Some members are still discerning whether to continue. The architecture honors both — Going Out continuers AND honest non-continuers are sent tonight. The Lead Companion names this explicitly so non-continuers are not shamed by the architecture.**
 
-**The Asker (from Wk 10) still in mid-integration. The Asker may not yet have clarity on their calling decision. Tonight does NOT pressure resolution. The cohort sends the Asker into the next 30 days of continued integration, not into a decision.**
+**The Discerner (from Wk 10) still in mid-integration. The Discerner may not yet have clarity on their calling decision. Tonight does NOT pressure resolution. The cohort sends the Discerner into the next 30 days of continued integration, not into a decision.**
 
 **Pair dissolution awkwardness. Standing pairs were assigned at Wk 3 and walked together for nine weeks. Tonight is the formal close of the Going Deeper partnership. Some pairs will continue informally into the Going Out series; some will release. Both are honest. Cohort Companion names this; the pair conversation between partners about future continuation happens in the pair blessing block.**
 
-**Final-session crisis disclosure. Sometimes a member discloses something significant in the closing session because they will not see the cohort for weeks. Receive without rushing; pastoral 1:1 immediately following the session; the interlude have full pastoral coverage.**
+**Final-session crisis disclosure. Sometimes a member discloses something significant in the closing session because they will not see the cohort for weeks. Receive without rushing; pastoral 1:1 immediately following the session; the interlude has full pastoral coverage.**
 
-**Family-across-cohorts public emotion. Teen-parent moments may surface in the cohort blessing block. Receive without preventing or amplifying; the family’s relationship is theirs to walk; the cohort holds the moment briefly without making it the central frame.**
+**Household public emotion. Spouse-to-spouse moments may surface in the cohort blessing block. Receive without preventing or amplifying; the couple’s relationship is theirs to walk; the cohort holds the moment briefly without making it the central frame.**
 
 **Lead Companion over-investment in the close. Last-session-of-Going-Deeper energy is real; the Lead Companion may be tempted to make the close more meaningful than the cohort’s actual energy supports. The architecture is the architecture; the lead serves it without inflating it.**
 
@@ -68,13 +68,13 @@ Week 12
 
 **If a member announces they are not continuing into the Going Out series and wants to be sent honestly. Cohort Companion pre-handled this in the week before Wk 12 if possible. Tonight: receive without alarm; the cohort blesses the member into their honest next step, whatever it is. Brief warm contact across the interlude.**
 
-**If the Asker from Wk 10 is in calling-rupture by Wk 12 (the calling discernment produced something the Asker is not yet ready to integrate). Pastoral / clinical / spiritual-direction supports active. Tonight’s sending is into continued integration, not into decision. Lead Companion may briefly affirm publicly that ‘the integration window is thirty to ninety days, not one or two weeks; we are walking with [Asker].’**
+**If the Discerner from Wk 10 is in calling-rupture by Wk 12 (the calling discernment produced something the Discerner is not yet ready to integrate). Pastoral / clinical / spiritual-direction supports active. Tonight’s sending is into continued integration, not into decision. Lead Companion may briefly affirm publicly that ‘the integration window is thirty to ninety days, not one or two weeks; we are walking with [Discerner].’**
 
 **If a standing pair refuses to release at the end of the pair blessing block (‘we are not done yet; the partnership cannot end here’). Honor without imposing. The pair may continue informally; the formal Going Deeper partnership closes tonight. Cohort Companion briefs both partners about how to carry the partnership forward without the cohort’s formal architecture.**
 
-**If a teen leaves the closing session distressed because their parent (or vice versa) said something hard during cohort blessing. Cohort Companions stay with both, separately; pastoral 1:1 within the week.**
+**If a member leaves the closing session distressed because their spouse said something hard during cohort blessing. Cohort Companions stay with both, separately; pastoral 1:1 within the week.**
 
-**Default. Section 6 of the Going Deeper Handbook. Pastoral / clinical backup confirmed by name and number. The interlude have full coverage — the team is on call between Wk 12 and Going Out Wk 1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical backup confirmed by name and number. The interlude has full coverage — the team is on call between Wk 12 and Going Out Wk 1.**
 
 **Session at a Glance**
 
@@ -86,7 +86,7 @@ Wk 11 named where the cohort actually is. Tonight commissions the cohort onto th
 
 The cohort’s relationship to the Going Out series matters tonight. the Going Out series will engage missional discernment, vocational outworking, the body sent together — not as a sequel that requires Level 5 to begin, but as a continuation that meets the cohort where it is. Wk 12 names the bridge specifically. Some members will continue; some will not; both are honest. The honest non-continuer is sent with the same dignity as Going Out continuer.
 
-The Asker from Wk 10 is in mid-integration tonight. The Asker may have clarity, may have partial clarity, or may still be sorting. Whatever the state, tonight is not the resolution session for the Asker; it is the cohort’s sending of the Asker into continued integration. The integration window is 30–90 days; the team continues active pastoral support across that window.
+The Discerner from Wk 10 is in mid-integration tonight. The Discerner may have clarity, may have partial clarity, or may still be sorting. Whatever the state, tonight is not the resolution session for the Discerner; it is the cohort’s sending of the Discerner into continued integration. The integration window is 30–90 days; the team continues active pastoral support across that window.
 
 Hebrews 12:1–2 returns one final time as the architectural close. Going Deeper walked the verse from witnesses to weight to sin to endurance to looking to the joy to finishing well. Tonight is the finishing well clause. The cohort hands the verse forward into the Going Out series and into the long obedience beyond.
 
@@ -100,7 +100,7 @@ Hebrews 12:1–2 returns one final time as the architectural close. Going Deeper
 
 **•** Standing pairs assigned at Wk 3, working since Wk 4, signed protocols at Wks 3 and 5. Tonight is the formal close of the Going Deeper pair partnership; pairs decide together whether to continue informally.
 
-**•** Wk 10 Asker still in integration. Tonight does not resolve the Asker’s calling; it sends into continued integration.
+**•** Wk 10 Discerner still in integration. Tonight does not resolve the Discerner’s calling; it sends into continued integration.
 
 **•** All practices across Going Deeper — Rhythm Card, PROAPT, Examen, named-knot sit, shadow noticing. These continue through the interlude and into the Going Out series.
 
@@ -130,7 +130,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 2. Going Out continuation review. Which cohort members has the team observed as likely continuers? Likely non-continuers? Uncertain? Brief warm contact list assembled for the interlude. (20 min)
 
-**3.** Asker integration review. Where is the Wk 10 Asker as of Saturday? What is the integration trajectory? What pastoral support is active? Tonight’s sending is informed by this. (15 min)
+**3.** Discerner integration review. Where is the Wk 10 Discerner as of Saturday? What is the integration trajectory? What pastoral support is active? Tonight’s sending is informed by this. (15 min)
 
 **4.** Walk the run sheet. The pair blessing block (Block 5) and the cohort blessing block (Block 6) are the two architecturally distinctive elements; team rehearses each. The bridge to the Going Out series (Block 7) is named with specific dates. (20 min)
 
@@ -154,15 +154,15 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **•** Confirm pastoral / clinical backup, including interlude coverage.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs. Standing pairs sit beside each other (Cohort Companions arrange seating before doors open).
+**•** Confirm room layout: ONE large circle — a chair for every member. Standing pairs sit beside each other (Cohort Companions arrange seating before doors open).
 
-**•** Optional but warming: simple food and drink for the close. The cohort eats together briefly after the formal session ends. Coordinated by Co-Comp (Teen) or a volunteer.
+**•** Optional but warming: simple food and drink for the close. The cohort eats together briefly after the formal session ends. Coordinated by a Co-Companion or a volunteer.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs. Standing pairs pre-arranged side by side.
+**•** Chairs in ONE large single circle, one per member. Standing pairs pre-arranged side by side.
 
 
 **•** Personal Heart Journals.
@@ -188,12 +188,12 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion completes H11.3 personally. Drafts brief blessing per cohort member. Confirms own Going Out continuation. | All Companions |
-| 48 hr before | Team pre-meet (90 min). Going Out continuation review. Asker integration review. Run-sheet walk. | All Companions |
-| Saturday before | Cohort Companions write personal blessing on each member’s sending card (H12.3). | Cohort facs |
+| 48 hr before | Team pre-meet (90 min). Going Out continuation review. Discerner integration review. Run-sheet walk. | All Companions |
+| Saturday before | Cohort Companions write personal blessing on each member’s sending card (H12.3). | Cohort Comps |
 | Day before | Walk the room. Confirm chair layout (pairs side-by-side). Confirm pastoral / clinical backup. | Lead Comp |
 | T-90 min | Team gathers in the room. Final prayer for the close. | All Companions |
 | T-30 min | Set up. Place handouts. Lay out food / drink for after-session if used. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name; warm. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name; warm. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -202,13 +202,13 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Warm welcome — last session. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. Warm welcome — last session. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight closes Going Deeper.’ |
 | 7:07–7:15 | Block 2: Wk 11 landing (one word) | Shared circle | Lead Comp | ONE word about how the cohort’s honest assessment last week landed across this week. |
 | 7:15–7:25 | Block 3: 2 Tim 4 + Hebrews 12 + the architecture returning | Shared circle | Lead Comp | Read passages. Walk Hebrews 12:1–2 across Going Deeper. Frame the closing. |
 | 7:25–7:35 | Block 4: Brief shares — the question carried into the Going Out series | Shared circle | Lead Comp | Voluntary; brief; from H11.3 prompt 4. About 8–12 contributions across 10 minutes. |
-| 7:35–7:55 | Block 5: Standing pair blessing | Shared circle (in pairs) | Cohort Facs supervise | 20 minutes; each partner speaks specific blessing over the other; H12.2 frame. |
-| 7:55–8:10 | Block 6: Cohort blessing — sending each member | Shared circle | Lead Companion + Cohort Facs | Cohort Companions distribute pre-written sending cards. Each Cohort Companion speaks brief blessing over their cohort. |
+| 7:35–7:55 | Block 5: Standing pair blessing | Shared circle (in pairs) | Cohort Comps supervise | 20 minutes; each partner speaks specific blessing over the other; H12.2 frame. |
+| 7:55–8:10 | Block 6: Cohort blessing — sending each member | Shared circle | Lead Companion + Cohort Comps | Cohort Companions distribute pre-written sending cards. Each Cohort Companion speaks brief blessing over their circle. |
 | 8:10–8:20 | Block 7: Bridge to Going Out | Shared circle | Lead Comp | Specific dates. Going Out architecture preview. Gap-week support. H12.1 walked briefly. |
 | 8:20–8:25 | Block 8: Aaronic — cohort speaking over cohort | Shared circle | Lead Companion + cohort | Cohort speaks Aaronic over each other. Specific architecture: Cohort Companion says line; cohort echoes. |
 | 8:25–8:30 | Block 9: Closing send | Shared circle | Lead Comp | Brief final word. Send. Optional food / drink continues informally. |
@@ -226,7 +226,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“Tonight is Wk 12. The closing of Going Deeper. We have walked twelve weeks together; tonight we close them well.”*
 
-*“Two things to name before we begin. One — closing well is the discipline tonight. Sentimentality undoes Wk 11’s honest assessment; we resist it. We celebrate without flattery. Two — some of you are continuing into the Going Out series (the Going Out series); some are not. Both are honest. Tonight sends each of you into your honest next step, whatever it is.”*
+*“Two things to name before we begin. One — closing well is the discipline tonight. Sentimentality undoes Wk 11’s honest assessment; we resist it. We celebrate without flattery. Two — some of you are continuing into the Going Out series; some are not. Both are honest. Tonight sends each of you into your honest next step, whatever it is.”*
 
 *“The architecture tonight: shares from your reflection page, standing pair blessing, cohort blessing with the sending cards, the bridge to the Going Out series, and the cohort’s Aaronic over the cohort. We close at 8:30 with optional food and drink for those who want to linger.”*
 
@@ -284,7 +284,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **FINISHING WELL — Wks 11, 12. The integration block, closing tonight.**
 
-**Block 4 — Brief Shares: The Question Carried into Spring (7:25–7:35, 10 min)**
+**Block 4 — Brief Shares: The Question Carried into Going Out (7:25–7:35, 10 min)**
 ## Script
 
 *“On H11.3, prompt 4 — the question you are carrying into the Going Out series. Voluntary brief shares. About 30 to 45 seconds. The question itself in your own words; not the resolution. The question forming.”*
@@ -351,17 +351,17 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **Cohort Companions each pick up their cohort’s pre-written sending cards from the materials table. They walk to each cohort member and hand the card personally with brief eye contact. NOT a handshake or hug; a personal handing.**
 
-**While distribution happens, each Cohort Companion (one at a time) speaks brief blessing over their cohort. Junior teen cohort first. Then senior teen. Then parent.**
+**While distribution happens, each Cohort Companion (one at a time) speaks brief blessing over their circle, in turn.**
 
-**Each cohort blessing: about 90 seconds. ‘I have walked with you for twelve weeks. I have seen this cohort \_\_\_\_\_. The specific gift this cohort carries is \_\_\_\_\_. The discipline ahead is \_\_\_\_\_. My blessing for the [junior teens / senior teens / parents] of this cohort is \_\_\_\_\_.’**
+**Each circle blessing: about 90 seconds. ‘I have walked with you for twelve weeks. I have seen this circle \_\_\_\_\_. The specific gift this circle carries is \_\_\_\_\_. The discipline ahead is \_\_\_\_\_. My blessing for this circle is \_\_\_\_\_.’**
 
-**After all three cohort blessings, Lead Companion brief blessing over the whole room. About 2 minutes. Drawing on the integrated picture from Wk 11.**
+**After the circle blessings, Lead Companion brief blessing over the whole room. About 2 minutes. Drawing on the integrated picture from Wk 11.**
 
 **Cohort members hold their sending cards through Block 7; some will read them tonight; most will read them later; either is honest.**
 
 ## Lead Companion blessing over the room (sample architecture)
 
-*“Cohort: I have walked with you for twelve weeks. We have done specific work. We named our soils, our knots, our lies. We confessed and were restored. We learned to hear PROAPT extended; we listened together for one of us; we tried to hear about ourselves. We named our gifts and our shadow directions. We commissioned [Asker] for [their] calling. We assessed honestly where we are. Now we close.”*
+*“Cohort: I have walked with you for twelve weeks. We have done specific work. We named our soils, our knots, our lies. We confessed and were restored. We learned to hear PROAPT extended; we listened together for one of us; we tried to hear about ourselves. We named our gifts and our shadow directions. We commissioned [Discerner] for [their] calling. We assessed honestly where we are. Now we close.”*
 
 *“My blessing for this cohort: that the Spirit who began the work in you continues it. That the interlude before Going Out be a season of integration, not of forgetting. That what was named here stays alive in you. That the standing pairs that continue strengthen you and the ones that release send you well. That those of you continuing into the Going Out series come back rooted; those of you not continuing carry what you walked in here. That the joy set before each of you draw you forward.”*
 
@@ -376,7 +376,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“TWO — Going Out architecture briefly. Going Out is twelve weeks like Going Deeper. It engages missional outworking — where the cohort’s formation moves into the world. The four blocks roughly: “the body sent” (Wks 1–3), “mission close to home” (Wks 4–6), “mission far” (Wks 7–9), and “sending and re-formation” (Wks 10–12). The cohort’s honest level from Wk 11 is the foundation; Going Out builds from there.”*
 
-*“THREE — Going Out continuation. Some of you have already decided whether you are continuing; some are still discerning. Both are honest. Continuation registration opens [date] and closes [date]. Honest non-continuers — we want to be in contact with you across the interlude if welcomed; the cohort has walked with you and does not stop because you are not continuing in formal sessions.”*
+*“THREE — Going Out continuation. The year you committed at the entry gate runs through Going Out, and most of you will simply keep walking. If the interlude finds you discerning that you cannot continue, that is a conversation, not a form — talk with the convening leader before Wk 1. Attrition in this year is data, read honestly, never scored. Honest non-continuers — we want to be in contact with you across the interlude if welcomed; the cohort has walked with you and does not stop because you are not continuing in formal sessions.”*
 
 *“FOUR — the interlude support. The team is on call. Pastoral / clinical backup is active. If something heavy surfaces, your standing pair (whether continuing or released), your Cohort Companion, the Lead Companion, and pastoral / clinical referrals are all available.”*
 
@@ -416,7 +416,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“For those not continuing: thank you for what you brought to this cohort. The work formed us; you formed us. Walk well. We are with you across the interlude and beyond.”*
 
-*“For [Asker]: continue the integration. We are walking with you across the next 30 to 90 days. The decision you make is yours; the supports are real.”*
+*“For [Discerner]: continue the integration. We are walking with you across the next 30 to 90 days. The decision you make is yours; the supports are real.”*
 
 *“Food and drink in the kitchen; please linger if you want. The formal session ends now.”*
 
@@ -424,53 +424,49 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“Go in peace.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Each cohort is closed differently inside the same circle, with the Cohort Companions speaking specifically to their cohort during Block 6.*
+*Tonight there is no circle split. Each circle is closed differently inside the same room, with the Cohort Companions speaking specifically to their circle during Block 6.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often experience the close as significant in ways they cannot fully articulate. The personal sending card from the Cohort Companion is the primary anchor; many juniors will read it later in the week and the words will land then.**
-
-**Watch for: junior teens whose pair blessing is awkward (juniors with juniors, especially same-friend-group juniors). The Cohort Companion coaches: ‘Specific. What have you seen in them?’ Pre-rehearsal at Saturday team meeting can help Cohort Companions prep junior pairs.**
-
-**Watch for: junior teens whose closing produces unexpected affect (tears, withdrawal). Cohort Companion stays close; brief 1:1 at the end of the session.**
-
-**Watch for: junior teens whose parents are continuing into the Going Out series while they are not (or vice versa). Receive without solving; the family conversation about Going Out continuation is the family’s; pastoral 1:1 if welcomed.**
-
-**Watch for: junior teens who experience the after-session food / drink time as the most meaningful part. Honor; informal time matters.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often process closings cognitively first; the affect may come later in the interlude. The sending card written by the Cohort Companion is often where the closing lands.**
+**First-timers often experience the close as significant in ways they cannot fully articulate. The personal sending card from the Cohort Companion is the primary anchor; many will read it later in the week and the words will land then.**
 
-**Watch for: the senior whose closing is shaped by college-decision or college-transition timing. Going Out continuation may be limited by external schedule; honest non-continuation is honored.**
+**Watch for: the pair blessing that stays awkward (pairs from the same long-standing friendship group especially). The Cohort Companion coaches: ‘Specific. What have you seen in them?’ Pre-rehearsal at the Saturday team meeting can help.**
 
-**Watch for: the senior whose pair partner is graduating high school or moving away. The pair release is structural, not relational; honor specifically.**
+**Watch for: the member whose closing produces unexpected affect (tears, withdrawal). Cohort Companion stays close; brief 1:1 at the end of the session.**
 
-**Watch for: the senior whose closing produces a specific calling clarity (‘I think I know what Going Out is for me’). Honor; do not pressure for resolution; pastoral support if welcomed.**
+**Watch for: the member who experiences the after-session food / drink time as the most meaningful part. Honor; informal time matters.**
 
-**Watch for: the senior who critiques the closing architecture (‘this felt too neat’). Receive; the architecture is not the experience; the experience is what each member walks.**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often experience the close as the integration of a longer arc — not just twelve weeks but the Getting-Started-and-Going-Deeper journey, plus the larger formation arc of years. Honor the longer arc.**
+**Veterans often process closings cognitively first; the affect may come later in the interlude. The sending card written by the Cohort Companion is often where the closing lands.**
 
-**Watch for: the parent whose pair partner has been a significant relationship across Going Deeper, and whose closing produces specific gratitude or loss. Honor without rushing.**
+**Watch for: the veteran whose pair partner is moving away or leaving the church. The pair release is structural, not relational; honor specifically.**
 
-**Watch for: the parent whose teen is closing differently than the parent. The teen’s closing belongs to the teen; the parent’s closing belongs to the parent. Cross-cohort family observation outside the session.**
+**Watch for: the veteran whose closing produces a specific calling clarity (‘I think I know what Going Out is for me’). Honor; do not pressure for resolution; pastoral support if welcomed.**
 
-**Watch for: the parent who is reconsidering vocational or marriage choices because of Going Deeper’s formation. Honor; pastoral support across the interlude is critical; sometimes the formation produces decisions that cannot be acted on within the cohort window.**
+**Watch for: the veteran who critiques the closing architecture (‘this felt too neat’). Receive; the architecture is not the experience; the experience is what each member walks.**
 
-**Watch for: the parent who feels the cohort’s closing keenly because their primary adult community has been here. Receive; the interlude have full pastoral coverage; Going Out continuation may be the right next step OR honest non-continuation may be the right next step. Both honored.**
+**The ordained and the staff**
 
-**Watch for: the parent who is moved to make a public commitment about supporting the cohort’s Going Out or supporting a specific other member. Honor; the commitment becomes specific outside the session with Cohort Companion support.**
+## Adjustments
+
+**The ordained often experience the close as the integration of a longer arc — not just twelve weeks but the whole leadership year so far, plus the larger formation arc of decades. Honor the longer arc.**
+
+**Watch for: the member whose pair partner has been a significant relationship across Going Deeper, and whose closing produces specific gratitude or loss. Honor without rushing.**
+
+**Watch for: the couple closing differently — one spouse visibly moved, the other flat. Each closing belongs to its person; observation happens outside the session, not adjudication inside it.**
+
+**Watch for: the leader who is reconsidering vocational or ministry choices because of Going Deeper’s formation. Honor; pastoral support across the interlude is critical; sometimes the formation produces decisions that cannot be acted on within the cohort window.**
+
+**Watch for: the member who feels the cohort’s closing keenly because their primary adult community has been here — for some leaders, this room has been the only place all year they were not in charge. Receive; the interlude has full pastoral coverage.**
+
+**Watch for: the leader who is moved to make a public commitment about supporting the cohort’s Going Out or a specific other member. Honor; the commitment becomes specific outside the session with Cohort Companion support.**
 
 **Closing Practice in Detail**
 
@@ -518,7 +514,7 @@ The team meets the day after Wk 12 for a 90-minute debrief. Going Deeper closes 
 
 **•** Honest non-continuers felt shamed or marginalized by the architecture.
 
-**•** The Asker integration was not honored; the cohort acted as if the calling discernment was resolved.
+**•** The Discerner integration was not honored; the cohort acted as if the calling discernment was resolved.
 
 **•** A specific Companion failure or team failure that was named at Wk 11 was not addressed in the team’s response tonight.
 
@@ -526,17 +522,17 @@ The team meets the day after Wk 12 for a 90-minute debrief. Going Deeper closes 
 
 **If the session did not work — what to adjust for Going Out**
 
-**•** If sentimentality dominated, Going Out Wk 1 can name it: ‘Going Deeper closed with more sentiment than honest assessment supported. Spring asks for honest engagement from the start.’
+**•** If sentimentality dominated, Going Out Wk 1 can name it: ‘Going Deeper closed with more sentiment than honest assessment supported. Going Out asks for honest engagement from the start.’
 
-**•** If specific Wk 11 feedback was not addressed, the team commits to a specific repair conversation in the the interlude before Going Out begins.
+**•** If specific Wk 11 feedback was not addressed, the team commits to a specific repair conversation in the interlude before Going Out begins.
 
 **•** If the close felt performed, the team’s personal pre-work for Going Out includes deeper authenticity work — the team that performed Going Deeper close will perform Going Out open unless something shifts.
 
 **People to follow up with this week and across the interlude**
 
-**•** The Wk 10 Asker — daily contact through end of the integration window (30–90 days).
+**•** The Wk 10 Discerner — daily contact through end of the integration window (30–90 days).
 
-**•** Honest non-continuers — brief warm contact at week 1 of the gap; week 4; week 8 if the gap is longer.
+**•** Honest non-continuers — brief warm contact at week 1 of the gap, and again before Going Out Wk 1.
 
 **•** Anyone whose closing produced significant affect or material that opened during pair blessing or cohort blessing. Pastoral 1:1 within 48 hours; pastoral support across the interlude.
 
@@ -572,9 +568,7 @@ Four handouts for Wk 12.
 
 **Length of gap: \_\_\_\_\_\_\_\_ weeks**
 
-**Going Out continuation registration opens: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (date)**
-
-**Going Out continuation registration closes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (date)**
+**If the interlude finds you discerning not continuing: a conversation with the convening leader before Going Out Wk 1 — not a form. The year was committed at the entry gate; honest attrition is read, never scored.**
 
 **Going Out architecture preview**
 
