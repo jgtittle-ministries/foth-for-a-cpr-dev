@@ -12,7 +12,7 @@ Week 7
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 7
 
 **Connect focus.** Mission far. The third-place network as the bridging geography between close-to-home (vocational + household) and specific missional engagement (Wks 8–9).
 
-**Mode.** Whole-room. The third-place domain spans cohort lines and benefits from cross-cohort visibility.
+**Mode.** Whole-room. The third-place domain spans the whole body and benefits from cross-member visibility.
 
 **Center.** Brief teaching frame (15 min). Each member surfaces ONE third-place / wider-context moment from the past week (40 min around the circle, captured on flip chart). Pattern naming and integration with close-to-home (10 min). Bridge to Wk 8’s cohort-level missional discernment (10 min).
 
@@ -54,7 +54,7 @@ Week 7
 
 **Politicized third-place content. The third-place network often surfaces political and culturally-charged conversation. The cohort’s discipline is the witness posture, not the political position. Receive contributions; do not adjudicate content.**
 
-**Cross-cohort third-place exposure. A teen’s third-place network may overlap with a parent’s (same neighbours; same hobby groups; same church). Use indirect language; cross-cohort awareness held privately by Companions.**
+**Cross-member third-place exposure. A member’s third-place network may overlap with a spouse’s or another member’s (same neighbours; same hobby groups; same church). Use indirect language; cross-member awareness held privately by Companions.**
 
 **The downhill-uphill confusion. From Vol 2: most members default to uphill mission language (‘what should I DO?’) rather than downhill (‘what does my presence in the third-place produce already?’). Tonight’s teaching introduces the distinction; Wk 8 will use it directly.**
 
@@ -66,7 +66,7 @@ Week 7
 
 **If a third-place receiver is in active mental-health, relational, or safety crisis: receive briefly without making the cohort the venue; pastoral 1:1 within 24 hours; clinical referral as appropriate; the member may need supported exit if the receiver’s situation crosses what a non-clinical witness can hold.**
 
-**If a teen’s third-place context (hobby group, sports team, social network) reveals abuse or exploitation: Section 6 protocol; mandatory-reporting law applies; school-level or institutional conduct processes engaged.**
+**If a member’s third-place context (hobby group, sports league, social network) reveals abuse or exploitation: the safeguarding frame governs (Leadership Year Handbook §7 and the host church’s policy); mandatory-reporting law applies — about minors especially; the institution’s conduct processes engaged.**
 
 **If a member’s third-place engagement has produced a relational opening that has now grown beyond what the member is equipped to hold (a neighbour disclosing abuse history; a hobby-group friend in suicidal ideation): receive the member’s honest report; pastoral support for the member; clinical referral for the receiver.**
 
@@ -74,7 +74,7 @@ Week 7
 
 **If politicized third-place content surfaces in a way that breaks the cohort’s peace (a Tell about a contentious political conversation that other cohort members react to): Lead Companion redirects to the architectural question (the witness posture) without adjudicating content; pastoral conversations outside the session as needed.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -124,7 +124,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 **2.** Walk Acts 8 and Eph 2:10 together. Discuss the bridging-terrain theology of third-place. (15 min)
 
-**3.** Cohort review. Each Cohort Companion reports their cohort’s third-place texture: who has thick networks, who thin, who has surfaced significant material in past weeks. (15 min)
+**3.** Cohort review. Each Cohort Companion reports their circle’s third-place texture: who has thick networks, who thin, who has surfaced significant material in past weeks. (15 min)
 
 **4.** Walk the run sheet. The whole-room structure tonight; the bridge to Wk 8’s cohort discernment; the introduction of the downhill / uphill distinction. (10 min)
 
@@ -148,7 +148,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs.
+**•** Confirm room layout: ONE large circle — a chair for every member.
 
 **Materials and Setup**
 
@@ -335,45 +335,45 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members across the session.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens’ third-place network is typically thin and developmentally-bounded — sports teams, youth groups, neighbourhood friends, Sunday school cohort. The architecture honors what is, without inflating.**
-
-**Watch for: junior teens whose third-place involves online community engagement (gaming, fandom, social media). Receive without dismissing as not-real-third-place; the engagement is real if relational.**
-
-**Watch for: junior teens whose third-place engagement crossed into peer crisis or harm. Mandatory-reporting law applies where relevant; pastoral support immediately.**
-
-**Watch for: junior teens whose third-place is church-as-second-family. Distinguish carefully; the church is a third-place candidate but may function differently for some teens.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens’ third-place is in active formation — college visits, summer programs, volunteer work, internships, social networks beyond high school. Receive what is emerging.**
+**First-timers’ third-place networks vary widely, and some will discover tonight that theirs is thin — work and family consume the hours, and the rest of life is digital. Receive without inflating; the realization is itself data.**
 
-**Watch for: the senior whose third-place revealed a Spirit-prepared encounter that has grown into ongoing engagement (a college campus visit became a conversation; a summer program became a sustained relationship). Pastoral 1:1 to walk what is unfolding.**
+**Watch for: the first-timer whose third-place involves online community engagement (a forum, a game, a long-running group chat). Receive without dismissing as not-real-third-place; the engagement is real if relational.**
 
-**Watch for: the senior whose third-place is a faith community outside their family’s church. Receive cleanly; the senior’s formation may be drawing on multiple sources.**
+**Watch for: the first-timer whose third-place is church-as-second-family. Distinguish carefully; the church is a third-place candidate but may function differently for some members.**
 
-**Watch for: the senior whose Wk 10 Discerner role from Going Deeper is now informing their third-place engagement. The integration is real and slow.**
+**Watch for: the first-timer whose third-place engagement crossed into crisis or harm. The safeguarding frame governs; pastoral support immediately.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents’ third-place varies dramatically by life-stage. Young-children parents have neighbourhood and school-parent networks; mid-career parents have civic and professional adjacencies; later-life parents have hobby groups, volunteer associations, and church engagements outside formal worship.**
+**Veterans’ third-place is often in transition — a move, an empty nest, a retirement, a new season reshaping the network. Receive what is emerging rather than what used to be.**
 
-**Watch for: the parent whose third-place revealed a long-running Spirit-prepared encounter (a neighbour engagement that has been brewing for years). The Wk 8 cohort discernment may surface that this engagement is actually a personal calling, not a cohort calling.**
+**Watch for: the veteran whose third-place revealed a long-running Spirit-prepared encounter (a neighbour engagement that has been brewing for years). The Wk 8 cohort discernment may surface that this engagement is actually a personal calling, not a cohort calling.**
 
-**Watch for: the parent whose third-place is genuinely thin because of caregiving demands. Honour without shame; the season is what it is; Going Out will not manufacture mission for life-stages that don’t allow it.**
+**Watch for: the veteran whose third-place is genuinely thin because of caregiving demands. Honour without shame; the season is what it is; Going Out will not manufacture mission for life-stages that don’t allow it.**
 
-**Watch for: the parent whose third-place engagement is ministry-shaped (small group leading, mentoring, church volunteer work). Distinguish carefully: is this third-place mission, or is this household-of-faith vocation? Both are honest categories.**
+**Watch for: the veteran whose Wk 10 Discerner role from Going Deeper is now informing their third-place engagement. The integration is real and slow.**
+
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained face a hazard tonight no one else does: many have no third place at all. Every room they enter turns into church — the hobby group discovers what they do, and the witness becomes the office again. Honour the thinness as an occupational reality, not a failure; and treat the recovery of a genuine third place — somewhere they are a person before they are a pastor — as formation in its own right, not just mission terrain.**
+
+**Watch for: the leader whose third-place engagement is ministry-shaped (small group leading, mentoring, church volunteer work). Distinguish carefully: is this third-place mission, or is this household-of-faith vocation? Both are honest categories.**
+
+**Watch for: the leader whose third-place revealed an encounter that is approaching the threshold of formal vocational call. Receive cleanly; the discernment belongs to Wk 8 and beyond, with the covering in view.**
+
+**Watch for: the leader whose spouse shares the same third-place network (same neighbours, same congregation). Cross-member awareness held privately; indirect language in the room.**
 
 **Closing Practice in Detail**
 
@@ -397,7 +397,7 @@ The team meets the day after Wk 7 for a 60-minute debrief.
 
 **Signs the session worked**
 
-**•** The cohort survey produced honest data on third-place texture across all three cohorts.
+**•** The cohort survey produced honest data on third-place texture across the whole body.
 
 **•** The downhill / uphill distinction was named clearly and recognized by members.
 
@@ -427,11 +427,11 @@ The team meets the day after Wk 7 for a 60-minute debrief.
 
 **•** Anyone whose third-place network revealed concerning social isolation.
 
-**•** Any teen whose third-place crossed safety thresholds.
+**•** Any member whose third-place crossed safety thresholds.
 
-**•** Any senior whose third-place engagement produced a Spirit-prepared opening that the senior is uncertain how to steward.
+**•** Any member whose third-place engagement produced a Spirit-prepared opening they are uncertain how to steward.
 
-**•** Any parent whose third-place engagement is approaching the threshold of formal vocational call.
+**•** Any member whose third-place engagement is approaching the threshold of formal vocational call.
 
 **Handouts**
 
