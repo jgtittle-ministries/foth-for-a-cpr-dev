@@ -12,7 +12,7 @@ Week 12
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -24,17 +24,17 @@ Week 12
 
 ## WEEK 12 — SENDING INTO THE LONG OBEDIENCE (90 minutes)
 
-**Aim.** Close the formal series honestly. Speak specific blessings between standing pair partners; the cohort speaks the Aaronic together as a body; receive the H12.1 sending card; bridge to whatever continues (Going Deeper round 2 for some; honest non-continuation for others; long obedience for all). The closing is ceremonial without being performative — the body’s witnessed transformation, made specific in the blessings, sent into the long obedience.
+**Aim.** Close the formal series honestly. Speak specific blessings between standing pair partners; the cohort speaks the Aaronic together as a body; receive the H12.1 sending card; bridge to whatever continues (the family year for some; honest non-continuation for others; long obedience for all). The closing is ceremonial without being performative — the body’s witnessed transformation, made specific in the blessings, sent into the long obedience.
 
 **Anchor scripture.** Numbers 6:24–26 (the Aaronic blessing in full); Hebrews 12:1–2 returning a final time (the long-obedience anchor across the formation arc); Ephesians 4:1–3 (‘walk in a manner worthy of the calling… with all humility and gentleness, with patience, bearing with one another in love’); Acts 20:36–38 (Paul’s farewell at Miletus — weeping, kneeling, embracing, then sending; ceremonial without being performative).
 
 **Connect focus.** Sending and re-formation, closing. The formal series ends; the long obedience continues.
 
-**Mode.** Whole-room. The cohort sits as one body for the closing. No cohort split tonight.
+**Mode.** Whole-room. The cohort sits as one body for the closing. No circle split tonight.
 
 **Center.** Brief teaching frame on the architecture of closing (10 min). Standing-pair blessings spoken aloud (40 min). Cohort circle: each member ONE sentence about what the formation arc produced (15 min). Cohort speaks the Aaronic together over the cohort (5 min). H12.1 sending card given (5 min). Bridge to what continues (10 min). Final closing (5 min).
 
-**Between-session practice.** There is no between-session practice for Wk 12 — the formal series ends tonight. The continued practices (Rhythm Card, weekly Tells, standing-pair check-ins, the H12.1 sending card’s practices) carry into the long obedience without the formal series’ weekly cohort meeting. Members continuing to Going Deeper round 2 (when offered) re-engage at that point. Members not continuing carry the year’s formation into their individual contexts. The cohort’s ongoing connection to one another, beyond the formal series, is whatever each pair and each set of relationships can honestly hold.
+**Between-session practice.** There is no between-session practice for Wk 12 — the formal series ends tonight. The continued practices (Rhythm Card, weekly Tells, standing-pair check-ins, the H12.1 sending card’s practices) carry into the long obedience without the formal series’ weekly cohort meeting. Members confirmed for the family-year team re-engage when that work begins. Members not continuing carry the year’s formation into their individual contexts. The cohort’s ongoing connection to one another, beyond the formal series, is whatever each pair and each set of relationships can honestly hold.
 
 **IJH source.** Numbers 6:24–26 (Aaronic); Hebrews 12:1–2 (long-obedience anchor across the formation arc); Acts 20:17–38 (Paul’s Miletus farewell as architectural template for the closing); Vol 2 Exp 9 (Community as Amplifier extending into the long obedience after the formal series); Vol 6 Council material on welcoming and releasing (the closing as releasing the body to continued formation, not to dissolution).
 
@@ -48,11 +48,11 @@ Week 12
 
 **Comparison shame. A member receives a thin or generic blessing from their pair partner while another member receives a specific, witnessed, theologically rich blessing. The Lead Companion frames at the start: blessings are what each pair partner can honestly offer; the comparison is not the work.**
 
-**Members not continuing into Going Deeper round 2. The bridge block engages this honestly. Some members are continuing; some are not; some are uncertain. All three are honored. The architecture refuses pressure; pastoral support follows for those navigating non-continuation.**
+**Members not continuing into the family-year team. The bridge block engages this honestly. Some members are continuing; some are not; some are uncertain. All three are honored. The architecture refuses pressure; pastoral support follows for those navigating non-continuation.**
 
 **Performance of ‘we will all stay close’. The cohort that promises everyone will stay connected through ongoing meetings, group texts, regular gatherings is often performing rather than honestly assessing. Some pairs and small clusters will stay in real connection; some won’t. The architecture honors what is honest.**
 
-**The senior teen leaving for college or post-graduation. Wk 12 carries the senior’s departure layered with the cohort’s formal close. Two grief vectors operate; honor both; pastoral support for the layered transition.**
+**The member leaving — a move, a role change, a season ending. Wk 12 carries their departure layered with the cohort’s formal close. Two grief vectors operate; honor both; pastoral support for the layered transition.**
 
 **The Wk 10 Discerner from Going Deeper whose calling has been worked across Going Out. Wk 12 may be where the Discerner’s sending feels architecturally specific. Honour without singling out.**
 
@@ -70,23 +70,23 @@ Week 12
 
 **If a member’s grief at closing crosses into clinical depression or acute mental-health concern: pastoral 1:1 immediately after the session; clinical referral; the cohort’s formal end does not mean the team is unavailable for follow-up.**
 
-**If a member’s closing surfaces acute calling crisis (sensing they are being called away from CCA, sensing a vocational rupture, sensing a marital or family rupture): pastoral 1:1 within 24 hours; the team is on call beyond the formal series for the immediate transition support.**
+**If a member’s closing surfaces acute calling crisis (sensing they are being called away from the host church, sensing a vocational rupture, sensing a marital or family rupture): pastoral 1:1 within 24 hours; the team is on call beyond the formal series for the immediate transition support.**
 
-**If a senior’s closing reveals significant transition crisis (unable to imagine post-graduation life without the cohort, family conflict about post-graduation direction): pastoral 1:1; spiritual-direction support; family conversation outside the cohort space.**
+**If a member’s closing reveals significant transition crisis (unable to imagine the next season without the cohort’s weekly rhythm, household conflict about the direction ahead): pastoral 1:1; spiritual-direction support; household conversation outside the room.**
 
-**If a teen’s closing reveals concerns about returning to a household where Going Out’s formation has produced family-system tension: cross-cohort pastoral conversation; mandatory-reporting law applies if abuse or harm is involved.**
+**If a member’s closing reveals concerns about a household where the year’s formation has produced family-system tension: pastoral conversation with the household in view, spouses separately if needed; mandatory-reporting law applies if abuse or harm is involved.**
 
 **If a pair’s blessing block produces acute pain (one partner offering thin blessing while the other offers significant blessing; one partner unable to receive blessing well): receive cleanly without making the cohort the venue; pastoral 1:1 with the pair separately.**
 
-**If a member’s decision about Going Deeper round 2 continuation produces acute distress (member who wants to continue but cannot for life-stage reasons; member who feels pressured by the cohort to continue when they need to step out): pastoral 1:1; the architecture protects honest non-continuation.**
+**If a member’s decision about the family-year team produces acute distress (a member who wants to serve but cannot for life-stage reasons; a member who feels pressured to continue when they need to step out): pastoral 1:1; the architecture protects honest non-continuation — the host church’s discernment is a covering, not a draft.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1. The team’s pastoral availability extends beyond the formal series’ close for at least 30 days as transition support.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). The team’s pastoral availability extends beyond the formal series’ close for at least 30 days as transition support.**
 
 **Session at a Glance**
 
 **Why this session, this week**
 
-Wk 12 closes the formal series. A year of weekly cohort meetings ends tonight — Getting Started (15 weeks, when applicable), 12 weeks of Going Deeper, the interlude, 12 weeks of Going Out. The cohort that walked the formation arc is being released to continued formation in different rhythms. The architecture is ceremonial without being performative; the formal close honors what was, opens what continues, and refuses to pretend the ending is not an ending.
+Wk 12 closes the formal series. A year of weekly cohort meetings ends tonight — fifteen weeks of Getting Started, twelve of Going Deeper, twelve of Going Out, with the practice holds and the breaks between. The cohort that walked the formation arc is being released to continued formation in different rhythms. The architecture is ceremonial without being performative; the formal close honors what was, opens what continues, and refuses to pretend the ending is not an ending.
 
 Acts 20:36–38 is the architectural anchor for the closing. Paul’s farewell at Miletus: he kneels and prays with the elders; they weep; they embrace; they accompany him to the ship. The architecture is ceremonial — specific physical postures, specific words, specific actions. It is also honest — they grieve openly; the parting is real; they will likely not see Paul again in this life. Tonight’s closing follows the same shape: specific blessings spoken aloud; honest grief; physical actions (the body together speaking the Aaronic, the H12.1 cards in hand); honest acknowledgment that the formal weekly rhythm ends and the long obedience continues.
 
@@ -96,7 +96,7 @@ The cohort’s Aaronic spoken together is the architectural close. Across the fo
 
 The H12.1 sending card is Going Out’s closing artifact. It contains the body’s working sentence (whatever Wk 8 landed); each member’s individual sent-context (refined across Wks 9–10); the practices for the long obedience (Rhythm Card adapted for post-formal-series rhythm); and contact rhythms for the standing pair. The card is concrete; members carry it forward.
 
-The bridge to what continues is honest. Some members will continue to Going Deeper round 2 (when offered); some will not. Some pairs will continue meeting; most will not weekly. Some will remain in close connection across years; many will remain warmly connected without close contact. The architecture honors all of these as honest possible continuations.
+The bridge to what continues is honest. Some members will go on to the family-year team, as the host church’s discernment confirms; some will not continue. Some pairs will continue meeting; most will not weekly. Some will remain in close connection across years; many will remain warmly connected without close contact. The architecture honors all of these as honest possible continuations.
 
 **Dependencies**
 
@@ -104,7 +104,7 @@ The bridge to what continues is honest. Some members will continue to Going Deep
 
 **•** Going Deeper Wk 12 sending into the interlude — the architectural template for ceremonial closing.
 
-**•** All of Going Out Going Out.
+**•** All of Going Out.
 
 **•** Wks 10–11’s integration work — individual integration; cohort-level honest assessment.
 
@@ -132,11 +132,11 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **2.** Walk Acts 20:36–38 together. Discuss the architecture of ceremonial-without-performative closing. (10 min)
 
-**3.** Cohort review. Each Cohort Companion reports their cohort’s state heading into closing — members continuing to Going Deeper round 2; members not continuing; pairs that struggled; pairs that produced significant material; acute pastoral situations. (20 min)
+**3.** Cohort review. Each Cohort Companion reports their circle’s state heading into closing — members likely headed to the family-year team; members not continuing; pairs that struggled; pairs that produced significant material; acute pastoral situations. (20 min)
 
 **4.** Walk the run sheet carefully. The blessing block (40 min) is the architectural centre; the Aaronic together; the sending card; the bridge. Time discipline. (15 min)
 
-**5.** Special cases: pair partnerships that struggled; members not continuing; senior teens in transition; the Wk 10 Discerner from Going Deeper; members whose Wk 11 assessment surfaced unresolved material. (15 min)
+**5.** Special cases: pair partnerships that struggled; members not continuing; members in transition; the Wk 10 Discerner from Going Deeper; members whose Wk 11 assessment surfaced unresolved material. (15 min)
 
 **6.** Distribution of H12.1 sending cards confirmed: who has whose; pastoral 1:1 timing across the week. (5 min)
 
@@ -197,7 +197,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 | 7:48–8:03 | Block 3: Cohort circle — each member ONE sentence | Shared circle | Lead Companion | Each member: ‘What the formation arc produced in me, in one sentence.’ |
 | 8:03–8:13 | Block 4: Cohort speaks the Aaronic together | Shared circle (standing) | Lead Companion | The cohort stands in tight circle; speaks Aaronic together; one full minute of silence. |
 | 8:13–8:18 | Block 5: H12.1 sending card given | Shared circle | Lead Companion | Brief framing; cards already in members’ hands; cohort acknowledges. |
-| 8:18–8:25 | Block 6: Bridge to what continues | Shared circle | Lead Companion | Honest framing of continuation possibilities; Going Deeper round 2; long obedience. |
+| 8:18–8:25 | Block 6: Bridge to what continues | Shared circle | Lead Companion | Honest framing of continuation possibilities; the family year; long obedience. |
 | 8:25–8:30 | Block 7: Final sending | Shared circle | Lead Companion | Hebrews 12 returning; final Aaronic; release. |
 
 **Block-by-Block: Scripts and Notes**
@@ -246,7 +246,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **HONEST. The formal series ends. The cohort’s weekly rhythm releases. The pretense that the cohort will all stay close is replaced by what is honestly true — specific pairs and small clusters in real connection; the cohort warmly connected without close contact for many.**
 
-**RELEASING, NOT DISSOLVING. The body is released to continued formation in different rhythms. Going Deeper round 2 is offered to those who want it. The long obedience continues for everyone. The cohort is not dissolving; it is being released.**
+**RELEASING, NOT DISSOLVING. The body is released to continued formation in different rhythms. The family year opens for those the discernment confirms. The long obedience continues for everyone. The cohort is not dissolving; it is being released.**
 
 **Block 2 — Standing-Pair Blessings Spoken Aloud (7:08–7:48, 40 min)**
 
@@ -358,11 +358,11 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“The formal series closes tonight. The long obedience continues. Three honest possibilities for what continues.”*
 
-*“ONE — GOING DEEPER ROUND 2. For those who want to continue with another formal cohort cycle, Going Deeper round 2 will be offered [confirm timing per CCA pilot calendar]. Registration logistics will be handled outside this session. The architecture is not assumed; some members will continue, some will not, both are honest.”*
+*“ONE — THE FAMILY YEAR. For those whom the exit discernment and the host church confirm for the family-year team, that work opens [confirm timing per the host church’s calendar]. The discernment and the decision belong to the host church; those conversations happen outside this session. The architecture is not assumed; some members will serve, some will not, both are honest.”*
 
 *“TWO — STANDING-PAIR CONTINUATION. Many of you will continue meeting with your standing pair beyond the formal series, in whatever rhythm fits your life. The H12.1 card has the contact rhythm you and your partner have agreed. Some pairs will meet weekly; some monthly; some quarterly with mid-week check-ins; some will release with warmth. The architecture honors all of these.”*
 
-*“THREE — LONG OBEDIENCE FOR ALL. Whether or not you continue to round 2 or maintain your standing pair, the year’s formation enters your long obedience. Hebrews 12 carries the architecture forward — ‘let us run with endurance the race that is set before us, looking to Jesus.’ The race is what each of you was sent into; the endurance is what carries you through.”*
+*“THREE — LONG OBEDIENCE FOR ALL. Whether or not you continue into the family year or maintain your standing pair, the year’s formation enters your long obedience. Hebrews 12 carries the architecture forward — ‘let us run with endurance the race that is set before us, looking to Jesus.’ The race is what each of you was sent into; the endurance is what carries you through.”*
 
 *“The team’s pastoral availability extends for at least 30 days beyond tonight. Specific transitions — graduation, vocational shift, household change — may need pastoral support; the team is on call. After 30 days, contact rhythms shift; pastoral support continues but is no longer scheduled.”*
 
@@ -402,53 +402,49 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **Members do not need to leave on a schedule; the room holds the body for as long as members want to remain.**
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members through the blessings and the close.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often experience closing concretely — the specific rituals and physical actions are real and significant. The blessing block, the standing-together Aaronic, the sending card are all carried forward as concrete memories.**
-
-**Watch for: junior teens whose closing produces unexpected grief. Receive cleanly; pastoral 1:1 within the week.**
-
-**Watch for: junior teens whose pair partnership produced thin material. Cohort Companion supports privately; the architecture honors what is.**
-
-**Watch for: junior teens whose continuation to round 2 is uncertain because of life-stage. Pastoral support; the architecture protects honest non-continuation.**
-
-**Watch for: junior teens whose closing surfaces concerning material requiring pastoral / clinical support. Section 6 protocol if needed.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often carry layered grief at closing — the cohort’s formal end PLUS the upcoming graduation or transition. Two grief vectors operate; honor both.**
+**First-timers often experience closing concretely — the specific rituals and physical actions are real and significant. The blessing block, the standing-together Aaronic, the sending card are all carried forward as concrete memories.**
 
-**Watch for: the senior whose blessing block produces significant material with their pair partner. Pastoral support; the relationship may continue across the senior’s transition.**
+**Watch for: the first-timer whose closing produces unexpected grief. Receive cleanly; pastoral 1:1 within the week.**
 
-**Watch for: the senior who is moving away and whose continuation to round 2 is geographically impossible. Pastoral support; honest acknowledgment of the constraint; standing-pair connection across distance is honored.**
+**Watch for: the first-timer whose pair partnership produced thin material. Cohort Companion supports privately; the architecture honors what is.**
 
-**Watch for: the senior whose Wk 10 Discerner role from Going Deeper has produced a calling now being formally sent at the close. Pastoral 1:1; spiritual-direction beyond the cohort.**
+**Watch for: the first-timer whose continuation toward the family year is uncertain because of life-stage. Pastoral support; the architecture protects honest non-continuation.**
 
-**Watch for: the senior whose closing produces acute transition crisis. Pastoral / clinical support; the team is on call beyond the formal series.**
+**Watch for: the first-timer whose closing surfaces concerning material requiring pastoral / clinical support. The safeguarding frame governs if needed.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents have walked the formation arc carrying multiple roles — cohort member, parent of teen-in-cohort, household leader. Their closing carries multiple integration vectors.**
+**Veterans often carry layered grief at closing — the cohort’s formal end PLUS whatever transition their own season holds. Two grief vectors operate; honor both.**
 
-**Watch for: the parent whose teen is a senior leaving the cohort and the family. Layered grief; pastoral support for the parent’s own transition alongside the teen’s.**
+**Watch for: the veteran whose blessing block produces significant material with their pair partner. Pastoral support; the relationship may continue across whatever transition follows.**
 
-**Watch for: the parent whose closing surfaces significant unfinished material from the year. Pastoral 1:1; the long obedience continues.**
+**Watch for: the veteran who is moving away and whose family-year participation is geographically impossible. Pastoral support; honest acknowledgment of the constraint; standing-pair connection across distance is honored.**
 
-**Watch for: the parent whose continuation to round 2 is uncertain because of life-stage, vocational pressure, or family demands. Pastoral support; honest non-continuation is honored.**
+**Watch for: the veteran whose Wk 10 Discerner role from Going Deeper has produced a calling now being formally sent at the close. Pastoral 1:1; spiritual-direction beyond the cohort.**
 
-**Watch for: the parent who has been a strong contributor to the cohort’s formation and whose closing produces unexpected grief. The parent’s contribution is real; the grief is honest. Pastoral support for the closing transition.**
+**The ordained and the staff**
 
-**Watch for: the parent in vocational position to influence the cohort’s continuation logistics. Honour the gift while watching for over-functioning; the architecture’s integrity is the closing, not the planning of round 2.**
+## Adjustments
+
+**The ordained have walked the year carrying multiple roles — member, rotation leader, sometimes the covering’s own colleague. Tonight is the closing they cannot run: one more night of receiving, not directing. The Lead Companion holds the room; the leader’s part is to be blessed, to speak one sentence, to stand in the circle like everyone else.**
+
+**Watch for: the leader who feels the family year is obligatory because of the office — that a pastor cannot honestly not continue. The discernment is real and the office is not a draft notice; the host church’s decision covers a no as fully as a yes. Pastoral 1:1 if the pressure operates.**
+
+**Watch for: the leader in position to influence the continuation logistics who begins planning the family year tonight. Honour the gift while naming the discipline: the architecture’s integrity is the closing, not the planning of what follows.**
+
+**Watch for: the leader who has been a strong contributor and whose closing produces unexpected grief. The contribution is real; the grief is honest. Pastoral support for the closing transition.**
+
+**Watch for: the leader whose closing surfaces significant unfinished material from the year. Pastoral 1:1; the long obedience continues.**
 
 **Closing Practice in Detail**
 
@@ -456,7 +452,7 @@ The closing IS the architecture tonight. The blessing block, the cohort Aaronic,
 
 **There is no Between-Session Practice**
 
-The formal series ends tonight. The continued practices (Rhythm Card adapted for post-formal-series rhythm; weekly Tells; standing-pair check-ins per the H12.1 contact rhythm) carry into the long obedience without weekly cohort meetings. Members continuing to Going Deeper round 2 (when offered) re-engage at that point. The week between Wk 12 and the next formal engagement (round 2 or simply the long obedience) is intentional space for the closing to settle.
+The formal series ends tonight. The continued practices (Rhythm Card adapted for post-formal-series rhythm; weekly Tells; standing-pair check-ins per the H12.1 contact rhythm) carry into the long obedience without weekly cohort meetings. Members confirmed for the family-year team re-engage when that work begins. The weeks between Wk 12 and the next formal engagement (the family year or simply the long obedience) are intentional space for the closing to settle.
 
 **Companion Team Debrief Prompts**
 
@@ -470,7 +466,7 @@ The team meets the day after Wk 12 for a 90-minute debrief (longer because of th
 
 **•** The H12.1 sending card was received as Going Out’s closing artifact; members carried it physically.
 
-**•** The bridge to what continues honored honest range — some continuing to round 2; some not; long obedience for all.
+**•** The bridge to what continues honored honest range — some toward the family year; some not; long obedience for all.
 
 **•** Honest grief and honest gift held together without performed cheerfulness.
 
@@ -484,7 +480,7 @@ The team meets the day after Wk 12 for a 90-minute debrief (longer because of th
 
 **•** The cohort Aaronic felt performative rather than corporate.
 
-**•** The bridge to round 2 became implicit pressure to continue.
+**•** The bridge to the family year became implicit pressure to continue.
 
 **•** A member’s acute material (calling crisis, grief surfacing, mental-health concern) was not flagged for follow-up.
 
@@ -494,13 +490,13 @@ The team meets the day after Wk 12 for a 90-minute debrief (longer because of th
 
 **•** Anyone whose closing produced acute grief, calling crisis, or mental-health concern.
 
-**•** Any senior in significant transition crisis.
+**•** Any member in significant transition crisis.
 
-**•** Any member whose continuation to round 2 was decided in tension or under pressure.
+**•** Any member whose continuation toward the family year was decided in tension or under pressure.
 
 **•** Any pair whose blessing block revealed unfinished partnership material.
 
-**•** Any parent whose closing surfaced cross-cohort dynamics requiring further pastoral conversation.
+**•** Any member whose closing surfaced cross-circle dynamics requiring further pastoral conversation.
 
 **•** The Wk 10 Discerner from Going Deeper whose calling has been formally sent at the close.
 
@@ -508,11 +504,11 @@ The team meets the day after Wk 12 for a 90-minute debrief (longer because of th
 
 **Team transition work**
 
-**•** The Companion team itself is closing a year of work tonight. The team’s own transition deserves attention. Some Companions may continue to round 2; some may step out for a season; team composition for round 2 is named in a separate team conversation across the next two weeks.
+**•** The Companion team itself is closing a year of work tonight. The team’s own transition deserves attention. Some Companions may continue into the family year; some may step out for a season; team composition for what follows is named in a separate team conversation across the next two weeks.
 
 **•** The team’s pastoral availability extends 30 days post-Wk 12. Schedule follow-up rhythm for the team’s own check-ins across that window.
 
-**•** Document what worked and what didn’t across the formation arc for future cohort cycles. The pilot edition has been a working text; Going Out revisions inform what becomes the next version.
+**•** Document what worked and what didn’t across the formation arc for future cohort cycles. The adult edition has been a working text; Going Out revisions inform what becomes the next version.
 
 **Handouts**
 
@@ -556,7 +552,7 @@ Member: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \
 
 **MONTHLY — Longer PROAPT; Rhythm Card review; sending-card re-read.**
 
-**SEASONALLY — What round of formation are you in? Going Deeper round 2 (if continuing); informal continuing connection (if pair-rhythm continues); long obedience (regardless of structured cohort).**
+**SEASONALLY — What round of formation are you in? The family-year team (if confirmed); informal continuing connection (if pair-rhythm continues); long obedience (regardless of structured cohort).**
 
 **FOUR — Standing-pair contact rhythm**
 
@@ -632,7 +628,7 @@ Performance produces a feeling and dissipates within hours. Ceremony, done well,
 
 **Seasonal anchors**
 
-## WHAT ROUND OF FORMATION? Going Deeper round 2 (if continuing); informal continuing connection; long obedience (regardless of structured cohort).
+## WHAT ROUND OF FORMATION? The family-year team (if confirmed); informal continuing connection; long obedience (regardless of structured cohort).
 
 **RETREAT OR EXTENDED PRAYER TIME. Vol 2’s seasonal practice continues — some longer time away that goes deeper than ordinary practices reach.**
 
@@ -642,13 +638,13 @@ Performance produces a feeling and dissipates within hours. Ceremony, done well,
 
 *Three honest possibilities for what continues beyond the formal series. All three are honored.*
 
-**Possibility 1 — Going Deeper Round 2**
+**Possibility 1 — The Family Year**
 
-## FOR. Members who want another formal cohort cycle; members whose discernment in Wks 10–11 surfaced that the long obedience needs continued formal structure for this season.
+## FOR. Members whom the exit discernment and the host church confirm for the family-year team — the work this leadership year exists to prepare.
 
-**WHAT IT IS. Twelve more weeks of the Going Deeper architecture, with Going Out’s formation as the foundation. The cohort may include continuing members, new members, or both. Round 2 is not Getting Started; new pacing per CCA pilot calendar.**
+**WHAT IT IS. The family edition of Fellowship of the Heart, run for the households the host church serves, with this year’s formation as the team’s foundation. The host church holds the calendar and the decision.**
 
-**REGISTRATION. Logistics handled outside this session. Pastoral 1:1 across the next 2 weeks if you are uncertain.**
+**THE DECISION. It belongs to the host church, with the covering’s read and the year’s evidence in view. Pastoral 1:1 across the next 2 weeks if you are uncertain.**
 
 **HONEST. Some members will continue. Some will not. Both are honored.**
 
@@ -662,7 +658,7 @@ Performance produces a feeling and dissipates within hours. Ceremony, done well,
 
 **Possibility 3 — Long obedience for all**
 
-## FOR. Every member regardless of round 2 status or pair continuation status.
+## FOR. Every member regardless of family-year status or pair continuation status.
 
 **WHAT IT IS. Hebrews 12. ‘Let us run with endurance the race that is set before us, looking to Jesus.’ The race is what each of you was sent into; the endurance is what carries you through. The Looker remains.**
 
