@@ -24,7 +24,7 @@ const SITE = {
 };
 
 // Standalone root pages, in nav order, then series folders in nav order.
-const ROOT_PAGES = ['index.md', 'start-here.md'];
+const ROOT_PAGES = ['index.md', 'start-here.md', 'leadership-year-handbook.md'];
 const SERIES_DEFS = [
   { id: 'getting-started', name: 'Getting Started',   edition: 'v3' },
   { id: 'going-deeper',    name: 'Going Deeper',      edition: 'v2' },

@@ -18,4 +18,6 @@ Getting Started carries **two two-week practice holds** at its seams; Going Deep
 
 **What this is not.** It is not therapy: the work may be therapeutic, but it is not therapy, and it holds that rail deliberately. It is not content to sit through: the unit of every session is a practice, walked together, then sent home. And nothing in it is demanded: practices are offered, leadership is offered, and the door stays open.
 
+**The year's spine.** The [Leadership Year Handbook](leadership-year-handbook.md) carries what is true across all fifty-one weeks: the gates, the weekly liturgy, the observation discipline, and the rails.
+
 **Where things stand.** This is the development edition. The session maps are being retrofitted from the school-year edition's learnings; expect movement.

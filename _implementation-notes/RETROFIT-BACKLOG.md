@@ -12,17 +12,20 @@
 
 ## B. Innovations to retrofit from the 22-week year
 
-6. Container protocol, current form: four conditions spoken open and closed, confidentiality promised aloud with legal limits named.
-7. One True Sentence.
-8. Leader Feedback Round + teach-back (the leader publicly stays a sheep).
-9. **Rotation.** The club's teen-led second runnings become adult leader rotation: every leader leads, every leader receives the round. For a leadership-first cohort this is not an add-on — it IS the leadership formation, and the absence test comes free with it.
-10. Keep/change/tell self-read: set up the session before each break, answered at re-entry (three reads per year, same cadence logic as the club's quarters).
-11. Ladder of Signs / three vital signs in aged forms. A room is young regardless of the age of its members — the first-forms reading applies to a brand-new adult cohort too. Needs an adult-register pass; expectations may climb faster.
-12. Whole sessions, cumulative practices (the intermittent-attendance principle).
-13. Permission ethic + Measurement Covenant, adult form. No minors simplifies safeguarding, not consent: named notes still need the asked-for conversation. Mirrors not levers, weep test, pages-never-care all carry over verbatim.
-14. Observation pack: an adult debrief page (one page per session, raw mark + rung + occasion note, decisions log at the team call) if the challenge year is observed — recommended, since the leadership cohort should experience being observed the way they will later observe.
-15. The frozen-observation-protocol discipline + decisions log, if 14 is adopted.
+**PASS RUN 2026-08-20: `docs/leadership-year-handbook.md` is now the year-wide spine carrying items 6-15 in adult register (plus rulings 16-17). Statuses below; the remaining mechanical work is item 15b.**
+
+6. Container protocol, current form — **IN THE HANDBOOK §3** (seed sessions already carry the container; the handbook adds the current confidentiality-with-legal-limits form and the settle/nobody-leaves-activated pointers).
+7. One True Sentence — **IN THE HANDBOOK §3** as weekly liturgy ('nothing came' is a true sentence; the smallest rung of costly telling, scheduled weekly). Seed sessions mostly lack it; weave = item 15b, with interim leader guidance in the handbook.
+8. Leader Feedback Round + teach-back — **IN THE HANDBOOK §3** ('in a leadership year this round is not garnish; it is half the formation'). Seed carries the round only on GS second-runnings, teach-back nowhere; weave = item 15b, interim guidance in the handbook.
+9. **Rotation — IN THE HANDBOOK §4**, aligned with the gate ruling: a self-discerned and observed role, never a requirement; the absence test comes free; the family edition needs more than session-leaders.
+10. Keep/change/tell self-read — **IN THE HANDBOOK §5**: set up on no paper at the last session before each hold, answered at re-entry after the what-held round; leader first; signs never handed to the room; the tell-somebody question named as the truest read. DEFAULT CADENCE = all four holds — **John may prefer fewer (e.g., series boundaries only); flag when the weave builds it.** Session beats = item 15b.
+11. Ladder of Signs / vital signs in aged forms — **IN THE HANDBOOK §6** ('a room of fifty-year-olds is still a young room in September'; adult rooms may climb faster, the ladder does not change, only the pace). The shared Three Vital Signs card still needs its adult-register sweep (item 18 territory).
+12. Whole sessions, cumulative practices — **IN THE HANDBOOK §2**.
+13. Permission ethic + covenant, adult form — **IN THE HANDBOOK §6**: everyone signs because everyone is on both sides of the watching; destruction rhythm agreed before the year begins; mirrors/weep-test/pages-never-care verbatim. The shared covenant card itself still needs the adult-register rewrite.
+14. Observation pack — **SPEC IN THE HANDBOOK §6** (one page/session, raw mark + rung + eight-word occasion, attendance, round's echo, decisions-log line; the cohort observes ITSELF — the deeper rationale now stated: these leaders learn watching by doing it under the same roof where it is done to them; the convening leader keeps the pages). The PRINTABLE pack itself is not built — build when a first church is real, on the club pack's pattern.
+15. Frozen protocol + decisions log — **IN THE HANDBOOK §6** ('the rules of the ruler'; stopping always allowed, revising scheduled; 'a year that cannot say what it changed cannot say what it learned').
 15a. **Re-entry what-held rounds — DONE 2026-08-20, all four sessions.** GS Wk 6 (Block 2, 4→10 min, paid from five edges), GS Wk 11 (Block 2, 5→10 min), GD Wk 7 (Block 2, 5→9 min), GO Wk 9 (Block 1, 8→12 min, two-level round: the person's practice and the cohort's yes, feeding the cost-walk). Each landed in three places (quick-reference card gains a Re-entry line; run-sheet row; block heading + script), clocks verified continuous and summing 90 with headings agreeing with tables. Leader notes carry time-to-settled at every re-entry. TWO SEED DEFECTS found and fixed in Wk 11 while there: its check-in still referenced the OLD three-visit garden rhythm (Wk 10 sets two — a four-place-discipline failure in the wild), and its scripts claimed 'two weeks left in Getting Started' / 'next Tuesday closes Getting Started' (wrong for the fifteen-week edition). A fuller seed-consistency sweep belongs to the de-CCA pass (item 18).
+15b. **The session weave (QUEUED — the remaining mechanical work of the section B pass).** Weave into all 39 run sheets with clocks paid and audited: One True Sentence weekly, the Leader Feedback Round + teach-back weekly, the self-read setup beat at the four pre-hold closes and its answer beat inside the four re-entry rounds. One discipline, one audit, one commit series. Until then the handbook's interim guidance governs (§3 note).
 
 ## C. Design questions John must rule
 

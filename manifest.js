@@ -24,6 +24,12 @@ window.SERIES = [
     "path": "docs/start-here.md"
   },
   {
+    "id": "leadership-year-handbook",
+    "kind": "page",
+    "name": "The Leadership Year — Handbook",
+    "path": "docs/leadership-year-handbook.md"
+  },
+  {
     "id": "getting-started",
     "kind": "series",
     "name": "Getting Started",
@@ -353,6 +359,12 @@ window.PATH_TO_INFO = {
     "seriesName": "Start here",
     "title": "Start here",
     "indexPath": "docs/start-here.md"
+  },
+  "docs/leadership-year-handbook.md": {
+    "seriesId": "leadership-year-handbook",
+    "seriesName": "The Leadership Year — Handbook",
+    "title": "The Leadership Year — Handbook",
+    "indexPath": "docs/leadership-year-handbook.md"
   },
   "docs/getting-started/index.md": {
     "seriesId": "getting-started",
