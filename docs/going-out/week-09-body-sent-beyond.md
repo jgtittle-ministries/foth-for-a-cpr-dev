@@ -12,7 +12,7 @@ Week 9
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,11 +30,11 @@ Week 9
 
 **Connect focus.** Mission far / sending. The body sent into specific work and into the long obedience.
 
-**Mode.** Whole-room. The cohort sits as one body for the laying-on-of-hands. The cohort split, if it happens at all tonight, is brief and only if Landing 2 (individual sending) requires cohort-specific preparation.
+**Mode.** Whole-room. The cohort sits as one body for the laying-on-of-hands. The circle split, if it happens at all tonight, is brief and only if Landing 2 (individual sending) requires circle-specific preparation.
 
 **Re-entry.** This session follows the series’ two-week practice hold; Block 1 carries the what-held round at two levels — each person’s practice, and the cohort’s own yes.
 
-**Center.** Brief teaching frame (10 min). Walk the cost of yes/no (20 min) — standing pairs do brief work, then cohort circle hears patterns. Laying-on-of-hands sending (35 min) — the body lays hands on whatever is being sent, with brief specific blessings. Bridge to Wks 10–12 (10 min). Closing container.
+**Center.** Brief teaching frame (10 min). Walk the cost of yes/no (20 min) — standing pairs do brief work, then the cohort hears patterns. Laying-on-of-hands sending (35 min) — the body lays hands on whatever is being sent, with brief specific blessings. Bridge to Wks 10–12 (10 min). Closing container.
 
 **Between-session practice.** The body has now been sent. Whatever was discerned and confirmed enters integration across the week. Daily noticing question: ‘Where is the sending now showing up in concrete obedience?’ Standing-pair check-in: ‘What is the first specific obedience asked of you this week?’ Wk 10 begins the closing block of Going Out — sending and re-formation — with honest assessment of what Going Out produced.
 
@@ -56,9 +56,9 @@ Week 9
 
 **Premature commitment. A member commits to the engagement before walking the cost honestly. Receive; the cost-walking block tonight is the discipline against premature yes; pastoral 1:1 if the member needs to refine.**
 
-**Cross-cohort family negotiation. A teen’s yes for a shared engagement requires parental consent the parent (in another cohort) is uncertain about. The architecture protects: cross-cohort dynamics are managed by Companions privately; the cohort space holds the teen’s discernment.**
+**Cross-spouse negotiation. A member’s yes for a shared engagement needs a household support their spouse (in another circle) is uncertain about. The architecture protects: the dynamics are managed by Companions privately; the room holds the member’s discernment while the couple’s own conversation happens at home.**
 
-**Senior teens leaving the cohort soon. A senior’s upcoming graduation or move means their participation in any sending will be brief or partial. Receive cleanly; the senior’s sending is theirs whether the cohort-level engagement extends past their participation or not. Honour the brief participation as real.**
+**Members leaving the cohort soon. A member’s upcoming move or role transition means their participation in any sending will be brief or partial. Receive cleanly; the sending is theirs whether the cohort-level engagement extends past their participation or not. Honour the brief participation as real.**
 
 **The Wk 10 Discerner from Going Deeper. The Discerner from Going Deeper Wk 10 may have an active calling that intersects with tonight’s sending. Receive cleanly; the Discerner’s integration may be ahead of the cohort’s, behind it, or in different terrain entirely. The architecture honors all three.**
 
@@ -70,15 +70,15 @@ Week 9
 
 **If a member’s honest cost-counting reveals that the discerned engagement requires sacrifice they cannot make in this season (job loss risk, family rupture risk, mental-health risk): receive cleanly; pastoral 1:1; the no is honest, not weakness.**
 
-**If a member’s yes to a shared engagement reveals that their household will not support it (spouse’s objection, parents’ objection for a teen): pastoral cross-cohort conversation outside the session; the cohort space holds the member’s discernment without making the household the obstacle.**
+**If a member’s yes to a shared engagement reveals that their household will not support it (a spouse’s objection, a household season that cannot absorb it): pastoral conversation outside the session; the room holds the member’s discernment without making the household the obstacle.**
 
 **If the laying-on-of-hands moment surfaces material a member is not prepared to carry (acute spiritual experience, surfacing of unresolved trauma, sense of being called beyond their current capacity): the team’s discipline is to receive cleanly without amplifying; pastoral 1:1 immediately after the session; clinical referral if appropriate.**
 
-**If the sending reveals that a member is being called away from the cohort entirely (a vocational move, a family relocation, a calling that pulls them out of CCA Warrenton): receive cleanly; the cohort’s sending honors the leaving as much as the staying; pastoral support for the transition.**
+**If the sending reveals that a member is being called away from the cohort entirely (a vocational move, a family relocation, a calling that pulls them out of the host church’s orbit): receive cleanly; the cohort’s sending honors the leaving as much as the staying; pastoral support for the transition.**
 
-**If a teen’s sending reveals their parent’s household has not supported their formation across Going Out (a parent in another cohort whose engagement has been minimal or oppositional): the architecture protects the teen; cross-cohort pastoral attention; mandatory-reporting law applies if abuse or harm is involved.**
+**If a member’s sending reveals their household has not supported their formation across Going Out (a spouse whose engagement has been minimal or oppositional): the architecture protects the member; pastoral attention to the couple, separately if needed; mandatory-reporting law applies if abuse or harm is involved.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -126,11 +126,11 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **2.** Walk Acts 13:3–4 and Acts 14:21–23 together. Discuss the sending-and-continued-strengthening pattern. (10 min)
 
-**3.** Cohort review by landing. Each Cohort Companion reports what their cohort’s pair conversations across the week have produced — honest yes/no/limited responses; cost concerns; cross-cohort family dynamics; concerns about specific members. (25 min)
+**3.** Cohort review by landing. Each Cohort Companion reports what their circle’s pair conversations across the week have produced — honest yes/no/limited responses; cost concerns; cross-spouse dynamics; concerns about specific members. (25 min)
 
 **4.** Walk the run sheet, with the architectural adaptation to Wk 8’s actual landing. The team confirms the structure for the actual landing, not the imagined one. (15 min)
 
-**5.** Special cases: members whose cost-counting revealed prohibitive cost; members whose households are uncertain about the engagement; senior teens leaving the cohort; the Wk 10 Discerner from Going Deeper whose calling intersects. (15 min)
+**5.** Special cases: members whose cost-counting revealed prohibitive cost; members whose households are uncertain about the engagement; members leaving the cohort soon; the Wk 10 Discerner from Going Deeper whose calling intersects. (15 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (5 min)
 
@@ -182,7 +182,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:12 | Block 1: Open + practice hold re-entry — the what-held round | Shared circle | Lead Companion | Aaronic. Re-read Wk 8’s landing; what held for you, and what held for us. |
 | 7:12–7:20 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
-| 7:20–7:40 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
+| 7:20–7:40 | Block 3: Walking the cost (pair work + cohort patterns) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
 | 7:40–8:13 | Block 4: Laying-on-of-hands sending | Shared circle | Lead Companion | Architecture adapts to Wk 8 landing; physical sending. |
 | 8:13–8:20 | Block 5: Bridge to Wks 10–12 | Shared circle | Lead Companion | Frame the closing block of Going Out; Hebrews 12 returning. |
 | 8:20–8:30 | Block 6: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Send into the week. |
@@ -250,7 +250,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 **Block 3 — Walking the Cost (7:20–7:40, 20 min)**
 ## Lead Companion script (60 sec)
 
-*“Your standing pair. 8 minutes per direction; 16 minutes total; 4 minutes for cohort circle pattern surfacing.”*
+*“Your standing pair. 8 minutes per direction; 16 minutes total; 4 minutes for cohort pattern surfacing.”*
 
 *“The question adapts to landing. If Landing 1, walk the cost of yes for the shared engagement. If Landing 2, walk the cost of yes for your individual sent-context. If Landing 3, walk where the question has landed for you across the week.”*
 
@@ -270,7 +270,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **At 8 min: switch. At 16 min: stop.**
 
-## Cohort circle pattern surfacing (4 min)
+## Cohort pattern surfacing (4 min)
 
 *“Briefly, around the circle: ONE word from each of you about where the cost-walking landed. ‘Yes.’ ‘Limited.’ ‘Wrestling.’ ‘No-for-now.’ ‘Clear.’ ‘Heavy.’ Pass anytime.”*
 
@@ -371,47 +371,45 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members through the cost-walking and the laying-on-of-hands.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often hold sending architecture concretely: the laying-on-of-hands moment is real and meaningful, possibly more so than for older members. Honour the specificity of their experience.**
-
-**Watch for: junior teens whose cost-walking surfaced material involving parents (in another cohort) whose support is uncertain. Cross-cohort pastoral conversation outside the session.**
-
-**Watch for: junior teens whose laying-on-of-hands moment surfaces unexpected emotion. Receive cleanly; the moment is real; pastoral support if the emotion crosses thresholds.**
-
-**Watch for: junior teens whose individual sent-context (Landing 2) is concrete-relational — a specific friend, a specific classroom dynamic. Honour; the sending is real even at this scale.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens may carry sending architecture with full theological weight — some have read about laying-on-of-hands in scripture and have wanted to participate in it. Receive the readiness without inflating the moment.**
+**For some first-timers the laying-on-of-hands will be entirely new. Walk the shape before it happens; participation is voluntary; the architecture honors discomfort without treating it as refusal.**
 
-**Watch for: the senior whose sending will be brief or partial because of upcoming graduation or move. The architecture honors the brief participation as real; the senior’s sending continues into their next context.**
+**Watch for: the first-timer whose laying-on-of-hands moment surfaces unexpected emotion. Receive cleanly; the moment is real; pastoral support if the emotion crosses thresholds.**
 
-**Watch for: the senior whose sending intersects with the Wk 10 Discerner role from Going Deeper. The continuity across the formation arc is real; the laying-on-of-hands tonight may be a confirmation of what Going Deeper began.**
+**Watch for: the first-timer whose individual sent-context (Landing 2) is concrete-relational — a specific neighbour, a specific colleague. Honour; the sending is real even at this scale.**
 
-**Watch for: the senior whose cost-walking revealed parental ambiguity about the engagement. Cross-cohort pastoral conversation; the architecture protects the senior’s discernment.**
+**Watch for: the first-timer whose cost-walking surfaced a household whose support is uncertain. Pastoral conversation outside the session; the room holds their discernment without making the household the obstacle.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents may have experienced laying-on-of-hands in other contexts (ordination, prayer-team commissioning, healing services). Receive the prior experience as helpful, but the architecture tonight is distinct — the cohort’s specific corporate confirmation of Going Out’s discernment.**
+**Veterans may have experienced laying-on-of-hands in other contexts (prayer-team commissioning, healing services, a past ordination in the room). Receive the prior experience as helpful, but the architecture tonight is distinct — the cohort’s specific corporate confirmation of Going Out’s discernment.**
 
-**Watch for: the parent whose cost-walking revealed prohibitive constraint (caregiving demands, vocational pressure, financial limit). Receive the no-for-now cleanly; the parent’s individual sent-context (Landing 2) may be different from the shared engagement; honour the difference.**
+**Watch for: the veteran whose sending will be brief or partial because of an upcoming move or transition. The architecture honors the brief participation as real; the sending continues into their next context.**
 
-**Watch for: the parent in vocational position to drive the engagement’s logistics (board membership, professional connection, ministry leadership). Honour the gift while watching for the dominance dynamic; the cohort’s sending is not the connected parent’s project.**
+**Watch for: the veteran whose sending intersects with the Wk 10 Discerner role from Going Deeper. The continuity across the formation arc is real; the laying-on-of-hands tonight may be a confirmation of what Going Deeper began.**
 
-**Watch for: the parent whose teen (in another cohort) is being sent in a direction the parent is uncertain about. Cross-cohort pastoral conversation; the architecture protects the teen.**
+**Watch for: the veteran whose cost-walking revealed prohibitive constraint (caregiving demands, vocational pressure, financial limit). Receive the no-for-now cleanly; their individual sent-context (Landing 2) may be different from the shared engagement; honour the difference.**
 
-**Watch for: the parent whose laying-on-of-hands moment surfaces calling material beyond what the cohort space can adjudicate (sensing they are called to vocational ministry, sensing they are called to a different geographic location). Pastoral 1:1 within the week; spiritual-direction support beyond the cohort.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained have stood on the other side of this moment many times — they have laid hands at ordinations, commissionings, hospital beds. Tonight they receive. Being prayed for, rather than praying, is its own formation; some will find receiving harder than any cost on the worksheet.**
+
+**Watch for: the leader who manages the moment instead of receiving it — adjusting the logistics, coaching the blessings, staying in liturgical-director mode. Gentle release: the body has this; your part tonight is to be sent.**
+
+**Watch for: the leader in vocational position to drive the engagement’s logistics (board membership, professional connection, ministry leadership). Honour the gift while watching the dominance dynamic; the cohort’s sending is not the connected leader’s project.**
+
+**Watch for: the leader whose laying-on-of-hands moment surfaces calling material beyond what the room can adjudicate (sensing a call to a different work, a different place). Pastoral 1:1 within the week; spiritual-direction support beyond the cohort; the covering belongs in that longer discernment.**
 
 **Closing Practice in Detail**
 
@@ -457,7 +455,7 @@ The team meets the day after Wk 9 for a 75-minute debrief (longer because the ar
 
 **•** A member’s acute material (calling beyond capacity, household opposition, vocational rupture) was not flagged.
 
-**•** Cross-cohort family material was inadequately handled.
+**•** Cross-spouse material was inadequately handled.
 
 **People to follow up with this week**
 
@@ -465,11 +463,11 @@ The team meets the day after Wk 9 for a 75-minute debrief (longer because the ar
 
 **•** Anyone whose laying-on-of-hands moment surfaced unexpected calling material.
 
-**•** Any senior whose sending was partial or brief because of upcoming transition.
+**•** Any member whose sending was partial or brief because of upcoming transition.
 
-**•** Any teen whose cost-walking revealed parental ambiguity.
+**•** Any member whose cost-walking revealed a household’s ambiguity.
 
-**•** Any parent whose sending intersects with significant vocational direction.
+**•** Any member whose sending intersects with significant vocational direction.
 
 **•** The Wk 10 Discerner from Going Deeper whose calling has now been re-confirmed by Going Out sending.
 
