@@ -12,7 +12,7 @@ Week 2
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -58,7 +58,7 @@ Week 2
 
 **The participant whose week surfaced significant relational opening (‘my coworker started asking real questions’) before they had architecture to hold it. Receive without rushing. Pastoral 1:1 within the week to walk the unfolding.**
 
-**Generational projection. A parent says ‘our kids today don’t know how to witness.’ A senior teen says ‘our parents do witness wrong.’ Same redirect as in Going Deeper — the witness each member is being formed for is theirs; cross-generational pronouncement is almost always projection.**
+**Positional projection. A pastor says ‘our congregation doesn’t know how to witness.’ A member says ‘the leadership does witness wrong.’ Same redirect as in Going Deeper — the witness each member is being formed for is theirs; cross-positional pronouncement is almost always projection.**
 
 ## CRISIS CONTINGENCIES (Week 2)
 
@@ -70,11 +70,11 @@ Week 2
 
 **If the cohort’s witness exercise reveals significant disparity — some members had robust Tells; some had nothing. Resist evaluating publicly. Brief acknowledgment from the Lead Companion: ‘Witness is not a quota; the Spirit’s movement is unique to each person. We hold the range honestly.’**
 
-**If a teen’s Tell crossed a safety threshold (a peer disclosed self-harm; a friend disclosed abuse). Section 6 protocol immediately. Mandatory-reporting law applies as relevant.**
+**If a member’s Tell crossed a safety threshold (someone disclosed self-harm; someone disclosed abuse). The safeguarding frame governs (Leadership Year Handbook §7 and the host church’s policy); a disclosure about a minor, brought by an adult, may still carry reporting duties. Mandatory-reporting law applies as relevant.**
 
 **If a participant brings to the cohort a witness exchange that involved someone known to other cohort members. Confidentiality discipline tightens; the participant tells what they need to tell without naming the specific person; pastoral 1:1 for the relational dynamics.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1 (carried forward).**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -148,7 +148,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs.
+**•** Confirm room layout: ONE large circle — a chair for every member.
 
 **•** Whiteboard with Acts 2:1–4 and 1 Peter 2:9–10 written; the three distinctions sketched.
 
@@ -181,14 +181,14 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle | Co-Companion (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle | Co-Companion | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name what it means to be sent.’ |
 | 7:07–7:15 | Block 2: Wk 1 landing (one word) | Shared circle | Lead Companion | ONE word about the past week — the noticing question and the Tell. |
 | 7:15–7:32 | Block 3: Acts 2 + 1 Peter 2 + the three distinctions (teaching) | Shared circle | Lead Companion | Read passages. Walk the architecture. Three distinctions. |
 | 7:32–7:40 | Block 4: Bridge — from teaching to witness exercise | Shared circle | Lead Companion | Brief framing of Block 5; H2.2 walked; expectations set. |
 | 7:40–8:11 | Block 5: Witness exercise around the circle | Shared circle | Lead Companion | Each member names one specific Tell from the past week. Initials only. Brief; specific. |
 | 8:11–8:19 | Block 6: Lead reflection + cohort weighing | Shared circle | Lead Companion | Lead reflects what surfaced across the contributions; cohort weighs briefly. |
-| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Companion (Parent) | Continue Tells; intensify noticing question; pair check-in prompt. |
+| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Companion | Continue Tells; intensify noticing question; pair check-in prompt. |
 | 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 3 (where am I being sent). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -284,7 +284,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **If a member had no Tell: receive cleanly. ‘I noticed twice this week and didn’t act’ is honest data. ‘I forgot the practice entirely’ is honest data. The cohort holds without shame.**
 
-**If a teen’s Tell involved a peer in distress: receive briefly, follow up in pastoral 1:1; mandatory-reporting protocols if applicable.**
+**If a member’s Tell involved someone in distress: receive briefly, follow up in pastoral 1:1; mandatory-reporting protocols if applicable — disclosures about minors especially.**
 
 **Block 6 — Lead Reflection + Cohort Weighing (8:11–8:19, 8 min)**
 ## Lead Companion script (3 min reflection)
@@ -304,7 +304,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 *“Good. We hold the picture tentatively. Wk 3 builds from here.”*
 
 **Block 7 — Between-Session Practice (8:19–8:23, 4 min)**
-## Script — Co-Companion (Parent) leads
+## Script — Co-Companion leads
 
 *“Three pieces of practice this week.”*
 
@@ -333,53 +333,53 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members across the session.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often experience witness as awkward by default — they have peer dynamics that make any ‘I noticed something about you and want to share something’ conversation feel risky. Receive the awkwardness as data, not failure.**
-
-**Watch for: junior teens whose Tell happened with a parent, sibling, or close friend at home rather than at school. Honour. Witness is not less when it is at home.**
-
-**Watch for: junior teens whose Tell didn’t happen because they couldn’t identify anyone outside the cohort. Re-frame: ‘Family count too. Choir or sports team count too. School friends count even if you did not name what you said as a Tell.’**
-
-**Watch for: junior teens whose Tell crossed into peer disclosure that surfaced something concerning (a friend’s self-harm, a family member’s harm). Receive briefly; pastoral 1:1 immediately after the session.**
-
-**Watch for: junior teens whose framing of witness is shaped by a particular church culture they have inherited (perhaps an evangelistic urgency that doesn’t fit them). The three distinctions help; receive without contradicting their tradition aggressively.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often have more developed witness frames — some from youth ministry exposure, some from academic engagement, some from prior evangelism training. Receive the framing each senior brings; the three distinctions can be used to refine without overriding.**
+**First-timers often experience witness as awkward by default — any ‘I noticed something and want to share something true’ conversation feels risky. Receive the awkwardness as data, not failure.**
 
-**Watch for: the senior whose Tell was theologically substantive (‘my friend asked me about the resurrection’). Honour. Specific theological witness is real and Spirit-led.**
+**Watch for: the first-timer whose Tell happened at home — with a spouse, a child, a parent — rather than at work or beyond. Honour. Witness is not less when it is at home.**
 
-**Watch for: the senior whose Tell was relationally substantive without being verbally evangelistic (‘I sat with my friend who lost her grandparent’). Honour. The body’s ministry of presence is witness too.**
+**Watch for: the first-timer whose Tell didn’t happen because they couldn’t identify anyone outside the cohort. Re-frame: ‘Family count. Colleagues count. Neighbours count. The people you already see count, even if you did not name what you said as a Tell.’**
 
-**Watch for: the senior whose Tell involved another teen who is in their school context, where the Tell may have ongoing consequences. Pastoral 1:1 within the week to walk what may unfold.**
+**Watch for: the first-timer whose Tell surfaced something concerning in the receiver (a disclosure of self-harm, of harm at home). Receive briefly; pastoral 1:1 immediately after the session; the safeguarding frame governs.**
 
-**Watch for: the senior whose framing is anti-evangelism (a counter-reaction to a tradition they came from). The three distinctions affirm broader witness without dismissing evangelism; the senior may need to hear evangelism as ONE form of witness, not the totality.**
+**Watch for: the first-timer whose framing of witness is shaped by a church culture they have inherited (perhaps an evangelistic urgency that doesn’t fit them). The three distinctions help; receive without contradicting their tradition aggressively.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often have the broadest witness landscape — colleagues, extended family, neighbours, fellow parents, professional contacts. The diversity of contexts is itself data; receive each parent’s specific landscape.**
+**Veterans often have more developed witness frames — some from ministry exposure, some from academic engagement, some from prior evangelism training. Receive the framing each veteran brings; the three distinctions can be used to refine without overriding.**
 
-**Watch for: the parent whose Tell happened with their adult child not in the cohort, or with their spouse. Honour the family-level witness; the cohort is one of many places witness happens.**
+**Watch for: the veteran whose Tell was theologically substantive (‘my friend asked me about the resurrection’). Honour. Specific theological witness is real and Spirit-led.**
 
-**Watch for: the parent whose Tell revealed an older relational rupture (a former colleague, an estranged family member). Receive without making it the cohort’s focus; pastoral 1:1 if welcomed for the relational complexity.**
+**Watch for: the veteran whose Tell was relationally substantive without being verbally evangelistic (‘I sat with my friend who lost her mother’). Honour. The body’s ministry of presence is witness too.**
 
-**Watch for: the parent whose Tell was vocationally substantive (a witness conversation with a colleague that touched faith and work). Honour; this is often where parents’ most consequential witness happens.**
+**Watch for: the veteran whose Tell involved someone in a shared context — the workplace, the congregation — where the Tell may have ongoing consequences. Pastoral 1:1 within the week to walk what may unfold.**
 
-**Watch for: the parent whose Tell crossed into territory their church culture would not affirm (perhaps a witness to a same-sex couple, perhaps a witness to a family member of another faith). Receive without prescribing; pastoral support if welcomed.**
+**Watch for: the veteran whose framing is anti-evangelism (a counter-reaction to a tradition they came from). The three distinctions affirm broader witness without dismissing evangelism; the veteran may need to hear evangelism as ONE form of witness, not the totality.**
 
-**Watch for: the parent who had no Tell because their week was simply consumed (a child illness, a vocational crisis, an aging parent). Honour. Some weeks the witness is simply faithful presence in difficult conditions.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often have the broadest witness landscape — congregation, colleagues, neighbours, extended family, professional contacts — and the greatest risk of counting professional output as the week’s Tell. A sermon is not a Tell. The practice asks for a witness as a person, not as the office.**
+
+**Watch for: the leader whose Tell happened with their adult child or their spouse. Honour the household-level witness; the cohort is one of many places witness happens.**
+
+**Watch for: the leader whose Tell revealed an older relational rupture (a former colleague, an estranged family member). Receive without making it the cohort’s focus; pastoral 1:1 if welcomed for the relational complexity.**
+
+**Watch for: the leader whose Tell was vocationally substantive (a witness conversation that touched faith and work). Honour; this is often where a leader’s most consequential witness happens — and notice whether it happened inside the role or beside it.**
+
+**Watch for: the leader whose Tell crossed into territory their church culture would not affirm. Receive without prescribing; pastoral support if welcomed.**
+
+**Watch for: the leader who had no Tell because their week was simply consumed (a congregant crisis, a child’s illness, an aging parent). Honour. Some weeks the witness is simply faithful presence in difficult conditions.**
 
 **Closing Practice in Detail**
 
@@ -433,7 +433,7 @@ The team meets the day after Wk 2 for a 60-minute debrief.
 
 **•** Anyone who reported no Tell two weeks in a row — not for shame, for noticing what may be in the way.
 
-**•** Any teen whose Tell involved a peer in distress.
+**•** Any member whose Tell involved someone in distress.
 
 **•** Any pair where the standing-pair conversation about kind-of-sent-body is producing significant material.
 
