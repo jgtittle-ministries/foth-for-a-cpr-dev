@@ -370,6 +370,13 @@
   const progress = document.getElementById('progress');
   const topnavVols = document.getElementById('topnav-vols');
 
+  // Scroll offset for anchored headings: the sticky header's real height
+  // (published as --topnav-h; the nav strip can wrap to two rows) plus margin.
+  const navOffset = () => {
+    const v = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--topnav-h'));
+    return (isNaN(v) ? 48 : v) + 22;
+  };
+
   // ---- Crest / env label / license, all data-driven (no baked chrome) ----
   const crestWork = document.getElementById('crest-work');
   const crestSub = document.getElementById('crest-sub');
@@ -386,6 +393,19 @@
       return `<a href="reader.html#${encodeURIComponent(target)}"${cur}><span class="v-num">·</span>${escapeHTML(s.name)}</a>`;
     }).join('');
   }
+
+  // ---- Publish the header's real height (the nav strip may wrap to two rows,
+  // so the sticky sidebars can no longer assume 48px). ResizeObserver rather
+  // than a resize listener: the header also changes height when fonts load. ----
+  const topnavWrap = document.querySelector('.topnav-wrap');
+  const setTopnavH = () => {
+    if (topnavWrap) document.documentElement.style.setProperty('--topnav-h', topnavWrap.offsetHeight + 'px');
+  };
+  setTopnavH();
+  window.addEventListener('resize', setTopnavH);
+  window.addEventListener('load', setTopnavH);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(setTopnavH);
+  if (topnavWrap && window.ResizeObserver) new ResizeObserver(setTopnavH).observe(topnavWrap);
 
   if (!info) {
     body.innerHTML = '<div class="reader-error">Page not in manifest: <code>' + escapeHTML(path) + '</code></div>';
@@ -500,7 +520,7 @@
           link.addEventListener('click', (e) => {
             // The hash holds the chapter path — scroll without navigating.
             e.preventDefault();
-            const top = h.getBoundingClientRect().top + window.scrollY - 70;
+            const top = h.getBoundingClientRect().top + window.scrollY - navOffset();
             window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'smooth' });
           });
           outline.appendChild(link);
@@ -543,7 +563,7 @@
       if (targetAnchor) {
         const el = document.getElementById('h-' + targetAnchor) || document.getElementById(targetAnchor);
         if (el) {
-          const top = el.getBoundingClientRect().top + window.scrollY - 70;
+          const top = el.getBoundingClientRect().top + window.scrollY - navOffset();
           window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
           scrolledToAnchor = true;
         }
@@ -578,7 +598,7 @@
     const el = document.getElementById('h-' + slug) || document.getElementById(slug);
     if (el) {
       e.preventDefault();
-      const top = el.getBoundingClientRect().top + window.scrollY - 70;
+      const top = el.getBoundingClientRect().top + window.scrollY - navOffset();
       window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
     }
   });

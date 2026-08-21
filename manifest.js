@@ -26,13 +26,13 @@ window.SERIES = [
   {
     "id": "leadership-year-handbook",
     "kind": "page",
-    "name": "The Leadership Year — Handbook",
+    "name": "Leadership Year",
     "path": "docs/leadership-year-handbook.md"
   },
   {
     "id": "adult-register-key",
     "kind": "page",
-    "name": "The Adult Register Key",
+    "name": "Register Key",
     "path": "docs/adult-register-key.md"
   },
   {
@@ -368,14 +368,14 @@ window.PATH_TO_INFO = {
   },
   "docs/leadership-year-handbook.md": {
     "seriesId": "leadership-year-handbook",
-    "seriesName": "The Leadership Year — Handbook",
-    "title": "The Leadership Year — Handbook",
+    "seriesName": "Leadership Year",
+    "title": "Leadership Year",
     "indexPath": "docs/leadership-year-handbook.md"
   },
   "docs/adult-register-key.md": {
     "seriesId": "adult-register-key",
-    "seriesName": "The Adult Register Key",
-    "title": "The Adult Register Key",
+    "seriesName": "Register Key",
+    "title": "Register Key",
     "indexPath": "docs/adult-register-key.md"
   },
   "docs/getting-started/index.md": {

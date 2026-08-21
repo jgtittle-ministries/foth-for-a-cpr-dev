@@ -65,7 +65,13 @@ const listMd = (dir) => {
 const series = [];
 
 // root pages
-const pageMeta = { 'index.md': 'Home', 'start-here.md': 'Start here' };
+// Short nav labels for root pages — the page's own H1 stays full; only the topnav strip uses these.
+const pageMeta = {
+  'index.md': 'Home',
+  'start-here.md': 'Start here',
+  'leadership-year-handbook.md': 'Leadership Year',
+  'adult-register-key.md': 'Register Key'
+};
 for (const f of ROOT_PAGES) {
   const abs = join(DOCS, f);
   try { statSync(abs); } catch { continue; }
