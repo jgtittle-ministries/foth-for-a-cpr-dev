@@ -12,7 +12,7 @@ Week 1
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** All four (re-orientation). Tonight is the architecture; the working depth begins Week 2.
 
-**Mode.** Shared circle the whole session. NO cohort split tonight. The whole room is one cohort for Week 1.
+**Mode.** Shared circle the whole session. NO circle split tonight. The whole cohort is one circle for Week 1.
 
 **Center.** Each participant names one thing from the interlude: a place where the rhythm held, a place where it didn’t, a question that has stayed with them. Veterans and new participants alike. The naming re-installs the room.
 
@@ -40,13 +40,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 1 specific risks)
 
-- Reunion vibes overrunning the work. Some returning families will arrive eager to catch up with each other. Honor briefly; redirect gently. Tonight is the first session, not a coffee social.
+- Reunion vibes overrunning the work. Some returning members will arrive eager to catch up with each other. Honor briefly; redirect gently. Tonight is the first session, not a coffee social.
 - Veterans assuming new participants are at parity from onboarding. Onboarding got them most of the vocabulary, but they have not yet been in the room with the cohort. Veterans speak first to model; new participants are not pressured to share early.
-- New participants flooding under the weight of the room. The room has eight Tuesdays of memory the new participants do not share. Pair each new participant with a veteran Cohort Companion at their elbow tonight, not with another new participant.
-- The teen whose parent isn’t continuing (or vice versa). This will be present in the room. Acknowledge briefly: ‘Some of you are here without the family member who walked Getting Started with you. Welcome. The cohort is your cohort tonight.’
+- New participants flooding under the weight of the room. The room has fifteen Tuesdays of memory the new participants do not share. Pair each new participant with a veteran Cohort Companion at their elbow tonight, not with another new participant.
+- The member whose spouse or closest Getting Started companion isn’t continuing. This will be present in the room. Acknowledge briefly: ‘Some of you are here without someone who walked Getting Started beside you. Welcome. The cohort is your cohort tonight.’
 - Performance of ‘how the interlude went.’ Returning participants may feel pressure to report rhythm-card success. Frame the share explicitly: ‘A place where the rhythm held — or where it didn’t. Both are honest answers.’
 - The recommitment moment becoming a sales pitch. The Lead Companion must not push the recommitment. Some participants in the room may need to decide tonight that they are not going further. That decision is theirs; the room receives it without judgment.
-- Time blowout on the share round. With 20–32 people in one room, the math is unforgiving. The script holds the share to 12 minutes maximum and uses voluntary contributions, not full go-around.
+- Time blowout on the share round. With the whole cohort in one room, the math is unforgiving. The script holds the share to 12 minutes maximum and uses voluntary contributions, not full go-around.
 
 ## CRISIS CONTINGENCIES (Week 1)
 
@@ -58,13 +58,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If a participant decides during the recommitment that they are not continuing.** Receive without alarm. Do not reframe their decision. The Lead Companion follows up offline with care. The cohort holds the door open.
 
-**Default.** Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold. Pastoral / clinical backup is on call.
+**Default.** The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold. Pastoral / clinical backup is on call.
 
 # **Session at a Glance**
 
 ## **Why this session, this week**
 
-Eight to ten weeks have passed since Getting Started closed — the Wk 14 family commissioning, then the Wk 15 commissioning of the Companions. The gap was deliberate — long enough for the rhythm card practices to either install or fail to install, short enough that the room’s memory has not faded. Tonight is the first time the room comes together as Going Deeper, with returning families plus new participants who completed the two-evening onboarding two weeks ago.
+A few weeks have passed since Getting Started closed — the Wk 14 household blessing night, then the Wk 15 commissioning rite. The gap was deliberate — long enough for the rhythm card practices to either install or fail to install, short enough that the room’s memory has not faded. Tonight is the first time the room comes together as Going Deeper, with returning members plus any new participants who completed the two-evening onboarding.
 
 The work tonight is re-installation. The four conditions of a real container (Vol 2 Exp 8) hold across breaks, but they have to be lived back into. The names of the people in the room are partly new. The depth that Getting Started reached has to be re-grounded before the harder work of Wk 2 forward becomes possible. Hebrews 12:1–2 is the new architectural anchor: ‘let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus.’ The verse names the entire arc — weight (the diagnostic work of Wks 2–3), sin (the confession work of Wk 5), endurance (the long-haul rhythm), looking to Jesus (the deeper God-Connect of Wks 6–8).
 
@@ -96,7 +96,7 @@ All four, in re-orientation form. Self is named (each participant brings what is
 
 Each Companion does two things this week:
 
-1. Re-read your own Wk 10 commissioning blessing from Getting Started (if you have it). Notice what has held across the interlude, and what has thinned. Bring that observation to the team meeting.
+1. Re-read your own Wk 15 commissioning from Getting Started — the blessing spoken over the cohort, and the three rules. Notice what has held across the interlude, and what has thinned. Bring that observation to the team meeting.
 2. Read Hebrews 12:1–2 slowly, three times, across three different days. PROAPT it once if it has been a while since you used PROAPT yourself. Notice which clause of the verse is most alive for you right now — weight, sin, endurance, looking. Bring that observation to the team meeting.
 
 ## **Team pre-work**
@@ -105,7 +105,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 1. Each Companion names what has held in their own rhythm across the interlude, and what has thinned. The team listens. (20 min)
 2. Each Companion names which clause of Hebrews 12:1–2 is most alive for them. (10 min)
-3. Family review — every family that completed Getting Started is reviewed: confirmed for Going Deeper, declined, or unclear. Anyone in unclear status gets a personal call from the Lead Companion before Week 1. (20 min)
+3. Member review — everyone who completed Getting Started is reviewed: confirmed for Going Deeper, declined, or unclear. Anyone in unclear status gets a personal call from the Lead Companion before Week 1. (20 min)
 4. New participant review — each new participant is briefly named: where they came from, who their onboarding anchor is, what the team is watching for in their first weeks. (15 min)
 5. Walk the run sheet for Week 1. Identify any moment a Companion is unsure about. (15 min)
 6. Pastoral / clinical backup confirmed. (5 min)
@@ -117,13 +117,13 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 2. Print the Recommitment Card (H1.2) — one per participant; cardstock if possible.
 3. Print the Hebrews 12:1–2 reference card (H1.3) — one per participant.
 4. Confirm pastoral / clinical backup.
-5. Confirm room layout for one large circle of 20–32 chairs.
+5. Confirm room layout for one large circle — a chair for every member of the cohort.
 
 # **Materials and Setup**
 
 ### **Materials checklist**
 
-- Chairs in ONE large single circle, room enough for 20–32. No cohort sub-spaces tonight.
+- Chairs in ONE large single circle, one for every member. No circle sub-spaces tonight.
 - Personal Heart Journals for returning participants (carry forward); blank journals for new participants (issued tonight).
 - Whiteboard, no pre-writing tonight — the Lead Companion will write Hebrews 12:1–2 in the moment.
 - Handouts H1.1, H1.2, H1.3 stacked at each chair.
@@ -138,11 +138,11 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| 5 days before | Team pre-meet (90 min). Family and new-participant review. | All Companions |
+| 5 days before | Team pre-meet (90 min). Member and new-participant review. | All Companions |
 | Day before | Walk the room. Confirm chair layout. Confirm pastoral/clinical backup. | Lead Comp |
 | T-60 min | Team gathers in the room. Final prayer. | All Companions |
 | T-30 min | Set up. Place handouts. Confirm welcome table. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. Pair each new participant with a familiar veteran. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name. Pair each new participant with a familiar veteran. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
@@ -151,14 +151,14 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Veterans paired with new participants. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. Veterans paired with new participants. |
 | 7:00–7:10 | Block 1: Welcome, Aaronic, settling | Shared circle | Lead Comp | Aaronic blessing. 60-second silent settle. One-word landings. |
 | 7:10–7:23 | Block 2: From the interlude | Shared circle | Lead Comp | Voluntary one-thing-from-the-gap shares. 12 min cap. Cohort Companions speak first. |
-| 7:23–7:33 | Block 3: Re-introducing the four conditions | Shared circle | Co-Comp (Parent) | Brief teaching. Re-frame the container for new participants AND for returning participants. |
+| 7:23–7:33 | Block 3: Re-introducing the four conditions | Shared circle | Co-Comp | Brief teaching. Re-frame the container for new participants AND for returning participants. |
 | 7:33–7:47 | Block 4: Hebrews 12:1–2 — the architectural anchor | Shared circle | Lead Comp | Read the passage. Walk the four clauses. Map each to the twelve-week arc. |
 | 7:47–8:01 | Block 5: What ‘Going Deeper’ actually means | Shared circle | Lead Comp | The 12-week arc. The five group levels (intro). What is harder. |
 | 8:01–8:16 | Block 6: Recommitment | Shared circle | Lead Comp | Each participant signs the Recommitment Card. One sentence aloud, voluntary. |
-| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | The rhythm card resumes. Pick ONE Connect to attend more carefully. |
+| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp | The rhythm card resumes. Pick ONE Connect to attend more carefully. |
 | 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic blessing. Send. |
 
 # **Block-by-Block: Scripts and Notes**
@@ -183,7 +183,7 @@ Watch for: the one-word landings are the first thing the new participants will s
 ## **Block 2 — From the Gap Weeks (7:10–7:23, 13 min)**
 ## Script
 
-*“Some of you have been gone from this room for two months. Some of you have been gone for two weeks (since onboarding). Some of you are here for the first time. All of you are welcome.”*
+*“Some of you have been gone from this room for a few weeks. Some of you were last here at the onboarding evenings. Some of you are here for the first time. All of you are welcome.”*
 
 *“Here’s what I want to ask, in voluntary form. One thing from the time between Getting Started closing and tonight. A place where the rhythm card practices held — or a place where they didn’t. A question that has stayed with you. Something that surfaced that you didn’t expect. A place where you noticed God in a way that surprised you. Or just ‘I’ve been managing. Glad to be back.’”*
 
@@ -200,11 +200,11 @@ Watch for: the share is voluntary by design. With 20–32 people, full go-around
 *(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Re-Introducing the Four Conditions (7:23–7:33, 10 min)**
-Co-Companion (parent cohort) leads this block. The teaching is brief; it is for both returning participants (who haven’t heard it in two months) and new participants (who heard it once at onboarding).
+A Co-Companion leads this block. The teaching is brief; it is for both returning participants (who haven’t heard it in two months) and new participants (who heard it once at onboarding).
 
 ## Script
 
-*“Two months ago, this room operated on four conditions. Some of you have not thought about them since Getting Started; some of you heard them named once, two weeks ago at onboarding. We are going to re-install them tonight, briefly, because everything else in Going Deeper depends on these four.”*
+*“A few weeks ago, this room operated on four conditions. Some of you have not thought about them since Getting Started; some of you heard them named once, at onboarding. We are going to re-install them tonight, briefly, because everything else in Going Deeper depends on these four.”*
 
 *“Safe. What is said here stays here. There are limits — we are required by law to act on certain disclosures involving harm — but inside those limits, what is said here stays here.”*
 
@@ -331,9 +331,9 @@ Watch for: do not press anyone to declare a Connect tonight if they are not read
 
 *“One breath. Going Deeper is open. See you Tuesday.”*
 
-# **Differentiation by Cohort**
+# **Differentiation Notes**
 
-Tonight there is no cohort split. The whole room operates as one. Differentiation tonight is by participant type — returning veterans, new participants who completed onboarding, and the rare new arrival who didn’t do onboarding.
+Tonight there is no circle split. The whole room operates as one. Differentiation tonight is by participant type — returning veterans, new participants who completed onboarding, and the rare new arrival who didn’t do onboarding.
 
 ## **Returning veterans**
 
@@ -342,7 +342,7 @@ Tonight there is no cohort split. The whole room operates as one. Differentiatio
 - Most of tonight is review for veterans. The team should not over-teach what they already know.
 - Watch for: the veteran who has been performing rhythm-card success across the interlude. Affirm; gently invite the harder honesty: ‘What slipped during Getting Started?’ The next twelve weeks land more honestly when veterans don’t arrive performing.
 - Watch for: the veteran who has been quietly drifting from the rhythm. Affirm without alarm: ‘Returning is the practice. Begin again tomorrow morning.’
-- Watch for: the returning teen whose parent isn’t continuing (or vice versa). The Cohort Companion follows up offline within the week.
+- Watch for: the returning member whose spouse or closest Getting Started companion isn’t continuing. The Cohort Companion follows up offline within the week.
 
 ## **New participants who completed onboarding**
 
@@ -358,27 +358,26 @@ Tonight there is no cohort split. The whole room operates as one. Differentiatio
 
 ## Adjustments
 
-- If a friend brought a friend, or a teen showed up because their sibling is here — welcome warmly. Pair them with a returning Cohort Companion for the entire session.
-- The Lead Companion schedules a 1:1 within 72 hours to run the most critical onboarding content individually, under the two-adult rule (Section 7 protocol).
+- If a friend brought a friend, or a leader arrived because the covering asked them that morning — welcome warmly. Pair them with a returning Cohort Companion for the entire session.
+- The Lead Companion schedules a 1:1 within 72 hours to run the most critical onboarding content individually — two Companions in the conversation, per the cohort’s own rule.
 - Acknowledge to the room briefly: ‘Welcome to [name]. They are joining us tonight at Week 1 without the onboarding; we are bringing them up to speed.’ The acknowledgment lowers everyone’s anxiety.
 - Send the Personal Heart Journal and Rhythm Card home tonight.
 
-## **Junior teens within the shared circle**
+## **The ordained and the staff within the shared circle**
 
 ## Adjustments
 
-- Junior teens (12–14) may find the whole-room circle overwhelming — especially if there are 24+ people.
-- Place junior teens between two veterans or between their parent and a Cohort Companion. Not isolated.
-- Watch for: junior teens checking out during the Hebrews 12 teaching block. Engage briefly when possible: ‘What are you hearing right now?’ Brief, not a quiz.
-- The recommitment card for juniors uses simpler language. See H1.2 (junior version).
+- The ordained may re-enter the room in staff mode — hosting the reunion instead of joining it. The opening blocks are where the mode is caught, gently.
+- Watch for: the pastor receiving the Hebrews 12 teaching as a colleague reviewing a sermon rather than a member under the text. Engage briefly when possible: ‘Which clause is most alive for you right now?’ Brief, not a quiz.
+- The recommitment card is theirs too. A signed card from the covering’s own hand steadies the whole room.
 
-## **Parents within the shared circle**
+## **Spouses within the shared circle**
 
 ## Adjustments
 
-- Parents may notice that their teen is in the same room — a different dynamic from Getting Started’s split cohorts. The Lead Companion briefly normalizes: ‘Tonight we are one circle; from Week 2 forward, we split.’
-- Watch for: parents who hover protectively over their teens during the interlude share. Gently signal — sometimes by physical placement before 7:00 — that parents and teens sit in their own area of the circle, not adjacent.
-- Parents whose teen isn’t continuing: warm contact within 48 hours. The continuing parent is a parent without their Getting Started companion.
+- Married members may notice their spouse is in the room in a new way tonight — the deeper series raises the stakes of being heard by the person who lives with you. The Lead Companion briefly normalizes: ‘Tonight we are one circle; from Week 2 forward, we split, and spouses land in different circles by design.’
+- Watch for: a member editing their interlude share because their spouse is listening. Gently signal — sometimes by physical placement before 7:00 — that spouses sit in different areas of the circle, not adjacent.
+- A member whose spouse isn’t continuing: warm contact within 48 hours. The continuing member is walking without their closest Getting Started companion.
 
 # **Closing Practice in Detail**
 
@@ -404,7 +403,7 @@ Companion team meets the day after Week 1 for a 45-minute debrief.
 - Hebrews 12:1–2 landed as architecture, not just a verse.
 - At least 80% of participants completed the recommitment card.
 - The voluntary Connect-pick share showed range across all four Connects.
-- Junior teens stayed engaged through the teaching block.
+- The ordained stayed members of the room, not chaplains of it, through the teaching block.
 
 ### **Signs the session did not work as well as it could have**
 
@@ -417,22 +416,21 @@ Companion team meets the day after Week 1 for a 45-minute debrief.
 ### **If the session did not work — what to adjust for Week 2**
 
 - If interlude shares were performance-dominated, Wk 2’s opening can name this gently: ‘Last week several of us shared the version of the gap that went well. Tonight’s soil work is for the version that didn’t.’
-- If new participants felt sidelined, Wk 2’s cohort split lets the Cohort Companions give them more direct attention. Brief them on this.
+- If new participants felt sidelined, Wk 2’s circle split lets the Cohort Companions give them more direct attention. Brief them on this.
 
 ### **People to follow up with this week**
 
 - Anyone who indicated uncertainty about continuing the series.
 - Any new participant whose body language suggested overwhelm tonight.
 - Any returning participant whose interlude share surfaced significant material (grief, crisis, drift).
-- Any teen whose parent isn’t continuing — personal warm contact within 48 hours.
-- Any parent whose teen isn’t continuing — same warm contact.
+- Anyone continuing without the person who walked Getting Started closest beside them — personal warm contact within 48 hours.
 
 # **Handouts**
 
 Three handouts for Week 1.
 
 - H1.1 — Going Deeper at a Glance (the twelve-week map for participant reference)
-- H1.2 — Recommitment Card (junior, senior, and parent versions)
+- H1.2 — Recommitment Card
 - H1.3 — Hebrews 12:1–2 Reference Card (the architectural anchor)
 
 **Handout H1.1 — Going Deeper at a Glance**
@@ -456,58 +454,14 @@ Three handouts for Week 1.
 
 ## Notes
 
-- Weeks 1, 4, 7, 8, 10, and 12 are whole-room sessions — no cohort split.
-- Weeks 2, 3, 5, 6, 9, and 11 split into your three cohorts — junior, senior, parent.
+- Weeks 1, 4, 7, 8, 10, and 12 are whole-room sessions — no circle split.
+- Weeks 2, 3, 5, 6, 9, and 11 split into circles of four to eight.
 - Standing pair partners are assigned at the close of Week 3 and walk together from Week 4 forward.
 - Pastoral and clinical backup is on call every Tuesday. If you need to talk between sessions, reach out to your Cohort Companion.
 
 **Handout H1.2 — Recommitment Card**
 
 *Three lines. Take five minutes alone tonight. Do not complete the card if you are not ready — you can sign it next Tuesday or never. The card is yours; the team will not collect it.*
-
-## **Junior version (ages 12–14)**
-
-## My recommitment
-
-**The Connect I am choosing to pay more attention to across the next eleven weeks (circle one):**
-
-**□ Self □ Others □ God □ Mission**
-
-**One specific thing I will do this week, daily or weekly:**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**My name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_**
-
-## **Senior version (ages 15–18)**
-
-## My recommitment
-
-**The Connect I am choosing to attend more carefully across the next eleven weeks (check one):**
-
-**□ Self □ Others □ God □ Mission**
-
-**My specific commitment for the rhythm card across Going Deeper:**
-
-□ Daily — the morning question and the evening note
-
-□ Weekly — one specific person I will check in with about the work
-
-□ Monthly — a 90-minute clearing time once each month
-
-□ PROAPT — one short passage on weekdays
-
-**Specifics (the actual person, the actual time, the actual passage if I have one):**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_**
-
-## **Parent version**
 
 ## My recommitment
 
@@ -545,7 +499,7 @@ Three handouts for Week 1.
 
 ## The architecture
 
-**WITNESSES — the cloud around us. The cohort itself, the families that walked Getting Started, the tradition we are part of. Wks 1, 4, 11.**
+**WITNESSES — the cloud around us. The cohort itself, everyone who walked Getting Started, the tradition we are part of. Wks 1, 4, 11.**
 
 **WEIGHT — every encumbrance, not necessarily sin. Wks 2 and 3 do the diagnostic work of identifying what is weight in our interior.**
 
