@@ -14,6 +14,7 @@
 |---|---|
 | Teens and parents; the families | The cohort; cohort members |
 | Junior cohort / senior cohort / parent circle | Cohort circles — composition is the host church's call, including the single-gender question the traditions behind the deepest work raise |
+| Parents tell first; parents go first | The leader tells first — whoever leads the session goes first, with something real (ruled 2026-08-20) |
 | Teen-led second running | Member-led rotation (Leadership Year Handbook §4) — a discerned and observed role, never required |
 | Parent informed consent; parental permission | Each member's own informed consent; nothing in the year is demanded |
 | CCA; the school; the school year | The host setting and its calendar |
@@ -22,9 +23,9 @@
 | The parent letter; family information night | The church-facing invitation and the covering conversation (to be authored) |
 | Secure location at the school | The single secured location named in the Measurement Covenant |
 
-## One conversion is a ruling, not a reading
+## The engine, transposed — ruled
 
-The family edition's engine is **parents tell first**: a parent who goes first with something true licenses a depth the teen would never volunteer cold. The adult year needs that engine transposed, and the natural candidate is **the leader tells first** — the convening leader, and then whoever leads each session, going first with something real, licensing the room the same way. The weekly Feedback Round already runs on this logic; the question is whether the *telling* practices (story weeks, confession, one true sentence) formally adopt leader-first as their stated engine. That is a design ruling, not a vocabulary swap, and it is flagged in the backlog for John's call. Until it is ruled, leaders should simply do it — go first, with something true — and note what it does to the room.
+The family edition's engine is **parents tell first**: a parent who goes first with something true licenses a depth the teen would never volunteer cold. The adult year's engine is now ruled (2026-08-20): **the leader tells first.** The convening leader, and then whoever leads each session, goes first with something real at every invitation to tell — One True Sentence, the story weeks, confession, the rounds. The licensing logic is identical: the room will go no deeper than the person in front of it has just gone, and in a leadership cohort the person in front of the room is exactly the person whose telling teaches the others what leading looks like. This is the stated engine of every telling practice in the adult year, not a style preference; a session leader who will not go first is not yet leading that session.
 
 ## What this key does not cover
 
