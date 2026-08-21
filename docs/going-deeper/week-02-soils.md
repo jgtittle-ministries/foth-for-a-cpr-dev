@@ -173,7 +173,7 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Mark 4:14–20 — The Parable as Diagnostic (7:15–7:29, 14 min)**
 Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from Getting Started.

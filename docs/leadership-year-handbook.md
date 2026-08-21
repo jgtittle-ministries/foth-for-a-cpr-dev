@@ -28,6 +28,8 @@ Four elements run every single week of the year, in every series. They are the p
 
 **The blessing.** The session opens and closes under a spoken blessing. This the seeded series already carry everywhere.
 
+**And the engine beneath all four: the leader tells first.** The family edition runs on parents telling first, a parent's true telling licensing a depth no teen volunteers cold. The adult year transposes the engine rather than losing it: whoever leads goes first, with something real, at every invitation to tell — the sentence, the story, the confession, the round. The room will go no deeper than the person in front of it has just gone. In a leadership year that is not merely how depth is licensed; it is half of what is being taught.
+
 Every session's run sheet now carries this liturgy, with one deliberate exception: the commissioning rites and final sendings at the series' ends keep the container and the blessing and lay the round down. A commissioning is received, not critiqued.
 
 ## 4. Rotation — a role discerned, not required

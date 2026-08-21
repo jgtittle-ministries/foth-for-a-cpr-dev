@@ -235,7 +235,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 **Block 3 — Gifts and Shadow (Teaching) (7:16–7:31, 15 min)**
 ## Script (the read)

@@ -197,7 +197,7 @@ Watch for: the share is voluntary by design. With 20–32 people, full go-around
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Re-Introducing the Four Conditions (7:23–7:33, 10 min)**
 Co-Companion (parent cohort) leads this block. The teaching is brief; it is for both returning participants (who haven’t heard it in two months) and new participants (who heard it once at onboarding).

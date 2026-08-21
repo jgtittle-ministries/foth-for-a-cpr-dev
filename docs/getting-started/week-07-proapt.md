@@ -174,7 +174,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Romans 10:17 and the Hearing Chain (7:15–7:24, 9 min)**
 Read Romans 10:17 aloud. Slow. The teaching is short.

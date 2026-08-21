@@ -204,7 +204,7 @@ The Lead Companion takes this block. Brief and low-stakes, same rhythm as prior 
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## Block 3 — Psalm 139, Being Known, Again (7:16–7:22, 6 min)
 Shorter than Week 3’s teaching, because nothing new is taught. Re-read the anchor verses from the physical Bible, restate the one idea, and speak the every-story-its-own word plainly. This is also the block where any Week 3 re-frame lands — if the debrief flagged fixing or advice in the circles, name it here in one gentle sentence.

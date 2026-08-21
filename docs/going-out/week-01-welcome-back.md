@@ -301,7 +301,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 **Block 5 — Standing Pair Re-Engagement (7:57–8:11, 14 min)**
 ## Lead Companion script — opening (60 sec)

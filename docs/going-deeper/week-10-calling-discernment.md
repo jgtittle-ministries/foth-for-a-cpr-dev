@@ -272,7 +272,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 **Block 3 — Acts 13 and the Antioch Architecture (7:15–7:29, 14 min)**
 ## Script (the read)

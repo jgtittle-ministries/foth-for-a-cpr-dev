@@ -198,7 +198,7 @@ The one block the Lead Companion leads tonight, so the senior's arc stays clean.
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — The Long Walk: Galatians 6:9 and Psalm 42 (7:18–7:28, 10 min)**
 Read both passages aloud. Slow. The teaching is short and it frames everything after it.

@@ -236,7 +236,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 **Block 3 — 1 Corinthians 12 and Co-Processing (7:17–7:30, 13 min)**
 ## Script (the read)

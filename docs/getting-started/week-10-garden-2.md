@@ -199,7 +199,7 @@ Name the senior once, warmly, and move on. Do not build it up — a spotlight di
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## Block 3 — Scripture and Brief Re-framing (7:16–7:26, 10 min)
 Read both passages again, slowly. The framing tonight is much shorter than Week 9's — the theology of the practice was laid last week and does not need re-laying. What needs saying is the second-visit frame and the open door for anyone not going back in tonight.

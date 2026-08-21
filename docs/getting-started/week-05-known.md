@@ -167,7 +167,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## Block 3 — The Four Conditions: Teaching (7:16–7:29, 13 min)
 Stand at the whiteboard. The four conditions are pre-written. Read the scripture, then walk through each condition for two to three minutes. Lightly — the cohort exercise will do the depth work.

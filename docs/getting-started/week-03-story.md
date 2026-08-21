@@ -193,7 +193,7 @@ Brief, low-stakes. We are practicing the rhythm of acknowledging the prior week 
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## Block 3 — Psalm 139, Being Known (7:16–7:25, 9 min)
 Read aloud from the physical Bible. Slow. The teaching is short — the goal is to set the theological ground for what we are about to do.

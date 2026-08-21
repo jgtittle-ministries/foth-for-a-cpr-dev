@@ -180,7 +180,7 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
-*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+*(The leader goes first, with something real — the engine of every telling practice this year. Then around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
 
 ## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (7:15–7:25, 10 min)**
 Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your own downhill answer at the end.
