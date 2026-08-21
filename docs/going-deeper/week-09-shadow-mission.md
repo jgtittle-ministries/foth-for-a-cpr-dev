@@ -12,7 +12,7 @@ Week 9
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 9
 
 **Connect focus.** Mission (deepened). The first session of the Mission-deepened block. Wk 10 (Acts 13 calling) and Wk 11 (cohort assessment) build on tonight’s shadow work.
 
-**Mode.** Shared teaching of gifts and shadow (19 min). Cohort circles for the standing-pair shadow conversation (38 min). Brief shared merge for voluntary public namings (8 min).
+**Mode.** Shared teaching of gifts and shadow (19 min). Circles for the standing-pair shadow conversation (38 min). Brief shared merge for voluntary public namings (8 min).
 
 **Center.** With the standing pair, each participant identifies one primary gift and its specific shadow direction. The shadow is named in the participant’s own life — where the gift has actually drifted, in this season, toward harm. Pair partners hold the naming as discipline; the Cohort Companion floats.
 
@@ -48,17 +48,17 @@ Week 9
 
 **Naming someone else’s shadow. ‘My pair partner’s shadow is X.’ Cohort Companion stops this immediately. The shadow is named in YOUR own life, by YOU, with YOUR pair partner witnessing. The pair partner does not interpret.**
 
-**The teen-parent across cohorts naming each other’s shadow at home. The shadow named tonight in the cohort STAYS in the cohort. Family members do not deploy it as a corrective at home this week. Pastoral 1:1 if the dynamic is acute.**
+**Spouses across circles naming each other’s shadow at home. The shadow named tonight in the cohort STAYS in the cohort. Household members do not deploy it as a corrective at home this week. Pastoral 1:1 if the dynamic is acute.**
 
 **The participant who claims to have no shadow. ‘My gift hasn’t really turned wrong.’ Possible, but rare. The Cohort Companion gently invites: ‘Where does your gift get tired? Where does it overreach? When you are stressed, where does its energy go?’ The shadow shows up under stress.**
 
 **The participant who names the shadow theatrically. ‘My shadow is that I am completely manipulative.’ Cohort Companion pushes for specificity: ‘What’s the smaller, more specific version? Where, with whom, in what kind of situation, has the gift turned in this direction recently?’**
 
-**The participant whose shadow named tonight is genuinely dangerous to others around them (manipulation, controlling behavior toward a child or spouse, exploitation of authority). Receive without alarm. Pastoral 1:1 within 24 hours; the shadow naming is the threshold of the work, not the conclusion. Section 6 protocol if patterns crossed thresholds in the past.**
+**The participant whose shadow named tonight is genuinely dangerous to others around them (manipulation, controlling behavior toward a child or spouse, exploitation of authority). Receive without alarm. Pastoral 1:1 within 24 hours; the shadow naming is the threshold of the work, not the conclusion. The safeguarding frame applies if patterns crossed thresholds in the past.**
 
 **The Pharisee parallel mishandled. The teaching uses Matt 23 because the Pharisees had real gifts — teaching, devotion to the Word, moral seriousness — and Jesus named where the same gifts had turned. The teaching is not ‘the Pharisees were the bad guys.’ The teaching is ‘the same gifts you have can turn the same way; the naming is the prevention.’**
 
-**Generational projection. A parent’s shadow analysis becomes ‘kids these days have a shadow of\_\_\_\_\_.’ A senior teen’s shadow analysis becomes ‘parents have a shadow of\_\_\_\_\_.’ The shadow is your OWN, in your OWN life, with your OWN pair. Cohort Companion redirects.**
+**Positional projection. A pastor’s shadow analysis becomes ‘the congregation has a shadow of\_\_\_\_\_.’ A member’s becomes ‘the leadership has a shadow of\_\_\_\_\_.’ The shadow is your OWN, in your OWN life, with your OWN pair. Cohort Companion redirects.**
 
 ## CRISIS CONTINGENCIES (Week 9)
 
@@ -70,13 +70,13 @@ Week 9
 
 **If the pair partner becomes activated by what was named (because the partner’s own shadow is similar, or because the named pattern has affected them historically). Cohort Companion stays with the activated partner; another Cohort Companion can take over the listening role.**
 
-**If a teen names a shadow that suggests current self-harm, suicidality, or harm to others. Section 6 protocol. Two-adult rule. Mandatory-reporting law applies as relevant.**
+**If anyone names a shadow that suggests current self-harm, suicidality, or harm to others. The safeguarding frame. Two Companions. The mandatory-reporting law applies wherever a minor is involved.**
 
 **If a participant becomes flooded mid-conversation. Same protocol as Wks 3 and 5. Cohort Companion stays.**
 
-**If two participants in different cohorts name shadows that converge on each other (a parent’s controlling shadow + their teen’s avoidant shadow). The Cohort Companions do not name this to either side in the cohorts. Pastoral 1:1 with both within the week; family-level conversation only with explicit consent and pastoral support.**
+**If two participants in different circles name shadows that converge on each other (one spouse’s controlling shadow + the other’s avoidant shadow). The Cohort Companions do not name this to either side in the circles. Pastoral 1:1 with both within the week; a couple-level conversation only with explicit consent and pastoral support.**
 
-**Default. Section 6 of the Going Deeper Handbook. Pastoral / clinical backup confirmed by name and number.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical backup confirmed by name and number.**
 
 **Session at a Glance**
 
@@ -134,7 +134,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **3.** Walk the shadow patterns by gift. Use H9.1 — the four-by-four reference of major gift types and their characteristic shadow directions. The Cohort Companions rehearse coaching language for a participant who can’t find their shadow. (15 min)
 
-**4.** Cross-cohort awareness. Identify in advance any teen-parent dynamic where the named shadow tonight could become a corrective at home. Brief the Cohort Companions to watch for it; pastoral 1:1 follow-up if needed. (5 min)
+**4.** Cross-circle awareness. Identify in advance any marriage dynamic where the named shadow tonight could become a corrective at home. Brief the Cohort Companions to watch for it; pastoral 1:1 follow-up if needed. (5 min)
 
 **5.** Crisis contingencies read aloud. Pastoral / clinical backup confirmed. (3 min)
 
@@ -152,13 +152,13 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm cohort spaces — pairs need to sit knee-to-knee with at least 6 feet of buffer between pairs.
+**•** Confirm circle spaces — pairs need to sit knee-to-knee with at least 6 feet of buffer between pairs.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split.
+**•** Chairs in main room as one large circle for opening; circle spaces ready for the split.
 
 
 **•** Personal Heart Journals.
@@ -167,11 +167,11 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **•** Handouts H9.1, H9.2, H9.3, H9.4 stacked at each chair.
 
-**•** Tissues in every cohort space.
+**•** Tissues in every circle space.
 
-**•** Large-print Bible (ESV) in each cohort space.
+**•** Large-print Bible (ESV) in each circle space.
 
-**•** Wall clock or visible timer in each cohort space.
+**•** Wall clock or visible timer in each circle space.
 
 **•** Crisis Quick-Reference Card in every Companion pocket.
 
@@ -182,11 +182,11 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion runs the gift-and-shadow diagnostic on themselves. | All Companions |
-| 48 hr before | Team pre-meet (60 min). Walk gifts framework. Cross-cohort awareness review. | All Companions |
-| Day before | Walk every cohort space. Confirm pastoral / clinical backup. | Lead Comp |
+| 48 hr before | Team pre-meet (60 min). Walk gifts framework. Cross-circle awareness review. | All Companions |
+| Day before | Walk every circle space. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers in the room. Final prayer. | All Companions |
-| T-30 min | Cohort Companions prep their cohort spaces. Handouts placed. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-30 min | Cohort Companions prep their circle spaces. Handouts placed. | All Companions |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -195,14 +195,14 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the Mission block.’ |
 | 7:08–7:16 | Block 2: Wk 8 landing (one word) | Shared circle | Lead Comp | ONE word about the cohort’s hearing about itself — the LISTENING posture, not content. |
 | 7:16–7:31 | Block 3: Gifts + Shadow (teaching) | Shared circle | Lead Comp | Read 1 Cor 12 + Romans 12 + Matt 23 selectively. Teach the four-by-four. Pharisee case. |
 | 7:31–7:35 | Block 4: Bridge to split + prayer | Shared circle | Lead Comp | Frame the standing-pair conversation. Pray. Split. |
-| 7:35–8:11 | Block 5: Standing-pair shadow conversation | Cohort circles → pairs | Cohort Facs | 18 min one direction; 18 min the other; 2 min pair signature on H9.3. |
+| 7:35–8:11 | Block 5: Standing-pair shadow conversation | Circles → pairs | Cohort Comps | 18 min one direction; 18 min the other; 2 min pair signature on H9.3. |
 | 8:11–8:18 | Block 6: Merge + voluntary public namings | Shared circle | Lead Comp | ONE word about the EXERCISE. Then 2–3 voluntary brief public namings. |
-| 8:18–8:22 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily noticing. ‘There it is again’ as the discipline. |
+| 8:18–8:22 | Block 7: Between-session practice | Shared circle | Co-Comp | Daily noticing. ‘There it is again’ as the discipline. |
 | 8:22–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 10 (Acts 13 calling). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -287,7 +287,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 **Block 4 — Bridge to Split + Prayer (7:31–7:35, 4 min)**
 ## Script
 
-*“In your cohort circle, the standing-pair conversation. 18 minutes one direction, 18 minutes the other.”*
+*“In your circle, the standing-pair conversation. 18 minutes one direction, 18 minutes the other.”*
 
 *“The pair partner’s job is to listen and witness, not interpret. The shadow you name is yours, named by you. The pair partner does not say ‘I think your shadow is actually X’ — they listen, ask one clarifying question if it would help, and witness the naming.”*
 
@@ -295,12 +295,12 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 *“Pray with me. Father, you have given each of us gifts. You have given us them on purpose, for the building up of your body and the work you have for us. We do not deny our gifts tonight. We name where they have drifted in this season — specifically, recently, in our own life. We name them not to be ashamed but to learn the discipline of noticing them when they show up. Make us nameable people; make us, especially, nameable to ourselves. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-eight minutes of pair work plus signature. Go.”*
+*“Circle assignments are on the wall. Thirty-eight minutes of pair work plus signature. Go.”*
 
 **Block 5 — Standing-Pair Shadow Conversation (7:35–8:11, 36 min)**
-Each cohort circle splits into the standing pairs. The Cohort Companion floats. Pairs sit knee-to-knee with at least 6 feet of buffer.
+Each circle splits into the standing pairs. The Cohort Companion floats. Pairs sit knee-to-knee with at least 6 feet of buffer.
 
-**Inside the cohort circle — Companion script**
+**Inside the circle — Companion script**
 
 ## Opening (2 min)
 
@@ -342,7 +342,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 **•** If a participant is performing self-flagellation (‘I am a terrible person, my shadow is everywhere’) — re-frame: ‘The architecture is observation, not condemnation. “There it is again” is the discipline; “I am terrible” is not.’
 
-**•** If a named shadow reveals an active pattern of harm to another person — Cohort Companion stays with the pair after the cohort circle. Pastoral 1:1 within 24 hours.
+**•** If a named shadow reveals an active pattern of harm to another person — Cohort Companion stays with the pair after the circle. Pastoral 1:1 within 24 hours.
 
 **•** Watch the 18-minute switch. The symmetry is non-negotiable. If the first direction ran long, the second still gets its 18 minutes.
 
@@ -362,7 +362,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 *“Thank you. One thing to remember as we close. The shadow named tonight is not new tonight; it has been there. What is new is that you have named it. Naming is the first half of the discipline; noticing it next time it shows up is the second half. ‘There it is again’ is the lifelong practice.”*
 
 **Block 7 — Between-Session Practice (8:18–8:22, 4 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -370,7 +370,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 *“Two. Standing-pair check-in this week is explicit: ‘Where did the shadow show up; what did you name when it did?’ Brief; honest; mid-week.”*
 
-*“Three. The named shadow does NOT become a corrective at home. The teen does not deploy what their parent named in the parent’s cohort; the parent does not deploy what their teen named. What was named in the cohort stays in the cohort.”*
+*“Three. The named shadow does NOT become a corrective at home. One spouse does not deploy what the other named in their circle; nobody preaches anyone’s shadow back to them. What was named in the cohort stays in the cohort.”*
 
 *“Four. The Rhythm Card practices, named-knot sit, Five-Minute Examen, daily PROAPT and weekday Tells — all continue.”*
 
@@ -393,57 +393,47 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often name the gift in concrete terms: ‘I am good at making my friends feel better when they’re sad.’ ‘I am good at explaining math to people who don’t get it.’ The four-by-four archetypes are useful but not required — the concrete gift is what matters.**
-
-**Pair turns are 12 minutes each, not 18. Junior pair-work runs faster. Total cohort time is 28 minutes plus protocol.**
-
-**Watch for: junior teens whose named shadow is about a parent or sibling (‘my gift is patience, my shadow is when my mom does X’). Re-frame: ‘Your shadow is your direction in YOU; what your mom does is hers. What does YOUR patience turn into when stretched?’**
-
-**Watch for: junior teens whose self-flagellation is heavy. Re-frame: ‘Naming is observation. “There it is again” is the practice.’**
-
-**Watch for: junior teens whose named shadow connects to school dynamics (a friend group dynamic, an academic pressure, a coach). Receive without rushing. Pastoral support if the dynamic is acute.**
-
-**Watch for: junior teens whose pair partner cannot speak the witness sentence. Cohort Companion coaches in the moment, modeling: ‘I heard your gift is X; the shadow direction is Y; the discipline is Z. I receive it as honest data.’**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Pair turns are 15 minutes each. Total cohort time is 32 minutes plus protocol.**
+**First-timers often name the gift in concrete terms: ‘I am good at making people feel better when they’re sad.’ ‘I am good at explaining things to people who don’t get it.’ The four-by-four archetypes are useful but not required — the concrete gift is what matters.**
 
-**Watch for: the senior whose gift is genuinely emerging (a college-decision-shaped gift; a creative or athletic gift just becoming visible). Affirm; the gift is real even if not yet named in the four-by-four categories.**
+**Watch for: the member whose named shadow is about someone else (‘my gift is patience, my shadow is when my husband does X’). Re-frame: ‘Your shadow is your direction in YOU; what they do is theirs. What does YOUR patience turn into when stretched?’**
 
-**Watch for: the senior whose shadow is rooted in identity formation (a sexual or relational shadow they are afraid to name). Receive without rushing. Pastoral 1:1 within 48 hours.**
+**Watch for: the member whose self-flagellation is heavy. Re-frame: ‘Naming is observation. “There it is again” is the practice.’**
 
-**Watch for: the senior whose shadow analysis is intellectualized (‘my prophetic gift’s shadow is epistemic certainty’). Push for concrete: ‘Where, with whom, recently?’**
+**Watch for: the member who claims to have no shadow. ‘Possibly. Where does your gift get tired? Where does it overreach? Where does its energy go under stress?’**
 
-**Watch for: the senior whose named shadow is about a parent in another cohort. Receive without naming the parent. Cross-cohort follow-up if needed.**
+**Watch for: the pair partner who cannot speak the witness sentence. Cohort Companion coaches in the moment, modeling: ‘I heard your gift is X; the shadow direction is Y; the discipline is Z. I receive it as honest data.’**
 
-**Watch for: the senior who claims to have no shadow. ‘Possibly. Where does your gift get tired? Where does it overreach? Where does its energy go under stress?’**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Pair turns are 18 minutes each. Total cohort time is 38 minutes plus protocol.**
+**Watch for: the veteran whose gift is genuinely emerging (a gift just becoming visible in a new season or role). Affirm; the gift is real even if not yet named in the four-by-four categories.**
 
-**Watch for: the parent whose primary gift has been suppressed for years (a gift not used in current vocation or life-stage). The named shadow may be of a gift that has not had room to operate; the discipline is partly about recovering the gift, not only managing the shadow.**
+**Watch for: the veteran whose shadow is rooted in identity (a relational or private shadow they are afraid to name). Receive without rushing. Pastoral 1:1 within 48 hours.**
 
-**Watch for: the parent whose named shadow connects to parenting itself (controlling shadow with adult children, rescuing shadow with struggling teens, judging shadow with dating teens). Receive without rushing. Pastoral 1:1 within the week if welcomed.**
+**Watch for: the veteran whose named shadow is about another member of the cohort. Receive without naming them. Cross-circle follow-up if needed.**
 
-**Watch for: the parent whose named shadow connects to marriage. Same protocol as Wk 5 — receive without naming the spouse; pastoral 1:1; the relational adjudication is a different conversation.**
+**Watch for: the veteran whose primary gift has been suppressed for years (a gift not used in current vocation or life-stage). The named shadow may be of a gift that has not had room to operate; the discipline is partly about recovering the gift, not only managing the shadow.**
 
-**Watch for: the parent whose named shadow connects to vocation — a controlling-administrator shadow at work, a condemnation-prophet shadow in church leadership. Receive; the work-life implications are real and may take months to walk.**
+**The ordained and the staff**
 
-**Watch for: the parent whose pair partner’s named shadow lands hard for them (because the pair partner’s shadow has affected their own life; because the partner’s shadow is similar to a shadow the parent has been on the receiving end of in another relationship). Cohort Companion stays close.**
+## Adjustments
 
-**Watch for: the parent who tries to name their teen-in-the-cohort’s shadow during the pair work. Stop immediately. ‘Your shadow is yours; your teen’s shadow is theirs and named in their cohort.’**
+**Watch for: the intellectualized shadow analysis (‘my prophetic gift’s shadow is epistemic certainty’). Push for concrete: ‘Where, with whom, recently?’**
+
+**Watch for: the leader whose named shadow connects to the ministry itself — a controlling-administrator shadow in the church office, a condemnation-prophet shadow in the pulpit, an enabling-shepherd shadow that has never let a congregant face anything. Receive; the work-life implications are real and may take months to walk.**
+
+**Watch for: the leader whose named shadow connects to parenting or marriage (a controlling shadow with adult children, a rescuing shadow with a struggling child, a shadow that lives at home). Same protocol as Wk 5 — receive without naming the family member; pastoral 1:1; the relational adjudication is a different conversation.**
+
+**Watch for: the member whose pair partner’s named shadow lands hard for them (because the partner’s shadow has affected their own life; because it is similar to a shadow they have been on the receiving end of elsewhere). Cohort Companion stays close.**
+
+**Watch for: the leader who tries to name a congregant’s or colleague’s shadow during the pair work. Stop immediately. ‘Your shadow is yours; theirs is theirs, and it is not named here.’**
 
 **Closing Practice in Detail**
 
@@ -461,7 +451,7 @@ Same three-layer pattern as previous sessions. Tonight’s closing is short on p
 
 **NEW — Standing-pair check-in this week is explicit: ‘Where did the shadow show up; what did you name when it did?’**
 
-**Boundary discipline: the named shadow does NOT become a corrective at home for family across cohorts.**
+**Boundary discipline: the named shadow does NOT become a corrective at home — or in the church office.**
 
 **Companion Debrief Prompts**
 
@@ -489,7 +479,7 @@ The team meets the day after Wk 9 for a 60-minute debrief.
 
 **•** Self-flagellation was the dominant posture rather than observation.
 
-**•** A teen-parent dynamic surfaced in the cohort circles without the team noticing.
+**•** A marriage dynamic surfaced in the circles without the team noticing.
 
 **•** A named shadow revealed harm to another person and the Cohort Companion did not engage protocols.
 
@@ -499,7 +489,7 @@ The team meets the day after Wk 9 for a 60-minute debrief.
 
 **•** If self-flagellation dominated, the standing-pair check-in this week can re-frame: ‘This week’s practice is observation, not condemnation. “There it is again” is the language.’
 
-**•** If a teen-parent dynamic surfaced, pastoral support outside the session before Wk 10.
+**•** If a marriage dynamic surfaced, pastoral support outside the session before Wk 10.
 
 **People to follow up with this week**
 
@@ -507,7 +497,7 @@ The team meets the day after Wk 9 for a 60-minute debrief.
 
 **•** Anyone whose named shadow connects to a relationship in active rupture. Pastoral support within the week.
 
-**•** Any teen-parent dynamic that surfaced. Cross-cohort follow-up by the appropriate Companions.
+**•** Any marriage dynamic that surfaced. Cross-circle follow-up by the appropriate Companions.
 
 **•** Any pair where one or both partners were over-activated. Pastoral support for the activated partner; potentially a re-pair before Wk 10 if the partnership is no longer holding.
 
@@ -639,7 +629,7 @@ My discipline this week and beyond:
 
 **THREE — The 18-minute symmetry holds. Each direction gets its full time. The witness sentence at the end of each direction confirms the naming.**
 
-**FOUR — What is named in our pair stays between us, with the standard exceptions in the Standing Pair Covenant from Wk 3. The shadow named tonight is NOT for deployment as a corrective at home for any family member across cohorts.**
+**FOUR — What is named in our pair stays between us, with the standard exceptions in the Standing Pair Covenant from Wk 3. The shadow named tonight is NOT for deployment as a corrective at home, in the office, or anywhere else.**
 
 **The witness sentence**
 
@@ -671,7 +661,7 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **FOUR — NEW: Standing-pair check-in this week is explicit: ‘Where did the shadow show up; what did you name when it did?’**
 
-**FIVE — Boundary discipline: the named shadow does NOT become a corrective at home for family across cohorts.**
+**FIVE — Boundary discipline: the named shadow does NOT become a corrective at home or anywhere else.**
 
 **How the noticing works**
 
