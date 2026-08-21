@@ -1,0 +1,37 @@
+# Retrofit backlog — FotH for a CPR (the adult 10/12/12 sequence)
+
+**Created 2026-08-20. This is the work list for retrofitting the CCA-year learnings into the adult three-series sequence. Items are John's to rule on; nothing below is applied yet. Seed state: Getting Started = `gs-v1.0` (15-week edition); Going Deeper + Going Out = current HEAD (12 + 12).**
+
+## A. Structure
+
+1. **Getting Started shape.** The original adult design was ten weeks; the seed is the fifteen-week gs-v1.0 edition. Decide the adult session map (compress 15 → 10, or re-derive 10 from the 22-week year's material). The 22-week teen edition is the innovation source, not the skeleton.
+2. **Mid-series breaks.** Two-week practice hold in the middle of each series. Placement principle from the club year: the break lands where a practice worth testing has just been commissioned, and the re-entry session opens with the what-held reading (practice-survival count, time-to-settled). Not automatically at N/2 — pick the seam per series.
+3. **Inter-series breaks.** At least two weeks. Note: GD week-01 and GO week-01 are already "welcome back" sessions — the design always assumed the gap. Retrofit gives the gap measurement work (same what-held reading at each series re-entry).
+4. **Calendar math.** 12 + 2 + 14 + 2 + 14 = 44 calendar weeks — a full formation year (Sep–Jun), or split across two years. John's call, probably per-church.
+5. **Session length: 90 minutes.** The 75-minute session was the club's after-school compression; the original quick-reference cards say 90. The adult edition gets its 90 back. Related: the spoken-liturgy ninety-minutes bundle deliberately left open on both existing sites — reconcile here.
+
+## B. Innovations to retrofit from the 22-week year
+
+6. Container protocol, current form: four conditions spoken open and closed, confidentiality promised aloud with legal limits named.
+7. One True Sentence.
+8. Leader Feedback Round + teach-back (the leader publicly stays a sheep).
+9. **Rotation.** The club's teen-led second runnings become adult leader rotation: every leader leads, every leader receives the round. For a leadership-first cohort this is not an add-on — it IS the leadership formation, and the absence test comes free with it.
+10. Keep/change/tell self-read: set up the session before each break, answered at re-entry (three reads per year, same cadence logic as the club's quarters).
+11. Ladder of Signs / three vital signs in aged forms. A room is young regardless of the age of its members — the first-forms reading applies to a brand-new adult cohort too. Needs an adult-register pass; expectations may climb faster.
+12. Whole sessions, cumulative practices (the intermittent-attendance principle).
+13. Permission ethic + Measurement Covenant, adult form. No minors simplifies safeguarding, not consent: named notes still need the asked-for conversation. Mirrors not levers, weep test, pages-never-care all carry over verbatim.
+14. Observation pack: an adult debrief page (one page per session, raw mark + rung + occasion note, decisions log at the team call) if the challenge year is observed — recommended, since the leadership cohort should experience being observed the way they will later observe.
+15. The frozen-observation-protocol discipline + decisions log, if 14 is adopted.
+
+## C. Design questions John must rule
+
+16. **The therapy rail for adults.** The deep emotional-knots work was pulled for teens; GD week-03 is literally "knots," and the closing line of the curriculum article invites "adults willing to take the risk of really going deeper with God." Where exactly does *this may be therapeutic, but it is not therapy* sit for an adult leadership cohort? (The rail holds; the question is depth inside it.)
+17. **The seriousness gate.** What counts as completing the leadership-first challenge — attendance threshold? covenant signed? led a rotation? practices held through a break? Write it down before the first church asks.
+18. **De-CCA pass.** Strip school/club/teen-specific machinery from seeded content (HoS references, teen language, club logistics). The safeguarding-of-minors set converts to an adult form (two-adult rule and door-out probably survive in adult dress; John rules).
+19. **Label.** Working label: FotH for a CPR; full name "Fellowship of the Heart — For a Church Prepared for Revival." Repo rename before any prod is cheap.
+20. **Images.** Seeded from the FotH dev repo (already public in the same org). Before any prod/site exists, confirm the licence grants cover this property — the standing rule is web-use grants are checked per property, every time.
+
+## D. Interaction map (why this repo exists)
+
+- CPR (the why, church-facing) → **FotH for a CPR** (the leadership-first challenge, adults) → FotH 22-week GS (the family/teen year) → GD/GO (the continuing walk).
+- The adult year and the teen year will feed each other: retrofits proven here flow back to the club editions and vice versa. Keep a per-item provenance note so the flows stay traceable.

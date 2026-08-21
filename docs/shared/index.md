@@ -1,0 +1,70 @@
+# Shared participant materials
+
+The participant-facing artifacts used across all three Fellowship of the Heart series. Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
+
+---
+
+## What's here
+
+- [**Personal Heart Journal**](personal-heart-journal.md) — the private daily companion for the journey. One participant per copy. The journal scales to what each week actually has time for — a sentence can be a complete entry.
+
+- [**Family Conversation Cards**](family-conversation-cards.md) — forty cards organized around the Four Connects (Self, Others, God, Mission). Pulled one at a time, used at dinner, in the car, on a walk, when something needs naming.
+
+- [**Rhythm Card**](rhythm-card.md) — the daily / weekly / monthly practice card. The long-term rhythm a cohort carries beyond Getting Started, sustained across Going Deeper and Going Out and beyond.
+
+- [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 7 and carried daily through the rest of the curriculum.
+
+- [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
+
+- [**Signs Card**](signs-card.md) — for the dry season. Four kinds of dry, the one question that sorts them (*which way does the desire point?*), and the first step for each — so no one in this fellowship ever misreads a dry season as a verdict.
+
+- [**Path Home Card**](path-home-card.md) — the written way back for anyone who has been away, however long, however it ended: confession, lament, return, celebration. The door that never locks.
+
+- [**Measurement Covenant**](measurement-covenant.md) — *team-facing*: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
+
+- [**Three Vital Signs**](three-vital-signs.md) — *team-facing*: the Companion team's weekly lens. Three readings taken in ordinary sessions with no form in anyone's hand — Costly Telling, Response to Load, the Sought Stray — and the discipline for reading them. The companion card to the covenant: the covenant governs what is held; this card is most of what is watched.
+
+- [**Watching Trust Grow**](watching-trust-grow.md) — *team-facing*: the field guide to a room's deepening trust — the three ages (HELD, the container holds them · KNOWN, they know each other · OWNED, each other's people), six watchable markers, and the two warnings (the first fight may be good news; the sweet, frictionless room may be the counterfeit). Never taught to the room; read quarterly at the Thursday Call after each room's self-read.
+
+- [**Keeping the Flame**](keeping-the-flame.md) — *team-facing*: for every Companion, adult or FC1 — how a calling survives its own success. The Ephesus drift (works commended, first love left), the leader's self-check, the five defenses, and the recovery protocol. A mirror, never a lever; walked at the first Leader Lab of every serving cycle.
+
+- [**Companions and Coverings**](companions-and-coverings.md) — *team-facing*: what this work is, and is not — no licenses, no registry, no title that travels; the covering is the unit of trust. How a body builds its own Companions from its own people, and how to receive one from outside (know them before you trust them).
+
+- [**Weekly Run Card**](weekly-run-card.md) — *team-facing*: the one-page who-holds-what for the next session. Filled in on the Thursday Call, read back aloud, and sent to the team before anyone hangs up.
+
+- [**Interrogating Reality Card**](interrogating-reality-card.md) — naming what the cohort already knows but has not yet said. Introduced in the Going Deeper series.
+
+- [**Getting Started Session Slides**](../getting-started/gs-session-slides-v1.4.pptx) — *team-facing*: the full twenty-two-session room screen (PowerPoint, v1.4) — one slide per road stop, five standing liturgical images. Section 9 of the Getting Started handbook describes how it serves the plans.
+
+---
+
+## Printing a handout
+
+Every page on this site prints as a clean, black-on-white handout. Open the card you need and press the **Print** button in the top bar (or Ctrl+P on the keyboard, ⌘P on a Mac). The site's navigation and coloring drop away automatically — what comes out of the printer is just the card itself, ready for a participant folder, a refrigerator door, or the dinner table. Nothing needs to be downloaded or converted first, and a printed card is always as current as the page it came from.
+
+---
+
+## How they fit together
+
+These materials are designed to work together across the year:
+
+- The **Personal Heart Journal** is the private space where the work of the room continues into the week.
+- The **Family Conversation Cards** carry the work into the family table.
+- The **Rhythm Card** sets the daily, weekly, and monthly practices that the cohort sustains together.
+- The **PROAPT Card** is the reference for the hearing-in-scripture practice that anchors the daily rhythm from Week 7 onward.
+- The **Reading List** is for the participant who wants to read further, at their own pace.
+- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — taught near the end of Getting Started (rehearsed at Week 19, then taught to the whole room at The Long Walk — Week 20 — by the Companions-in-Formation; a body running the fifteen-week `gs-v1.0` edition teaches them in its Week 13) and kept in every participant folder from then on, in the hope that they gather dust.
+- The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
+- The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
+- The **Weekly Run Card** is the team's one-page who-holds-what for the next session — filled in on the Thursday Call (the team's single weekly meeting: look back, look at the flock, look ahead), read back aloud, and sent before anyone hangs up.
+
+A cohort can complete Getting Started using only the Personal Heart Journal, the Rhythm Card, and the PROAPT Card; the family cards and reading list are invitations, not assignments. Going Deeper and Going Out lean more heavily on the shared materials as the cohort matures.
+
+---
+
+## See also
+
+- [Top-level README](../index.md) — the three-series overview.
+- [Getting Started](../getting-started/index.md) — where these materials are first introduced.
+- [Going Deeper](../going-deeper/index.md) — where the shared rhythm becomes a sustained practice.
+- [Going Out](../going-out/index.md) — where the materials carry into a sent posture.
