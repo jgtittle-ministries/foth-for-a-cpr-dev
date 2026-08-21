@@ -15,10 +15,9 @@ So the structure lets go for two weeks, on purpose, to find out what holds.
 - **Keep the Week 5 practice running** — the one friendship, the one condition — through both weeks, not just the first.
 - **Keep whatever daily rhythm has begun** for you in these five weeks, in whatever honest size it actually has.
 - Nothing else. The hold is not homework. Two things, held loosely and honestly, are worth more than five things performed.
+- **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
 
 ## What happens when we return
-
-And carry the room’s question with you — keep, change, tell — sent home with you on no paper at the last session. We answer it together when we return.
 
 Week 6 opens with the what-held round: what continued, what lapsed, and what surprised you. Say it straight. In this fellowship, *"it lapsed by Thursday, and I noticed I missed it"* is not a confession of failure — it is exactly the kind of true, slightly costly telling this whole work exists to make normal. A lapsed practice honestly reported already costs something, and it counts.
 

@@ -15,10 +15,9 @@ A claim like that deserves its test, and this is it. Two weeks with no room, no 
 - **The garden rhythm: two visits a week, journaled.** Same shape as Week 10 commissioned, nothing added.
 - **The Scripture-hearing practice as your visits lead you** — and remember that a quiet visit is still a visit. The garden has quiet weeks. Showing up is the practice.
 - The Week 5 thread, if it is still alive, needs no assignment anymore. Notice whether it continued on its own. That noticing is data too.
+- **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
 
 ## What happens when we return
-
-And carry the room’s question with you — keep, change, tell — sent home with you on no paper at the last session. We answer it together when we return.
 
 Week 11 opens with the what-held round: visits kept, visits missed, what the quiet weeks were like, and anything God said that you have not yet told anyone. Every report is received as it comes. *"I stopped after the first week"* told honestly is worth more to this room than a polished streak — and a quiet garden faithfully visited is not a failed practice; it is a real one.
 

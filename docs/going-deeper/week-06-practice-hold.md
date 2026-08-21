@@ -15,10 +15,9 @@ So the structure lets go for two weeks, and the question is simple: does the hea
 - **The practice exactly as Week 6 shaped it** — extended PROAPT on the passage, daily as you are able, with the Tell going to people outside the cohort. Two weeks of it instead of one. Nothing added.
 - **The standing pairs continue.** A pair check-in is not a meeting; it is the structure that travels with you. The pair question stays the same: *what did you hear, and who did you tell?*
 - Nothing else. Two weeks of one practice honestly kept — or honestly reported unkept — is the whole assignment.
+- **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
 
 ## What happens when we return
-
-And carry the room’s question with you — keep, change, tell — sent home with you on no paper at the last session. We answer it together when we return.
 
 Week 7 opens with the what-held round: the hearing that continued, the hearing that lapsed, the Tell that surprised you, the silence that had something in it. Say it straight — *"I stopped by the fourth day and I know why"* is costly telling, and it counts. Then the corporate turn begins, and you will bring to it whatever two weeks of hearing alone actually taught you. That is the only preparation Week 7 needs.
 

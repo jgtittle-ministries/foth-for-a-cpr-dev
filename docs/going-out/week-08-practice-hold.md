@@ -14,10 +14,9 @@ Week 8 was the discernment night: the body asking together whether the Spirit is
 - **If no shared engagement was named:** your individual sent-context continues, with the cohort's honest discernment as its foundation. That was a real answer, and it holds weight too.
 - **The daily noticing question continues:** *what is the body of cohort-witnesses asking of me this week?*
 - **The standing pairs continue** — the structure that travels when the room does not.
+- **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
 
 ## What happens when we return
-
-And carry the room’s question with you — keep, change, tell — sent home with you on no paper at the last session. We answer it together when we return.
 
 Week 9 re-engages what was named, and it opens with the what-held round at two levels: what held for you, and what held for *us*. Where does the room actually stand, now, on what it said three weeks ago? Say it straight. A yes that settled deeper over the hold is worth knowing. A yes that turned out to be the evening's enthusiasm is worth knowing *more* — better to learn it in a fortnight than three months into an engagement carrying other people's hopes. Neither answer is failure; both are the discernment finishing its work.
 

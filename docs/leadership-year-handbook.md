@@ -28,7 +28,7 @@ Four elements run every single week of the year, in every series. They are the p
 
 **The blessing.** The session opens and closes under a spoken blessing. This the seeded series already carry everywhere.
 
-*A retrofit note, honestly:* the seeded session plans predate the pilot year's consolidation of this liturgy — One True Sentence and the weekly round appear in some sessions and not others. Until the run-sheet weave reaches every session, this section governs: a leader adds the missing elements at any session whose plan lacks them — One True Sentence in the opening circle, the round just before the closing container — paying the six or so minutes from the teaching block, which can always afford it.
+Every session's run sheet now carries this liturgy, with one deliberate exception: the commissioning rites and final sendings at the series' ends keep the container and the blessing and lay the round down. A commissioning is received, not critiqued.
 
 ## 4. Rotation — a role discerned, not required
 
