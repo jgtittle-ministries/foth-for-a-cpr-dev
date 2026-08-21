@@ -12,7 +12,7 @@ Week 2
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** Self (diagnostic, deepened). The diagnostic block of Going Deeper begins tonight; Wk 3 (knots and lies) extends it; Wk 5 (confession) is the corresponding clearing work.
 
-**Mode.** Shared teaching first; SPLIT into cohort circles for the diagnostic exercise; MERGE for closing.
+**Mode.** Shared teaching first; SPLIT into circles of four to eight for the diagnostic exercise; MERGE for closing.
 
 **Center.** Each participant maps four specific places in their current life onto the four soils. Not ‘I am rocky soil’ but ‘with my mom right now, hard path; with my work, thorny; with prayer, rocky; with my best friend, good soil.’ The discussion in cohort circles surfaces patterns.
 
@@ -42,23 +42,23 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 - The personality-quiz reading. Some participants will arrive ready to identify themselves as a soil type — ‘I’m the rocky one.’ The teaching tonight specifically dismantles this. Each participant has all four soils in different places. The question is not which one; the question is where each one is operating.
 - Performance of ‘good soil’. Returning veterans may want to report that the interlude produced more good soil. Maybe; maybe not. The diagnostic only works on honest data.
-- The teen who maps too much hard-path soil onto their parent. ‘My dad is hard-path right now.’ Re-frame: tonight is your interior, not your parent’s. ‘Where IN YOU is hard-path soil right now — maybe with regard to your dad?’
-- The parent who maps too much thorny soil onto their teen. Same redirect: where in you is the thorny soil operating?
+- The member who maps too much hard-path soil onto someone else. ‘My spouse is hard-path right now.’ Re-frame: tonight is your interior, not theirs. ‘Where IN YOU is hard-path soil right now — maybe with regard to your spouse?’
+- The leader who maps too much thorny soil onto the ministry. Same redirect: where in you is the thorny soil operating?
 - Genuine grief surfacing. The diagnostic naming — ‘with my friendship with X, hard-path right now’ — may surface grief about a relationship the participant didn’t realize was that hard. Receive without rushing.
 - Jeremiah 17:9 mishandled. The verse is harsh; some participants will read it as condemnation. The teaching frames it as honest diagnostic, not despair.
 - The new participant who feels behind on the language. Cohort Companion should specifically check on each new participant during the cohort circle work.
 
 ## CRISIS CONTINGENCIES (Week 2)
 
-*Week 2 is moderate-risk. The diagnostic naming surfaces interior material the Getting Started kept lighter. Most of what surfaces tonight is workable in the cohort circle; some will need offline follow-up.*
+*Week 2 is moderate-risk. The diagnostic naming surfaces interior material the Getting Started kept lighter. Most of what surfaces tonight is workable in the circle; some will need offline follow-up.*
 
-**If a participant’s mapping surfaces a relationship in active crisis.** Receive without alarm; do not problem-solve in the room. The Cohort Companion stays with the participant briefly after the cohort circle. Lead Companion follows up offline within 48 hours.
+**If a participant’s mapping surfaces a relationship in active crisis.** Receive without alarm; do not problem-solve in the room. The Cohort Companion stays with the participant briefly after the circle. Lead Companion follows up offline within 48 hours.
 
 **If a participant maps mostly hard-path soil across all four places.** This is data, not a crisis. The participant is in a season of widespread hardness. Receive specifically: ‘What is true is true. We have ten more weeks; the hard-path will not be the whole story.’ Watch for despair signals; pastoral 1:1 within the week if needed.
 
 **If a participant becomes overwhelmed during the diagnostic exercise.** Stop the exercise for them. Cohort Companion sits with them; quiet, low pressure. ‘You don’t have to finish the worksheet tonight. You can sit with the question across the week.’
 
-**If a participant’s mapping reveals trauma underneath what looked like ordinary soil hardness.** Section 6 protocol of the Going Deeper Handbook. Do not interpret in the room. Pastoral / clinical referral if welcomed.
+**If a participant’s mapping reveals trauma underneath what looked like ordinary soil hardness.** The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Do not interpret in the room. Pastoral / clinical referral if welcomed.
 
 # **Session at a Glance**
 
@@ -101,7 +101,7 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 1. Each Companion briefly names what surfaced from running the mapping on themselves. Optional. (15 min)
 2. Walk the cohort exercise script (below). Each Cohort Companion names how they’ll handle the participant who surfaces something larger than the exercise. (15 min)
-3. Family review: anyone the team is watching for after Wk 1’s interlude share? Brief. (5 min)
+3. Member review: anyone the team is watching for after Wk 1’s interlude share? Brief. (5 min)
 4. Confirm pastoral / clinical backup. (5 min)
 5. Pray for each participant by name, specifically for what the Spirit might illumine in tonight’s diagnostic. (5 min)
 
@@ -110,17 +110,17 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 1. Print the Soil Diagnostic Worksheet (H2.1) — one per participant.
 2. Print the Four Soils Reference Card (H2.2) — one per participant.
 3. Print the Between-Session Practice card (H2.3) — one per participant.
-4. Confirm room setup: one large circle for opening, three cohort spaces for the split.
+4. Confirm room setup: one large circle for opening, circle spaces for the split.
 
 # **Materials and Setup**
 
 ### **Materials checklist**
 
-- Chairs in main room as one large circle for opening; three cohort spaces ready for the split.
+- Chairs in main room as one large circle for opening; circle spaces ready for the split.
 - Personal Heart Journals (each brings their own; have spares for new participants).
 - Whiteboard with Mark 4 reference and a simple four-quadrant diagram for the soils — pre-drawn before the session.
 - Handouts H2.1, H2.2, H2.3 stacked at each chair.
-- Three cohort spaces, each with: large-print Bible, tissues, wall clock, room enough for cohort circle plus quiet writing time.
+- Each circle space with: large-print Bible, tissues, wall clock, room enough for the circle plus quiet writing time.
 - Crisis Quick-Reference Card in every Companion pocket.
 - Pastoral / clinical backup on call.
 
@@ -129,10 +129,10 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion runs the four-places mapping on themselves. Print all handouts. | All Companions |
-| Day before | Walk the room. Confirm cohort spaces. | Lead Comp |
+| Day before | Walk the room. Confirm circle spaces. | Lead Comp |
 | T-45 min | Team gathers. Pray for each participant. | All Companions |
-| T-30 min | Each Cohort Companion preps their cohort space. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-30 min | Each Cohort Companion preps their circle space. | All Companions |
+| T-15 min | Door opens. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
@@ -141,14 +141,14 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic. 60-second silent settle. One-word landings. |
 | 7:07–7:15 | Block 2: Wk 1 check-in | Shared circle | Lead Comp | Brief check on the rhythm card resumed; Connect-pick observations from the week. Voluntary. |
 | 7:15–7:29 | Block 3: Mark 4:14–20 — the parable as diagnostic | Shared circle | Lead Comp | Read the passage. Walk Jesus’ own interpretation. Re-frame the four soils as four regions, not four people. |
 | 7:29–7:34 | Block 4: Bridge to split + Jeremiah 17:9 | Shared circle | Lead Comp | Frame the cohort exercise. Read Jeremiah 17:9 as the harder companion. Pray. Split. |
-| 7:34–8:10 | Block 5: The four-places mapping in cohort circles | Cohort circles | Cohort Facs | 20 min quiet writing; 18 min sharing in the cohort circle. |
-| 8:10–8:18 | Block 6: Merge and surface | Shared circle | Lead Comp | One observation per cohort. Brief integration. |
-| 8:18–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Sit with one soil region 30 min this week. |
+| 7:34–8:10 | Block 5: The four-places mapping in circles | Circles | Cohort Comps | 20 min quiet writing; 18 min sharing in the circle. |
+| 8:10–8:18 | Block 6: Merge and surface | Shared circle | Lead Comp | One observation per circle. Brief integration. |
+| 8:18–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp | Sit with one soil region 30 min this week. |
 | 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Send. |
 
 # **Block-by-Block: Scripts and Notes**
@@ -227,16 +227,16 @@ Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from G
 
 *“Jeremiah is hard. But notice: he doesn’t end with ‘who can understand?’ He answers his own question — the Lord searches the heart. We cannot diagnose ourselves accurately by feel, but the Spirit can. The four-places exercise tonight is asking the Spirit to show us what we cannot see by self-examination alone.”*
 
-*“In your cohort circle, your Companion will walk the exercise. About thirty-five minutes. The worksheet — H2.1 — is on your chair. There is no right answer. There is only honest data.”*
+*“In your circle, your Companion will walk the exercise. About thirty-five minutes. The worksheet — H2.1 — is on your chair. There is no right answer. There is only honest data.”*
 
 *“Pray with me. Father, you search every heart and you know what we cannot see. We bring our four places to you tonight — our marriages, our friendships, our work, our prayer lives, the parts of us we have stopped looking at honestly. Show us where each soil condition is operating. Make the data clear. Begin the clearing work that in Going Deeper is for. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
+*“Circle assignments are on the wall — circles of four to eight, each with its Companion. Thirty-five minutes. Go.”*
 
-## **Block 5 — The Four-Places Mapping in Cohort Circles (7:34–8:10, 36 min)**
-Each cohort circle works in parallel. The structure is identical.
+## **Block 5 — The Four-Places Mapping in Circles (7:34–8:10, 36 min)**
+Each circle works in parallel. The structure is identical.
 
-### **Inside the cohort circle — Companion script**
+### **Inside the circle — Companion script**
 
 ## Opening (3 min)
 
@@ -258,27 +258,27 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“Time. Around the circle, one at a time. Name your four places — you can be vague about the people involved if you need privacy (‘a friendship,’ ‘a relative’). Name the soil condition for each. One sentence about what you noticed about the pattern across the four. About 90 seconds each. Pass anytime.”*
 
-*(Cohort Companion goes first. Specific. Honest. Brief. The model matters: the level of specificity the Cohort Companion brings is the level the cohort will match.)*
+*(Cohort Companion goes first. Specific. Honest. Brief. The model matters: the level of specificity the Cohort Companion brings is the level the circle will match.)*
 
 ### **Cohort Companion: when to intervene**
 
 - If a participant’s mapping is generic (‘my relationships are mostly good soil’) — push for specificity: ‘Pick ONE specific relationship. Which condition is operating in that one?’
 - If a participant maps mostly hard-path across all four places — receive without alarm. ‘What is true is true. We have ten more weeks; tonight you have data.’ Quietly note for offline follow-up.
-- If a participant maps too much soil onto another person (‘my dad is hard-path right now’) — redirect: ‘Tonight is your interior. Where in YOU is hard-path soil right now — maybe with regard to your dad?’
+- If a participant maps too much soil onto another person (‘my spouse is hard-path right now’) — redirect: ‘Tonight is your interior. Where in YOU is hard-path soil right now — maybe with regard to your spouse?’
 - If a participant becomes overwhelmed during their share — stop them gently. ‘You don’t have to finish tonight. Sit with the question across the week.’ Cohort Companion stays close.
 - If a new participant freezes when their turn comes — ‘You can pass and listen, or you can name just one of the four places. Both work.’ No pressure.
-- If the cohort wants to coach each other (‘Have you tried \_\_\_\_\_?’) — redirect: ‘Tonight is diagnostic. We are not fixing yet. We are seeing.’
+- If the circle wants to coach each other (‘Have you tried \_\_\_\_\_?’) — redirect: ‘Tonight is diagnostic. We are not fixing yet. We are seeing.’
 
 ## **Block 6 — Merge and Surface (8:10–8:18, 8 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
 
-*“What was named in your cohort circle stays in your cohort circle. So I’m not going to ask anyone to share their four places. I’m going to ask each Cohort Companion to name one general thing they noticed about their cohort — not a specific person, the cohort.”*
+*“What was named in your cohort circle stays in your cohort circle. So I’m not going to ask anyone to share their four places. I’m going to ask each Cohort Companion to name one general thing they noticed about their circle — not a specific person, the circle.”*
 
-*(Each Cohort Companion names one general observation, 60 seconds. Examples: ‘Many in our cohort named one relationship as good soil and were surprised by the others.’ Or: ‘Several of us mapped thorny soil at work and didn’t expect that.’ Or: ‘Our cohort had unusual specificity tonight — the diagnostic landed.’)*
+*(Each Cohort Companion names one general observation, 60 seconds. Examples: ‘Many in our circle named one relationship as good soil and were surprised by the others.’ Or: ‘Several of us mapped thorny soil at work and didn’t expect that.’ Or: ‘Our circle had unusual specificity tonight — the diagnostic landed.’)*
 
-*“What I notice across all three cohorts is \_\_\_\_\_. (Specific. One sentence. Often: ‘Many of you named good soil where you didn’t expect it.’ Or: ‘Several cohorts surfaced rocky soil in prayer life specifically — we will engage that in Wk 6.’ Or: ‘There is honest hard-path data in this room tonight that Getting Started didn’t reach.’)”*
+*“What I notice across the circles is \_\_\_\_\_. (Specific. One sentence. Often: ‘Many of you named good soil where you didn’t expect it.’ Or: ‘Several circles surfaced rocky soil in prayer life specifically — we will engage that in Wk 6.’ Or: ‘There is honest hard-path data in this room tonight that Getting Started didn’t reach.’)”*
 
 *“One thing to remember. The diagnostic is not the end. Tonight you have data; the next ten weeks engage what the data revealed. The hard-path you named tonight is not a verdict; it’s a starting place.”*
 
@@ -318,38 +318,35 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“See you Tuesday.”*
 
-# **Differentiation by Cohort**
+# **Differentiation Notes**
 
-## **Junior teens (12–14)**
-
-## Adjustments
-
-- Junior version of H2.1 uses simpler language: ‘four places where life is happening for you right now.’ The four places might be: my best friend; my mom or dad; a class at school; my prayer life or church.
-- Pair turns are not used tonight — the cohort circle works as a single circle for the share.
-- Watch for: junior teens who can’t identify four distinct places. ‘Three is enough.’ Don’t force a fourth.
-- Watch for: junior teens whose four places are all family. Affirm; gently invite them to consider one place outside family for the diagnostic. Family-only soil mapping can mask other regions.
-- Watch for: junior teens who map everything as good soil. Performance. Push gently: ‘Of the four — which one is the LEAST like good soil right now?’ The least-like is often the diagnostic gold.
-- Watch for: the junior teen whose mapping reveals hard-path with a parent. Receive without alarm; do not interpret in the cohort circle. Cohort Companion follow-up offline within the week.
-
-## **Senior teens (15–18)**
+## **Those doing this work for the first time**
 
 ## Adjustments
 
-- Senior version of H2.1 uses fuller IJH language. Four places might include: a friendship; a romantic interest; school or college decisions; faith life; family-of-origin.
-- Watch for: the senior whose mapping is intellectually polished but emotionally remote. ‘Where in this is YOU — not the analysis of you?’
-- Watch for: the senior whose mapping reveals significant rocky soil in romantic relationship territory. Receive without coaching.
-- Watch for: the senior who realizes mid-exercise that their friendship-soil is mostly performance. The realization is the work.
-- Watch for: the senior in college decision season who maps everything onto vocational territory. Re-frame: ‘What about places that aren’t about your future career?’
+- Simpler on-ramp if the worksheet stalls: ‘four places where life is actually happening for you right now.’ Marriage or a close friendship; work in this season; prayer life; a relationship that is currently hard.
+- Watch for: the member who can’t identify four distinct places. ‘Three is enough.’ Don’t force a fourth.
+- Watch for: the member whose four places are all church. Affirm; gently invite one place outside church life for the diagnostic. Ministry-only soil mapping can mask other regions.
+- Watch for: the member who maps everything as good soil. Performance. Push gently: ‘Of the four — which one is the LEAST like good soil right now?’ The least-like is often the diagnostic gold.
 
-## **Parents**
+## **The veterans**
 
 ## Adjustments
 
-- Parent version of H2.1 includes prompts for adult life-stage. Four places might include: marriage; one specific friendship; vocation; faith life; family-of-origin; or a current relational tension.
-- Watch for: the parent whose mapping reveals that one major place — marriage, vocation, parenting an adult child — has been hard-path soil for years and has been suppressed. Receive without rushing. Pastoral 1:1 within the week if welcomed.
-- Watch for: the parent who maps thorny everywhere. Mid-life often reads as thorny because mid-life IS structurally thorny — too many cares competing. Affirm; gently invite the question of which thorn is most worth addressing.
-- Watch for: the parent whose mapping centers on their teen-in-another-room. Re-frame: ‘Where in YOUR interior is this soil — not in your teen.’
-- Watch for: the parent who maps good soil with their spouse and rocky everywhere else. Often a season-of-life pattern; affirm without minimizing.
+- Veterans of Getting Started have fuller IJH language; let them use it — and watch that the language doesn’t do the work for them.
+- Watch for: the mapping that is intellectually polished but emotionally remote. ‘Where in this is YOU — not the analysis of you?’
+- Watch for: the veteran whose mapping reveals significant rocky soil in a long relationship they had filed as settled. Receive without coaching.
+- Watch for: the veteran who realizes mid-exercise that their friendship-soil is mostly performance. The realization is the work.
+
+## **The ordained and the staff**
+
+## Adjustments
+
+- The adult life-stage prompts apply in full: marriage; one specific friendship; vocation; faith life; family-of-origin; a current relational tension. For the ordained, the vocation line and the faith-life line are two different lines — keep them separate on purpose.
+- Watch for: the leader whose mapping reveals that one major place — marriage, vocation, a call grown cold — has been hard-path soil for years and has been suppressed. Receive without rushing. Pastoral 1:1 within the week if welcomed.
+- Watch for: the leader who maps thorny everywhere. Mid-life and ministry often read as thorny because the season IS structurally thorny — too many cares competing. Affirm; gently invite the question of which thorn is most worth addressing.
+- Watch for: the leader whose mapping centers on the congregation. Re-frame: ‘Where in YOUR interior is this soil — not in the church.’
+- Watch for: the leader who maps good soil with their spouse and rocky everywhere else. Often a season-of-life pattern; affirm without minimizing.
 
 # **Closing Practice in Detail**
 
@@ -370,19 +367,19 @@ Companion team meets the day after Week 2 for a 45-minute debrief.
 
 ### **Signs the session worked**
 
-- Each cohort circle had at least one participant whose mapping surprised them — a soil condition they didn’t see coming.
-- The mappings showed range. If everyone in a cohort produced the same pattern, the cohort is performing rather than diagnosing.
-- At least one participant in each cohort named a specific hard-path region honestly.
+- Each circle had at least one participant whose mapping surprised them — a soil condition they didn’t see coming.
+- The mappings showed range. If everyone in a circle produced the same pattern, the circle is performing rather than diagnosing.
+- At least one participant in each circle named a specific hard-path region honestly.
 - The Cohort Companion’s own mapping (modeled at the start of the share) was specific and honest — not generic.
-- The merge surfaced patterns that were not obvious before the cohort circles.
+- The merge surfaced patterns that were not obvious before the circles.
 
 ### **Signs the session did not work as well as it could have**
 
 - Mappings were generic. ‘My relationships are mostly good’ with no specifics.
-- Most cohort participants mapped everything as good soil.
+- Most of a circle mapped everything as good soil.
 - The teaching block ran long and the cohort circle ran short.
 - A participant left visibly distressed without being checked on.
-- New participants felt sidelined in their cohort circles.
+- New participants felt sidelined in their circles.
 
 ### **If the session did not work — what to adjust for Week 3**
 
@@ -393,93 +390,21 @@ Companion team meets the day after Week 2 for a 45-minute debrief.
 
 - Anyone who mapped mostly hard-path soil. Warm contact within the week.
 - Anyone whose mapping revealed a relationship in active crisis. Pastoral 1:1 within the week if welcomed.
-- Any teen whose mapping revealed hard-path with a parent. Cohort Companion follow-up offline.
-- Any parent whose mapping revealed long-term hard-path with marriage or vocation. Pastoral 1:1 within the week if welcomed.
+- Anyone whose mapping revealed hard-path in their own household. Cohort Companion follow-up offline.
+- Anyone whose mapping revealed long-term hard-path with marriage or vocation. Pastoral 1:1 within the week if welcomed.
 - Any new participant who struggled with the exercise. Brief encouragement; offer to walk through it 1:1 if helpful.
 
 # **Handouts**
 
 Three handouts for Week 2.
 
-- H2.1 — Soil Diagnostic Worksheet (junior, senior, and parent versions)
+- H2.1 — Soil Diagnostic Worksheet
 - H2.2 — Four Soils Reference Card (the conditions defined for participant reference)
 - H2.3 — Between-Session Practice (the 30-minute sit, with three questions)
 
 **Handout H2.1 — Soil Diagnostic Worksheet**
 
-*Twenty minutes alone. Three versions on this page — use the one for your cohort. Be specific. The diagnostic only works on truthful data.*
-
-## **Junior version (ages 12–14)**
-
-## Four places in your life right now
-
-**Pick four places where life is actually happening for you. Be specific. Examples: my best friend; my mom or dad; one class at school; my prayer life or church.**
-
-Place 1: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-Place 2: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-Place 3: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-Place 4: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-**What surprised you about your four soils? One sentence:**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## **Senior version (ages 15–18)**
-
-## Four specific places in your life right now
-
-**Pick four. Examples: a specific friendship; a romantic interest; school or college decisions; faith life; family-of-origin; a creative or athletic pursuit.**
-
-Place 1: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-One sentence about why this is the soil:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Place 2: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-One sentence about why this is the soil:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Place 3: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-One sentence about why this is the soil:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Place 4: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Soil: □ hard path □ rocky □ thorny □ good soil
-
-One sentence about why this is the soil:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Patterns. What did you notice across the four?**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## **Parent version**
+*Twenty minutes alone. Be specific. The diagnostic only works on truthful data.*
 
 ## Four specific places in your life right now
 
