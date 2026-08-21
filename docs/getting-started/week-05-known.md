@@ -12,7 +12,7 @@ Week 5
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -41,15 +41,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 ## WATCH FOR (Week 5 specific risks)
 
 - Drifting into general friendship advice. The conditions are scriptural and specific. Resist. “Here are some tips for being a good friend.” Stay with Safe, Present, Clear, Intentional as Vol 2 defines them.
-- Teens who quietly admit they don’t have a friendship that has any of the four conditions. This is real data, not a problem. Receive it. Do not rescue. The recognition is the first step.
-- Parents who lecture about friendship choices. The parent cohort is mapping their own adult friendships, not coaching their kids by proxy.
-- The seniors who name a specific friendship as missing all four conditions and are sitting next to that person in the room. Use anonymizing language: “one of my friendships,” not names.
+- Members who quietly admit they don’t have a friendship that has any of the four conditions. This is real data, not a problem — and it is common in ministry. Receive it. Do not rescue. The recognition is the first step.
+- Members who lecture about friendship in general. The cohort is mapping its own adult friendships, not diagnosing the congregation’s by proxy.
+- Members who name a specific friendship as missing all four conditions while sitting next to that person in the room — in a leadership cohort this is likely. Use anonymizing language: “one of my friendships,” not names.
 - Drift into nostalgia. “Kids today don’t have real friendships as we did.” Honor the observation; redirect to the conditions in front of us.
 - The temptation to teach all four conditions in deep detail. Teach lightly; let the friendship-map exercise do the depth work.
 
 ## CRISIS CONTINGENCIES (Week 5)
 
-*Week 5 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a teen is its own quiet emergency — receive it, follow up offline within 48 hours, and watch them in Weeks 6–15. Default to Section 6 of the Handbook for any disclosure that crosses the safety threshold.*
+*Week 5 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a church leader is its own quiet emergency — more common in ministry than anyone says aloud. Receive it, follow up offline within 48 hours, and watch them through the rest of the series. Default to the safeguarding frame (Leadership Year Handbook §7) for any disclosure that crosses the safety threshold.*
 
 # Session at a Glance
 
@@ -94,7 +94,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 ## Logistics pre-work
 
 1. Print the Four Conditions card (Handout H5.1) — one per participant.
-2. Print three Friendship Map worksheets (H5.2 junior, H5.3 senior, H5.4 parent).
+2. Print the Friendship Map worksheet (H5.2), one per member.
 3. Print the between-session practice card (H5.5).
 4. Confirm pastoral / clinical backup availability.
 
@@ -122,7 +122,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 | Day before | Walk every space. Verify whiteboard condition list is pre-written. | Lead Companion + Co-Comp |
 | T-45 min | Team gathers. Re-read crisis scenarios. Pray for each participant. | All Companions |
 | T-30 min | Each Cohort Companion preps their cohort space. Handouts at each chair. | All Companions |
-| T-15 min | Door opens. Same arrival rhythm. | Co-Comp (Teen) |
+| T-15 min | Door opens. Same arrival rhythm. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 # Detailed 90-Minute Run Sheet
@@ -131,14 +131,14 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags, phone-box. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
 | 7:08–7:16 | Block 2: Week 3 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional. |
 | 7:16–7:29 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
 | 7:29–7:31 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
 | 7:31–7:58 | Block 5: Friendship-mapping exercise | Cohort circles | Cohort Facs | Each cohort works through the four conditions in their friendships. |
 | 7:58–8:11 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
-| 8:11–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Pick one friendship; pick one condition; practice it this week. |
+| 8:11–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp | Pick one friendship; pick one condition; practice it this week. |
 | 8:19–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm container. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
@@ -161,7 +161,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 ## Block 2 — Week 3 Check-in (7:08–7:16, 8 min)
 ## Script
 
-*“Last week we told stories in our cohort circles, and the between-session practice was the Joint Footprints exercise — some parent-and-teen pairs sitting together for twenty minutes with the footprints question. Some of you got to it. Some didn’t. Both are fine. Anyone want to say one sentence about how that landed for you?”*
+*“Last week we completed the round of stories, and the between-session practice was the Shared Footprints exercise — twenty minutes with your spouse or one person close to you, walking the footprints question. Some of you got to it. Some didn’t. Both are fine. Anyone want to say one sentence about how that landed for you?”*
 
 *(Take 3–4 voluntary contributions. Receive without commentary. Move on with: “Good. Some of that work continues whether or not we got to it this week.”)*
 
@@ -211,11 +211,11 @@ Stand at the whiteboard. The four conditions are pre-written. Read the scripture
 
 *“Here is what we are going to do for the next half-hour. We are going to split into our cohort circles, and each circle will take the four conditions — Safe, Present, Clear, Intentional — and ask: for each one, where in my actual friendships does this show up? And where is it missing? You have a Friendship Map worksheet on your chair to help you think.”*
 
-*“We are not naming names tonight. ‘One of my friends’ is fine. ‘My senior-year best friend’ is too specific. We are looking at the conditions, not exposing anyone in our lives.”*
+*“We are not naming names tonight. ‘One of my friends’ is fine. ‘My college roommate who lives in Ohio’ is too specific. We are looking at the conditions, not exposing anyone in our lives.”*
 
 *“Pray with me. Father, you have set us in community on purpose. Show us where the work has begun in our friendships and where it hasn’t. Give us the courage to see what we have been quietly avoiding. And show us one specific way to live what we see, this week. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Twenty-eight minutes. We come back here at 8:00. Go.”*
+*“[Name]’s circle, this side. [Name]’s circle, that side. Twenty-eight minutes. We come back here at 8:00. Go.”*
 
 ## Block 5 — Friendship-Mapping in Cohort Circles (7:31–7:58, 27 min)
 Each cohort circle runs in parallel. The structure inside each circle is identical. The Cohort Companion goes first on each condition, briefly, to model.
@@ -239,7 +239,7 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 ### Cohort Companion: when to intervene
 
 - If a participant names a person specifically by name — “my mom” or “my best friend Sarah” — gently: “We are using ‘one of my friendships’ language tonight. Try again with that frame.”
-- If a teen says, “I don’t have any friendships with any of these conditions,” receive it. Do not rescue. Mark it for the team debrief and follow up with the Lead Companion after the session.
+- If a member says, “I don’t have any friendships with any of these conditions,” receive it. Do not rescue. Mark it for the team debrief and follow up with the convening leader after the session.
 - If the conversation drifts into general friendship complaints — “kids today don’t —” — redirect: “Come back to the condition. Where is it present in one specific friendship of yours?”
 - Watch the time. Six minutes per condition. If you are at minute four with three people not yet spoken, gently compress: “Two minutes left on this one — quick rounds.”
 
@@ -294,35 +294,25 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 # Differentiation by Cohort
 
-## Junior teens (12–14)
+## Those doing this work for the first time
 
-## Adjustments
+- Concrete language. The Companion’s model turn should be especially specific — abstract language wastes the exercise; the room needs to hear what each condition sounds like in a real story.
+- “Friendship” may honestly include a sibling, a mentor, an old pastor. Allow it; it is honest.
+- Watch for the member with no real friendship in any condition. Receive without panic. Note for the convening leader.
 
-- Friendship Map worksheet uses concrete cohort vocabulary (lunch table, group chat, sports team, family). See Handout H5.2.
-- “Friendship” for juniors may include parents, siblings, grandparents, youth leader. Allow this; it is developmentally honest.
-- Watch for the teen who says “my phone” every time — push gently for one specific person.
-- Watch for the teen with no real friendship in any condition. Receive without panic. Note for the Lead Companion.
-- The Cohort Companion should be especially specific in their model turn for the junior cohort. Abstract language is wasted on junior teens; they need to hear what each condition sounds like in a real story.
+## The veterans
 
-## Senior teens (15–18)
+- Veterans are often closest to noticing the absence of conditions — decades supply the evidence. Honor it with specificity.
+- Watch for the member performing wisdom. “I think a lot of people don’t have real friendships these days.” Redirect: “You — not other people. Where is each condition in your friendships?”
+- Some will name a friendship that ended badly, or a ministry friendship lost to a church season. Honor it; do not press.
+- Watch for the member mapping a friendship with someone sitting in the room. The Companion may help: “Let’s use ‘one of my friendships’ here.”
 
-## Adjustments
+## The ordained and the staff
 
-- Friendship Map worksheet uses peer/relationship vocabulary (close friend, dating relationship, friendship that has changed, online friend). See Handout H5.3.
-- Senior teens are often closer to noticing the absence of conditions than juniors are. Honor that with specificity.
-- Watch for the senior who is performing wisdom. “I think a lot of people don’t have real friendships these days.” Redirect: “You — not other people. Where is each condition in your friendships?”
-- Some senior teens will name a friendship that ended badly. Honor it; do not press.
-- Watch for the senior who names their parent in another room. Use general language; the Cohort Companion may help: “Let’s use ‘one adult relationship in my life’ here.”
-
-## Parents
-
-## Adjustments
-
-- Friendship Map worksheet uses adult vocabulary (close friend, marriage, work friendship, friendship across the formation arcs). See Handout H5.4.
-- Parents will often name friendships that have changed shape — “the friendship I had ten years ago that we don’t have anymore.” Honor.
-- Watch for the parent who maps their marriage. Allow it; marriage is a friendship, and the four conditions apply. Do not let it become a marriage workshop.
-- Watch for the parent who turns the exercise into a critique of their teen’s friendships. Redirect: “Your friendships, not theirs.”
-- Parents who realize they don’t have a single adult friendship with all four conditions — this is common and not pathological. The naming is the gift.
+- Members will often name friendships that changed shape — “the friendship I had ten years ago that we don’t have anymore,” or the friendships a call to ministry quietly cost. Honor these.
+- Watch for the member who maps their marriage. Allow it; marriage is a friendship, and the four conditions apply. Do not let it become a marriage workshop.
+- Watch for the member who turns the exercise into a critique of someone else’s friendships — their kids’, the congregation’s. Redirect: “Your friendships, not theirs.”
+- Members who realize they don’t have a single friendship with all four conditions — this is common in ministry and not pathological. The naming is the gift.
 
 # Closing Practice in Detail
 
@@ -336,7 +326,7 @@ Same three-layer pattern as prior weeks: surface what landed (briefly, since the
 - The evening journal note (1–2 min, daily) — carried forward.
 - One friendship, one condition (NEW this week). Pick one friendship. Pick one of the four conditions. Practice it more intentionally than usual this week. Journal what happens. See Handout H5.5.
 
-If a participant chooses a friendship that is in the room — e.g., a teen choosing a parent in the parent cohort — that is fine, but the practice is theirs alone. The other person does not need to know they are being practiced upon.
+If a participant chooses a friendship that is in the room — likely, in a leadership cohort — that is fine, but the practice is theirs alone. The other person does not need to know they are being practiced upon.
 
 # Companion Debrief Prompts
 
@@ -367,17 +357,15 @@ Companion team meets the day after Week 5 for a 30-minute debrief.
 
 - Anyone who said, “I don’t have any friendships with any of these conditions.” Brief warm contact within 48 hours: “Thank you for telling us. Want to grab a coffee or a phone call this week?”
 - Anyone who passed on every round in their cohort circle. Not because passing is bad — it isn’t — but because consistent passing is data. Soft check-in by the Cohort Companion.
-- Any parent who realizes their marriage maps mostly to the absence of conditions. Pastoral 1:1 within the week if welcomed.
+- Any member who realizes their marriage maps mostly to the absence of conditions. Pastoral 1:1 within the week if welcomed.
 
 # Handouts
 
-Five handouts for Week 5.
+Three handouts for Week 5.
 
-- H5.1 — The Four Conditions Card (all cohorts)
-- H5.2 — Friendship Map Worksheet (Junior, ages 12–14)
-- H5.3 — Friendship Map Worksheet (Senior, ages 15–18)
-- H5.4 — Friendship Map Worksheet (Parent)
-- H5.5 — Between-Session Practice Card
+- H5.1 — The Four Conditions Card
+- H5.2 — Friendship Map Worksheet
+- H5.3 — Between-Session Practice Card
 
 **Handout H5.1 — The Four Conditions**
 
@@ -407,67 +395,7 @@ Five handouts for Week 5.
 
 *John 5:19 — “The Son can do nothing of his own accord, but only what he sees the Father doing.”*
 
-**Handout H5.2 — Friendship Map (Junior, ages 12–14)**
-
-*Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real friendships: friends at school, friends in your group chat, friends from sports or church, your siblings and parents (yes, those count), or someone older you trust. Don’t use real names. Just “one of my friendships.”*
-
-## 1. SAFE — the hearing condition
-
-**Where in your life is there a friendship where you can say something true about yourself — something you’re scared of, something you’re embarrassed about, something nobody else knows — and you trust they will not make fun of you, will not tell anyone else, and will not think less of you?**
-
-*Where is there a friendship where you can’t? Where do you have to perform or pretend?*
-
-## 2. PRESENT — the attention condition
-
-**Where in your life is there a friend who, when you’re together, is actually paying attention? Phone down. Eyes on you. Listening to what you’re saying instead of waiting for their turn to talk?**
-
-*Where is there a friendship where you both kind of just exist on phones in the same room?*
-
-## 3. CLEAR — the channel condition
-
-**Where in your life is there a friendship where, when something is wrong between you, you can name it and work through it? You don’t carry around silent judgment of each other?**
-
-*Where is there a friendship where there’s stuff between you that nobody is naming?*
-
-## 4. INTENTIONAL — the obedience condition
-
-**Where in your life is there a friendship where you and your friend are actually trying to grow toward God together, on purpose? Where you ask each other real questions and listen for real answers?**
-
-*Where is there a friendship that is mostly just hanging out, and you would never bring God into it?*
-
-**Handout H5.3 — Friendship Map (Senior, ages 15–18)**
-
-*Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real friendships: a close friend, a dating relationship, a friendship that has changed, an online friend, a friend you used to be close to. No names. Just “one of my friendships.”*
-
-## 1. SAFE — the hearing condition
-
-**In which of your friendships is Safety genuinely present — you can say what is actually going on inside you and trust it will not be weaponized, gossiped, or used to define you?**
-
-*In which is it absent? What does the absence cost you in that friendship?*
-
-## 2. PRESENT — the attention condition
-
-**In which friendship is Presence real — your friend is actually with you when you are together, attending to you, not performing presence for the social camera?**
-
-*In which friendship is Presence absent? Where is everyone physically there but never actually with each other?*
-
-## 3. CLEAR — the channel condition
-
-**In which friendship can you address what is actually between you — a hurt, a misalignment, an unspoken expectation — without ending the friendship?**
-
-*In which friendship is the unspoken stuff slowly changing the shape of how you relate?*
-
-## 4. INTENTIONAL — the obedience condition
-
-**In which friendship are you actually moving toward God together — by intention, not just nominally? Where you ask each other questions you would not ask anyone else?**
-
-*In which friendship would you never bring up faith — not because they would reject it, but because it would be weird?*
-
-## The harder question (private; for your journal)
-
-*Of the four conditions — Safe, Present, Clear, Intentional — which one do you find hardest to offer to your friends? Not the one you wish your friends offered you. The one you, personally, find hardest to give.*
-
-**Handout H5.4 — Friendship Map (Parent)**
+**Handout H5.2 — Friendship Map**
 
 *Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real adult friendships: a close friend, your marriage, a friendship that has changed shape over the years, a work friendship, a friendship from before you had kids. No names. “One of my friendships” is the language.*
 
@@ -501,7 +429,7 @@ Five handouts for Week 5.
 
 *And: how does the answer to that question relate to the friendship you have with your spouse, if you have one?*
 
-**Handout H5.5 — Between-Session Practice (Week 5)**
+**Handout H5.3 — Between-Session Practice (Week 5)**
 
 ## This week’s practice — one friendship, one condition
 
