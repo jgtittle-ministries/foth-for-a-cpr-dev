@@ -24,7 +24,7 @@ Week 10
 
 ## WEEK 10 — WHAT GOING OUT PRODUCED (90 minutes)
 
-**Aim.** Each cohort member articulates what Going Out produced in them — specific to their working sent-context sentence (Wk 3), the household and vocational engagement (Wks 5–6), the third-place and missional work (Wks 7–9), and the body’s sending. The standing pair walks each member’s trajectory across the Going Out series substantively; the cohort circle hears patterns; the body holds the body of integrations as the foundation for Wk 11’s cohort-level assessment.
+**Aim.** Each cohort member articulates what Going Out produced in them — specific to their working sent-context sentence (Wk 3), the household and vocational engagement (Wks 5–6), the third-place and missional work (Wks 7–9), and the body’s sending. The standing pair walks each member’s trajectory across the Going Out series substantively; the cohort hears patterns; the body holds the body of integrations as the foundation for Wk 11’s cohort-level assessment.
 
 **Anchor scripture.** Philippians 1:6 (‘He who began a good work in you will bring it to completion at the day of Jesus Christ’); Hebrews 12:1–2 returning (the long-obedience anchor across the formation arc); 2 Timothy 4:7 (‘I have fought the good fight, I have finished the race, I have kept the faith’ — read as the long-arc completion that tonight’s integration is one moment in).
 
@@ -32,7 +32,7 @@ Week 10
 
 **Mode.** Whole-room. The cohort sits together for opening, teaching, and closing; the standing pair work in the shared space (16 min per direction); the cohort hears patterns briefly.
 
-**Center.** Brief teaching frame (10 min). Silent integration writing (10 min) using H10.1 — each member maps their Going Out trajectory across five integration domains. Standing pair walks the trajectory (32 min, 16 each direction). Cohort circle pattern surfacing (15 min). Bridge to Wk 11 cohort-level assessment (10 min).
+**Center.** Brief teaching frame (10 min). Silent integration writing (10 min) using H10.1 — each member maps their Going Out trajectory across five integration domains. Standing pair walks the trajectory (32 min, 16 each direction). Cohort pattern surfacing (15 min). Bridge to Wk 11 cohort-level assessment (10 min).
 
 **Between-session practice.** Daily noticing question for Wk 10–11 transition: ‘What Going Out formed in me, that no other season could have formed?’ Standing-pair check-in this week: ‘Where do I sense the cohort as a whole landed, looking back across the Going Out series?’ (Wk 11 prep — each member arrives Wk 11 with a working assessment of where the cohort landed, so the cohort can weigh together.)
 
@@ -42,7 +42,7 @@ Week 10
 
 *Tonight’s risks center on the temptation to summarize generically rather than specifically, the comparison dynamics that surface when the cohort sees each other’s Going Out trajectories, and the surfacing of unfinished work that some members need to continue carrying.*
 
-**Generic summary. A member articulates ‘I grew in the Going Out series; God is good’ without specifics. The architecture asks for specifics: what shifted, what surfaced, what remains. The standing pair surfaces specificity gently; the cohort circle’s pattern surfacing reveals where generic-summary is masking unfinished work.**
+**Generic summary. A member articulates ‘I grew in the Going Out series; God is good’ without specifics. The architecture asks for specifics: what shifted, what surfaced, what remains. The standing pair surfaces specificity gently; the cohort’s pattern surfacing reveals where generic-summary is masking unfinished work.**
 
 **Comparison shame. A member hears another member’s rich trajectory and feels their own was thin. The Lead Companion frames at the start: each trajectory is its own; comparison is not the work; Going Out formed differently in each member, by design.**
 
@@ -175,7 +175,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **Detailed 90-Minute Run Sheet**
 
-*Times below assume a 7:00 PM start. Tonight’s architectural centre is Block 4 (substantive standing-pair work); the cohort circle pattern surfacing follows.*
+*Times below assume a 7:00 PM start. Tonight’s architectural centre is Block 4 (substantive standing-pair work); the cohort pattern surfacing follows.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
@@ -240,7 +240,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **FIVE — THE Going Deeper’S H11.3 QUESTION. The question you carried into Going Out — has it shifted, deepened, intensified, resolved, faded? What is its current shape?**
 
-*“Tonight you walk these five domains in 10 minutes of silent writing, then in 32 minutes of pair work. The pair partner walks the trajectory with you, asking for specifics where summary appears. The cohort circle hears patterns at the close.”*
+*“Tonight you walk these five domains in 10 minutes of silent writing, then in 32 minutes of pair work. The pair partner walks the trajectory with you, asking for specifics where summary appears. The cohort hears patterns at the close.”*
 
 **Block 3 — Silent Integration Writing (7:20–7:29, 9 min)**
 ## Script
@@ -405,7 +405,7 @@ The team meets the day after Wk 10 for a 60-minute debrief.
 
 **•** The pair work produced specifics, not generic summary; speakers articulated what was actually formed.
 
-**•** The cohort circle pattern surfacing produced honest range — rich integrations, rough integrations, unfinished integrations — without grading.
+**•** The cohort pattern surfacing produced honest range — rich integrations, rough integrations, unfinished integrations — without grading.
 
 **•** The bridge to Wk 11 was clear; members carry the cohort-assessment question.
 
@@ -563,7 +563,7 @@ The integration is real and partial. What was formed was formed; it counts. What
 
 **THREE — In-process honoured. Philippians 1:6 frames: completed work and unfinished work both belong in the integration.**
 
-**FOUR — To one trusted pair partner. Not the cohort circle; not the Lead Companion; your standing pair.**
+**FOUR — To one trusted pair partner. Not the circle; not the Lead Companion; your standing pair.**
 
 **FIVE — With the partner’s witness sentence at the close: ‘What I heard you saying about what Going Out produced in you is \_\_\_\_.’**
 
