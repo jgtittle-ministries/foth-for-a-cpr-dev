@@ -32,6 +32,8 @@ Week 9
 
 **Mode.** Whole-room. The cohort sits as one body for the laying-on-of-hands. The cohort split, if it happens at all tonight, is brief and only if Landing 2 (individual sending) requires cohort-specific preparation.
 
+**Re-entry.** This session follows the series’ two-week practice hold; Block 1 carries the what-held round at two levels — each person’s practice, and the cohort’s own yes.
+
 **Center.** Brief teaching frame (10 min). Walk the cost of yes/no (20 min) — standing pairs do brief work, then cohort circle hears patterns. Laying-on-of-hands sending (35 min) — the body lays hands on whatever is being sent, with brief specific blessings. Bridge to Wks 10–12 (10 min). Closing container.
 
 **Between-session practice.** The body has now been sent. Whatever was discerned and confirmed enters integration across the week. Daily noticing question: ‘Where is the sending now showing up in concrete obedience?’ Standing-pair check-in: ‘What is the first specific obedience asked of you this week?’ Wk 10 begins the closing block of Going Out — sending and re-formation — with honest assessment of what Going Out produced.
@@ -48,7 +50,7 @@ Week 9
 
 **False humility refusing the laying-on-of-hands. A member resists the laying-on-of-hands moment as performative or uncomfortable. Receive cleanly; participation is voluntary; the architecture honors the discomfort.**
 
-**Reversal of Wk 8’s landing. Across the week, members’ honest yes/no/maybe has shifted what was landed. The architecture is honest: ‘What we discerned last week we are now refining’ is appropriate. The team holds the architecture without forcing the original landing.**
+**Reversal of Wk 8’s landing. Across the hold, members’ honest yes/no/maybe has shifted what was landed. The architecture is honest: ‘What we discerned before the hold we are now refining’ is appropriate. The team holds the architecture without forcing the original landing.**
 
 **Landing 3 not yet clear. The clarifying question has not landed despite the week’s discernment. Honest data; the cohort holds the question forward; Wks 10–12 may revisit. Going Out may close without cohort-level engagement; this is honest.**
 
@@ -178,16 +180,16 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open + Wk 8 landing review | Shared circle | Lead Companion | Aaronic. Re-read Wk 8’s landing; orient tonight’s adaptation. |
-| 7:08–7:18 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
-| 7:18–7:38 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
-| 7:38–8:13 | Block 4: Laying-on-of-hands sending | Shared circle | Lead Companion | Architecture adapts to Wk 8 landing; physical sending. |
-| 8:13–8:23 | Block 5: Bridge to Wks 10–12 | Shared circle | Lead Companion | Frame the closing block of Going Out; Hebrews 12 returning. |
-| 8:23–8:30 | Block 6: Closing container | Shared circle | Lead Companion | Aaronic. Send into the week. |
+| 7:00–7:12 | Block 1: Open + practice hold re-entry — the what-held round | Shared circle | Lead Companion | Aaronic. Re-read Wk 8’s landing; what held for you, and what held for us. |
+| 7:12–7:21 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
+| 7:21–7:41 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
+| 7:41–8:16 | Block 4: Laying-on-of-hands sending | Shared circle | Lead Companion | Architecture adapts to Wk 8 landing; physical sending. |
+| 8:16–8:24 | Block 5: Bridge to Wks 10–12 | Shared circle | Lead Companion | Frame the closing block of Going Out; Hebrews 12 returning. |
+| 8:24–8:30 | Block 6: Closing container | Shared circle | Lead Companion | Aaronic. Send into the week. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open + Wk 8 Landing Review (7:00–7:08, 8 min)**
+**Block 1 — Open + Practice Hold Re-entry — the What-Held Round (7:00–7:12, 12 min)**
 
 ## Script
 
@@ -195,19 +197,23 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*(60-second silent settling. ‘Holy Spirit, you spoke to us last Tuesday. We have carried what you said across the week. Tonight we walk the cost and prepare for sending. Whatever you want to do here, we are submitted.’)*
+*(60-second silent settling. ‘Holy Spirit, you spoke to us at the discernment night. We have carried what you said across the hold. Tonight we walk the cost and prepare for sending. Whatever you want to do here, we are submitted.’)*
 
-*“Tonight is Wk 9. Mission far closes. Last Tuesday the body discerned \_\_\_\_\_.”*
+*“Tonight is Wk 9 — the first session back from the hold. Mission far closes. Three weeks ago the body discerned \_\_\_\_\_.”*
 
 *(Lead Companion reads Wk 8’s landed sentence from the flip chart, briefly.)*
 
-*“Tonight we walk the cost honestly, and the body lays hands on the sending. The architecture has three pieces. ONE — cost-counting in standing pairs. TWO — the laying-on-of-hands moment, which adapts to what we landed last week. THREE — the bridge to Wks 10–12 — the closing block of Going Out.”*
+*“Before we walk the cost, the what-held round — and tonight it has two levels. First, for you: the daily noticing question, the pair check-ins — what held, what lapsed, what surprised you? Second, for us: two unheld weeks have passed since the body said what it said. Where does the room actually stand on it tonight? Say it straight. A yes that settled deeper over the hold is worth knowing. A yes that turned out to be the evening’s enthusiasm is worth knowing more — and better now than three months in. Neither is failure; both are the discernment finishing its work.”*
+
+*(Brief round, voluntary, pass anytime. Receive the room’s answer the way you receive a person’s — without correcting it. What surfaces here feeds directly into the cost-walking in Block 3; do not resolve anything now.)*
+
+*“Tonight we walk the cost honestly, and the body lays hands on the sending. The architecture has three pieces. ONE — cost-counting in standing pairs. TWO — the laying-on-of-hands moment, which adapts to what we landed at the discernment night. THREE — the bridge to Wks 10–12 — the closing block of Going Out.”*
 
 *“Two disciplines tonight. ONE — honest yes/no/limited. The sending requires honest cost-counting; premature yes does not serve the body. TWO — physical presence. The laying-on-of-hands is not symbolic. The body’s touch is part of the sending. We participate as fully as we are willing.”*
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Acts 13 Sending Architecture (7:08–7:18, 10 min)**
+**Block 2 — Acts 13 Sending Architecture (7:12–7:21, 9 min)**
 
 ## Script (the read)
 
@@ -239,7 +245,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **LANDING 3 — CLARIFYING QUESTION. The body revisits the question with what surfaced across the week; the body weighs again. If the question lands, we adapt to Landing 1 or 2 in real time; if it remains open, we lay hands on the question itself — the body confirms that the question is genuine and worth carrying forward.**
 
-**Block 3 — Walking the Cost (7:18–7:38, 20 min)**
+**Block 3 — Walking the Cost (7:21–7:41, 20 min)**
 
 ## Lead Companion script (60 sec)
 
@@ -271,7 +277,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 *“The body holds the body’s honest yes/no/limited. We move to the laying-on-of-hands.”*
 
-**Block 4 — Laying-On-of-Hands Sending (7:38–8:13, 35 min)**
+**Block 4 — Laying-On-of-Hands Sending (7:41–8:16, 35 min)**
 
 ## Lead Companion script — framing (3 min)
 
@@ -321,7 +327,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **Brief silence. The body has confirmed honest discernment.**
 
-**Block 5 — Bridge to Wks 10–12 (8:13–8:23, 10 min)**
+**Block 5 — Bridge to Wks 10–12 (8:16–8:24, 8 min)**
 
 ## Lead Companion script
 
@@ -345,7 +351,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **LOOKING TO JESUS — the orientation across the long obedience. The witness is not what we do; it is who we are looking at.**
 
-**Block 6 — Closing Container (8:23–8:30, 7 min)**
+**Block 6 — Closing Container (8:24–8:30, 6 min)**
 
 ## Script
 

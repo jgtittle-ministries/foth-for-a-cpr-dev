@@ -32,6 +32,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Mode.** Shared opening and teaching; SPLIT into cohort circles for the practice; MERGE for blessings and closing.
 
+**Re-entry.** This session follows the first two-week practice hold; Block 2 is the what-held round.
+
 **Center.** Age-adapted confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
 
 **Between-session practice.** The Five-Minute Examen each evening for the next week. (The Mid-Series Pulse belongs to Week 8, the series midpoint — not tonight.)
@@ -149,40 +151,42 @@ The team meets 48 hours before Week 6. Two specific things:
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Same arrival rhythm. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
-| 7:08–7:12 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
-| 7:12–7:25 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
-| 7:25–7:30 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of cohort. |
-| 7:30–7:32 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Pray. Split. |
-| 7:32–8:05 | Block 6: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
-| 8:05–8:13 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 8:13–8:18 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. |
-| 8:18–8:25 | Block 9: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
+| 7:07–7:17 | Block 2: Practice hold re-entry — the what-held round | Shared | Lead Comp | What continued, what lapsed, what surprised. Received without fixing. |
+| 7:17–7:28 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
+| 7:28–7:33 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of cohort. |
+| 7:33–7:35 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Pray. Split. |
+| 7:35–8:08 | Block 6: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
+| 8:08–8:15 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
+| 8:15–8:19 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. |
+| 8:19–8:25 | Block 9: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 8:25–8:30 | Block 10: Pastoral availability | Floating | Lead Comp | Stay accessible 5+ minutes. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
+## Block 1 — Welcome and Centering (7:00–7:07, 7 min)
 
 ## Script
 
 *“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Container reminder: Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required.” “Tonight is Week 6. We are halfway through. The first four weeks were preparation. Tonight we use what we have built to do something most Christians never actually do, even though scripture commands it.”*
+*“Container reminder: Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required.” “Tonight is Week 6, and the second act begins. Five weeks built the foundation, and the two-week hold just tested it. Tonight we use what we have built to do something most Christians never actually do, even though scripture commands it.”*
 
 *“Here is what we are not going to do. We are not going to confess specific sins to each other in detail. That is not what tonight is about. That is also not what scripture asks of us.”*
 
 *“Here is what we are going to do. Each of us, in our cohort circle, will name one place where we want to walk in greater honesty. Not the whole sin. The place. The pattern. The pull. And then our cohort circle will speak a specific blessing of restoration over us. The whole thing takes about three minutes per person. The Spirit does the work; we hold the space.”*
 
-## Block 2 — Week 5 Check-in (7:08–7:12, 4 min)
+## Block 2 — Practice Hold Re-entry — the What-Held Round (7:07–7:17, 10 min)
 
 ## Script
 
-*“Last week we did the friendship audit and committed to one condition, one friendship, one week. Take ninety seconds: any one of you, one sentence about how that practice landed.”*
+*“Before the hold, we committed to one condition in one friendship — and then the meetings stopped for two weeks, on purpose. So the round tonight is the what-held round, and it has three questions: what continued, what lapsed, and what surprised you. One sentence each, any of the three. ‘It lapsed by the first Thursday, and I noticed I missed it’ is a real answer — in this room it may be the most valuable answer.”*
 
-*(Take 2–3 voluntary contributions. Don’t ask for more. Move on.)*
+*(Around the circle, voluntary, pass anytime. Receive every report without fixing it — the honest lapse most warmly of all. Do not summarize the round into a lesson; the round is the lesson.)*
 
-## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (7:12–7:25, 13 min)
+*(Leader note: worth a quiet written line afterward — how long did the room take to settle tonight, after two unheld weeks? That number is data the year will want.)*
+
+## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (7:17–7:28, 11 min)
 
 Read both passages aloud, slowly, from the physical Bible.
 
@@ -208,7 +212,7 @@ Read both passages aloud, slowly, from the physical Bible.
 
 • The whole thing takes about three minutes per person. There will be silences. Tears are normal and welcome. Specifics about the sin itself are not requested and not required. The naming is enough.
 
-## Block 4 — Companion Demo (7:25–7:30, 5 min)
+## Block 4 — Companion Demo (7:28–7:33, 5 min)
 
 The Lead Companion now does the practice in front of the whole cohort. This sets the depth and the form for the rest of the night.
 
@@ -221,7 +225,7 @@ The Lead Companion now does the practice in front of the whole cohort. This sets
 - Receive it. Do not deflect, do not joke, do not minimize. Say “Thank you” and sit down.
 - Close: “That is the practice. You will do it in your circle. Yours doesn’t have to look like mine. Three minutes per person.”
 
-## Block 5 — Bridge to the Split (7:30–7:32, 2 min)
+## Block 5 — Bridge to the Split (7:33–7:35, 2 min)
 
 ## Script
 
@@ -235,7 +239,7 @@ The Lead Companion now does the practice in front of the whole cohort. This sets
 
 *“Let me pray. Father, we are about to do the most vulnerable thing we have done together. Make this room a place of grace and not shame. Make our words heavy enough to bless and light enough to release. Holy Spirit, do what only you can do. Amen. Go.”*
 
-## Block 6 — Confession-and-Restoration in Cohort Circles (7:32–8:05, 33 min)
+## Block 6 — Confession-and-Restoration in Cohort Circles (7:35–8:08, 33 min)
 
 This is the heart of the night. Each cohort circle runs the same structure.
 
@@ -258,7 +262,7 @@ This is the heart of the night. Each cohort circle runs the same structure.
 - If something rises to crisis level (suicidal ideation, abuse, self-harm, substance abuse warranting intervention) — receive in the room with brief acknowledgment and blessing. After the cohort closes, you and one other Companion step aside with the participant. Section 6 protocols apply.
 - If you run out of time — do not skip anyone. Compress to two minutes per person if needed. Better to be three minutes late than to send a participant home un-named.
 
-## Block 7 — Merge and Shared Blessing (8:05–8:13, 8 min)
+## Block 7 — Merge and Shared Blessing (8:08–8:15, 7 min)
 
 ## Script
 
@@ -274,7 +278,7 @@ This is the heart of the night. Each cohort circle runs the same structure.
 
 *“Father, every person in this room named a real place tonight. Not a fake place, not a polished place — a real place where they want to walk in greater honesty before you. We bless that work. We pray restoration into every place that was named. We pray that the courage shown in these circles tonight would carry into Wednesday morning, when the place that was named will still be the place. Holy Spirit, walk these brothers and sisters home. In Jesus’ name, amen.”*
 
-## Block 8 — Between-Session Practice (8:13–8:18, 5 min)
+## Block 8 — Between-Session Practice (8:15–8:19, 4 min)
 
 The between-session practice is introduced. (The Mid-Series Pulse now belongs to Week 8, the series midpoint — do not distribute it tonight.)
 
@@ -282,7 +286,7 @@ The between-session practice is introduced. (The Mid-Series Pulse now belongs to
 
 *“This week’s practice: the Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
 
-## Block 9 — Closing Container (8:18–8:25, 7 min)
+## Block 9 — Closing Container (8:19–8:25, 6 min)
 
 ## Script
 

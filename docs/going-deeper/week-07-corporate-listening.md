@@ -32,6 +32,8 @@ Week 7
 
 **Mode.** Whole-room. No cohort split. The whole cohort sits as one circle with the Bringer’s chair in the centre. ONE Bringer pre-briefed Saturday. ONE real question. The cohort listens together; speaks back; the Bringer weighs.
 
+**Re-entry.** This session follows the series’ two-week practice hold; Block 2 is the what-held round on extended PROAPT and the Tells.
+
 **Center.** The Bringer’s real present question. Not theoretical, not extracted from past. A question alive in their life this season. The cohort’s job is to listen FOR the Bringer, not for themselves; speak what they heard humbly (‘I heard,’ ‘I sensed,’ ‘what came to me was’); the Bringer’s job is to receive with weight, not to be obligated to act on anything.
 
 **Between-session practice.** Each cohort member journals what came to them for the Bringer that they did NOT speak aloud. The Bringer journals across the week the daily noticing of what landed. Standing pair carries the work; cohort-wide silent prayer for the Bringer’s situation continues across the week.
@@ -218,19 +220,19 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door; remind: phones off tonight, not silent. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight the cohort listens for one of us.’ |
-| 7:08–7:13 | Block 2: Wk 6 landing | Shared circle | Lead Comp | One word about extended PROAPT and the daily Tells. |
-| 7:13–7:30 | Block 3: 1 Cor 14 + corporate listening teaching | Shared circle | Lead Comp | Read passage. Teach the architecture. Frame the Bringer. |
-| 7:30–7:35 | Block 4: Bringer presents the question | Shared circle | Bringer + Lead Comp | Bringer to centre chair. 4-min presentation. Lead Companion confirms understanding briefly. |
-| 7:35–7:55 | Block 5: Silent corporate listening | Shared circle | Lead Comp | 20 min silent. The cohort listens FOR the Bringer. Bringer journals or sits silently. |
-| 7:55–8:15 | Block 6: Speaking-back round | Shared circle | Lead Comp | Each cohort member speaks back briefly what they heard. ‘I heard’ / ‘I sensed.’ Bringer receives in silence with notes. |
-| 8:15–8:23 | Block 7: Bringer weighs and names | Shared circle | Bringer + Lead Comp | Bringer takes 8 min: 5 min silence to weigh, then 3 min to name briefly what landed and what is set aside. |
-| 8:23–8:27 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Bringer journals daily. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight the cohort listens for one of us.’ |
+| 7:07–7:16 | Block 2: Practice hold re-entry — the what-held round | Shared circle | Lead Comp | The hearing that continued and lapsed; the Tell that surprised; the silence. |
+| 7:16–7:31 | Block 3: 1 Cor 14 + corporate listening teaching | Shared circle | Lead Comp | Read passage. Teach the architecture. Frame the Bringer. |
+| 7:31–7:36 | Block 4: Bringer presents the question | Shared circle | Bringer + Lead Comp | Bringer to centre chair. 4-min presentation. Lead Companion confirms understanding briefly. |
+| 7:36–7:56 | Block 5: Silent corporate listening | Shared circle | Lead Comp | 20 min silent. The cohort listens FOR the Bringer. Bringer journals or sits silently. |
+| 7:56–8:16 | Block 6: Speaking-back round | Shared circle | Lead Comp | Each cohort member speaks back briefly what they heard. ‘I heard’ / ‘I sensed.’ Bringer receives in silence with notes. |
+| 8:16–8:24 | Block 7: Bringer weighs and names | Shared circle | Bringer + Lead Comp | Bringer takes 8 min: 5 min silence to weigh, then 3 min to name briefly what landed and what is set aside. |
+| 8:24–8:27 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Bringer journals daily. |
 | 8:27–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 8. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 
 ## Script
 
@@ -240,7 +242,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *(60-second silent settling. ‘Holy Spirit, you are welcome to do whatever you want to do here tonight. We submit to your speaking.’)*
 
-*“Tonight is Wk 7. Three things to name before we begin.”*
+*“Tonight is Wk 7 — the first session back from the hold. Three things to name before we begin.”*
 
 *“One. The cohort has been a parallel-work instrument since Wk 4 and a hearing instrument individually since Wk 6. Tonight the cohort becomes a CORPORATE hearing instrument. We listen TOGETHER for one of us.”*
 
@@ -250,17 +252,19 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *“Container reminder: what is named here tonight stays in this cohort. We do not text the Bringer’s question to absent members; we do not discuss the speaking-backs after the session; we do not relitigate any of it on the cohort’s WhatsApp thread. Confidentiality is the architecture for trust across the rest of Going Deeper.”*
 
-**Block 2 — Wk 6 Landing (7:08–7:13, 5 min)**
+**Block 2 — Practice Hold Re-entry — the What-Held Round (7:07–7:16, 9 min)**
 
 ## Script
 
-*“Last Tuesday was extended PROAPT and the Tell step in the room. Across the week each of you was meant to do daily extended PROAPT and one Tell each weekday — five Tells, five different people. One word, around the circle, about how that landed for you. ‘Faithful.’ ‘Spotty.’ ‘Surprising.’ ‘Tested.’ ‘Quiet.’ Pass anytime.”*
+*“Three weeks ago, Week 6 sent you out with the extended hearing practice — daily PROAPT on a long passage, and Tells to people outside this cohort — and then the hold took the meetings away for two weeks, which was the point. So: the what-held round. The hearing that continued; the hearing that lapsed; the Tell that surprised you; the silence that had something in it. One sentence, any of those, around the circle. ‘I stopped by the fourth day and I know why’ is costly telling, and it counts here.”*
 
-*(Around the circle. 5 seconds per person. Receive each word with eye contact.)*
+*(Around the circle. Receive every report without correction — the honest lapse most warmly. The standing pairs carried the check-ins through the hold; if a pair learned something the room should hear, they may say so, but nothing is required.)*
 
-*“Good. Tonight the daily PROAPT becomes corporate. Each of you has been hearing individually all week; that practice is the foundation for what we do now.”*
+*(Leader note: time-to-settled tonight, quietly written down — the room has been unheld for two weeks.)*
 
-**Block 3 — 1 Corinthians 14 and Corporate Listening (7:13–7:30, 17 min)**
+*“Good. Here is why tonight follows the hold: each of you has been hearing alone for three weeks. Tonight the cohort becomes a corporate hearing instrument — and everything you just reported, the faithfulness and the lapses and the silence alike, is the foundation we bring to it.”*
+
+**Block 3 — 1 Corinthians 14 and Corporate Listening (7:16–7:31, 15 min)**
 
 ## Script (the read)
 
@@ -304,7 +308,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 **RULE 3 — Pass if nothing specific came. Silence is honest. Filling silence with affirmation (‘I just want to say I love [Bringer] and I think God is doing great things’) is not corporate listening; it is sentiment. Pass.**
 
-**Block 4 — Bringer Presents the Question (7:30–7:35, 5 min)**
+**Block 4 — Bringer Presents the Question (7:31–7:36, 5 min)**
 
 ## Lead Companion script — opening (60 sec)
 
@@ -338,7 +342,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *“Good. Cohort, we listen for [Bringer] for the next 20 minutes. Pray for them by name; ask the Spirit to put on your heart what He has for them; sit with what surfaces. Notes if helpful; H7.2 has the Listener Protocol if you need to refer.”*
 
-**Block 5 — Silent Corporate Listening (7:35–7:55, 20 min)**
+**Block 5 — Silent Corporate Listening (7:36–7:56, 20 min)**
 
 ## How the silent listen works
 
@@ -358,7 +362,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *Watch for: the Bringer who is visibly flooded mid-listen. The Lead Companion can gently offer a 30-second reset — ‘Take a breath, [Bringer]. We are still listening.’ Without breaking the silence of the room.*
 
-**Block 6 — Speaking-Back Round (7:55–8:15, 20 min)**
+**Block 6 — Speaking-Back Round (7:56–8:16, 20 min)**
 
 ## Lead Companion script — opening (60 sec)
 
@@ -390,7 +394,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *“(After the last voice or pass.) Round complete. [Bringer], take a breath. We hold space for you to weigh.”*
 
-**Block 7 — Bringer Weighs and Names (8:15–8:23, 8 min)**
+**Block 7 — Bringer Weighs and Names (8:16–8:24, 8 min)**
 
 ## Lead Companion script — opening (30 sec)
 
@@ -414,7 +418,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 *Watch for: the Bringer who names that nothing landed. Honest. ‘That is honest data. The room listened; nothing converged that you can receive tonight; the question may need different shape or different time. Pastoral conversation this week.’*
 
-**Block 8 — Between-Session Practice (8:23–8:27, 4 min)**
+**Block 8 — Between-Session Practice (8:24–8:27, 3 min)**
 
 ## Script — Co-Companion (parent cohort) leads
 
