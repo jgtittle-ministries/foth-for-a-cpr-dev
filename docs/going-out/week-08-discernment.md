@@ -124,7 +124,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **2.** Walk Acts 13:1–3 and 1 Cor 14:29 together. Read aloud. Discuss the corporate-discernment architecture. (10 min)
 
-**3.** Cohort review. Each Cohort Companion reports what their circle’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-cohort patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the cohort space tonight, not in the pre-meet. (20 min)
+**3.** Cohort review. Each Cohort Companion reports what their circle’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-circle patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the cohort space tonight, not in the pre-meet. (20 min)
 
 **4.** Walk the run sheet carefully. Block 4 (contributions) and Block 5 (cohort weighing) are the architectural centre tonight; team rehearses how to hold weighing without driving toward a particular outcome. (20 min)
 
