@@ -42,7 +42,10 @@ const orderKey = (name) => {
   if (n.includes('handbook')) return [1, 0, n];
   if (n.includes('guide')) return [2, 0, n];
   const wk = n.match(/week-(\d+)/);
-  if (wk) return [3, parseInt(wk[1], 10), n];
+  // practice-hold pages sort after their week's session page regardless of
+  // alphabetical order ('~' sorts after all letters), so week-06-practice-hold
+  // follows week-06-proapt.
+  if (wk) return [3, parseInt(wk[1], 10), n.includes('practice-hold') ? '~' + n : n];
   if (n.includes('changelog')) return [9, 0, n];
   return [5, 0, n];
 };

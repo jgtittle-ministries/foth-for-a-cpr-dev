@@ -4,6 +4,10 @@
 
 *Editorial pass — superseding the prior round's GO/Inviting Others changelog*
 
+# August 2026 — The practice hold (adult edition)
+
+The adult edition gains its hold: two weeks, no meetings, after Week 8 — the discernment night's sitting-with extended on purpose, because a yes worth acting on is a yes still standing after two unheld weeks. Re-entry at Week 9 opens on what held at two levels: for each person, and for the cohort's own yes.
+
 # August 2026 — The phone box retired
 
 Sessions no longer collect phones in a box at the door (founder's field ruling, applied across all three series). The Present condition stands — phones silenced and put away, attention in the room — but as a simple ask, not a ritual.

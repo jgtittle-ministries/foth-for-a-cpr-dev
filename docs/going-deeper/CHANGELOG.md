@@ -4,6 +4,10 @@
 
 *Editorial pass per the user's May 2026 review decisions*
 
+# August 2026 — The practice hold (adult edition)
+
+The adult edition gains its hold: two weeks, no meetings, after Week 6 — the extended hearing practice and its outside-cohort Tells proven before the corporate turn begins, with the standing pairs traveling through the hold and a post-confession care note for the Companion team. Re-entry at Week 7 opens on what held.
+
 # August 2026 — The phone box retired
 
 Sessions no longer collect phones in a box at the door (founder's field ruling, applied across all three series). The Present condition stands — phones silenced and put away, attention in the room — but as a simple ask, not a ritual. Week 7 (corporate listening) keeps its stronger norm: phones off that night, not just silenced.

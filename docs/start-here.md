@@ -12,7 +12,7 @@ title: "Start here"
 2. **Going Deeper** — twelve sessions: soils, knots, confession, hearing God in Scripture together, and the group beginning to hear as a body.
 3. **Going Out** — twelve sessions: the body sent, household and vocation, and the long obedience.
 
-Getting Started carries **two two-week practice holds** at its seams; Going Deeper and Going Out each carry one at mid-series; and at least two weeks separate the series. The breaks are not gaps; they are the honest test. When no meeting is holding you, what continues at your kitchen table is what the year has actually formed.
+Getting Started carries **two two-week practice holds** at its seams; Going Deeper holds after its sixth session, before the corporate turn; Going Out holds after its discernment night, so the cohort's yes gets its testing time; and at least two weeks separate the series. The breaks are not gaps; they are the honest test. When no meeting is holding you, what continues at your kitchen table is what the year has actually formed.
 
 **What completing the challenge earns.** A leadership team that finishes is formed to lead the family-and-teen edition — the [twenty-two-week Getting Started year](https://fellowshipoftheheart.org) — in its own congregation, and it knows from the inside what it will be asking of its families.
 

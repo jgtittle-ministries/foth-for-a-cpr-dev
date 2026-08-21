@@ -19,7 +19,7 @@ A church says: *we are interested in trying this out.* This sequence is the answ
 The CCA year taught us that the cleanest observation this work has is the break: when the structure stops holding anyone, what continues at kitchen tables is the internalization itself. The school calendar gave the club its breaks. The adult edition schedules them **on purpose**:
 
 - in Getting Started, two two-week practice holds giving the series a 5/5/5 rhythm (after sessions 5 and 10 — each seam lands where a practice was just commissioned: the one-friendship-one-condition practice at Week 5, the garden rhythm at Week 10), with each re-entry session opening on *what held*;
-- in Going Deeper and Going Out, a two-week practice hold at mid-series (placement to be ruled per series, same seam principle);
+- in Going Deeper, a two-week practice hold after Week 6 — the personal hearing practice proven before the corporate turn begins; in Going Out, after Week 8 — the cohort's discernment given its testing time, so the re-entry reads the room's yes as well as each person's practice;
 - at least a two-week break between series (the second and third series already open with a "welcome back" session — the design always assumed the gap; now the gap is doing measurement work too).
 
 ## Status

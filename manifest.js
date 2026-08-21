@@ -158,6 +158,10 @@ window.SERIES = [
         "title": "Week 6 — PROAPT, Extended"
       },
       {
+        "path": "docs/going-deeper/week-06-practice-hold.md",
+        "title": "Practice Hold — Two Weeks, No Meetings"
+      },
+      {
         "path": "docs/going-deeper/week-07-corporate-listening.md",
         "title": "Week 7 — Corporate Listening Prayer"
       },
@@ -238,6 +242,10 @@ window.SERIES = [
       {
         "path": "docs/going-out/week-08-discernment.md",
         "title": "Week 8 — Specific Missional Engagement"
+      },
+      {
+        "path": "docs/going-out/week-08-practice-hold.md",
+        "title": "Practice Hold — Two Weeks, and the Cohort's Yes"
       },
       {
         "path": "docs/going-out/week-09-body-sent-beyond.md",
@@ -602,6 +610,15 @@ window.PATH_TO_INFO = {
     "title": "Week 6 — PROAPT, Extended",
     "indexPath": "docs/going-deeper/index.md",
     "prev": "docs/going-deeper/week-05-confession.md",
+    "next": "docs/going-deeper/week-06-practice-hold.md"
+  },
+  "docs/going-deeper/week-06-practice-hold.md": {
+    "seriesId": "going-deeper",
+    "seriesName": "Going Deeper",
+    "edition": "v2",
+    "title": "Practice Hold — Two Weeks, No Meetings",
+    "indexPath": "docs/going-deeper/index.md",
+    "prev": "docs/going-deeper/week-06-proapt.md",
     "next": "docs/going-deeper/week-07-corporate-listening.md"
   },
   "docs/going-deeper/week-07-corporate-listening.md": {
@@ -610,7 +627,7 @@ window.PATH_TO_INFO = {
     "edition": "v2",
     "title": "Week 7 — Corporate Listening Prayer",
     "indexPath": "docs/going-deeper/index.md",
-    "prev": "docs/going-deeper/week-06-proapt.md",
+    "prev": "docs/going-deeper/week-06-practice-hold.md",
     "next": "docs/going-deeper/week-08-group-hears-itself.md"
   },
   "docs/going-deeper/week-08-group-hears-itself.md": {
@@ -762,6 +779,15 @@ window.PATH_TO_INFO = {
     "title": "Week 8 — Specific Missional Engagement",
     "indexPath": "docs/going-out/index.md",
     "prev": "docs/going-out/week-07-third-place.md",
+    "next": "docs/going-out/week-08-practice-hold.md"
+  },
+  "docs/going-out/week-08-practice-hold.md": {
+    "seriesId": "going-out",
+    "seriesName": "Going Out",
+    "edition": "v3",
+    "title": "Practice Hold — Two Weeks, and the Cohort's Yes",
+    "indexPath": "docs/going-out/index.md",
+    "prev": "docs/going-out/week-08-discernment.md",
     "next": "docs/going-out/week-09-body-sent-beyond.md"
   },
   "docs/going-out/week-09-body-sent-beyond.md": {
@@ -770,7 +796,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Week 9 — The Body Sent Beyond",
     "indexPath": "docs/going-out/index.md",
-    "prev": "docs/going-out/week-08-discernment.md",
+    "prev": "docs/going-out/week-08-practice-hold.md",
     "next": "docs/going-out/week-10-what-going-out-produced.md"
   },
   "docs/going-out/week-10-what-going-out-produced.md": {
