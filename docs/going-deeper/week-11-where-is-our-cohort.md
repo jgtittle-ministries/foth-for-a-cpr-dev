@@ -12,7 +12,7 @@ Week 11
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,9 +30,9 @@ Week 11
 
 **Connect focus.** Integration. Not Self / Others / God / Mission separately — all four read together as the cohort’s overall trajectory.
 
-**Mode.** Cohort-split. Each cohort circle assesses itself first using the worksheet (35 min). Then merge for cross-cohort integration (25 min). The merge does the harder work of combining three honest cohort-level pictures into one cohort-level picture.
+**Mode.** Circle-split. Each circle assesses itself first using the worksheet (35 min). Then merge for cross-circle integration (25 min). The merge does the harder work of combining the circles’ honest pictures into one cohort-level picture.
 
-**Center.** Each cohort uses H11.1 and H11.2 to walk eleven weeks together — what was attempted, what was lived, where the cohort actually is on the five-level taxonomy. The merge surfaces commonalities and divergences across the three cohorts; the Lead Companion integrates the picture; the room receives without pretending.
+**Center.** Each circle uses H11.1 and H11.2 to walk eleven weeks together — what was attempted, what was lived, where the cohort actually is on the five-level taxonomy. The merge surfaces commonalities and divergences across the circles; the Lead Companion integrates the picture; the room receives without pretending.
 
 **Between-session practice.** Each member writes a 1-page personal reflection: where I have moved, where I have not, what was the surprise, what is the question I am carrying into Going Out. Bring it to Wk 12’s re-commissioning.
 
@@ -50,9 +50,9 @@ Week 11
 
 **The cohort hearing about itself from Wk 8 not honored. If Wk 8 produced a specific corporate hearing about us, tonight’s assessment must engage it. Did what we heard about ourselves prove true across Wks 9 and 10? If Wk 8 named the cohort as not-yet-Level-4, tonight names whether Wks 9–10 changed that.**
 
-**The Asker integration not honored. Wk 10’s Asker is doing daily integration this week. If the cohort’s assessment ignores the Asker’s journey, the cohort is performing detachment. The Asker may speak briefly tonight in the merge if welcomed; Cohort Companion pre-checks with the Asker on Saturday.**
+**The Discerner integration not honored. Wk 10’s Discerner is doing daily integration this week. If the cohort’s assessment ignores the Discerner’s journey, the cohort is performing detachment. The Discerner may speak briefly tonight in the merge if welcomed; Cohort Companion pre-checks with the Discerner on Saturday.**
 
-**Generational scapegoating. ‘Our cohort would have been at Level 4 if it weren’t for the [teens / parents].’ Stop. The cohort is one body; the assessment is one body’s assessment. Cohort Companion redirects firmly.**
+**Scapegoating a circle. ‘Our cohort would have been at Level 4 if it weren’t for [that circle / the staff / the newcomers].’ Stop. The cohort is one body; the assessment is one body’s assessment. Cohort Companion redirects firmly.**
 
 **Members blaming or grading the team. Possible and sometimes warranted. Receive without defensiveness. The team’s pre-meet has rehearsed receiving feedback; the team takes notes; pastoral 1:1 with members who name specific team failures within the week.**
 
@@ -66,15 +66,15 @@ Week 11
 
 **If a cohort circle’s assessment surfaces a specific Cohort Companion failure or a team failure that members name with affect (‘I felt unsupported by [Companion] when I\_\_\_\_\_’). Receive without rushing or defending. Cohort Companion does not adjudicate in the room; pastoral 1:1 with the speaker within 48 hours; team-internal review at the post-Wk-11 debrief.**
 
-**If a member discloses that the cohort’s formation produced a harm to them that has not been named (a relational rupture, a triggering experience, a way the architecture failed for their specific situation). Receive without rushing. Pastoral 1:1 within 24 hours; clinical referral as appropriate. Section 6 protocol if the harm crossed thresholds.**
+**If a member discloses that the cohort’s formation produced a harm to them that has not been named (a relational rupture, a triggering experience, a way the architecture failed for their specific situation). Receive without rushing. Pastoral 1:1 within 24 hours; clinical referral as appropriate. The safeguarding frame applies if the harm crossed thresholds.**
 
-**If the Asker from Wk 10 is in mid-integration crisis and Wk 11’s assessment surfaces material that adds load. Cohort Companion stays close to the Asker; Lead Companion follows up that night. The Asker’s integration takes precedence; pause Wk 11’s assessment briefly if needed.**
+**If the Discerner from Wk 10 is in mid-integration crisis and Wk 11’s assessment surfaces material that adds load. Cohort Companion stays close to the Discerner; Lead Companion follows up that night. The Discerner’s integration takes precedence; pause Wk 11’s assessment briefly if needed.**
 
 **If a member announces during the assessment that they are not continuing into Going Out (the Going Out series). Receive without alarm. The decision is theirs; the assessment may be part of their honest discernment. Pastoral 1:1 within the week.**
 
-**If a teen-parent dynamic surfaces during cross-cohort merge. Cohort Companions handle outside the session.**
+**If a marriage dynamic surfaces during the merge. Cohort Companions handle outside the session.**
 
-**Default. Section 6 of the Going Deeper Handbook. Pastoral / clinical backup confirmed by name and number for the night.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy). Pastoral / clinical backup confirmed by name and number for the night.**
 
 **Session at a Glance**
 
@@ -84,7 +84,7 @@ From MSFIG of IJH: ‘Most groups never reach Level 4. Most that do reach it bri
 
 Going Deeper has run eleven weeks. Each week attempted specific work; each week landed somewhere on the spectrum between what was hoped and what was possible given the cohort’s actual capacity in that moment. Some weeks produced more than expected; some less; both happen in formation. The integration question tonight is not which weeks succeeded, but where the cohort itself is now — what capacity it has built, what is still emerging, what is still missing.
 
-The five-level taxonomy is the working frame. Most cohorts begin Going Deeper at Level 2 or low Level 3, reach Level 3 reliably across the diagnostic and confessional blocks (Wks 2–5), attempt Level 4 in the God-deepened block (Wks 6–8), and engage Level 5 selectively for one Asker in Wk 10. The honest question tonight is what the cohort’s steady state is now — not the peak; the steady state. Where can the cohort operate at when it walks into Going Out?
+The five-level taxonomy is the working frame. Most cohorts begin Going Deeper at Level 2 or low Level 3, reach Level 3 reliably across the diagnostic and confessional blocks (Wks 2–5), attempt Level 4 in the God-deepened block (Wks 6–8), and engage Level 5 selectively for one Discerner in Wk 10. The honest question tonight is what the cohort’s steady state is now — not the peak; the steady state. Where can the cohort operate at when it walks into Going Out?
 
 Hebrews 12:1–2 returns as the anchor. Going Deeper walked the verse: witnesses (Wk 1, the cohort itself), weight (Wks 2–3), sin (Wk 5), endurance (the rhythm card across all weeks), looking to Jesus (Wks 6–8), the joy set before (Wks 9–10), finishing well (Wks 11–12). Tonight’s assessment is a check on whether the verse was lived or only spoken about. The data lands wherever it lands.
 
@@ -110,7 +110,7 @@ From the build session: Wk 11 must be designed to receive whichever outcome Wk 8
 
 **•** Wk 8 attempted Level 4 corporate hearing about the cohort itself. Tonight’s assessment engages whatever Wk 8 produced — convergence or honest data of not-yet-Level-4.
 
-**•** Wk 10 attempted Level 5 calling discernment for one Asker. The Asker is in mid-integration this week; the cohort’s relationship to the Asker’s ongoing journey informs tonight’s assessment.
+**•** Wk 10 attempted Level 5 calling discernment for one Discerner. The Discerner is in mid-integration this week; the cohort’s relationship to the Discerner’s ongoing journey informs tonight’s assessment.
 
 **•** Wks 2–7 built the Level 3 substrate — diagnostic, confessional, hearing. The cohort’s capacity for honest assessment tonight depends on whether that substrate held.
 
@@ -138,13 +138,13 @@ Third — sit with the harder personal question. Where did MY facilitation work?
 
 Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The duration matches Wk 10’s pre-meet because the architecture for receiving the cohort’s assessment is the team’s critical work this week.
 
-**1.** Each Companion names their assessment of the cohort’s steady state on the five-level taxonomy. The team triangulates — do all three Cohort Companions see roughly the same level, or do they see differently? (20 min)
+**1.** Each Companion names their assessment of the cohort’s steady state on the five-level taxonomy. The team triangulates — do the Cohort Companions see roughly the same level, or do they see differently? (20 min)
 
 **2.** Each Companion names what they expect to hear in their cohort tonight that will be hardest to receive. Team practices receiving — each Companion says aloud the hardest possible feedback they could imagine, and another team member receives it without defending. The rehearsal makes the live receiving more possible. (20 min)
 
-**3.** Walk the run sheet. The cohort circles produce three honest pictures (35 min); the merge integrates (25 min). The merge geometry is the architecturally distinctive piece; team rehearses the Lead Companion’s reflection script. (15 min)
+**3.** Walk the run sheet. The circles produce their honest pictures (35 min); the merge integrates (25 min). The merge geometry is the architecturally distinctive piece; team rehearses the Lead Companion’s reflection script. (15 min)
 
-**4.** Asker check-in. Where is the Wk 10 Asker in their integration? Are they ready to be in Wk 11’s room? Do they want to speak briefly in the merge if welcomed? Cohort Companion confirms with the Asker on Saturday. (10 min)
+**4.** Discerner check-in. Where is the Wk 10 Discerner in their integration? Are they ready to be in Wk 11’s room? Do they want to speak briefly in the merge if welcomed? Cohort Companion confirms with the Discerner on Saturday. (10 min)
 
 **5.** Crisis contingencies read aloud. (5 min)
 
@@ -164,7 +164,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: main room single circle for opening; three cohort spaces for the assessment block; back to single circle for the merge.
+**•** Confirm room layout: main room single circle for opening; circle spaces for the assessment block; back to single circle for the merge.
 
 **•** Whiteboard with the five-level taxonomy pre-drawn for reference during the merge.
 
@@ -172,20 +172,20 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 **Materials checklist**
 
-**•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split; back to one circle for the merge.
+**•** Chairs in main room as one large circle for opening; circle spaces ready for the split; back to one circle for the merge.
 
 
 **•** Personal Heart Journals.
 
 **•** Whiteboard in main room with the five-level taxonomy pre-drawn.
 
-**•** In each cohort space: a flip chart or large sheet of paper for the cohort to write its assessment as it forms (this is the artifact the Cohort Companion brings back to the merge).
+**•** In each circle space: a flip chart or large sheet of paper for the circle to write its assessment as it forms (this is the artifact the Cohort Companion brings back to the merge).
 
 **•** Handouts H11.1, H11.2, H11.3, H11.4 stacked at each chair.
 
-**•** Tissues in each cohort space and main room.
+**•** Tissues in each circle space and main room.
 
-**•** Wall clock or visible timer in each cohort space.
+**•** Wall clock or visible timer in each circle space.
 
 **•** Crisis Quick-Reference Card in every Companion pocket.
 
@@ -196,12 +196,12 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion reads back through Wk 1–10 personal pre-work notes. 30-min steady-state assessment sit. Hardest-feedback rehearsal. | All Companions |
-| 48 hr before | Team pre-meet (90 min). Triangulation. Receive-rehearsal. Run-sheet walk. Asker check-in. | All Companions |
-| Saturday before | Cohort Companions check in with Wk 10 Asker; confirm willingness to attend and to speak briefly if welcomed. | Cohort facs |
-| Day before | Walk every cohort space and main room. Confirm flip charts. Confirm pastoral / clinical backup. | Lead Comp |
+| 48 hr before | Team pre-meet (90 min). Triangulation. Receive-rehearsal. Run-sheet walk. Discerner check-in. | All Companions |
+| Saturday before | Cohort Companions check in with Wk 10 Discerner; confirm willingness to attend and to speak briefly if welcomed. | Cohort Comps |
+| Day before | Walk every circle space and main room. Confirm flip charts. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers. Final prayer for honesty over comfort. | All Companions |
-| T-30 min | Cohort Companions prep their cohort spaces. Handouts placed. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-30 min | Cohort Companions prep their circle spaces. Handouts placed. | All Companions |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -210,14 +210,14 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is honest assessment, not celebration.’ |
-| 7:07–7:15 | Block 2: Wk 10 landing — the Asker briefly | Shared circle | Lead Comp | Asker speaks briefly if welcomed (60–90 sec) about how integration is going. |
+| 7:07–7:15 | Block 2: Wk 10 landing — the Discerner briefly | Shared circle | Lead Comp | Discerner speaks briefly if welcomed (60–90 sec) about how integration is going. |
 | 7:15–7:25 | Block 3: 1 Cor 13 + Phil 1:6 + the taxonomy returning (teaching) | Shared circle | Lead Comp | Read passages. Re-walk the five-level taxonomy. Frame the assessment architecture. |
 | 7:25–7:30 | Block 4: Bridge to split + prayer | Shared circle | Lead Comp | Frame the cohort assessment. Pray for honesty. Split. |
-| 7:30–8:03 | Block 5: Cohort circles assess themselves | Cohort circles | Cohort Facs | 35 min using H11.2. Each cohort produces a flip-chart assessment. |
-| 8:03–8:21 | Block 6: Merge — three pictures into one | Shared circle | Lead Comp | Each Cohort Companion presents their cohort’s picture (3 min each). Lead reflects integration. Cohort weighs. |
-| 8:21–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Personal reflection sheet (H11.3) for Wk 12. |
+| 7:30–8:03 | Block 5: Circles assess themselves | Circles | Cohort Comps | 35 min using H11.2. Each circle produces a flip-chart assessment. |
+| 8:03–8:21 | Block 6: Merge — the pictures into one | Shared circle | Lead Comp | Each Cohort Companion presents their circle’s picture (3 min each). Lead reflects integration. Cohort weighs. |
+| 8:21–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp | Personal reflection sheet (H11.3) for Wk 12. |
 | 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 12 (re-commissioning + bridge). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -237,16 +237,16 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 *“Two disciplines. One — the question is the COHORT, not each individual member’s personal growth. Where the cohort is on the five-level taxonomy is what we are assessing. Two — we resist both performance of growth and performance of struggle. Honest data lands wherever it lands.”*
 
-*“Container reminder: what is named here stays in this room. The team will take notes and bring them to debrief; we share aggregated findings with Anthony and the CCA pastoral team without identifying individuals.”*
+*“Container reminder: what is named here stays in this room. The team will take notes and bring them to debrief; we share aggregated findings with the covering and the host church’s pastoral leadership without identifying individuals.”*
 
-**Block 2 — Wk 10 Landing — the Asker Briefly (7:07–7:15, 8 min)**
+**Block 2 — Wk 10 Landing — the Discerner Briefly (7:07–7:15, 8 min)**
 ## Script
 
-*“Last Tuesday, [Asker] brought a calling discernment to the cohort’s centre. They have been integrating across the week with their standing pair, Cohort Companion, and Lead Companion. [Asker], we want to honor what is yours to integrate — we are not asking for content. One brief sentence about how the integration has been: are you steady? Working hard? Surprised? Quiet? Whatever is honest. Pass anytime.”*
+*“Last Tuesday, [Discerner] brought a calling discernment to the cohort’s centre. They have been integrating across the week with their standing pair, Cohort Companion, and Lead Companion. [Discerner], we want to honor what is yours to integrate — we are not asking for content. One brief sentence about how the integration has been: are you steady? Working hard? Surprised? Quiet? Whatever is honest. Pass anytime.”*
 
-*(Asker speaks 60–90 seconds. Receive without commentary. If Asker passes, the Lead Companion briefly: ‘Pass received. We are walking with [Asker] across the next thirty days.’)*
+*(Discerner speaks 60–90 seconds. Receive without commentary. If Discerner passes, the Lead Companion briefly: ‘Pass received. We are walking with [Discerner] across the next thirty days.’)*
 
-*“Good. The cohort’s relationship to [Asker]’s ongoing journey is part of tonight’s assessment — not as a verdict on whether Wk 10 “worked,” but as part of the data about whether our cohort can hold a real calling discernment.”*
+*“Good. The cohort’s relationship to [Discerner]’s ongoing journey is part of tonight’s assessment — not as a verdict on whether Wk 10 “worked,” but as part of the data about whether our cohort can hold a real calling discernment.”*
 
 *“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
@@ -287,21 +287,21 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 *Tonight’s question: where is our cohort’s STEADY STATE? Not the peak (Wk 10’s commissioning was a peak); the steady state. Where can the cohort operate from when it walks into Going Out?*
 
-*“In cohort circles, you will use H11.2 — the assessment worksheet. The worksheet has six questions; the cohort works through them together. Your cohort will produce a flip-chart picture by 8:05 that the Cohort Companion brings back to the merge. Three honest pictures merge into one.”*
+*“In your circles, you will use H11.2 — the assessment worksheet. The worksheet has six questions; the circle works through them together. Your circle will produce a flip-chart picture by 8:05 that the Cohort Companion brings back to the merge. The honest pictures merge into one.”*
 
 **Block 4 — Bridge to Split + Prayer (7:25–7:30, 5 min)**
 ## Script
 
-*“In your cohort circle, work the worksheet together. The Cohort Companion may name the first observation; the cohort takes over from there. Honest. Specific. Not generic. The Cohort Companion is part of the cohort, not the assessor of it.”*
+*“In your circle, work the worksheet together. The Cohort Companion may name the first observation; the circle takes over from there. Honest. Specific. Not generic. The Cohort Companion is part of the circle, not the assessor of it.”*
 
 *“Pray with me. Father, you began a good work in this cohort. You are not finished. Tonight we look at where we are now, dimly. We resist both flattering ourselves and condemning ourselves. We name what we lived; we name what we touched but did not live; we name what is still ahead. Help us be honest. Help us receive what we name. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
+*“Circle assignments are on the wall. Thirty-five minutes. Go.”*
 
-**Block 5 — Cohort Circles Assess Themselves (7:30–8:03, 33 min)**
-Each cohort circle works in parallel. The structure is identical.
+**Block 5 — Circles Assess Themselves (7:30–8:03, 33 min)**
+Each circle works in parallel. The structure is identical.
 
-**Inside the cohort circle — Companion script**
+**Inside the circle — Companion script**
 
 ## Opening (3 min)
 
@@ -325,7 +325,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 **Q5 — The five-level steady state. Where on the taxonomy is the cohort’s STEADY STATE right now? Not the peak. The steady state. Specific evidence. (5 min)**
 
-**Q6 — What is ahead. What is the question or capacity the cohort needs to engage in Going Out (Going Out)? Specific. (2 min)**
+**Q6 — What is ahead. What is the question or capacity the cohort needs to engage in Going Out? Specific. (2 min)**
 
 **Cohort Companion: when to intervene**
 
@@ -335,7 +335,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 **•** If the cohort’s assessment becomes about individual members rather than the body — redirect: ‘The question is the cohort’s level, not [member’s] growth.’
 
-**•** If members blame the team or another cohort — receive without defending; capture the observation on the flip chart honestly; redirect: ‘And what about the cohort itself — not the team, not the other cohort.’
+**•** If members blame the team or another circle — receive without defending; capture the observation on the flip chart honestly; redirect: ‘And what about the cohort itself — not the team, not the other circle.’
 
 **•** If the cohort gets stuck on Q4 (the Wk 8 hearing) because the cohort is not sure what was heard — honest: ‘We are not sure what we heard at Wk 8. That itself is part of tonight’s data — the cohort either remembers or not.’
 
@@ -348,40 +348,36 @@ Each cohort circle works in parallel. The structure is identical.
 **Block 6 — Merge — Three Pictures into One (8:03–8:21, 18 min)**
 ## Lead Companion script — opening (2 min)
 
-*“Welcome back. Three cohorts each produced an honest picture; we merge.”*
+*“Welcome back. Each circle produced an honest picture; we merge.”*
 
-*“Each Cohort Companion will present their cohort’s picture briefly — three minutes each. The cohort itself can add briefly if something was missed. Then I will reflect what I see across the three pictures — not synthesize, reflect. The room then weighs whether what I reflected matches what the cohorts named.”*
+*“Each Cohort Companion will present their circle’s picture briefly — three minutes each. The circle itself can add briefly if something was missed. Then I will reflect what I see across the pictures — not synthesize, reflect. The room then weighs whether what I reflected matches what the circles named.”*
 
-*“This is not a competition. The three pictures may be similar or different; both are honest data.”*
+*“This is not a competition. The pictures may be similar or different; both are honest data.”*
 
 ## Cohort Companion presentations (≈10 min — 3 min each)
 
-**Junior teen Cohort Companion presents first. Walks the flip chart briefly. Names where the junior cohort assessed itself on the steady state and what evidence they cited. Brief.**
+**Each Cohort Companion presents in turn. Walks the flip chart briefly. Names where their circle assessed itself on the steady state and what evidence they cited. Brief.**
 
-**Senior teen Cohort Companion presents second. Same.**
-
-**Parent Cohort Companion presents third. Same.**
-
-**After each, brief space (30 sec) for cohort members to add what was missed in the summary.**
+**After each, brief space (30 sec) for circle members to add what was missed in the summary.**
 
 ## Lead Companion reflection (≈5 min)
 
-*“Three pictures. Here is what I see across them.”*
+*“The pictures are up. Here is what I see across them.”*
 
-*(Lead Companion names 2–4 patterns that surface across the three cohorts. Specific. Drawn from what was actually presented, not invented.)*
+*(Lead Companion names 2–4 patterns that surface across the circles. Specific. Drawn from what was actually presented, not invented.)*
 
-*“Common — [pattern 1, pattern 2, etc.]. Different — [where the three cohorts diverged]. The integrated picture I am hearing is roughly that our cohort’s steady state is at Level [X] with [specific capacity ahead]. Does that match what the cohorts named?”*
+*“Common — [pattern 1, pattern 2, etc.]. Different — [where the circles diverged]. The integrated picture I am hearing is roughly that our cohort’s steady state is at Level [X] with [specific capacity ahead]. Does that match what the cohorts named?”*
 
 ## Cohort weighing (≈3 min)
 
-*“Two or three voluntary contributions. Does the integrated picture match what your cohort named? If not, where does it diverge?”*
+*“Two or three voluntary contributions. Does the integrated picture match what your circle named? If not, where does it diverge?”*
 
 *(Voluntary; brief; receive without commentary.)*
 
 *“Good. We hold the picture. Wk 12 next Tuesday is re-commissioning on this honest foundation — not on a more flattering one.”*
 
 **Block 7 — Between-Session Practice (8:21–8:23, 2 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“One practice this week. The Personal Reflection Frame for Wk 12 — H11.3. One page, four prompts. Where I have moved across Going Deeper. Where I have not. The surprise. The question I am carrying into Going Out.”*
 
@@ -408,51 +404,51 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often assess concretely. ‘We were better at listening on Wk 7 than Wk 1.’ ‘We laughed more in our cohort circle by Wk 6.’ The Cohort Companion builds the assessment from the concrete observations the juniors bring.**
-
-**The five-level taxonomy is harder for juniors to abstract. The Cohort Companion translates: ‘Were we mostly people in the same room (Level 1), people who shared information (Level 2), or people who did real work together (Level 3)?’ Most junior cohorts will land at Level 2 to low Level 3 honestly.**
-
-**Watch for: junior teens who assess punitively (‘we were not as good as the older cohorts’). Re-frame: ‘Cohorts at different ages develop differently; we are assessing OUR cohort.’**
-
-**Watch for: junior teens whose assessment is shaped by friendship dynamics (‘our cohort was great because we became friends’). Honour the friendship; clarify: ‘Friendship is part of what cohorts produce; the question is also what work we did together.’**
-
-**Watch for: junior teens who name a specific Companion failure or team failure. Receive without defending; pastoral 1:1 if the issue is acute.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often assess sharply. They see structures clearly and may critique with precision. Receive the precision; do not defend.**
+**First-timers often assess concretely. ‘We were better at listening by Wk 7 than Wk 1.’ ‘We laughed more in our circle by Wk 6.’ The Cohort Companion builds the assessment from the concrete observations the circle brings.**
 
-**Watch for: the senior whose assessment is theologically sharp (‘our cohort talked about hearing more than we actually heard’). Honour. Sharpness from a senior is real data.**
+**If the taxonomy stalls, translate: ‘Were we mostly people in the same room (Level 1), people who shared information (Level 2), or people who did real work together (Level 3)?’ Many first-year circles land at Level 2 to low Level 3 honestly.**
 
-**Watch for: the senior who assesses by comparing the cohort to other formation experiences they have had (church groups, retreats, online communities). Gently re-orient to this cohort’s specific architecture; the comparison may be useful but is not the answer.**
+**Watch for: the member who assesses punitively (‘we were not as good as the other circles’). Re-frame: ‘Circles develop differently; we are assessing OUR circle, and the cohort as one body.’**
 
-**Watch for: the senior who critiques the cohort’s format — the architecture itself, the time, the structure. Receive; capture for handbook revision; honest data.**
+**Watch for: the assessment shaped by friendship (‘our circle was great because we became friends’). Honour the friendship; clarify: ‘Friendship is part of what circles produce; the question is also what work we did together.’**
 
-**Watch for: the senior whose assessment is shaped by an unresolved tension with another cohort member or Companion. Receive without adjudicating; pastoral 1:1.**
+**Watch for: the member who names a specific Companion failure or team failure. Receive without defending; pastoral 1:1 if the issue is acute.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often assess with longer arc — they have been in formation contexts before; they have a sense of what works and what does not over years. Honour the arc.**
+**Veterans often assess sharply. They see structures clearly and may critique with precision. Receive the precision; do not defend.**
 
-**Watch for: the parent whose assessment is shaped by their own teen’s cohort experience (‘my teen has been quiet at home; I assume the teen cohort is not working’). Re-frame: ‘Your assessment is of the parent cohort, where you have been; the teen cohort is assessing itself in another room.’**
+**Watch for: the theologically sharp assessment (‘our cohort talked about hearing more than we actually heard’). Honour. Sharpness is real data.**
 
-**Watch for: the parent who critiques the team’s pastoral coverage. Receive specifically. ‘What did you experience that you needed and did not get?’ Honest data for handbook revision and team development.**
+**Watch for: the veteran who assesses by comparing the cohort to other formation experiences (church groups, retreats, prior programs). Gently re-orient to this cohort’s specific architecture; the comparison may be useful but is not the answer.**
 
-**Watch for: the parent whose assessment is shaped by their marriage being or not being in the program (a parent whose spouse is also in the parent cohort vs. one whose spouse is not). The structural difference is real; the Cohort Companion names it without solving it.**
+**Watch for: the veteran who critiques the format — the architecture itself, the time, the structure. Receive; capture for handbook revision; honest data.**
 
-**Watch for: the parent who realizes during the assessment that Going Deeper produced significant change in them they had not named. Honour; brief space; the personal reflection sheet (H11.3) is where this gets walked.**
+**Watch for: the assessment shaped by an unresolved tension with another member or Companion. Receive without adjudicating; pastoral 1:1.**
 
-**Watch for: the parent who assesses as Level 4 or 5 because the experience felt powerful. Push: ‘The taxonomy is about capacity, not affect. Where is our steady-state CAPACITY, regardless of how powerful Wk 10 felt?’**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often assess with a longer arc — they have been in formation contexts for decades and have a sense of what works over years. Honour the arc — and watch that the arc does not become a lecture.**
+
+**Watch for: the leader whose assessment quietly grades the congregation the cohort will one day lead (‘this would never work with our people’). Re-frame: ‘Tonight is about US, this room, this year. The family edition’s prospects are a different conversation.’**
+
+**Watch for: the leader who critiques the team’s pastoral coverage. Receive specifically. ‘What did you experience that you needed and did not get?’ Honest data for handbook revision and team development.**
+
+**Watch for: the assessment shaped by a spouse being or not being in the cohort. The structural difference is real; the Cohort Companion names it without solving it.**
+
+**Watch for: the member who realizes during the assessment that Going Deeper produced significant change in them they had not named. Honour; brief space; the personal reflection sheet (H11.3) is where this gets walked.**
+
+**Watch for: the leader who assesses as Level 4 or 5 because the experience felt powerful. Push: ‘The taxonomy is about capacity, not affect. Where is our steady-state CAPACITY, regardless of how powerful Wk 10 felt?’**
 
 **Closing Practice in Detail**
 
@@ -476,7 +472,7 @@ The team meets the day after Wk 11 for a 90-minute debrief. The team’s relatio
 
 **Signs the session worked**
 
-**•** Each cohort produced a flip-chart picture with specific evidence. Generic ‘we grew’ was not the dominant register.
+**•** Each circle produced a flip-chart picture with specific evidence. Generic ‘we grew’ was not the dominant register.
 
 **•** The merge integrated three honest pictures without the Lead Companion pre-converging.
 
@@ -484,13 +480,13 @@ The team meets the day after Wk 11 for a 90-minute debrief. The team’s relatio
 
 **•** Feedback to the team was specific and the team received without defending.
 
-**•** The Asker spoke briefly and was honored; the cohort’s relationship to the ongoing integration was named.
+**•** The Discerner spoke briefly and was honored; the cohort’s relationship to the ongoing integration was named.
 
 **•** By Friday, members report the personal reflection frame is producing real reflection — not generic ‘I am grateful for this experience’.
 
 **Signs the session did not work as well**
 
-**•** Cohorts produced uniformly positive or uniformly negative assessments.
+**•** Circles produced uniformly positive or uniformly negative assessments.
 
 **•** The Lead Companion pre-converged at the merge, imposing a synthesis.
 
@@ -510,7 +506,7 @@ The team meets the day after Wk 11 for a 90-minute debrief. The team’s relatio
 
 **People to follow up with this week**
 
-**•** The Wk 10 Asker — continue daily integration through Friday.
+**•** The Wk 10 Discerner — continue daily integration through Friday.
 
 **•** Anyone who named a specific Companion failure — pastoral 1:1 with the named Companion and the speaker, separately, within 48 hours.
 
@@ -546,7 +542,7 @@ Four handouts for Wk 11.
 
 **LEVEL 4 — A body that hears together. The group has agency; the Spirit speaks to it as a unit. Wk 8’s attempt.**
 
-**LEVEL 5 — An apostolic team that is sent together. Acts 13:1–3. Wk 10’s attempt for one Asker.**
+**LEVEL 5 — An apostolic team that is sent together. Acts 13:1–3. Wk 10’s attempt for one Discerner.**
 
 **Steady state vs. peak**
 
@@ -636,7 +632,7 @@ Specific evidence:
 
 **Q6 — What is ahead (≈2 min)**
 
-What capacity does the cohort need to engage in Going Out (Going Out)? Specific.
+What capacity does the cohort need to engage in Going Out? Specific.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -680,7 +676,7 @@ What surprised me across Going Deeper? In myself, in the cohort, in what God did
 
 **Prompt 4 — The question I am carrying into Going Out**
 
-Going Out is the Going Out series. It will engage missional discernment, vocational outworking, the body sent together. The honest question forming in you for that block. Specific.
+Going Out is the third series of the year. It will engage missional discernment, vocational outworking, the body sent together. The honest question forming in you for that block. Specific.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
