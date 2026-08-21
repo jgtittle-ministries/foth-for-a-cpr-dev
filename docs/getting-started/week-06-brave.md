@@ -12,7 +12,7 @@ Week 6
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -43,23 +43,23 @@ Pilot edition — Covenant Christian Academy of Warrenton
 ## WATCH FOR (Week 6 specific risks)
 
 - Confession misunderstood as detailed disclosure. The practice is naming where I want to walk in greater honesty, NOT confessing specific sins to the circle. Frame this three times before the split.
-- Catholic-style confession associations. For some teens, this will feel foreign or theologically charged. Frame it as Protestant practice grounded in James 5:16, not as sacramental.
-- The teen who has nothing to confess. Honor it. Reframe: “Where do you want to walk in greater honesty?” Almost everyone has a place.
+- Catholic-style confession associations. For some members, this will feel foreign or theologically charged. Frame it as Protestant practice grounded in James 5:16, not as sacramental.
+- The member who has nothing to confess. Honor it. Reframe: “Where do you want to walk in greater honesty?” Almost everyone has a place — and a leader who has rehearsed blamelessness for years may need the reframe most.
 - The over-discloser. The participant who turns the practice into specific sin disclosure. Cohort Companion gently redirects: “Thank you. The practice is the place, not the details.”
-- Parents disclosing sins their teen does not know about. Plan for this. The parent cohort is the right place; do not bring it back to the room.
+- Members disclosing what a spouse — perhaps sitting in the next circle — does not know. Plan for this. Circle assignments are the protection; do not bring it back to the room.
 - Performative confession — the spiritualized version designed to look humble. “I struggle with pride” as an answer to everything. Push gently for one specific concrete pattern.
 
 ## CRISIS CONTINGENCIES (Week 6)
 
 **Week 6 can surface confession of patterns that warrant follow-up. Standard Section 6 protocols apply.**
 
-**If a teen confesses to self-harm or suicidal ideation.** Section 6 applies in full. Two-adult rule, immediate after-session check-in, parent notification, pastoral/clinical backup.
+**If a member confesses to self-harm or suicidal ideation.** The safeguarding frame applies in full. Two adults, immediate after-session check-in, pastoral/clinical backup, and the door out named again before they leave.
 
-**If a teen confesses to substance abuse, eating disorder behavior, or pornography use, that warrants intervention.** Honor in the room with brief acknowledgment and blessing. Follow up offline within 48 hours with parent and qualified care. Do NOT process in the room.
+**If a member confesses to substance abuse, disordered eating, or pornography use that warrants intervention.** Honor in the room with brief acknowledgment and blessing. Follow up offline within 48 hours with qualified care. Do NOT process in the room.
 
-**If a parent confesses something that significantly affects family dynamics (affair, addiction, financial concealment).** Do not interrogate. Pastoral 1:1 within 48 hours. The room is not a confessional in the legal sense, but the Lead Companion may have mandatory-reporting obligations depending on what is disclosed — review in advance.
+**If a member confesses something that significantly affects their family (an affair, addiction, financial concealment).** Do not interrogate. Pastoral 1:1 within 48 hours. The room is not a confessional in the legal sense, and a disclosure that touches a minor’s safety may carry reporting duties — review the host church’s policy in advance.
 
-**If a teen names abuse they have experienced.** Section 6 mandatory reporting protocol applies regardless of the framing of the disclosure.
+**If a member names abuse — their own history, or harm involving a minor.** The safeguarding frame applies regardless of the framing of the disclosure, and a disclosure involving a minor may carry mandatory-reporting duties for some in the room.
 
 **If a participant freezes or breaks down.** Hold the silence. Bless gently. Do not push. Some confessions are tears with no words; that is enough.
 
@@ -73,11 +73,11 @@ This is the architectural keystone of the Others' arc. Weeks 5 and 6 together te
 
 Confession is the most underused practice in evangelical formation. Most Christians know James 5:16 — “confess your sins to one another and pray for one another, that you may be healed” — and almost none of us actually do it. Tonight, we do an age-appropriate version of it in cohort circles for 10 minutes.
 
-The frame is critical. We are not asking teens or parents to disclose specific sins. We are asking each person to name one place — one pattern, one pull, one area — where they want to walk in greater honesty before God. The circle speaks a brief, specific blessing of restoration. The Spirit does the work.
+The frame is critical. We are not asking anyone to disclose specific sins. We are asking each person to name one place — one pattern, one pull, one area — where they want to walk in greater honesty before God. The circle speaks a brief, specific blessing of restoration. The Spirit does the work.
 
 ## Theological framing
 
-The session sits squarely in mainstream evangelical practice. James 5:16 is the operational verse; 1 John 1:9 is the assurance verse. We are not introducing Catholic confession, sacramental absolution, or anything contested at CCA. We are introducing the simple, scriptural practice of being honest about our patterns in front of trusted people who pray for us. And the assurance of 1 John 1:9 rests on something prior — the cross: God is “faithful and just to forgive” because “the blood of Jesus his Son cleanses us from all sin” (1 John 1:7). Forgiveness is something Christ already secured, not something our confessing earns.
+The session sits squarely in mainstream evangelical practice. James 5:16 is the operational verse; 1 John 1:9 is the assurance verse. We are not introducing Catholic confession, sacramental absolution, or anything contested in the host church’s tradition. We are introducing the simple, scriptural practice of being honest about our patterns in front of trusted people who pray for us. And the assurance of 1 John 1:9 rests on something prior — the cross: God is “faithful and just to forgive” because “the blood of Jesus his Son cleanses us from all sin” (1 John 1:7). Forgiveness is something Christ already secured, not something our confessing earns.
 
 The IJH framework calls this addressing the Sin Knot — the type of blockage that responds specifically to confession in community (Vol 2 Exp 6). What we hold back is the deeper TPM-style processing that is not appropriate for this audience. What we lean into is the simple practice that scripture commands.
 
@@ -141,7 +141,7 @@ The team meets 48 hours before Week 6. Two specific things:
 | Day before | Walk every space. Phone the pastoral / clinical backup person. | Lead Companion + Co-Comp |
 | T-90 min | Team meets in main room. Pray for each participant by name. Each Companion says aloud what they will name in their demo. | All Companions |
 | T-30 min | Each Cohort Companion sets up cohort space. Tissues out. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-15 min | Door opens. | Co-Comp |
 | T-0 | Doors close. Open. | Lead Comp |
 
 # Detailed 90-Minute Run Sheet
@@ -150,7 +150,7 @@ The team meets 48 hours before Week 6. Two specific things:
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Same arrival rhythm. |
+| 6:45–7:00 | Arrival window | Forming | Co-Comp | Same arrival rhythm. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
 | 7:07–7:17 | Block 2: Practice hold re-entry — the what-held round | Shared | Lead Comp | What continued, what lapsed, what surprised. Received without fixing. |
 | 7:17–7:27 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
@@ -158,7 +158,7 @@ The team meets 48 hours before Week 6. Two specific things:
 | 7:31–7:33 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Pray. Split. |
 | 7:33–8:05 | Block 6: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
 | 8:05–8:11 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 8:11–8:15 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. |
+| 8:11–8:15 | Block 8: Between-session practice | Shared | Co-Comp | Introduce Five-Minute Examen. |
 | 8:15–8:25 | Block 9: Feedback round and closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 8:25–8:30 | Block 10: Pastoral availability | Floating | Lead Comp | Stay accessible 5+ minutes. |
 
@@ -221,7 +221,7 @@ The Lead Companion now does the practice in front of the whole cohort. This sets
 - Stand. Make eye contact across the room.
 - Name one place specifically: “The place where I want to walk in greater honesty is \_\_\_\_\_.” Be real but not graphic. “The way I respond to my wife when I am anxious” is real. “The full list of every time I have failed her” is too much.
 - Pause. Let it land.
-- A pre-arranged Co-Companion (the Parent or Teen Co-Comp) speaks a brief blessing back. “John, in the name of Jesus, we bless this place where you are walking. We pray restoration over the way you respond when anxious. May the Father’s peace meet you there. May you walk in greater honesty this week.”
+- A pre-arranged Co-Companion speaks a brief blessing back. “John, in the name of Jesus, we bless this place where you are walking. We pray restoration over the way you respond when anxious. May the Father’s peace meet you there. May you walk in greater honesty this week.”
 - Receive it. Do not deflect, do not joke, do not minimize. Say “Thank you” and sit down.
 - Close: “That is the practice. You will do it in your circle. Yours doesn’t have to look like mine. Three minutes per person.”
 
@@ -303,41 +303,30 @@ The between-session practice is introduced. (The Mid-Series Pulse now belongs to
 
 # Differentiation by Cohort
 
-## Junior teens (12–14)
+## Those doing this work for the first time
 
-The practice is fully accessible to junior teens with the right framing. “Where do you want to walk in greater honesty?” works for a 12-year-old. The Cohort Companion must model concrete, age-appropriate places.
+The practice is fully accessible with the right framing. “Where do you want to walk in greater honesty?” works for anyone. The Companion must model something concrete.
 
-## Adjustments
+- Demo is critical. The Companion names something concrete and accessible. “The way I get sharp with my kid when I’m tired” models the form.
+- Watch for the member who treats it lightly. Gentle redirect: “Take a breath. Pick something real. Even a small real thing.”
+- Watch for the member who confesses to fit in or to seem deep. Same redirect. The real thing is better than the impressive thing.
 
-- Handout uses concrete examples — the way I treat a sibling, what I do on my phone alone, the lie I keep telling about my homework, the friend I gossip about.
-- Sharing time is shorter — 2 minutes per person rather than 3.
-- Demo is critical. The junior Cohort Companion must name something concrete and accessible. “The way I get sharp with my kid when I’m tired” models the form.
-- Watch for the teen who treats it as a game. Gentle redirect: “Take a breath. Pick something real. Even a small real thing.”
-- Watch for the teen who confesses to fit in or to seem deep. Same redirect. The real thing is better than the impressive thing.
+## The veterans
 
-## Senior teens (15–18)
+Veterans can hold this practice at full depth. The challenge is that they may carry specific patterns — substance use, pornography, disordered eating, performance and its costs — that warrant pastoral follow-up rather than circle-level processing.
 
-Senior teens can hold this practice at full depth. The challenge is that they may have specific patterns (substance use, sexual behavior, eating issues, performance anxiety, self-harm) that warrant pastoral follow-up rather than circle-level processing.
+- Honor the disclosure; do not process it in the circle. The Companion works with the convening leader on follow-up based on the safety threshold.
+- Watch for the confession aimed at impressing the circle. Same redirect: real over impressive.
+- Watch for the practiced testimony wearing confession’s clothes — named once before, polished since. “Is there a place you haven’t said out loud before?”
 
-## Adjustments
+## The ordained and the staff
 
-- Handout uses adult-adjacent language — patterns, pulls, places where formation has stalled.
-- Cohort Companion demo at full depth. Sets the ceiling for the cohort.
-- Watch for confessions that need follow-up: substance use, sexual behavior outside what the family’s framework supports, self-harm, eating disorder behavior. Receive in the room with brief acknowledgment and blessing. Follow up offline within 48 hours.
-- Watch for senior teens confessing to impress a peer they like. Same redirect: real over impressive.
-- If a senior teen names a struggle the parent does not know about — honor the disclosure. Do not bring it back to the room. The Cohort Companion works with the Lead Companion on appropriate parent involvement based on safety threshold.
+The ordained have the most to lose tonight, and the most to gain. Adults have practiced hiding for longer, and the ordained have practiced it professionally. The circle Companion must go first and go honestly to set the depth.
 
-## Parents
-
-Parents have the most to lose tonight. Adults have practiced hiding for longer. The parent Cohort Companion must go first and go honestly to set the depth.
-
-## Adjustments
-
-- Handout is adult: pattern, pull, area where formation has stalled.
-- Frame at the start: “Your kids are doing the same practice in another room. The most generous thing you can do for them tonight is to be honest in here.”
-- Watch for the parent who confesses something significant about the family system (affair, addiction, financial concealment) that affects the marriage or the kids. Receive in the room with brief acknowledgment. Follow up with pastoral 1:1 within 48 hours. Do not bring back to the room without the parent’s consent and explicit framing.
-- Watch for the parent who ‘confesses’ their teen’s behavior. Redirect: “Tonight is for our own places. Your teen is doing their own work.”
-- If a parent breaks down — normal and welcome. Hold space. Bless gently. Do not rush.
+- Frame at the start, if needed: “The room this cohort will lead is shaped by the honesty of this circle tonight. Nobody here is filing a report.”
+- Watch for the member who confesses something significant about their family system (an affair, addiction, financial concealment). Receive in the room with brief acknowledgment. Follow up with pastoral 1:1 within 48 hours. Do not bring it back to the room without their consent and explicit framing.
+- Watch for the member who ‘confesses’ someone else’s behavior — a spouse’s, a colleague’s, the congregation’s. Redirect: “Tonight is for our own places.”
+- If someone breaks down — normal and welcome. Hold space. Bless gently. Do not rush.
 
 # Closing Practice in Detail
 
@@ -379,7 +368,7 @@ Companion team meets the day after Week 6 for a 45-minute debrief. Like Week 3, 
 - Confessions were generic and spiritualized. Indicates demo did not push for specificity, or container is thinner than we thought.
 - Cohort circle ran out of time and someone did not name. Major failure mode for Week 6. Pastoral follow-up within 24 hours.
 - Detailed sin disclosure happened despite framing. Indicates frame was not held three times. Adjust for any future iteration.
-- Parents auditing each other’s spouses or kids rather than naming their own place.
+- Members auditing spouses or colleagues rather than naming their own place.
 - Crisis-level disclosure that the team was not ready for. Section 6 protocols and post-mortem.
 
 ### Adjustments for Week 7
@@ -392,8 +381,8 @@ Companion team meets the day after Week 6 for a 45-minute debrief. Like Week 3, 
 
 - Anyone who disclosed crisis-level material (Section 6 within 24 hours).
 - Anyone whose confession warrants pastoral 1:1 within the week.
-- Anyone whose silence in the circle was unusual — a teen who passed, a parent who deflected. Brief, warm, no pressure.
-- Any family where parent and teen confessions, considered together, suggest tender home dynamics this week.
+- Anyone whose silence in the circle was unusual — someone who passed, someone who deflected. Brief, warm, no pressure.
+- Any household where confessions from two members of the cohort, considered together, suggest tender home dynamics this week. The team says nothing to anyone; it prays and watches.
 
 ### Team prayer at the close
 
@@ -403,92 +392,22 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 Two handouts for Week 6. The confession handout comes in three cohort versions; the blessing card is one version for all. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
 
-- H6.1 — The Place I Want to Walk in Greater Honesty (Junior, Senior, Parent)
+- H6.1 — The Place I Want to Walk in Greater Honesty
 - H6.2 — Blessing of Restoration card (all cohorts)
 - H6.3 — Mid-Series Pulse (all cohorts)
 
-**Handout H6.1 — The Place (Junior, ages 12–14)**
-
-*Tonight in your cohort circle, each person will name ONE place where they want to walk in greater honesty before God. Not the whole sin in detail — the place. The pattern. The pull.*
-
-## What is “the place”?
-
-**It might be:**
-
-- A way I treat a sibling or parent.
-- Something I do on my phone when nobody’s watching.
-- A lie I keep telling — about my homework, my feelings, what I did at the party.
-- A friend I keep gossiping about even though I know I shouldn’t.
-- The way I act around a certain group at school to fit in.
-- Something I keep choosing even though I know it makes me feel worse.
-- A part of my faith I’ve been faking.
-
-## How to name it
-
-*One sentence. Like this:*
-
-**“The place where I want to walk in greater honesty is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”**
-
-*Specific is better than general. “The way I cut down my little brother when I’m tired” is better than “I struggle with my brother.”*
-
-## If you don’t know what to say
-
-*Try this. Close your eyes for ten seconds. Ask: “God, where do you see me being less honest than I want to be?” Whatever shows up first — that’s probably it.*
-
-*If still nothing comes, that’s also okay. You can pass. The circle will still bless you.*
-
-## After you name it
-
-*The circle will speak a brief blessing of restoration over you. You don’t do anything. You receive it. Eye contact. “Thank you.” Sit down (or stay seated). The Spirit does the work.*
-
-**Handout H6.1 — The Place (Senior, ages 15–18)**
-
-*Tonight you will name ONE place where you want to walk in greater honesty before God — not the sin in detail, the place where the pattern lives. The naming is the practice; the resolution is the Spirit’s work.*
-
-## Categories of “place”
-
-**Patterns I keep choosing even though I know they’re costing me.**
-
-- A behavior I do alone that I would not do in front of anyone I respect.
-- A relationship where I keep repeating something I know is wrong.
-- An anxiety or fear that has become controlling.
-- The performance version of my faith I have been giving.
-- A doubt or anger I have been hiding rather than bringing to God.
-- A way I treat someone (parent, sibling, classmate, teammate, stranger) that does not match who I want to be.
-- A pull I keep giving in to — social media, comparison, food, attention, substances, sexual content.
-
-## Specificity is the door
-
-*“I struggle with anxiety” is general. “The way I check Instagram first thing every morning to feel okay about myself before I read scripture” is specific.*
-
-*“I have pride issues” is general. “The way I cut down classmates in my head to feel better about my own work” is specific.*
-
-*Specific lets the Spirit work. General keeps the pattern hidden.*
-
-## The form
-
-*One sentence:*
-
-**“The place where I want to walk in greater honesty before God is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.”**
-
-*Pause. The circle will bless you. You do not respond, do not minimize, do not joke. Eye contact. “Thank you.” That is the practice.*
-
-## If something heavier surfaces
-
-*If naming your place surfaces something that needs more than the circle can hold — a struggle with self-harm, an eating disorder pattern, an addiction, abuse, suicidal thoughts — you do not have to put the full thing in the circle. Name the place at the level you can. After the session, talk to a Companion. The team is ready to walk with you offline.*
-
-**Handout H6.1 — The Place (Parent)**
+**Handout H6.1 — The Place**
 
 *Tonight you will name one place where you want to walk in greater honesty before God. Not detailed sin disclosure — the place where formation has stalled, the pull you keep yielding to, the pattern you have stopped expecting to change.*
 
-*Your kids are doing the same practice. The most generous thing you can do for them is to be honest in this room.*
+*The room this cohort will one day lead is shaped by the honesty of this circle. The most generous thing you can do for the people you serve is to be honest in this room.*
 
 ## Categories at this stage of life
 
 **Common adult places where formation stalls:**
 
 - The way I respond to my spouse when I am tired, anxious, or feeling unseen.
-- The way I parent from my own woundedness rather than from the Father’s heart.
+- The way I parent — or lead — from my own woundedness rather than from the Father’s heart.
 - The compulsion or numbing pattern I have made peace with — alcohol, food, social media, work, screens, escape.
 - The performance Christianity I have been running for years.
 - The doubts I have stopped bringing to God because I no longer expect Him to answer.
@@ -506,9 +425,9 @@ Two handouts for Week 6. The confession handout comes in three cohort versions; 
 
 ## If naming the place surfaces something larger
 
-*Some confessions in midlife are bigger than the circle can hold — an affair, an addiction, financial concealment, a pattern of harm to your kids you have not addressed. Name the place at the level you can. After the session, talk to a Companion. Pastoral 1:1 within the week. The team is ready.*
+*Some confessions in midlife are bigger than the circle can hold — an affair, an addiction, financial concealment, a pattern of harm you have not addressed. Name the place at the level you can. After the session, talk to a Companion. Pastoral 1:1 within the week. The team is ready.*
 
-*If what you are carrying is something that mandatory-reporting law obligates the team to address, the Lead Companion will tell you so directly and walk with you through the next step. The team’s job is to walk you toward freedom, not to manage your secret.*
+*If what you are carrying is something the law or the host church’s safeguarding policy obligates the team to address — harm involving a minor above all — the convening leader will tell you so directly and walk with you through the next step. The team’s job is to walk you toward freedom, not to manage your secret.*
 
 **Handout H6.2 — Blessing of Restoration**
 
