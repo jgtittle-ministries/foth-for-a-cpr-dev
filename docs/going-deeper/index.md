@@ -20,7 +20,8 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 | 4 | [Co-Processing](week-04-co-processing.md) | The container as therapeutic space; the working partner |
 | 5 | [Confession](week-05-confession.md) | James 5; the rhythm of confession and restoration |
 | 6 | [PROAPT, Deepened](week-06-proapt.md) | Hearing God in scripture as a sustained practice |
-| 7 | [Corporate Listening](week-07-corporate-listening.md) | The cohort hearing God together |
+| — | *Practice Hold — [two weeks, no meetings](week-06-practice-hold.md)* | — |
+| 7 | [Corporate Listening](week-07-corporate-listening.md) *(re-entry — opens on what held)* | The cohort hearing God together |
 | 8 | [The Group Hears Itself](week-08-group-hears-itself.md) | The Five-Level Group Taxonomy — the cohort assessed as a body |
 | 9 | [Shadow Mission](week-09-shadow-mission.md) | What the cohort is avoiding; the work of facing it |
 | 10 | [Calling Discernment](week-10-calling-discernment.md) | What is being formed in each member |
@@ -56,6 +57,12 @@ The format is the same as Getting Started:
 - **IJH source** — where the material lives in *Intentional Journey of the Heart*.
 
 Going Deeper sessions hold more weight than Getting Started. Read the handbook (especially Sections 3, 5, and 6) before the series begins. Re-read the **WATCH FOR** and **Crisis Contingencies** sections of each week before walking into the room.
+
+---
+
+## Status
+
+**Adult edition, 2026.** The leadership-first year (FotH for a CPR). The twelve sessions are re-authored to the adult register — the leadership cohort in circles of four to eight, the leader telling first at every invitation to tell, the practice hold after Week 6 with the what-held re-entry at Week 7. The [Leadership Year Handbook](../leadership-year-handbook.md) governs wherever this series' own [handbook](handbook.md), still carried as family-edition seed, differs.
 
 ---
 
