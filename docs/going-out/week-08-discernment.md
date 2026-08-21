@@ -12,7 +12,7 @@ Week 8
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -52,9 +52,9 @@ Week 8
 
 **Honest no. The cohort may discern that the Spirit is NOT calling them to a specific cohort-level engagement this season — each member is sent into their individual sent-context, and the cohort’s Going Out work is supporting one another’s individual engagements rather than launching a shared one. Lead Companion frames at the start: this is an honest possible outcome.**
 
-**The dominant voice. One or two members’ strong proposals dominate the contribution time, crowding out quieter voices. Lead Companion floats the room with attention; explicit invitations to specific cohorts (‘Junior teens, what surfaced for you in the pair conversation?’) at need.**
+**The dominant voice. One or two members’ strong proposals dominate the contribution time, crowding out quieter voices. Lead Companion floats the room with attention; explicit invitations to the quieter voices (‘Let me hear from someone who has not spoken yet — what surfaced for you in the pair conversation?’) at need.**
 
-**Cross-cohort family material. A teen and parent in different cohorts had separate pair conversations whose outputs intersect. The cohort space holds without adjudication; cross-cohort dynamics are managed by Companions privately.**
+**Cross-spouse material. Two spouses in different pairs had separate pair conversations whose outputs intersect. The room holds without adjudication; the dynamics are managed by Companions privately.**
 
 **Member who feels they cannot say no. A member senses the cohort moving toward an engagement they are not personally able to participate in (life-stage, capacity, conviction). The architecture protects: contributions are not commitments; the cohort’s discernment of direction is separate from any individual member’s ability to participate.**
 
@@ -70,11 +70,11 @@ Week 8
 
 **If the cohort’s discernment surfaces material involving a specific population in need (a refugee community, a homeless-services partnership, a justice-related engagement) that requires institutional partnership: the cohort space discerns direction, not partnership specifics; pastoral / leadership conversation outside the session for partnership logistics.**
 
-**If a senior teen’s pair-discerned possibility involves engagement beyond their parents’ ability to consent (overnight travel, financial commitment, geographic relocation): cross-cohort pastoral conversation outside the session; the cohort space honors the senior’s discernment without making the parent the obstacle.**
+**If a member’s pair-discerned possibility involves engagement beyond their household’s current capacity to absorb (overnight travel, financial commitment, geographic relocation): pastoral conversation outside the session — and a spouse’s own yes belongs in that conversation; the room honors the member’s discernment without making the household the obstacle.**
 
 **If the discernment surfaces a politically-coded engagement (advocacy work; specific cause aligned with one political tradition): Lead Companion’s discipline is the witness posture, not adjudication of the political content. The cohort can discern direction; the political coding is held with care.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -124,11 +124,11 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **2.** Walk Acts 13:1–3 and 1 Cor 14:29 together. Read aloud. Discuss the corporate-discernment architecture. (10 min)
 
-**3.** Cohort review. Each Cohort Companion reports what their cohort’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-cohort patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the cohort space tonight, not in the pre-meet. (20 min)
+**3.** Cohort review. Each Cohort Companion reports what their circle’s pair conversations may have produced. The team holds these together; the Lead Companion looks for cross-cohort patterns. CRITICAL: the team does NOT pre-decide the cohort’s discernment; the discernment happens in the cohort space tonight, not in the pre-meet. (20 min)
 
 **4.** Walk the run sheet carefully. Block 4 (contributions) and Block 5 (cohort weighing) are the architectural centre tonight; team rehearses how to hold weighing without driving toward a particular outcome. (20 min)
 
-**5.** Special cases: members likely to dominate; members likely to remain silent; cross-cohort family pair conversations; politically-coded possibilities; honest-no scenario; clarifying-question scenario. (15 min)
+**5.** Special cases: members likely to dominate; members likely to remain silent; spouses whose pair conversations may intersect; politically-coded possibilities; honest-no scenario; clarifying-question scenario. (15 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (5 min)
 
@@ -146,7 +146,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **•** Large flip chart for the cohort to see in real time. The cohort lands on a working sentence by the end of the session, captured on the chart.
 
-**•** ENCOURAGE THE COHORT TO FAST LUNCH ON THE DAY OF WK 8. This is communicated at the close of Wk 7 and reinforced in pastoral 1:1 contacts during the week. Optional, not mandatory; not all members are physically able; teen members’ fasting is parental discretion.
+**•** ENCOURAGE THE COHORT TO FAST LUNCH ON THE DAY OF WK 8. This is communicated at the close of Wk 7 and reinforced in pastoral 1:1 contacts during the week. Optional, not mandatory; not all members are physically able; medical conditions and medication schedules take precedence.
 
 **•** Confirm pastoral / clinical backup.
 
@@ -315,7 +315,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **If a strong voice begins to dominate the weighing, gentle redirect: ‘Let me hear from someone who hasn’t weighed yet.’**
 
-**If the cohort is silent or hesitant, the Lead Companion does NOT fill the silence with their own weighing. The silence is the body taking its time. Up to 30 seconds of silence is appropriate; if longer, the Lead may invite specifically: ‘Junior teens, what do you sense?’**
+**If the cohort is silent or hesitant, the Lead Companion does NOT fill the silence with their own weighing. The silence is the body taking its time. Up to 30 seconds of silence is appropriate; if longer, the Lead may invite specifically: ‘Let me hear from a voice we have not heard tonight — what do you sense?’**
 
 **The Lead Companion is NOT trying to drive toward consensus. The Lead is holding the weighing process. If the body diverges, the divergence is the data.**
 
@@ -375,47 +375,45 @@ One reminder before we land. Landing 2 — each member into their individual sen
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members across the contributions and the weighing.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often hold corporate-discernment work less easily than parents. Their pair conversations may have produced concrete-relational possibilities (‘our cohort should serve at the homeless shelter’) without the discernment texture the architecture asks for. Receive cleanly; the cohort’s weighing will engage what each contribution actually is.**
-
-**Watch for: junior teens whose contribution echoes a parent’s contribution. Cross-cohort awareness; honour the teen’s contribution; the weighing will sort what is genuinely the teen’s and what is family-system echo.**
-
-**Watch for: junior teens whose pair conversation produced honest blank. ‘My pair partner and I didn’t come up with anything.’ Receive as honest data; the body holds without grading.**
-
-**Watch for: junior teens whose contribution surfaces a peer-context engagement (‘we should reach out to the kids at our school who are struggling’). Receive; pastoral attention to specifics outside the session.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often arrive with developed missional vocabulary; their contributions may be theologically articulate. Receive cleanly; the body’s weighing applies to senior contributions as much as to anyone’s.**
+**First-timers often hold corporate-discernment work less easily than those who have done it before. Their pair conversations may have produced concrete-project possibilities (‘our cohort should serve at the shelter’) without the discernment texture the architecture asks for. Receive cleanly; the cohort’s weighing will engage what each contribution actually is.**
 
-**Watch for: the senior whose contribution names a specific cause aligned with their academic or vocational direction (justice work, climate engagement, refugee support). Receive; the cohort weighs whether this is a senior’s personal calling or a possible cohort engagement.**
+**Watch for: the first-timer whose contribution echoes a stronger voice’s contribution. Honour the contribution; the weighing will sort what is genuinely theirs and what is deference.**
 
-**Watch for: the senior whose contribution reveals tension with their parents’ likely contributions (politically-coded engagement, advocacy work, justice frame). The cohort space holds the senior’s discernment; cross-cohort dynamics handled outside.**
+**Watch for: the first-timer whose pair conversation produced honest blank. ‘My pair partner and I didn’t come up with anything.’ Receive as honest data; the body holds without grading.**
 
-**Watch for: the senior carrying the Wk 10 Discerner role from Going Deeper whose calling-integration has reached a moment where the cohort is being asked to support their personal sending rather than be sent together. Receive cleanly.**
+**Watch for: the first-timer whose contribution surfaces a concern about a specific person in their context (‘we should reach out to the family on my street that is struggling’). Receive; pastoral attention to specifics outside the session.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often have the most developed corporate-discernment capacity, having been part of more bodies that have done corporate work. Their contributions may carry weight; they may also dominate. Lead Companion floats with attention.**
+**Veterans often arrive with developed missional vocabulary; their contributions may be theologically articulate. Receive cleanly; the body’s weighing applies to a veteran’s contribution as much as to anyone’s.**
 
-**Watch for: the parent whose contribution echoes a long-running personal interest that they are projecting onto the cohort (‘our cohort should \_\_\_\_\_’ when the parent has been doing \_\_\_\_\_ for years personally). Receive without dismissing; the weighing will sort.**
+**Watch for: the veteran whose contribution names a specific cause aligned with their own long-running personal engagement (justice work, recovery ministry, refugee support). Receive without dismissing; the weighing sorts whether this is a personal calling or a possible cohort engagement.**
 
-**Watch for: the parent in vocational position to drive a cohort engagement (board membership, ministry leadership, professional connection). Honour while watching for the dominance dynamic; the cohort’s discernment is the cohort’s, not the connected parent’s.**
+**Watch for: the veteran whose contribution names a specific population they have professional experience with (clinical, educational, social services). The professional knowledge is real and useful; the discernment is whether the cohort is being called there.**
 
-**Watch for: the parent whose contribution names a specific population they have professional experience with (clinical, educational, social services). The professional knowledge is real and useful; the discernment is whether the cohort is being called there.**
+**Watch for: the veteran carrying the Wk 10 Discerner role from Going Deeper whose calling-integration has reached a moment where the cohort is being asked to support their personal sending rather than be sent together. Receive cleanly; Landing 2 exists precisely for this.**
 
-**Watch for: the parent in life-stage that limits cohort engagement participation (caregiving, intensive parenting, professional crisis). The contribution may be specific direction, with explicit acknowledgment that the parent themselves cannot participate. Honour both the contribution and the constraint.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often have the most developed corporate-discernment capacity, having sat in more rooms that have done corporate work. Their contributions carry weight; they can also dominate without meaning to. Lead Companion floats with attention.**
+
+**Watch for: the org-chart pull. A pastor’s contribution can land as an announcement even when offered humbly, because the room is trained to treat their words as direction. The leader helps the architecture by naming their offering explicitly: ‘This is one offering; the body weighs it like any other.’ The Lead Companion reinforces if the room starts assenting rather than weighing.**
+
+**Watch for: the leader in vocational position to drive a cohort engagement (board membership, ministry leadership, a professional connection that could make Landing 1 easy). Honour while watching the dominance dynamic; an engagement the connected leader could deliver is not therefore the engagement the Spirit is naming. The cohort’s discernment is the cohort’s.**
+
+**Watch for: the leader in a life-stage or role-load that limits cohort engagement participation (caregiving, a church season that consumes everything, professional crisis). The contribution may be specific direction, with explicit acknowledgment that the leader themselves cannot participate. Honour both the contribution and the constraint.**
 
 **Closing Practice in Detail**
 
@@ -461,7 +459,7 @@ The team meets the day after Wk 8 for a 75-minute debrief (longer because of arc
 
 **•** The Lead Companion drove toward a particular outcome rather than holding the weighing.
 
-**•** A member’s acute material (calling crisis, cross-cohort family rupture, politicized engagement) was inadequately handled.
+**•** A member’s acute material (calling crisis, cross-spouse rupture, politicized engagement) was inadequately handled.
 
 **•** The architecture drifted toward project planning; the discernment never actually happened.
 
@@ -471,11 +469,11 @@ The team meets the day after Wk 8 for a 75-minute debrief (longer because of arc
 
 **•** Anyone for whom the body’s landing produces acute distress.
 
-**•** Any senior whose contribution surfaced cross-cohort tension.
+**•** Any member whose contribution surfaced cross-spouse tension.
 
-**•** Any parent whose contribution surfaced significant personal vocational direction.
+**•** Any member whose contribution surfaced significant personal vocational direction.
 
-**•** Any teen whose contribution revealed a peer-context concern requiring follow-up.
+**•** Any member whose contribution revealed a concern about someone in their context requiring follow-up.
 
 **•** The whole team — the team has just held the architectural apex of the Going Out series; team’s own wellbeing matters.
 
