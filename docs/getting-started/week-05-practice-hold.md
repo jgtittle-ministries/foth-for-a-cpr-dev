@@ -14,8 +14,8 @@ So the structure lets go for two weeks, on purpose, to find out what holds.
 
 - **Keep the Week 5 practice running** — the one friendship, the one condition — through both weeks, not just the first.
 - **Keep whatever daily rhythm has begun** for you in these five weeks, in whatever honest size it actually has.
-- Nothing else. The hold is not homework. Two things, held loosely and honestly, are worth more than five things performed.
 - **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
+- Nothing else. The hold is not homework. These, held loosely and honestly, are worth more than five things performed.
 
 ## What happens when we return
 
