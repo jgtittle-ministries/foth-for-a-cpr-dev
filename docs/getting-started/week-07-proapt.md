@@ -12,7 +12,7 @@ Week 7
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -45,7 +45,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Skipping the Tell step. The Tell is the step most often omitted and most important for long-term development. Honor it.
 - The over-spiritualizer. The participant whose Apply is always grand and never specific. Push gently for one specific concrete application.
 - The literalist. The participant who only does Observe and refuses to Apply because “that would be making the Bible say what I want.” Honor the caution and gently invite. Logos becomes rhema in the Apply step.
-- The teen who comes back to Week 7 still carrying Week 6. Honor that. Pull them aside before the session if possible.
+- The member who comes back to Week 7 still carrying Week 6. Honor that. Pull them aside before the session if possible.
 
 ## CRISIS CONTINGENCIES (Week 7)
 
@@ -95,7 +95,7 @@ God. The first three Connects (Self, Others, God) form a sequence. Tonight is th
 
 ## **Personal pre-work**
 
-Every Companion does PROAPT on at least three different passages in the week before this session. The goal is not to prepare the demo but to be a current practitioner. The teens will know within sixty seconds whether you are someone who has done PROAPT this week or someone who is teaching it from notes.
+Every Companion does PROAPT on at least three different passages in the week before this session. The goal is not to prepare the demo but to be a current practitioner. The room will know within sixty seconds whether you are someone who has done PROAPT this week or someone who is teaching it from notes.
 
 The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 is the default; substitute if you have a strong reason). Walk it through PROAPT yourself once on Monday. Walk it through again Tuesday morning. Notice what shifts between the two readings. Tell that story briefly when you teach.
 
@@ -134,14 +134,14 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | Week before | Confirm passage. Print all handouts. | Lead Comp |
 | Day before | Lead Companion PROAPTs the passage. Walks the room. | Lead Comp |
 | T-30 min | All Companions in room. PRAY through the passage as a team — modeling Pray step. | All Companions |
-| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
+| T-15 min | Door opens. Standard arrival. | Co-Comp |
 | T-0 | Doors close. Open. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
+| 6:45–7:00 | Arrival window | Forming | Co-Comp | Standard arrival. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 7 as a turn. |
 | 7:07–7:15 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
 | 7:15–7:24 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
@@ -264,7 +264,7 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 
 *“Okay, between-session practice. PROAPT one passage per day, every day, for the next week. Five to ten minutes. The journal Week 7 pages have a daily PROAPT template — you can use it or just work through the six steps in your own format.”*
 
-*“For what to read — if you don’t already have a plan, the handout (hold up H7.3) has age-tiered passage suggestions. Junior cohort: simple Gospel passages, one a day. Senior cohort: Sermon on the Mount or Romans 8 worked through one passage at a time. Parents: same options or pick from your current reading.”*
+*“For what to read — if you don’t already have a plan, the handout (hold up H7.3) has passage suggestions: a Gospel walked one story a day, the Sermon on the Mount or Romans 8 worked slowly, or a Psalm-and-Gospel pairing. Already have a reading plan? Stay with it and layer PROAPT on top.”*
 
 *“One passage. Five to ten minutes. Every day. The chain only works if we work it.”*
 
@@ -285,41 +285,25 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 
 # **Differentiation by Cohort**
 
-## **Junior teens (12–14)**
+## Those doing this work for the first time
 
-PROAPT works fully at this age with concrete passage choices and short reps. The temptation is to make it more sophisticated than it needs to be.
+- Short passages, complete stories. Five to seven minutes for the whole PROAPT while it is new.
+- Tell step works well — first-timers often surprise themselves with what comes out when they say it aloud.
+- Watch for the Sunday-school answer in Apply. Push gently for one specific thing from this week.
 
-## Adjustments
+## The veterans
 
-- Pick concrete narrative passages — Gospel stories, parables. Avoid Pauline argument for the daily practice this week.
-- Apply step is the hardest. Use very specific prompts: “What in YOUR LIFE this week looks like the situation in the passage?”
-- Keep daily practice to 5–7 minutes. Quality over duration.
-- Tell step works well — junior teens often surprise themselves with what comes out when they say it aloud.
-- Watch for the teen who gives a Sunday-school answer in Apply. Push gently for one specific thing from this week.
+- PROAPT scales fully. Veterans can hold longer passages and deeper Apply work.
+- Watch for the member whose Observe is sophisticated but whose Apply is generic — decades of Bible study make excellent hiding. Push for specificity.
+- Watch for the member who treats PROAPT as a Bible study technique they already know. Frame it as a hearing practice that is different in kind from analysis.
+- Tell step is often the hardest — mature believers hesitate to claim that God said something specific to them. Affirm gently. “What you heard counts even if you’re not 100% sure it was Him.”
 
-## **Senior teens (15–18)**
+## The ordained and the staff
 
-PROAPT scales fully for senior teens. They can hold longer passages and deeper Apply work.
-
-## Adjustments
-
-- Passage suggestions can include Sermon on the Mount, Romans 8, John 13–17, the Gospel of Mark in chunks.
-- Daily practice 10–15 minutes.
-- Watch for the senior teen whose Observe is sophisticated but whose Apply is generic. Push for specificity.
-- Watch for the senior teen who treats PROAPT as a Bible study technique they already know how to do. Frame it as a hearing practice that is different in kind from analysis.
-- Tell step is often the hardest — senior teens hesitate to claim that God said something specific to them. Affirm gently. “What you heard counts even if you’re not 100% sure it was Him.”
-
-## **Parents**
-
-Many parents have done a version of this. Some have not. The challenge is helping parents distinguish PROAPT from the Bible-study formats they already know.
-
-## Adjustments
-
-- Frame at the start: “This is not Bible study. It is hearing practice. The difference is the Apply step — we are not asking what the passage means, we are asking what the Spirit is saying through it to us today.”
-- Daily practice 10–20 minutes — longer is fine if the parent has time.
-- Watch for the parent whose Apply is always about their kids or spouse. Redirect: “Apply this to YOU first. Your spouse/kid is doing their own work.”
-- Watch for the parent who treats PROAPT as one more thing on the to-do list. Frame it as the most important fifteen minutes of their day, not the last.
-- Tell step works powerfully when parents Tell to other parents — in cohort circle, in marriage, or with a friend from the Getting Started cohort.
+- Many have done a version of this. Some have not. The challenge is distinguishing PROAPT from the study-for-Sunday habit: hearing for yourself, not preparing for others.
+- Watch for the member whose Apply is always about the congregation, their kids, or their spouse. Redirect: “Apply this to YOU first. They are doing their own work.”
+- Watch for the member who treats PROAPT as one more thing on the to-do list. Frame it as the most important fifteen minutes of their day, not the last.
+- Tell step works powerfully told peer to peer — in the circle, in a marriage, or with a friend from the cohort.
 
 # **Closing Practice in Detail**
 
@@ -362,7 +346,7 @@ Same as prior weeks.
 
 ### **Adjustments for the sessions ahead**
 
-- Next week is PROAPT II — a Companion-in-Formation leads the full walk-through. If tonight was thin on Apply, coach the senior this week to slow the Apply step and use the specific-situation prompt.
+- Next week is PROAPT II — a rotation leader leads the full walk-through. If tonight was thin on Apply, coach them this week to slow the Apply step and use the specific-situation prompt.
 - Week 9 (Garden of Your Heart) is the deepest experiential practice of Getting Started. Tonight and next week are its preparation — the cohort will arrive used to Spirit-led hearing.
 
 ### **People to follow up with**
@@ -376,7 +360,7 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are th
 
 - H7.1 — PROAPT Step Card (single page reference, all cohorts)
 - H7.2 — Mark 1:14–20 Worked Example (with space to write each step)
-- H7.3 — Passage Suggestions for the Week (Junior, Senior, Parent)
+- H7.3 — Passage Suggestions for the Week
 
 **Handout H7.1 — PROAPT Step Card**
 
@@ -480,11 +464,11 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are th
 
 **Handout H7.3 — Passage Suggestions for the Week**
 
-*One passage per day for the next seven days. Pick from your cohort’s list, or stay with one Gospel and go in order.*
+*One passage per day for the next seven days. Pick a track below, or stay with one Gospel and go in order.*
 
-## **Junior cohort (12–14) — Mark 1–2**
+## **Track one — Mark 1–2, a story a day**
 
-*Short narrative passages. Each one is a complete story. Five to seven minutes for the whole PROAPT.*
+*Short narrative passages. Each one is a complete story. A good first track: five to seven minutes for the whole PROAPT while the practice is new.*
 
 1. Day 1: Mark 1:14–20 (the calling — you did this in cohort)
 2. Day 2: Mark 1:21–28 (Jesus and the demon at synagogue)
@@ -494,7 +478,7 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are th
 6. Day 6: Mark 2:1–12 (paralytic through the roof)
 7. Day 7: Mark 2:13–17 (Levi the tax collector)
 
-## **Senior cohort (15–18) — Sermon on the Mount or Romans 8**
+## **Track two — Sermon on the Mount or Romans 8**
 
 *Pick one. Stay in it. The Sermon (Matthew 5–7) reads as one passage of teaching; Romans 8 reads as one extended argument. Ten to fifteen minutes per session.*
 
@@ -518,9 +502,9 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are th
 6. Day 6: Romans 8:28–30
 7. Day 7: Romans 8:31–39
 
-## **Parent cohort — your choice or a Psalm-and-Gospel pairing**
+## **Track three — your current reading, or a Psalm-and-Gospel pairing**
 
-*Many parents already have a reading plan. Stay with it; layer PROAPT on top of what you are already reading. If you want a fresh path, try one of these:*
+*Many of you already have a reading plan. Stay with it; layer PROAPT on top of what you are already reading. If you want a fresh path, try this pairing:*
 
 **Psalm-and-Gospel pairing (Psalm in the morning, Gospel passage in the evening, PROAPT one of them):**
 
@@ -536,4 +520,4 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are th
 
 *The first three days are easy. Days four through seven are where the practice forms or fails. If you miss a day, do not double up the next day. Pick up where you are. The chain breaks if you turn it into a guilt-engine.*
 
-*Tell step counts even if it is just to your spouse, sibling, or Cohort Companion by text. Speak what you heard.*
+*Tell step counts even if it is just to your spouse, a friend, or your circle Companion by text. Speak what you heard.*
