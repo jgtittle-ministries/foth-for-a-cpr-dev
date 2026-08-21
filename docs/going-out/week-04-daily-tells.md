@@ -12,7 +12,7 @@ Week 4
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 4
 
 **Connect focus.** Mission close to home. The daily relational world; the immediate sent-context; people each member already knows.
 
-**Mode.** Whole-room. The cohort’s daily-Tells data is shared across cohort lines tonight; junior teens, senior teens, and parents all hear each other’s actual witness data. The cross-cohort visibility is the pedagogical centre.
+**Mode.** Whole-room. The cohort’s daily-Tells data is shared across the whole body tonight; first-timers, veterans, and the ordained all hear each other’s actual witness data. The cross-member visibility is the pedagogical centre.
 
 **Center.** Brief teaching frame (15 min). Then a structured cohort survey: each member contributes ONE specific Tell from the past three weeks (not the most polished; the most honest), with brief data on receiver type, context, and what surfaced. Lead Companion captures patterns on flip chart in real time. Cohort weighs the patterns. Refinement for Wks 5–6 by domain (household, vocational, third-place).
 
@@ -42,7 +42,7 @@ Week 4
 
 *Tonight’s risks center on the comparison dynamics that surface when the cohort sees each other’s actual witness data side by side. Some members will feel exposed; some will compare themselves favorably or unfavorably; some will resist the cohort-level pattern surfacing.*
 
-**Comparison and shame. A junior teen hears a parent’s vocational Tell and feels their school-friend Tell is small. A parent hears another parent’s costly family-of-origin Tell and feels their workplace Tell is shallow. The Lead Companion frames at the start: scale of context is not scale of faithfulness. The daily Tell to a sibling or classmate carries the same weight as a vocational Tell to a colleague.**
+**Comparison and shame. A member hears the pastor’s congregational Tell and feels their lunchroom Tell is small. A member hears another’s costly family-of-origin Tell and feels their workplace Tell is shallow. The Lead Companion frames at the start: scale of context is not scale of faithfulness. The daily Tell to a sibling or a neighbour carries the same weight as a vocational Tell to a colleague.**
 
 **Performative reframing. A member whose Tell did not happen reports it as if it did, or describes a non-Tell encounter as a Tell. The cohort’s honesty discipline has been built across Going Deeper and the first weeks of Going Out. The Lead Companion gently redirects when needed: ‘Honest data is the work. The cohort can hold a non-Tell.’**
 
@@ -50,9 +50,9 @@ Week 4
 
 **The Tell that produced unintended consequence. A member’s Tell three weeks ago has now produced a follow-on conversation, a relational shift, an unexpected opening, or a closing of a door. Receive cleanly; pastoral 1:1 within the week to walk what is unfolding.**
 
-**The Tell that revealed the receiver’s active crisis. A friend mentioned in a Tell is now in active mental-health, relational, or safety crisis. The member is carrying this without being equipped to. Refer; pastoral 1:1; clinical referrals as appropriate. Mandatory-reporting law applies as relevant for teen receivers.**
+**The Tell that revealed the receiver’s active crisis. A friend mentioned in a Tell is now in active mental-health, relational, or safety crisis. The member is carrying this without being equipped to. Refer; pastoral 1:1; clinical referrals as appropriate. Mandatory-reporting law applies as relevant where the receiver is a minor.**
 
-**Cross-cohort family-Tell exposure. A teen’s Tell about their parent (in a different cohort) surfaces. A parent’s Tell about their teen surfaces. The architecture protects: initials only; the cross-cohort person does not enter the discussion in identifying detail; cross-cohort Companions hold the dynamic privately.**
+**Cross-circle spouse-Tell exposure. A member’s Tell about their spouse (seated elsewhere in the room) surfaces. The architecture protects: initials only; the spouse does not enter the discussion in identifying detail; the Companions hold the dynamic privately.**
 
 **Theological flattening. A member frames every Tell as evangelism-toward-conversion (the Wk 2 distinction collapses). Re-frame: ‘We are surfacing the body’s daily witness, which includes evangelism but is broader. Tonight is the data, including non-evangelistic Tells.’**
 
@@ -62,17 +62,17 @@ Week 4
 
 *Crisis risk is moderate. The Tell-data review surfaces real-life material that occasionally crosses thresholds.*
 
-**If a teen’s Tell-receiver is in active self-harm or crisis. Section 6 protocol immediately. Mandatory-reporting law applies where relevant. The teen Companion stays close to the teen for the rest of the session.**
+**If a member’s Tell-receiver is in active self-harm or crisis. The safeguarding frame governs (Leadership Year Handbook §7 and the host church’s policy). Mandatory-reporting law applies where relevant — a minor receiver especially. The Cohort Companion stays close to the member for the rest of the session.**
 
-**If a Tell revealed abuse or exploitation by an adult known to the cohort member. Mandatory-reporting law applies (Virginia CPS for minor victims; Virginia APS for vulnerable-adult victims). Two-adult rule for any reporting conversation. Pastoral 1:1 within 24 hours.**
+**If a Tell revealed abuse or exploitation by an adult known to the cohort member. Mandatory-reporting law applies (child-protective services for minor victims; adult-protective services for vulnerable-adult victims, per the jurisdiction). Two-adult rule for any reporting conversation. Pastoral 1:1 within 24 hours.**
 
 **If a member’s Tell pattern reveals burnout in their witness practice (over-extended; exhausted; performing). Receive cleanly; sabbath-rhythm conversation in pastoral 1:1; the Tell practice itself may need to be paused for a week if the member is burning out.**
 
 **If a Tell revealed marital or family rupture (the receiver was the member’s spouse and the Tell exposed long-standing material). Receive briefly; the cohort space is not the venue for marital adjudication; pastoral 1:1 with both partners if appropriate.**
 
-**If the cohort’s data review reveals significant cross-cohort family material (a teen’s Tell of a parent, then the parent’s defensive response in their own contribution). Lead Companion holds the architecture; no adjudication in the cohort space; cross-cohort pastoral conversation outside the session.**
+**If the cohort’s data review reveals significant cross-spouse material (one spouse’s Tell of the other, then the other’s defensive response in their own contribution). Lead Companion holds the architecture; no adjudication in the room; pastoral conversation with each spouse outside the session.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1 (carried forward).**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -82,9 +82,9 @@ Going Out’s body-sent block (Wks 1–3) framed the architecture of being sent 
 
 This is corporate-soul-clearing work in a particular form. Vol 2 proposes (in the open unknowns) a Community Soul Clearing Law — the corporate analog of inner healing. The cohort’s data review tonight is one shape of that work: the body looks honestly at the body’s daily life, names what it sees, weighs what is happening, and refines what is asked of itself going forward.
 
-The cross-cohort visibility tonight is intentional. Wks 5 and 6 will split the cohort to engage household and vocational witness with developmentally-appropriate texture. But Wk 4 needs the body to see itself as one body — junior teens hearing what parents’ Tells look like, parents hearing what teens’ Tells look like, the senior cohort hearing both. The diversity of contexts is itself formation; the senior teen learns from the parent’s family-of-origin Tell that this kind of witness is also legitimate; the parent learns from the junior teen’s playground Tell that small daily witness counts.
+The cross-member visibility tonight is intentional. Wks 5 and 6 will split the cohort into circles to engage household and vocational witness with texture. But Wk 4 needs the body to see itself as one body — the first-timer hearing what the pastor’s Tells look like, the pastor hearing what the first-timer’s Tells look like, the veterans hearing both. The diversity of contexts is itself formation; the first-timer learns from another member’s costly family-of-origin Tell that this kind of witness is also legitimate; the pastor learns from the lunchroom Tell that small daily witness counts.
 
-The architectural discipline tonight is honest data over polished narrative. The Lead Companion captures patterns on the flip chart in real time — not interpretations, observations. ‘Receivers: 7 colleagues, 4 family members, 3 classmates, 2 neighbours, 1 service provider.’ ‘Tells that produced response: 4. Tells that produced silence: 6. Tells the member did not understand the receiver’s reaction: 5.’ The data is what it is; the cohort weighs what it means together.
+The architectural discipline tonight is honest data over polished narrative. The Lead Companion captures patterns on the flip chart in real time — not interpretations, observations. ‘Receivers: 7 colleagues, 4 family members, 3 fellow congregants, 2 neighbours, 1 service provider.’ ‘Tells that produced response: 4. Tells that produced silence: 6. Tells the member did not understand the receiver’s reaction: 5.’ The data is what it is; the cohort weighs what it means together.
 
 **Dependencies**
 
@@ -108,7 +108,7 @@ Each Companion does three things this week.
 
 First — do this week’s Tell yourself, paying particular attention. Note the receiver type; the context; what surfaced. Bring the data to the team meeting. The team’s witness practice has to be honest before the team can ask the cohort’s to be.
 
-Second — review your cohort’s past three weeks of Tell reports (whatever you have heard in pair conversations and pastoral 1:1s). Where are the patterns within your cohort? What kinds of receivers? What kinds of cost? What is missing — what kinds of Tells are NOT happening that you might expect to see?
+Second — review your circle’s past three weeks of Tell reports (whatever you have heard in pair conversations and pastoral 1:1s). Where are the patterns within your circle? What kinds of receivers? What kinds of cost? What is missing — what kinds of Tells are NOT happening that you might expect to see?
 
 Third — read John 13:35 and 1 Peter 3:15 together. Both passages describe a witness that is partly relational presence and partly responsive defense. Hold both; the cohort’s Tell data tonight will likely span both modes.
 
@@ -118,13 +118,13 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 **1.** Each Companion shares their own week’s Tell. The data the team brings shapes the data the team can hold tonight. (10 min)
 
-**2.** Cohort review by Companion. Each Cohort Companion reports what they have heard in their cohort’s past three weeks. Patterns? Gaps? Concerning Tells? Cross-cohort dynamics? (20 min)
+**2.** Cohort review by Companion. Each Cohort Companion reports what they have heard in their circle’s past three weeks. Patterns? Gaps? Concerning Tells? Cross-circle dynamics? (20 min)
 
 **3.** Walk the run sheet. Block 5 (cohort survey) is the architectural centre tonight; team rehearses how to capture data without interpreting prematurely. (15 min)
 
 **4.** Walk the three scriptures briefly. Discuss how the relational-presence and responsive-defense modes both count as witness. (5 min)
 
-**5.** Special cases: cross-cohort family material expected; teens with Tell-receivers in active crisis; members who have lapsed on the practice. (5 min)
+**5.** Special cases: cross-spouse material expected; members with Tell-receivers in active crisis; members who have lapsed on the practice. (5 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (3 min)
 
@@ -144,7 +144,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs; flip chart visible to whole circle.
+**•** Confirm room layout: ONE large circle — a chair for every member; flip chart visible to whole circle.
 
 **Materials and Setup**
 
@@ -195,7 +195,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“Tonight is Wk 4. Mission close to home opens. The cohort has been doing weekly outside-cohort Tells for three weeks; tonight we look at the data honestly. Not to grade ourselves. To see who we are becoming as a sent body in our daily lives.”*
 
-*“Two disciplines tonight. ONE — honest data. If you forgot the Tell three weeks running, that is data; we hold it. If your Tell produced silence, that is data; we hold it. We refuse to manufacture data that did not happen. TWO — no comparison. Scale of context is not scale of faithfulness. The classroom Tell carries the same weight as the boardroom Tell.”*
+*“Two disciplines tonight. ONE — honest data. If you forgot the Tell three weeks running, that is data; we hold it. If your Tell produced silence, that is data; we hold it. We refuse to manufacture data that did not happen. TWO — no comparison. Scale of context is not scale of faithfulness. The kitchen-table Tell carries the same weight as the boardroom Tell.”*
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
@@ -258,7 +258,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“Around the circle. Each of us, briefly — about 90 seconds.”*
 
-*“Four pieces from your worksheet. ONE — receiver type (initials only; relationship category: colleague / classmate / family / neighbour / friend / service provider / other). TWO — context briefly: where, what was happening. THREE — what mode (relational presence / responsive defense / intentional initiative). FOUR — what surfaced — in you, in the receiver, in the moment.”*
+*“Four pieces from your worksheet. ONE — receiver type (initials only; relationship category: colleague / family / neighbour / friend / service provider / other). TWO — context briefly: where, what was happening. THREE — what mode (relational presence / responsive defense / intentional initiative). FOUR — what surfaced — in you, in the receiver, in the moment.”*
 
 *“If you had no Tell, name that briefly: ‘no Tell across the three weeks because \_\_\_\_\_.’ The cohort receives without commentary.”*
 
@@ -278,7 +278,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 **If a member starts to interpret rather than report: ‘Hold the interpretation; we will weigh together when the data is in.’**
 
-**If a member’s contribution is exposing of someone in another cohort (cross-cohort family Tell): use initials only; do not let identifying detail enter the room.**
+**If a member’s contribution is exposing of someone else in the room (a spouse-Tell especially): use initials only; do not let identifying detail enter the room.**
 
 **If a member’s contribution surfaces a Tell that crossed into harm or active receiver crisis: receive briefly without making it the cohort’s focus; pastoral 1:1 within 24 hours.**
 
@@ -293,7 +293,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“Receiver types: [tally]. Most common context: [naming]. Mode distribution: [naming]. The pattern across what surfaced: [naming].”*
 
-*(Examples: ‘Most Tells were in relational-presence mode — 12 of 20. Responsive defense was 5 of 20. Intentional initiative was 3 of 20. Most receivers were colleagues or classmates. Most contexts were ordinary work or school. What surfaced most often was awkwardness, then surprise at the receiver’s openness.’)*
+*(Examples: ‘Most Tells were in relational-presence mode — 12 of 20. Responsive defense was 5 of 20. Intentional initiative was 3 of 20. Most receivers were colleagues or family. Most contexts were ordinary work or home. What surfaced most often was awkwardness, then surprise at the receiver’s openness.’)*
 
 *“What strikes me — \_\_\_\_\_.”*
 
@@ -312,7 +312,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“WK 5 — HOUSEHOLD WITNESS. Family-of-origin, present household, immediate domestic relationships. The most consequential close-to-home witness for many of us; also often the costliest. Standing pairs do harder pair work that week.”*
 
-*“WK 6 — VOCATIONAL WITNESS. Workplace, school, the daily-rhythm context where most of us spend the bulk of our hours. The most weekly-recurrent witness; also where the three modes are most visibly tested.”*
+*“WK 6 — VOCATIONAL WITNESS. Workplace, ministry, the daily-rhythm context where most of us spend the bulk of our hours. The most weekly-recurrent witness; also where the three modes are most visibly tested.”*
 
 *“Wk 7 begins mission far. The body sent into wider contexts beyond the immediate.”*
 
@@ -337,47 +337,47 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members across the survey.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often have Tells that look small to the parent cohort and feel large to the junior teen. The Lead Companion’s frame at the start (scale of context is not scale of faithfulness) is for the junior teens specifically.**
-
-**Watch for: junior teens whose Tell-receiver is a peer in distress (school crisis, family rupture, mental-health concern). Pastoral 1:1 immediately; mandatory-reporting where applicable.**
-
-**Watch for: junior teens whose Tell-mode was almost entirely relational presence (which is appropriate for the developmental stage; do not push toward intentional initiative prematurely).**
-
-**Watch for: junior teens whose Tell did not happen because they had no language for what to say. Receive cleanly; H4.2’s three-mode card opens new vocabulary.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often span all three modes already; the data review may surface that one mode dominates and the others are underdeveloped. Honour without pressing.**
+**First-timers often have Tells that look small in the room and feel large to them. The Lead Companion’s frame at the start (scale of context is not scale of faithfulness) is for the first-timers specifically.**
 
-**Watch for: the senior whose Tell-receiver was a fellow senior in active crisis (college decision distress, relational rupture, mental-health concern). Pastoral 1:1 within the week.**
+**Watch for: the first-timer whose Tell-receiver is in distress (a friend’s crisis, harm at home, a mental-health concern). Pastoral 1:1 immediately; mandatory-reporting where a minor is involved.**
 
-**Watch for: the senior whose Tell crossed into theological depth that they had not been prepared for (a friend asked the resurrection question; the senior froze; the moment passed). Pastoral 1:1 to walk what to do with the next opening.**
+**Watch for: the first-timer whose Tell-mode was almost entirely relational presence. That is an honest starting place; do not push toward intentional initiative prematurely.**
 
-**Watch for: the senior whose Tell was performative — reported to land well in the cohort. Cohort Companion notices privately.**
+**Watch for: the first-timer whose Tell did not happen because they had no language for what to say. Receive cleanly; H4.2’s three-mode card opens new vocabulary.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often have Tells across multiple domains in any given week (household + vocational + neighbourhood). The discipline tonight is choosing ONE for the survey.**
+**Veterans often span all three modes already; the data review may surface that one mode dominates and the others are underdeveloped. Honour without pressing.**
 
-**Watch for: the parent whose Tell happened with their adult child outside the cohort. Honour; this is often where parents’ most consequential household witness happens.**
+**Watch for: the veteran whose Tell-receiver was someone in active crisis (a relational rupture, a vocational collapse, a mental-health concern). Pastoral 1:1 within the week.**
 
-**Watch for: the parent whose Tell happened with their teen IN the cohort. Initials only; no identifying detail; cross-cohort awareness held privately.**
+**Watch for: the veteran whose Tell crossed into theological depth they had not been prepared for (a friend asked the resurrection question; the veteran froze; the moment passed). Pastoral 1:1 to walk what to do with the next opening.**
 
-**Watch for: the parent whose Tell-pattern is heavy on responsive defense (responding to questions; rarely initiating). Receive without judgment; Wk 6 will surface vocational opportunity for intentional initiative.**
+**Watch for: the veteran whose Tell was performative — reported to land well in the room. Cohort Companion notices privately.**
 
-**Watch for: the parent whose Tell crossed into long-running marital tension or family-of-origin material that surfaces tonight publicly. Brief redirect; pastoral 1:1.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often have Tells across multiple domains in any given week (household + congregational + professional). The discipline tonight is choosing ONE for the survey — and noticing whether every Tell chosen happened inside the role. A pastoral visit is the office at work; the practice asks where the witness happened as a person.**
+
+**Watch for: the leader whose Tell happened with their adult child outside the cohort. Honour; this is often where a leader’s most consequential household witness happens.**
+
+**Watch for: the leader whose Tell happened with their spouse IN the room. Initials only; no identifying detail; cross-circle awareness held privately.**
+
+**Watch for: the leader whose Tell-pattern is heavy on responsive defense (responding to questions; rarely initiating as a person rather than as the office). Receive without judgment; Wk 6 will surface vocational opportunity for intentional initiative.**
+
+**Watch for: the leader whose Tell crossed into long-running marital tension or family-of-origin material that surfaces tonight publicly. Brief redirect; pastoral 1:1.**
 
 **Closing Practice in Detail**
 
@@ -405,7 +405,7 @@ The team meets the day after Wk 4 for a 60-minute debrief.
 
 **•** The Lead’s pattern naming drew on actual contributions, not invented or imposed.
 
-**•** No comparison shame visibly took root; the frame held across all three cohorts.
+**•** No comparison shame visibly took root; the frame held across the whole room.
 
 **•** Members who had no Tell were received cleanly; honest absence was registered.
 
@@ -419,9 +419,9 @@ The team meets the day after Wk 4 for a 60-minute debrief.
 
 **•** The flip chart became the Lead Companion’s interpretive narrative rather than honest data.
 
-**•** A teen’s Tell-receiver was in active crisis and the team’s response was inadequate.
+**•** A member’s Tell-receiver was in active crisis and the team’s response was inadequate.
 
-**•** Cross-cohort family material surfaced inadequately handled.
+**•** Cross-spouse material surfaced inadequately handled.
 
 **People to follow up with this week**
 
@@ -431,9 +431,9 @@ The team meets the day after Wk 4 for a 60-minute debrief.
 
 **•** Anyone who has had no Tell three weeks running — not for shame; for noticing what may be in the way.
 
-**•** Any cross-cohort family material that surfaced; pastoral conversation with both the teen and the parent separately.
+**•** Any cross-spouse material that surfaced; pastoral conversation with each spouse separately.
 
-**•** Any senior whose Tell crossed into theological depth they were not prepared for.
+**•** Any member whose Tell crossed into theological depth they were not prepared for.
 
 **Handouts**
 
@@ -455,7 +455,7 @@ Four handouts for Wk 4.
 
 Initials only. Relationship category.
 
-Initials: \_\_\_\_\_\_\_\_\_\_\_ Category (colleague / classmate / family / neighbour / friend / service provider / other): \_\_\_\_\_\_\_\_\_\_\_
+Initials: \_\_\_\_\_\_\_\_\_\_\_ Category (colleague / family / neighbour / friend / service provider / other): \_\_\_\_\_\_\_\_\_\_\_
 
 **2. The context**
 
@@ -545,7 +545,7 @@ Which mode dominates your weekly Tells? Which mode is hardest for you? Which mod
 
 **VOCATIONAL (Wk 6)**
 
-## WHO. Workplace colleagues (parents). School classmates and teachers (teens). Business partners, professional contacts, regular service relationships.
+## WHO. Workplace colleagues. Ministry staff and volunteers. Business partners, professional contacts, regular service relationships.
 
 **WHY RECURRENT. This is where most members spend the bulk of their hours. The witness is repeated, observed, and accumulated over years.**
 
