@@ -12,7 +12,7 @@ Week 11
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,9 +30,9 @@ Week 11
 
 **Connect focus.** Sending and re-formation, body level. Where the cohort lands honestly as the foundation for sending.
 
-**Mode.** Cohort-split into junior teens / senior teens / parents (50 min each, parallel) for honest assessment within developmental peer group. The merge for shared circle integration (15 min).
+**Mode.** Circle-split into circles of four to eight (50 min, parallel) for honest assessment within a smaller room. The merge for shared circle integration (15 min).
 
-**Center.** Brief teaching frame (10 min). Cohort-split honest assessment using H11.1 worksheet (30 min). Cohort circle articulates the cohort’s landing on the five-level taxonomy (15 min). Merge into shared circle; Lead Companion integrates the three cohort assessments into a body-level reading (15 min). Bridge to Wk 12 sending (10 min). Brief closing (5 min).
+**Center.** Brief teaching frame (10 min). Circle-split honest assessment using H11.1 worksheet (30 min). Each circle articulates its landing on the five-level taxonomy (15 min). Merge into shared circle; Lead Companion integrates the circle assessments into a body-level reading (15 min). Bridge to Wk 12 sending (10 min). Brief closing (5 min).
 
 **Between-session practice.** Daily noticing question: ‘What does the cohort’s honest landing free in me, and what does it ask of me, in the long obedience after the formal series ends?’ Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ (Wk 12 prep — each member arrives ready to bless their pair partner.) The team will distribute the H12.1 sending card during the week as part of pastoral 1:1s.
 
@@ -40,15 +40,15 @@ Week 11
 
 ## WATCH FOR (Week 11 specific risks — read twice)
 
-*Tonight’s risks center on flattering self-assessment, the temptation to land at a level the cohort hopes for rather than the level the cohort actually reached, and the dynamics across the three cohorts when their honest assessments diverge.*
+*Tonight’s risks center on flattering self-assessment, the temptation to land at a level the cohort hopes for rather than the level the cohort actually reached, and the dynamics across the circles when their honest assessments diverge.*
 
 **Flattering self-assessment. The cohort wants to land at Level 4 or 5 — ‘we have done the formation arc; surely we are a Level 4 body.’ The architecture is honest, not flattering. A cohort that did genuine formation at Level 3 has done significant work; calling it Level 4 doesn’t make it Level 4 and undermines the honesty Going Out has built.**
 
 **Comparing to Going Deeper Wk 11’s assessment without honesty. Going Deeper assessment may have landed at Level 3-with-Level-4-emerging; Going Out assessment should not auto-promote without honest data. Sometimes Going Out confirms; sometimes it solidifies; sometimes it reveals Going Deeper’s assessment was generous.**
 
-**Cross-cohort divergence. Junior teens land at Level 3; senior teens land at Level 4-with-tension; parents land at Level 3-with-Level-4-emerging. The body’s overall level is set by the lowest stable common practice, not by the average. The merge integrates honestly; the body lands at one level, even when cohorts saw it differently.**
+**Cross-circle divergence. One circle lands at Level 3; another at Level 4-with-tension; a third at Level 3-with-Level-4-emerging. The body’s overall level is set by the lowest stable common practice, not by the average. The merge integrates honestly; the body lands at one level, even when the circles saw it differently.**
 
-**The cohort that diverges sharply from each other’s readings. Three cohorts arrive at three different levels with no shared frame. This may indicate the cohorts have been in different formation environments — or that one cohort’s reading is unrealistic. The merge’s discipline is honest weighing.**
+**The circles that diverge sharply from each other’s readings. The circles arrive at different levels with no shared frame. This may indicate the circles have been in different formation environments — or that one circle’s reading is unrealistic. The merge’s discipline is honest weighing.**
 
 **The cohort that has regressed from Going Deeper. Going Out may have surfaced material that pulled the cohort back. Honest data; the long obedience continues; pastoral attention to what regression means.**
 
@@ -56,9 +56,9 @@ Week 11
 
 **The Wk 8–9 sending coloring the assessment. The recent sending may inflate the cohort’s sense of itself — ‘we just laid hands on the engagement; we must be a Level 4 body.’ The sending was an event; the level is shared culture. The architecture distinguishes.**
 
-**Honest no for further continuation. The cohort’s assessment may surface that some members are not continuing into Going Deeper round 2 or any further formal cohort work. The level discussion can surface this without resolving it; Wk 12 holds non-continuation honestly. Pastoral support for the not-continuing members.**
+**Honest no for further continuation. The cohort’s assessment may surface that some members are not continuing into what follows the year — the family-year team or any further formal cohort work. The level discussion can surface this without resolving it; Wk 12 holds non-continuation honestly. Pastoral support for the not-continuing members.**
 
-**Cross-cohort family material. A teen and parent in different cohorts arrive at significantly different cohort assessments because their experience of the cohort’s body has been shaped by different cohort spaces. The architecture honors both readings; cross-cohort dynamics held privately.**
+**Cross-circle spouse material. Two spouses in different circles arrive at significantly different assessments because their experience of the body has been shaped by different circle spaces. The architecture honors both readings; the dynamics held privately.**
 
 **Performance of completion. The cohort wants to land somewhere conclusive because Wk 12 is closing. The architecture refuses; honest landing is the work, not summary closure.**
 
@@ -70,15 +70,15 @@ Week 11
 
 **If the cohort’s assessment surfaces that the cohort has been a closed system (gnostic-community danger from Vol 2 Exp 9) without external correction: receive cleanly; the team’s discipline is openness to outside critique; pastoral / leadership conversation outside the session.**
 
-**If a member’s assessment reveals abuse or harm within the cohort across the formation arc (a member harming another, a Companion crossing boundaries): mandatory-reporting law applies where relevant; Section 6 protocol; pastoral / leadership / clinical referrals immediately.**
+**If a member’s assessment reveals abuse or harm within the cohort across the formation arc (a member harming another, a Companion crossing boundaries): mandatory-reporting law applies where relevant; the safeguarding frame governs; pastoral / leadership / clinical referrals immediately.**
 
-**If a senior’s assessment surfaces grief about leaving the cohort just as the cohort has reached a meaningful level: honour the grief; pastoral support for the transition; the cohort’s sending will hold the senior in continued connection.**
+**If a member’s assessment surfaces grief about leaving the cohort just as it has reached a meaningful level (a move, a role change): honour the grief; pastoral support for the transition; the cohort’s sending will hold them in continued connection.**
 
-**If a parent’s assessment surfaces material involving their teen’s formation that crosses pastoral thresholds: cross-cohort pastoral conversation outside the session; mandatory-reporting law applies if appropriate.**
+**If a member’s assessment surfaces material involving another member’s formation or conduct that crosses pastoral thresholds: pastoral conversation outside the session; mandatory-reporting law applies if appropriate.**
 
 **If the cohort’s honest landing is significantly lower than members had hoped: receive cleanly; the disappointment is data; pastoral support; the long obedience continues. Going Out’s formation is real even when the cohort lands lower than expected.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -86,9 +86,9 @@ Week 11
 
 MSFIG names a five-level taxonomy for groups: Social Fellowship (Level 1); Information Sharing (Level 2); Genuine Care (Level 3); Hearing as Body (Level 4); Sent as Body (Level 5). Most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare and requires sustained corporate practice; Level 5 is exceptional and usually emerges from Level 4 over time. The taxonomy is the working frame for tonight’s honest cohort assessment.
 
-Going Deeper Wk 11 walked the cohort through the taxonomy honestly at the close of Going Deeper. The honest assessment then was the foundation for Going Out’s Going Out — the cohort started where it actually landed, not where it imagined itself to be. Tonight repeats the architecture, this time across the full formation arc (Going Deeper plus Going Out). Same structure, deeper engagement: how did the body of cohort members actually develop across two formal series, plus the interlude practice between?
+Going Deeper Wk 11 walked the cohort through the taxonomy honestly at the close of Going Deeper. The honest assessment then was the foundation for Going Out — the cohort started where it actually landed, not where it imagined itself to be. Tonight repeats the architecture, this time across the full formation arc (Going Deeper plus Going Out). Same structure, deeper engagement: how did the body of cohort members actually develop across two formal series, plus the interlude practice between?
 
-The cohort split tonight is honest — each developmental cohort assesses within its own peer group first, because experiences of the body differ across cohorts. Junior teens experienced the cohort’s shared circle and their own cohort’s smaller circle differently than parents did; senior teens at the threshold of leaving experienced the body differently than parents who will likely continue. The merge integrates the three cohort assessments into one body-level reading honestly.
+The circle split tonight is honest — each circle assesses within its own smaller room first, because experiences of the body differ across the room. A first-timer experienced the shared circle and their own circle differently than a twenty-year elder did; a member in transition experienced the body differently than one who will likely continue. The merge integrates the circle assessments into one body-level reading honestly.
 
 The body’s level is set by the lowest stable common practice, not by the average. A cohort with three Level 4 members and twenty Level 2 members is a Level 2 body, not a Level 3 average. The Level 4 members are gifts; the body’s shared culture is what the body actually is. Tonight’s discipline is honest reading of the shared culture, not of the most-advanced individual practice.
 
@@ -102,7 +102,7 @@ Wk 12 next Tuesday closes the formal series with sending. Tonight’s honest lan
 
 **•** Going Deeper Wk 12 sending into the interlude.
 
-**•** All twelve weeks of Going Out Going Out.
+**•** All twelve weeks of Going Out.
 
 **•** Wk 10 individual integration; the body of integrations is the substrate for tonight’s body-level reading.
 
@@ -130,11 +130,11 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **2.** Walk MSFIG’s taxonomy together. Read aloud; discuss criteria for each level. (15 min)
 
-**3.** Cohort review. Each Cohort Companion reports their cohort’s likely reading; the team discusses likely cross-cohort divergence. (20 min)
+**3.** Cohort review. Each Cohort Companion reports their circle’s likely reading; the team discusses likely cross-circle divergence. (20 min)
 
-**4.** Walk the run sheet. The cohort split, the cohort circle articulation, the merge integration. Time discipline. (15 min)
+**4.** Walk the run sheet. The circle split, the circle articulation, the merge integration. Time discipline. (15 min)
 
-**5.** Special cases: members likely to dissent from cohort consensus; cohorts likely to land at significantly different levels; the cohort regression scenario; the gnostic-community concern. (15 min)
+**5.** Special cases: members likely to dissent from the working consensus; circles likely to land at significantly different levels; the cohort regression scenario; the gnostic-community concern. (15 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (3 min)
 
@@ -142,7 +142,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **Logistics pre-work**
 
-**•** Print the Five-Level Assessment Worksheet (H11.1) — one per participant. Used during cohort-split assessment.
+**•** Print the Five-Level Assessment Worksheet (H11.1) — one per participant. Used during circle-split assessment.
 
 **•** Print the Vol 2 Five-Level Taxonomy Reference (H11.2) — one per participant. Detailed criteria for each level.
 
@@ -150,30 +150,30 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **•** Print the Between-Session card (H11.4) — one per participant. Wk 12 prep included.
 
-**•** Three flip charts — one per cohort space.
+**•** A flip chart in each circle space.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: three cohort spaces; shared circle for opening / closing / merge.
+**•** Confirm room layout: circle spaces for circles of four to eight; shared circle for opening / closing / merge.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Three cohort spaces with chairs in small circles. Shared circle for opening / closing / merge.
+**•** Circle spaces with chairs in small circles. Shared circle for opening / closing / merge.
 
 
 **•** Personal Heart Journals.
 
 **•** Whiteboard with 1 Cor 12 and the five-level taxonomy pre-drawn.
 
-**•** Three flip charts.
+**•** Flip charts (one per circle).
 
 **•** Handouts H11.1, H11.2, H11.3, H11.4 stacked at each chair.
 
 **•** Tissues throughout.
 
-**•** Wall clock or timer in each cohort space.
+**•** Wall clock or timer in each circle space.
 
 **•** Crisis Quick-Reference Card in every Companion’s pocket.
 
@@ -186,11 +186,11 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:11 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is honest cohort assessment.’ |
 | 7:11–7:20 | Block 2: 1 Cor 12 + five-level taxonomy (teaching) | Shared circle | Lead Companion | Read passage. Walk the taxonomy briefly; H11.2 walked. |
-| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
-| 7:25–7:53 | Block 3: Cohort-split honest assessment | Cohort circles | Cohort Companions | 30 min: each cohort assesses honestly using H11.1; flip chart capture. |
-| 7:53–8:06 | Block 4: Cohort circle articulates landing | Cohort circles | Cohort Companions | Each cohort lands on its assessment of the body; flip chart final. |
-| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
-| 8:11–8:21 | Block 5: Shared circle merge — the body’s honest level | Shared circle | Lead Companion | Lead integrates three cohort assessments into one body-level reading. |
+| 7:20–7:25 | Transition to circle spaces | All | All Companions | Move into the circles. |
+| 7:25–7:53 | Block 3: Circle-split honest assessment | Circles | Cohort Companions | 30 min: each circle assesses honestly using H11.1; flip chart capture. |
+| 7:53–8:06 | Block 4: The circle articulates its landing | Circles | Cohort Companions | Each circle lands on its assessment of the body; flip chart final. |
+| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Circles merge. |
+| 8:11–8:21 | Block 5: Shared circle merge — the body’s honest level | Shared circle | Lead Companion | Lead integrates the circle assessments into one body-level reading. |
 | 8:21–8:30 | Block 6: Feedback round, bridge to wk 12 and closing | Shared circle | Lead Companion | Aaronic. Wk 12 prep; pair partner blessing question. Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -243,16 +243,16 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **LEVEL 5 — SENT AS BODY. The cohort’s shared hearing produces shared sending. The body engages mission together; the body’s engagement IS the witness. Exceptional; usually emerges from Level 4 over years.**
 
-*“Go to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. The cohort assessment begins after a brief settling.”*
+*“Go to your circle spaces — assignments are on the wall, circles of four to eight, each with its Companion. The circle assessment begins after a brief settling.”*
 
-**Block 3 — Cohort-Split Honest Assessment (7:25–7:53, 28 min, cohort-split)**
+**Block 3 — Circle-Split Honest Assessment (7:25–7:53, 28 min, circle-split)**
 ## Cohort Companion script (90 sec)
 
-*“Your cohort space. Thirty minutes of honest assessment. H11.1 has the worksheet.”*
+*“Your circle space. Thirty minutes of honest assessment. H11.1 has the worksheet.”*
 
-*“We walk three pieces. ONE — silent reading: each of us spends 7 minutes silently with H11.1, marking honestly where you sense the cohort lands on each of the five levels. TWO — cohort circle: 15 minutes for each of us to share briefly — 30–40 seconds — where we read the cohort’s landing AND where we see the cohort’s honest level. THREE — cohort working consensus: 8 minutes to weigh, surface divergence honestly, land on the cohort’s reading of the body’s level. I will capture on flip chart.”*
+*“We walk three pieces. ONE — silent reading: each of us spends 7 minutes silently with H11.1, marking honestly where you sense the cohort lands on each of the five levels. TWO — around the circle: 15 minutes for each of us to share briefly — 30–40 seconds — where we read the body’s landing AND where we see its honest level. THREE — the circle’s working consensus: 8 minutes to weigh, surface divergence honestly, land on this circle’s reading of the body’s level. I will capture on flip chart.”*
 
-*“Two disciplines. Honest about the body, not the most-advanced individual. The body’s level is the LOWEST STABLE COMMON PRACTICE. AND — honest range: this cohort’s reading may differ from the others; the merge will integrate.”*
+*“Two disciplines. Honest about the body, not the most-advanced individual. The body’s level is the LOWEST STABLE COMMON PRACTICE. AND — honest range: this circle’s reading may differ from the others; the merge will integrate.”*
 
 *“Begin with 7 minutes silent. I will signal the transitions.”*
 
@@ -262,47 +262,47 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **During silent reading: visible, available, but does not interpret.**
 
-**During cohort circle sharing: captures readings on flip chart in three columns: ‘INDIVIDUAL READING / SUPPORTING DATA / CONFIDENCE’.**
+**During the circle sharing: captures readings on flip chart in three columns: ‘INDIVIDUAL READING / SUPPORTING DATA / CONFIDENCE’.**
 
-**During working consensus: facilitates honest weighing. ‘We have \_\_\_ readings of Level 3, \_\_\_ of Level 4, \_\_\_ in between. Where does this cohort land in its honest assessment of the body?’ The cohort’s working consensus is what this cohort thinks the BODY is, not what each member is.**
+**During working consensus: facilitates honest weighing. ‘We have \_\_\_ readings of Level 3, \_\_\_ of Level 4, \_\_\_ in between. Where does this circle land in its honest assessment of the body?’ The circle’s working consensus is what this circle thinks the BODY is, not what each member is.**
 
-**If member-level dissent surfaces (a member who reads the body significantly lower or higher than the cohort’s working consensus): receive cleanly; capture on flip chart explicitly; the merge holds the dissent.**
+**If member-level dissent surfaces (a member who reads the body significantly lower or higher than the circle’s working consensus): receive cleanly; capture on flip chart explicitly; the merge holds the dissent.**
 
-**If the cohort cannot reach working consensus: that is data; capture as ‘Cohort sees body at Level 3 OR Level 4 with honest divergence.’ The merge engages.**
+**If the circle cannot reach working consensus: that is data; capture as ‘Circle sees body at Level 3 OR Level 4 with honest divergence.’ The merge engages.**
 
 **Time discipline: 7 / 15 / 8 minutes; total 30.**
 
-**Block 4 — Cohort Circle Articulates Landing (7:53–8:06, 13 min, cohort-split)**
+**Block 4 — The Circle Articulates Its Landing (7:53–8:06, 13 min, circle-split)**
 ## Cohort Companion script (60 sec)
 
-*“Our cohort’s articulation. We landed on \_\_\_\_\_. The supporting data: \_\_\_\_\_. The honest divergence (if any): \_\_\_\_\_. The honest comparison to Going Deeper Wk 11: confirms / refines / reveals Going Deeper was generous / reveals Going Deeper was harsh.”*
+*“Our circle’s articulation. We landed on \_\_\_\_\_. The supporting data: \_\_\_\_\_. The honest divergence (if any): \_\_\_\_\_. The honest comparison to Going Deeper Wk 11: confirms / refines / reveals Going Deeper was generous / reveals Going Deeper was harsh.”*
 
-*“Each of you, briefly: ONE sentence about how this articulation lands in you. Confirm; gentle dissent; partial agreement. The cohort’s articulation is not unanimous — it is the cohort’s working consensus held with honest range.”*
+*“Each of you, briefly: ONE sentence about how this articulation lands in you. Confirm; gentle dissent; partial agreement. The circle’s articulation is not unanimous — it is the circle’s working consensus held with honest range.”*
 
-*(Around the cohort. 30 seconds per member. Cohort Companion captures any dissents on flip chart.)*
+*(Around the circle. 30 seconds per member. Cohort Companion captures any dissents on flip chart.)*
 
-*“Good. Our cohort’s flip chart will go to the merge.”*
+*“Good. Our circle’s flip chart will go to the merge.”*
 
 ## Articulation discipline
 
-**The articulation includes the LEVEL the cohort lands on AND the supporting data AND honest divergence AND comparison to Going Deeper.**
+**The articulation includes the LEVEL the circle lands on AND the supporting data AND honest divergence AND comparison to Going Deeper.**
 
-**If a cohort lands at a different level than expected (significantly higher or lower than the team’s pre-meet read): receive cleanly; the cohort’s reading is the cohort’s reading; the merge engages.**
+**If a circle lands at a different level than expected (significantly higher or lower than the team’s pre-meet read): receive cleanly; the circle’s reading is the circle’s reading; the merge engages.**
 
-**If the cohort’s articulation reveals significant material the cohort space cannot adjudicate (the cohort sees harm in the formation arc, the cohort sees regression, the cohort sees stagnation): pastoral attention immediately after the session.**
+**If the circle’s articulation reveals significant material the circle space cannot adjudicate (the circle sees harm in the formation arc, regression, stagnation): pastoral attention immediately after the session.**
 
 **Block 5 — Shared Circle Merge (8:11–8:21, 10 min)**
 ## Lead Companion script
 
-*“Three flip charts. Three cohort assessments. The body’s honest level.”*
+*“The flip charts — one from each circle. The body’s honest level.”*
 
-*(Lead Companion stands by the three flip charts; reads the cohort articulations briefly.)*
+*(Lead Companion stands by the flip charts; reads the circle articulations briefly.)*
 
-*“Junior teens read the body at \_\_\_\_\_. Senior teens read the body at \_\_\_\_\_. Parents read the body at \_\_\_\_\_. Honest divergence (if any): \_\_\_\_\_.”*
+*“One circle reads the body at \_\_\_\_\_. Another at \_\_\_\_\_. Another at \_\_\_\_\_. Honest divergence (if any): \_\_\_\_\_.”*
 
-*“The body’s honest level. The lowest stable common practice across all three cohorts. What I read across the three flip charts is \_\_\_\_\_.”*
+*“The body’s honest level. The lowest stable common practice across all the circles. What I read across the flip charts is \_\_\_\_\_.”*
 
-*(The Lead Companion names the body’s integrated level honestly. Specific. Drawn from the three cohort assessments. May acknowledge tension where the cohorts genuinely diverge.)*
+*(The Lead Companion names the body’s integrated level honestly. Specific. Drawn from the circle assessments. May acknowledge tension where the circles genuinely diverge.)*
 
 *“How it compares to Going Deeper Wk 11. Going Deeper landing: \_\_\_\_\_. Going Out landing: \_\_\_\_\_. The honest movement across the formation arc: \_\_\_\_\_.”*
 
@@ -337,45 +337,47 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 *“See you Tuesday — the closing.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
+*Tonight splits into circles of four to eight for the honest assessment. The Cohort Companions read their own circle’s members through the reading, the sharing, and the working consensus.*
 
-## Adjustments
-
-**Junior teens often experience the cohort concretely. Their reading of the body’s level is shaped by specific moments — specific weeks that landed; specific Cohort Companion moments; specific shared experiences. Honour the concrete reading.**
-
-**Watch for: junior teens who under-read the body because they remember confusing weeks more vividly than landed weeks. Cohort Companion offers gentle data: ‘Remember Wk 5 when we did the household work; remember Wk 8 when the cohort discerned together — those landed.’**
-
-**Watch for: junior teens who over-read the body because the laying-on-of-hands in Wk 9 was emotionally significant. Distinguish between event and shared culture; events are real but the level is the shared culture.**
-
-**Watch for: junior teens whose reading reveals concerns about specific Cohort Companion or peer dynamics. Pastoral 1:1; mandatory-reporting law applies if abuse is involved.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often have developed assessment vocabulary. Their reading may be theologically articulate. Receive cleanly; the architecture’s discipline applies.**
+**First-timers often read the body concretely — specific weeks that landed, specific Companion moments, specific shared experiences. Honour the concrete reading; it is often the most honest data in the room.**
 
-**Watch for: the senior who reads the body higher than the cohort consensus. The senior may have experienced the body at a higher level because of specific senior-cohort dynamics; or may be inflating because of grief about leaving. Honour both possibilities.**
+**Watch for: the first-timer who under-reads the body because they remember confusing weeks more vividly than landed weeks. Cohort Companion offers gentle data: ‘Remember the household week; remember the discernment night — those landed.’**
 
-**Watch for: the senior who reads the body lower than the cohort consensus. May reflect the senior’s honest experience that the body did not meet what they hoped; may reflect transition-grief affecting the assessment. Pastoral 1:1.**
+**Watch for: the first-timer who over-reads the body because the laying-on-of-hands was emotionally significant. Distinguish between event and shared culture; events are real but the level is the shared culture.**
 
-**Watch for: the senior whose Wk 10 Discerner role from Going Deeper colors the assessment. The Discerner has been deeply embedded in the body’s discernment; their reading may carry weight; may also reflect their own experience more than the body’s.**
+**Watch for: the first-timer whose reading reveals concerns about a specific Companion or member dynamic. Pastoral 1:1; mandatory-reporting law applies if abuse is involved.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often have the broadest comparative frame — they have been part of more groups, more communities, more long-running formation contexts. Their reading carries comparative weight.**
+**Veterans often have the broadest comparative frame — they have been part of more groups, more communities, more long-running formation contexts. Their reading carries comparative weight.**
 
-**Watch for: the parent who reads the body lower because of comparison to other formation communities they have been in. Receive cleanly; the comparison may be honest data; may also be unfair to this cohort’s specific shape.**
+**Watch for: the veteran who reads the body lower because of comparison to other formation communities they have been in. Receive cleanly; the comparison may be honest data; may also be unfair to this cohort’s specific shape.**
 
-**Watch for: the parent who reads the body higher because Going Out’s mission far engagement felt significant. The engagement is real; the body’s level is shared culture across the formation arc, not a single arc of weeks.**
+**Watch for: the veteran who reads the body higher because the mission-far engagement felt significant. The engagement is real; the body’s level is shared culture across the formation arc, not a single arc of weeks.**
 
-**Watch for: the parent whose teen’s formation is the dominant frame for the parent’s assessment. Cross-cohort awareness; the parent’s reading should be of the body, not the parent’s satisfaction with the teen’s development.**
+**Watch for: the veteran whose upcoming transition colors the assessment — grief about leaving can inflate or deflate the read. Honour both possibilities; pastoral 1:1 if the grief is significant.**
 
-**Watch for: the parent whose vocational connection to the work (church staff, ministry leader, teacher) colors the assessment. Their reading carries professional weight; the architecture honors but does not give over to the credentialed reading.**
+**Watch for: the veteran whose Wk 10 Discerner role from Going Deeper colors the assessment. The Discerner has been deeply embedded in the body’s discernment; their reading may carry weight; may also reflect their own experience more than the body’s.**
+
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained have often evaluated groups for a living. The credentialed reading carries professional weight; the architecture honors it but does not hand the room to it — the housekeeper’s read of the body counts the same as the consultant’s.**
+
+**Watch for: the leader who reads the body as a report on their own leadership — a low landing arrives as personal failure, a high landing as vindication. The body’s level is not the leader’s grade; the Cohort Companion names the distinction gently if it operates.**
+
+**Watch for: the leader whose vocational connection to the work (church staff, ministry leadership) colors the assessment toward what the program needs the answer to be. Honest reading serves the program better than a flattering one; the architecture says so out loud.**
+
+**Watch for: the leader for whom a low honest landing produces despair about the year. Receive cleanly; a body that lands honestly at Level 3 has done significant work; pastoral support; the long obedience continues.**
 
 **Closing Practice in Detail**
 
@@ -399,11 +401,11 @@ The team meets the day after Wk 11 for a 75-minute debrief (longer because of ar
 
 **Signs the session worked**
 
-**•** The cohort-split assessments produced honest readings within each cohort; flattering self-assessment was named when it appeared and resisted.
+**•** The circle-split assessments produced honest readings within each circle; flattering self-assessment was named when it appeared and resisted.
 
-**•** The cohort circle articulations honored honest divergence within each cohort.
+**•** The circle articulations honored honest divergence within each circle.
 
-**•** The merge integrated three cohort assessments into one body-level reading honestly.
+**•** The merge integrated the circle assessments into one body-level reading honestly.
 
 **•** The body’s honest landing was named clearly, with the comparison to Going Deeper Wk 11 specific.
 
@@ -411,9 +413,9 @@ The team meets the day after Wk 11 for a 75-minute debrief (longer because of ar
 
 **Signs the session did not work as well**
 
-**•** The cohort-split assessments produced flattering self-assessment that the architecture did not surface.
+**•** The circle-split assessments produced flattering self-assessment that the architecture did not surface.
 
-**•** Cross-cohort divergence was suppressed in the merge to produce false consensus.
+**•** Cross-circle divergence was suppressed in the merge to produce false consensus.
 
 **•** The body’s honest level was inflated or deflated in the merge; the Lead Companion did not hold the architecture.
 
@@ -427,13 +429,13 @@ The team meets the day after Wk 11 for a 75-minute debrief (longer because of ar
 
 **•** Anyone whose assessment surfaced acute disillusionment, grief, or concern.
 
-**•** Any senior whose grief about leaving is significant.
+**•** Any member whose grief about leaving is significant.
 
-**•** Any parent whose teen’s formation surfaced concerns in the parent’s assessment.
+**•** Any member whose assessment surfaced concerns about another member’s formation or conduct.
 
 **•** Anyone whose laying-on-of-hands in Wk 9 has produced complications surfacing tonight.
 
-**•** Any cohort member whose continuation into Going Deeper round 2 is now in question.
+**•** Any cohort member whose continuation into what follows the year is now in question.
 
 **•** The whole team — the team has now held both Going Deeper Wk 11 and Going Out Wk 11; the architectural weight is significant.
 
@@ -451,7 +453,7 @@ Four handouts for Wk 11.
 
 **Handout H11.1 — Five-Level Assessment Worksheet**
 
-*Used during cohort-split assessment in Block 3. Each member completes silently; cohort weighs together.*
+*Used during circle-split assessment in Block 3. Each member completes silently; the circle weighs together.*
 
 **Read each level. For each, mark whether the cohort’s shared culture meets that level CONSISTENTLY (not just in best moments).**
 
@@ -599,7 +601,7 @@ Your Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ## The body sent into the long obedience
 
-**Wk 12 is the formal series’ close. The architecture: brief teaching frame; standing-pair specific blessings spoken aloud; cohort circle Aaronic spoken together by the body; sending card given; bridge to whatever continues (Going Deeper round 2 for some; honest non-continuation for others; long obedience for all).**
+**Wk 12 is the formal series’ close. The architecture: brief teaching frame; standing-pair specific blessings spoken aloud; the Aaronic spoken together by the body; sending card given; bridge to whatever continues (the family-year team for some; honest non-continuation for others; long obedience for all).**
 
 **Bring the specific blessing you want to speak over your pair partner. Witnessed transformation; what you saw in them across the formation arc; what is true about who they are now.**
 
