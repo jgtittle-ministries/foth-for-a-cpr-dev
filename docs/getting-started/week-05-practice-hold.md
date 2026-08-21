@@ -18,6 +18,8 @@ So the structure lets go for two weeks, on purpose, to find out what holds.
 
 ## What happens when we return
 
+And carry the room’s question with you — keep, change, tell — sent home with you on no paper at the last session. We answer it together when we return.
+
 Week 6 opens with the what-held round: what continued, what lapsed, and what surprised you. Say it straight. In this fellowship, *"it lapsed by Thursday, and I noticed I missed it"* is not a confession of failure — it is exactly the kind of true, slightly costly telling this whole work exists to make normal. A lapsed practice honestly reported already costs something, and it counts.
 
 Nobody is graded. The room is not graded. We are simply finding out, together, what two unheld weeks reveal — because that is the most truthful mirror this series owns.

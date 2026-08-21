@@ -142,19 +142,18 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic. 60-second silent settle. One-word landings. |
-| 7:08–7:13 | Block 2: Wk 1 check-in | Shared circle | Lead Comp | Brief check on the rhythm card resumed; Connect-pick observations from the week. Voluntary. |
-| 7:13–7:30 | Block 3: Mark 4:14–20 — the parable as diagnostic | Shared circle | Lead Comp | Read the passage. Walk Jesus’ own interpretation. Re-frame the four soils as four regions, not four people. |
-| 7:30–7:35 | Block 4: Bridge to split + Jeremiah 17:9 | Shared circle | Lead Comp | Frame the cohort exercise. Read Jeremiah 17:9 as the harder companion. Pray. Split. |
-| 7:35–8:13 | Block 5: The four-places mapping in cohort circles | Cohort circles | Cohort Facs | 20 min quiet writing; 18 min sharing in the cohort circle. |
-| 8:13–8:22 | Block 6: Merge and surface | Shared circle | Lead Comp | One observation per cohort. Brief integration. |
-| 8:22–8:27 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Sit with one soil region 30 min this week. |
-| 8:27–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Send. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic. 60-second silent settle. One-word landings. |
+| 7:07–7:15 | Block 2: Wk 1 check-in | Shared circle | Lead Comp | Brief check on the rhythm card resumed; Connect-pick observations from the week. Voluntary. |
+| 7:15–7:29 | Block 3: Mark 4:14–20 — the parable as diagnostic | Shared circle | Lead Comp | Read the passage. Walk Jesus’ own interpretation. Re-frame the four soils as four regions, not four people. |
+| 7:29–7:34 | Block 4: Bridge to split + Jeremiah 17:9 | Shared circle | Lead Comp | Frame the cohort exercise. Read Jeremiah 17:9 as the harder companion. Pray. Split. |
+| 7:34–8:10 | Block 5: The four-places mapping in cohort circles | Cohort circles | Cohort Facs | 20 min quiet writing; 18 min sharing in the cohort circle. |
+| 8:10–8:18 | Block 6: Merge and surface | Shared circle | Lead Comp | One observation per cohort. Brief integration. |
+| 8:18–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Sit with one soil region 30 min this week. |
+| 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Send. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
-
+## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome back. Settle.”*
@@ -165,16 +164,18 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 *“Tonight we begin the diagnostic block. Wks 2 and 3 are the heart of what ‘going deeper’ means in this series — looking at the interior with the kind of honesty that Getting Started touched lightly. Tonight: the four soils, used as a working diagnostic.”*
 
-## **Block 2 — Wk 1 Check-in (7:08–7:13, 5 min)**
-
+## **Block 2 — Wk 1 Check-in (7:07–7:15, 8 min)**
 ## Script
 
 *“Last week we recommitted. Each of you picked a Connect to attend more carefully across the next eleven weeks. Anyone want to say one sentence about how attending to that Connect went this week? Three to four voluntary contributions.”*
 
 *(Receive without commentary. Move on with: ‘Good. We continue.’)*
 
-## **Block 3 — Mark 4:14–20 — The Parable as Diagnostic (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Mark 4:14–20 — The Parable as Diagnostic (7:15–7:29, 14 min)**
 Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from Getting Started.
 
 ## Script (the read)
@@ -211,8 +212,7 @@ Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from G
 
 • Why this matters. The clearing work of the rest of Going Deeper — the knot work of Wk 3, confession of Wk 5, the tools of Vol 2 Exp 6 — each works on one or more of these soil conditions. Knowing which condition is operating in which region tells you which tool the Spirit is most likely going to use.
 
-## **Block 4 — Bridge to Split + Jeremiah 17:9 (7:30–7:35, 5 min)**
-
+## **Block 4 — Bridge to Split + Jeremiah 17:9 (7:29–7:34, 5 min)**
 ## Script
 
 *“Before we split, one harder verse. The companion text for tonight’s diagnostic.”*
@@ -233,8 +233,7 @@ Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from G
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
 
-## **Block 5 — The Four-Places Mapping in Cohort Circles (7:35–8:13, 38 min)**
-
+## **Block 5 — The Four-Places Mapping in Cohort Circles (7:34–8:10, 36 min)**
 Each cohort circle works in parallel. The structure is identical.
 
 ### **Inside the cohort circle — Companion script**
@@ -270,8 +269,7 @@ Each cohort circle works in parallel. The structure is identical.
 - If a new participant freezes when their turn comes — ‘You can pass and listen, or you can name just one of the four places. Both work.’ No pressure.
 - If the cohort wants to coach each other (‘Have you tried \_\_\_\_\_?’) — redirect: ‘Tonight is diagnostic. We are not fixing yet. We are seeing.’
 
-## **Block 6 — Merge and Surface (8:13–8:22, 9 min)**
-
+## **Block 6 — Merge and Surface (8:10–8:18, 8 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
@@ -284,8 +282,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“One thing to remember. The diagnostic is not the end. Tonight you have data; the next ten weeks engage what the data revealed. The hard-path you named tonight is not a verdict; it’s a starting place.”*
 
-## **Block 7 — Between-Session Practice (8:22–8:27, 5 min)**
-
+## **Block 7 — Between-Session Practice (8:18–8:23, 5 min)**
 ## Script
 
 *“Here’s the practice this week. Pick ONE of your four places — the one that surfaced most clearly tonight. Could be your most-surprising good soil, your hardest hard-path, your most-thorny region. The one that is alive in you right now.”*
@@ -302,10 +299,13 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“The rhythm card continues. The morning question, the evening note. Hebrews 12:1–2 once a day.”*
 
-## **Block 8 — Closing Container (8:27–8:30, 3 min)**
-
+## **Block 8 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What you saw tonight is honest data. Carry it gently this week. Some of what surfaced will deepen across the days; some will shift before next Tuesday; both are normal.”*
 
 *“If anything that surfaced is heavier than tonight could hold — a relationship in actual crisis, a hardness you didn’t see coming, a region that produced grief — please reach out. The team is walking with you.”*

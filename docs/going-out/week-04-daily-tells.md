@@ -174,18 +174,17 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we look at our daily witness honestly.’ |
-| 7:08–7:23 | Block 2: Three-mode teaching frame | Shared circle | Lead Companion | Read John 13:35, 1 Peter 3:15, Col 4:5–6. Three modes of witness. |
+| 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we look at our daily witness honestly.’ |
+| 7:11–7:23 | Block 2: Three-mode teaching frame | Shared circle | Lead Companion | Read John 13:35, 1 Peter 3:15, Col 4:5–6. Three modes of witness. |
 | 7:23–7:30 | Block 3: Worksheet preparation | Shared circle | Cohort Companions float | 7 min silent: each member fills H4.1 with ONE specific Tell. |
-| 7:30–8:10 | Block 4: Cohort survey around the circle | Shared circle | Lead Companion | Each member 90 sec; Lead captures on flip chart in real time. |
-| 8:10–8:20 | Block 5: Pattern naming + cohort weighing | Shared circle | Lead Companion | Lead names patterns from the flip chart; cohort weighs. |
-| 8:20–8:25 | Block 6: Wks 5–6 differentiation introduced | Shared circle | Lead Companion | Household (Wk 5) / vocational (Wk 6); H4.3 walked briefly. |
-| 8:25–8:30 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. This week’s Tell is household-domain. Send. |
+| 7:30–8:08 | Block 4: Cohort survey around the circle | Shared circle | Lead Companion | Each member 90 sec; Lead captures on flip chart in real time. |
+| 8:08–8:16 | Block 5: Pattern naming + cohort weighing | Shared circle | Lead Companion | Lead names patterns from the flip chart; cohort weighs. |
+| 8:16–8:21 | Block 6: Wks 5–6 differentiation introduced | Shared circle | Lead Companion | Household (Wk 5) / vocational (Wk 6); H4.3 walked briefly. |
+| 8:21–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. This week’s Tell is household-domain. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -200,8 +199,11 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Three-Mode Teaching Frame (7:08–7:23, 15 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Three-Mode Teaching Frame (7:11–7:23, 12 min)**
 ## Script (the read)
 
 *“Three passages frame what we are looking at tonight. Listen.”*
@@ -237,7 +239,6 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 *“Tonight’s data look will reveal which modes our cohort uses, which we underuse, and what the patterns mean. We are not grading; we are seeing.”*
 
 **Block 3 — Worksheet Preparation (7:23–7:30, 7 min)**
-
 ## Script
 
 *“Seven minutes of silent writing. H4.1 has a brief survey for ONE specific Tell from the past three weeks. The most honest one, not the most polished. If you had multiple, choose the one that revealed the most about your witness practice — the most awkward, the most surprising, the most costly, the most unfinished.”*
@@ -252,8 +253,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 **Co-Companion holds time. At 5 min: gentle reminder. At 6 min 30 sec: “Thirty seconds.”**
 
-**Block 4 — Cohort Survey Around the Circle (7:30–8:10, 40 min)**
-
+**Block 4 — Cohort Survey Around the Circle (7:30–8:08, 38 min)**
 ## Lead Companion script (90 sec)
 
 *“Around the circle. Each of us, briefly — about 90 seconds.”*
@@ -284,8 +284,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 **If multiple members had no Tell: capture honestly in the flip chart’s margin (‘6 members no Tell’). Honest data.**
 
-**Block 5 — Pattern Naming + Cohort Weighing (8:10–8:20, 10 min)**
-
+**Block 5 — Pattern Naming + Cohort Weighing (8:08–8:16, 8 min)**
 ## Lead Companion script
 
 *“What the flip chart shows.”*
@@ -306,8 +305,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“We hold the picture. Wks 5 and 6 differentiate by domain.”*
 
-**Block 6 — Wks 5–6 Differentiation (8:20–8:25, 5 min)**
-
+**Block 6 — Wks 5–6 Differentiation (8:16–8:21, 5 min)**
 ## Lead Companion script
 
 *“Wks 5 and 6 differentiate the daily witness by domain. H4.3 has the reference card.”*
@@ -320,10 +318,13 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes.
 
 *“This week’s Tell is in the household domain. Specifically: in your household or family-of-origin, where might you already be a witness, and where might you be avoiding being one? The Tell can be small — a specific honest exchange, a specific named-and-addressed dynamic, a specific witnessed prayer over a meal. Bring the data to Wk 5.”*
 
-**Block 7 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word from each of you, around the circle. How does this evening’s data look land in you?”*
 
 *(Around the circle. 5 seconds per person.)*

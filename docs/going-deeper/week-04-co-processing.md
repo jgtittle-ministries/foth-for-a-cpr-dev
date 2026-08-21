@@ -186,20 +186,19 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Container reframe. Frame: ‘Tonight the room is the practice.’ |
-| 7:08–7:15 | Block 2: Wk 3 landing + standing-pair check | Shared circle | Lead Comp | One word about how the named knot lived this week. Pair partners briefly named to room. |
-| 7:15–7:30 | Block 3: 1 Cor 12 + co-processing teaching | Shared circle | Lead Comp | Read passage. Teach co-processing. Frame the demonstrations to come. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Container reframe. Frame: ‘Tonight the room is the practice.’ |
+| 7:07–7:17 | Block 2: Wk 3 landing + standing-pair check | Shared circle | Lead Comp | One word about how the named knot lived this week. Pair partners briefly named to room. |
+| 7:17–7:30 | Block 3: 1 Cor 12 + co-processing teaching | Shared circle | Lead Comp | Read passage. Teach co-processing. Frame the demonstrations to come. |
 | 7:30–7:45 | Block 4: Demonstration round 1 (teen volunteer) | Shared circle | Lead Companion + Volunteer | 8 min volunteer work in the centre chairs; 7 min surfacing of what came up in parallel. |
-| 7:45–7:55 | Block 5: Brief teaching reflection | Shared circle | Lead Comp | What just happened. Why the silent work matters as much as the visible work. |
-| 7:55–8:10 | Block 6: Demonstration round 2 (parent volunteer) | Shared circle | Lead Companion + Volunteer | 8 min in centre; 7 min surfacing. |
-| 8:10–8:20 | Block 7: Closing teaching + integration | Shared circle | Lead Comp | Co-processing as the working frame for Wks 7, 8, 10. The cohort as a working instrument. |
-| 8:20–8:25 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Co-Processing Journal entry; pair check-ins continue. |
-| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Aaronic. Send. Frame Wk 5 (Confession in standing pairs). |
+| 7:45–7:53 | Block 5: Brief teaching reflection | Shared circle | Lead Comp | What just happened. Why the silent work matters as much as the visible work. |
+| 7:53–8:08 | Block 6: Demonstration round 2 (parent volunteer) | Shared circle | Lead Companion + Volunteer | 8 min in centre; 7 min surfacing. |
+| 8:08–8:16 | Block 7: Closing teaching + integration | Shared circle | Lead Comp | Co-processing as the working frame for Wks 7, 8, 10. The cohort as a working instrument. |
+| 8:16–8:21 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Co-Processing Journal entry; pair check-ins continue. |
+| 8:21–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Send. Frame Wk 5 (Confession in standing pairs). |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -216,8 +215,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 *“Container reminder: what is named in the centre stays in this room. The volunteers have agreed to bring real material into a public space; we receive it as the gift it is. We do not applaud. We do not interpret. We bear witness in silence.”*
 
-**Block 2 — Wk 3 Landing + Standing-Pair Check (7:08–7:15, 7 min)**
-
+**Block 2 — Wk 3 Landing + Standing-Pair Check (7:07–7:17, 10 min)**
 ## Script
 
 *“Last Tuesday you named a specific knot type in your own interior. You also got your standing pair partner. One question, briefly, around the circle. One word about how it has been to sit with the named knot daily for 5 minutes this week. Pass anytime.”*
@@ -236,8 +234,11 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 *Watch for: the participant whose hand stays down on the standing-pair question. Cohort Companion follow-up offline this week — most often it is logistics (lost the phone number, the pair didn’t click yet) rather than disengagement.*
 
-**Block 3 — 1 Corinthians 12 and Co-Processing (7:15–7:30, 15 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — 1 Corinthians 12 and Co-Processing (7:17–7:30, 13 min)**
 ## Script (the read)
 
 *“Tonight’s scripture is from 1 Corinthians 12. Listen.”*
@@ -273,7 +274,6 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 **Do not pray for the volunteer in your head while they are speaking. The Lead Companion and the Cohort Companions are doing that. You are doing the parallel work. Different jobs.**
 
 **Block 4 — Demonstration Round 1 (Teen Volunteer) (7:30–7:45, 15 min)**
-
 The teen volunteer comes to one of the two centre chairs. The Lead Companion takes the other. The rest of the room re-orients to face the centre — the chairs were already arranged so that this requires only a small turn, not a full re-formation.
 
 ## Lead Companion script — opening (90 sec)
@@ -306,8 +306,7 @@ The teen volunteer comes to one of the two centre chairs. The Lead Companion tak
 
 *Watch for: the participant who tries to give the volunteer feedback (‘what helped me about what you said was...’). Redirect: ‘We are not commenting on the volunteer’s work. We are naming what came up in us. Try again from that angle, or pass.’*
 
-**Block 5 — Brief Teaching Reflection (7:45–7:55, 10 min)**
-
+**Block 5 — Brief Teaching Reflection (7:45–7:53, 8 min)**
 ## Script
 
 *“What just happened is the thing I was teaching about ten minutes ago. Take a moment to notice it.”*
@@ -320,8 +319,7 @@ The teen volunteer comes to one of the two centre chairs. The Lead Companion tak
 
 *“One more piece of work to do tonight. Same shape, second volunteer.”*
 
-**Block 6 — Demonstration Round 2 (Parent Volunteer) (7:55–8:10, 15 min)**
-
+**Block 6 — Demonstration Round 2 (Parent Volunteer) (7:53–8:08, 15 min)**
 Identical structure to Block 4. The parent volunteer takes the centre chair; the Lead Companion takes the other. The same opening, same volunteer-piece rhythm (≈6 min), same surfacing round (≈7 min).
 
 Two notes specific to round 2:
@@ -342,8 +340,7 @@ Two notes specific to round 2:
 
 **This case is rare; in most pilots it will not arise. Plan for it explicitly in the team pre-meet and you will not be improvising.**
 
-**Block 7 — Closing Teaching and Integration (8:10–8:20, 10 min)**
-
+**Block 7 — Closing Teaching and Integration (8:08–8:16, 8 min)**
 ## Script
 
 *“Two volunteers. About twelve minutes of visible work between them. About fourteen minutes of surfacing across the room. Many more minutes of silent work that none of us will ever see, including in the volunteers themselves while they were not the visible one.”*
@@ -354,8 +351,7 @@ Two notes specific to round 2:
 
 *“One last word about Wk 5. Next Tuesday, the room comes back into cohort circles. Standing pairs do confession-and-restoration with each other in the cohort space. The frame is James 5:16 — ‘confess your sins to one another and pray for one another, that you may be healed.’ The architecture and the framing matter; we will walk it in detail next week. For tonight, just notice: tonight’s co-processing is the corporate frame inside which the more intimate pair work of next week happens. The room held tonight; the pair holds next week. Both are needed.”*
 
-**Block 8 — Between-Session Practice (8:20–8:25, 5 min)**
-
+**Block 8 — Between-Session Practice (8:16–8:21, 5 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Four pieces of practice this week.”*
@@ -368,10 +364,13 @@ Two notes specific to round 2:
 
 *“Four. The morning question and evening note continue. Hebrews 12:1–2 once a day.”*
 
-**Block 9 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 9 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened tonight was real. The volunteers did brave work; the room did parallel work; the Spirit was here.”*
 
 *“If anything that surfaced for you is heavier than tonight could hold, please reach out. Your standing pair this week is the first stop; the Cohort Companions are the second; the Lead Companion is the third. We are walking with you.”*

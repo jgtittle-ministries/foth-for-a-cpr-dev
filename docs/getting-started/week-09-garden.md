@@ -143,19 +143,18 @@ Forty-eight hours before Week 9, the Companion team meets for forty-five minutes
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Mid-Series Pulse returns (from Week 8) collected in the bin. Quieter than usual. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
-| 7:10–7:15 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
-| 7:15–7:32 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
-| 7:32–7:35 | Block 4: Bridge to split | Shared circle | Lead Comp | Pray. Split. |
-| 7:35–8:05 | Block 5: The Garden exercise in cohort circles | Cohort circles | Cohort Facs | Guided imaginative prayer (12–15 min); silent journaling (5 min); sharing by invitation only (10–12 min). |
-| 8:05–8:18 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Honor the texture. One-word landings, optional. Receive without commentary. |
-| 8:18–8:25 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Three returns to the garden this week. Brief, journaled. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
+| 7:08–7:16 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
+| 7:16–7:30 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
+| 7:30–7:33 | Block 4: Bridge to split | Shared circle | Lead Comp | Pray. Split. |
+| 7:33–8:03 | Block 5: The Garden exercise in cohort circles | Cohort circles | Cohort Facs | Guided imaginative prayer (12–15 min); silent journaling (5 min); sharing by invitation only (10–12 min). |
+| 8:03–8:14 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Honor the texture. One-word landings, optional. Receive without commentary. |
+| 8:14–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Three returns to the garden this week. Brief, journaled. |
+| 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:10, 10 min)
-
+## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
 Tonight’s opening is quieter than other weeks. Match the tone of what is coming.
 
 ## Script
@@ -170,16 +169,18 @@ Tonight’s opening is quieter than other weeks. Match the tone of what is comin
 
 *“Container reminders: what is said here stays here. Nothing is required — not even doing the exercise. Listen to receive.”*
 
-## Block 2 — Week 7 Check-in (7:10–7:15, 5 min)
-
+## Block 2 — Week 7 Check-in (7:08–7:16, 8 min)
 ## Script
 
 *“Last week we walked PROAPT — a six-step practice for hearing God in scripture. Some of you have been doing it daily. Anyone want to say one sentence about how that practice has been?”*
 
 *(Take 3–4 voluntary contributions. Keep this brief. Tonight’s arc needs the time later.)*
 
-## Block 3 — Scripture and Framing (7:15–7:32, 17 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — Scripture and Framing (7:16–7:30, 14 min)
 Read both passages slowly. Then frame the practice. The framing here is critical — do not skip the skepticism portion. The frame is the work.
 
 ## Script (the read)
@@ -214,8 +215,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 *“If at any point you feel something is happening that is not consistent with scripture, set it aside. We are not pretending; we are receiving. The Spirit is the teacher. We are the students.”*
 
-## Block 4 — Bridge to the Split (7:32–7:35, 3 min)
-
+## Block 4 — Bridge to the Split (7:30–7:33, 3 min)
 ## Script
 
 *“Here is what is going to happen for the next half-hour. We are going to split into our cohort circles. In each circle, your Companion is going to walk you through a guided imaginative prayer — about twelve to fifteen minutes. They will read it slowly. Your eyes can be closed or open; either is fine.”*
@@ -226,8 +226,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty minutes. Quieter than usual on the way out.”*
 
-## Block 5 — The Garden Exercise in Cohort Circles (7:35–8:05, 30 min)
-
+## Block 5 — The Garden Exercise in Cohort Circles (7:33–8:03, 30 min)
 Each cohort circle runs in parallel. The Companion reads the guided prayer (Handout H9.1) slowly. The full text of the script is in the handout; what follows here is the structure and the timing.
 
 ### Structure inside the cohort circle
@@ -263,8 +262,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 - If a participant softly cries during the exercise, do not stop. The tears are often the work.
 - If a participant’s body language goes hard — fists clenched, jaw tight, breath shallow — quietly check after the exercise. Do not interrupt the read.
 
-## Block 6 — Merge and One-Word Landing (8:05–8:18, 13 min)
-
+## Block 6 — Merge and One-Word Landing (8:03–8:14, 11 min)
 ## Script
 
 *“Welcome back. Take a breath. Find your seat.”*
@@ -277,8 +275,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 *“Thank you. Whatever happened tonight is yours. Some of it will keep happening across the week. Some of it will quietly do its work in places you do not see for a long time.”*
 
-## Block 7 — Between-Session Practice (8:18–8:25, 7 min)
-
+## Block 7 — Between-Session Practice (8:14–8:21, 7 min)
 ## Script
 
 *“Here is the practice for this week. Three returns to the garden, briefly. Five to ten minutes each. You don’t need the full guided script — you have the place now. Just go back. Walk for a few minutes. Notice what is the same and what has changed. Notice if Jesus is in a different place than He was tonight. Journal what you see.”*
@@ -291,10 +288,13 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 *“One more thing. If you came in tonight skeptical — if the imaginative prayer felt foreign or theologically uneasy — H9.3 is a one-pager for you. Read it. Decide what you want to do with it. The practice is real, and it is also okay if you adapt it or sit it out for now.”*
 
-## Block 8 — Closing Container (8:25–8:30, 5 min)
-
+## Block 8 — Feedback Round and Closing Container (8:21–8:30, 9 min)
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened in your circle is yours. Carry it gently this week. Don’t debrief it on the way home unless your heart is fully ready to. Some of what surfaced tonight needs another day or two before it has language.”*
 
 *“If something heavy surfaced, please reach out. The team is walking with you.”*

@@ -168,20 +168,19 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic blessing. Container reframe. Frame Wk 3 explicitly: ‘Tonight is diagnostic, not therapeutic.’ |
-| 7:08–7:13 | Block 2: One-word landing on Wk 2’s practice | Shared circle | Lead Comp | Each person, around: one word about how the soil-sit-with practice landed across the week. |
-| 7:13–7:30 | Block 3: Hebrews 12 and the knot architecture (teaching) | Shared circle | Lead Comp | Read Heb 12:1–3. Teach the four knot types. 17 min — the largest teaching block of the series so far. |
-| 7:30–7:38 | Block 4: The lie at the root (teaching) | Shared circle | Lead Comp | Read John 8:32, 8:44. Teach the lie mechanism. 8 min. |
-| 7:38–7:42 | Block 5: Bridge to split | Shared circle | Lead Comp | Frame the diagnostic exercise. Pray. Split. Standing-pair pre-announcement: ‘You will get a permanent partner at the close tonight.’ |
-| 7:42–8:12 | Block 6: Diagnostic exercise in cohort circles | Cohort circles → pairs (this-week-only) | Cohort Facs | Each participant names a knot type and walks the entry point with a partner. 30 min. THIS-WEEK pairing only — standing pairs are announced at close. |
-| 8:12–8:20 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings about the EXERCISE (not the knot). Brief observation. 8 min. |
-| 8:20–8:25 | Block 8: Standing-pair announcement | Shared circle | Lead Comp | Cohort Companions announce standing pairs. Pairs introduce themselves briefly; sign covenant H3.3. |
-| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Wk 4 (Co-Processing). |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic blessing. Container reframe. Frame Wk 3 explicitly: ‘Tonight is diagnostic, not therapeutic.’ |
+| 7:07–7:15 | Block 2: One-word landing on Wk 2’s practice | Shared circle | Lead Comp | Each person, around: one word about how the soil-sit-with practice landed across the week. |
+| 7:15–7:29 | Block 3: Hebrews 12 and the knot architecture (teaching) | Shared circle | Lead Comp | Read Heb 12:1–3. Teach the four knot types. 17 min — the largest teaching block of the series so far. |
+| 7:29–7:36 | Block 4: The lie at the root (teaching) | Shared circle | Lead Comp | Read John 8:32, 8:44. Teach the lie mechanism. 8 min. |
+| 7:36–7:40 | Block 5: Bridge to split | Shared circle | Lead Comp | Frame the diagnostic exercise. Pray. Split. Standing-pair pre-announcement: ‘You will get a permanent partner at the close tonight.’ |
+| 7:40–8:09 | Block 6: Diagnostic exercise in cohort circles | Cohort circles → pairs (this-week-only) | Cohort Facs | Each participant names a knot type and walks the entry point with a partner. 30 min. THIS-WEEK pairing only — standing pairs are announced at close. |
+| 8:09–8:16 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings about the EXERCISE (not the knot). Brief observation. 8 min. |
+| 8:16–8:21 | Block 8: Standing-pair announcement | Shared circle | Lead Comp | Cohort Companions announce standing pairs. Pairs introduce themselves briefly; sign covenant H3.3. |
+| 8:21–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Wk 4 (Co-Processing). |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+## **Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -196,8 +195,7 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 *“Container reminder: what is named here tonight stays in this cohort, and what is named to your pair partner tonight stays between the two of you. Specificity is the discipline; honesty is the goal.”*
 
-## **Block 2 — Wk 2 Landing (7:08–7:13, 5 min)**
-
+## **Block 2 — Wk 2 Landing (7:07–7:15, 8 min)**
 ## Script
 
 *“Last week’s between-session practice was sitting with one of the four soil regions for 30 minutes — just diagnosing, not fixing. One word about how that landed for you. Pass anytime.”*
@@ -206,8 +204,11 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 *“Tonight we go beneath the soil. Different work. Stay with us.”*
 
-## **Block 3 — Hebrews 12 and the Knot Architecture (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Hebrews 12 and the Knot Architecture (7:15–7:29, 14 min)**
 This is the largest teaching block of Going Deeper so far. Stand at the whiteboard. The four types are pre-written. Walk slowly.
 
 ## Script (the read)
@@ -262,8 +263,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 **‘I am a shame person’ is not a useful sentence. ‘Right now, in my work life, the loudest thing operating is shame, and it is tied to a specific verdict I accepted in eighth grade about my intelligence’ — that is the level of specificity tonight is going for.**
 
-## **Block 4 — The Lie at the Root (7:30–7:38, 8 min)**
-
+## **Block 4 — The Lie at the Root (7:29–7:36, 7 min)**
 ## Script (the read)
 
 *“One more piece before we go into the diagnostic. Listen to two passages.”*
@@ -290,8 +290,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 • We do not do the lie-replacement prayer tonight. That work requires trained practitioners (TPM and inner-healing prayer trained pastors and counselors are the appendix-D-of-the-handbook referrals). What we do tonight is name the lie if you can find it. Naming the lie is itself a piece of work; it is not the same as releasing it, but it is the threshold.
 
-## **Block 5 — Bridge to Split (7:38–7:42, 4 min)**
-
+## **Block 5 — Bridge to Split (7:36–7:40, 4 min)**
 ## Script
 
 *“Okay. We move to the diagnostic exercise. H3.1 has the four knot types in a one-page reference. H3.2 is your worksheet. H3.3 is something we will get to at the close. H3.4 is the practice for this week.”*
@@ -306,8 +305,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty minutes. Go.”*
 
-## **Block 6 — Diagnostic Exercise in Cohort Circles (7:42–8:12, 30 min)**
-
+## **Block 6 — Diagnostic Exercise in Cohort Circles (7:40–8:09, 29 min)**
 Each cohort circle splits into pairs (this-week-only pairing; standing pairs come at close). Cohort Companion floats; intervenes only when needed.
 
 ### **Inside the cohort circle — Companion script**
@@ -344,8 +342,7 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 - If a participant becomes flooded — stop the pair work. Cohort Companion stays with them. Co-Companion (if available) holds the rest of the cohort. Brief offer to step out of the room. Do not push through.
 - Watch the time carefully. The 15-minute switch is non-negotiable; if the first person hasn’t reached Q4, that is fine — the second person still gets their 15 minutes. Symmetry matters more than completion.
 
-## **Block 7 — Merge and Surface (8:12–8:20, 8 min)**
-
+## **Block 7 — Merge and Surface (8:09–8:16, 7 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
@@ -360,8 +357,7 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 
 *“Second — the question of when and how to do the deeper release work is a pastoral question, not a curriculum question. The handbook’s Appendix D names three referral categories — pastoral, inner-healing, clinical. If what you named tonight feels bigger than the rest of Going Deeper can carry, talk to the team this week. We will help you find the right next step.”*
 
-## **Block 8 — Standing-Pair Announcement (8:20–8:25, 5 min)**
-
+## **Block 8 — Standing-Pair Announcement (8:16–8:21, 5 min)**
 ## Script
 
 *“One thing before we close. We mentioned two weeks ago that from Wk 4 forward, each of you has a standing pair partner — the same person across the rest of the series. Tonight is the announcement.”*
@@ -376,10 +372,13 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 
 *“If the pairing doesn’t feel right, talk to your Cohort Companion after the session. Re-pairing is possible up through Wk 5. We are not forcing partnerships across twelve weeks.”*
 
-## **Block 9 — Closing Container (8:25–8:30, 5 min)**
-
+## **Block 9 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What was named tonight is honest data. Some of what surfaced will deepen across the week; some will shift; both are normal.”*
 
 *“With your standing pair partner this week: three brief check-ins. Phone or text. ‘What’s alive in your knot work?’ You are not therapizing each other. You are walking together.”*

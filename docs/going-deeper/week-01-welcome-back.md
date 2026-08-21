@@ -153,18 +153,17 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Veterans paired with new participants. |
 | 7:00–7:10 | Block 1: Welcome, Aaronic, settling | Shared circle | Lead Comp | Aaronic blessing. 60-second silent settle. One-word landings. |
-| 7:10–7:25 | Block 2: From the interlude | Shared circle | Lead Comp | Voluntary one-thing-from-the-gap shares. 12 min cap. Cohort Companions speak first. |
-| 7:25–7:35 | Block 3: Re-introducing the four conditions | Shared circle | Co-Comp (Parent) | Brief teaching. Re-frame the container for new participants AND for returning participants. |
-| 7:35–7:50 | Block 4: Hebrews 12:1–2 — the architectural anchor | Shared circle | Lead Comp | Read the passage. Walk the four clauses. Map each to the twelve-week arc. |
-| 7:50–8:05 | Block 5: What ‘Going Deeper’ actually means | Shared circle | Lead Comp | The 12-week arc. The five group levels (intro). What is harder. |
-| 8:05–8:20 | Block 6: Recommitment | Shared circle | Lead Comp | Each participant signs the Recommitment Card. One sentence aloud, voluntary. |
-| 8:20–8:25 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | The rhythm card resumes. Pick ONE Connect to attend more carefully. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic blessing. Send. |
+| 7:10–7:23 | Block 2: From the interlude | Shared circle | Lead Comp | Voluntary one-thing-from-the-gap shares. 12 min cap. Cohort Companions speak first. |
+| 7:23–7:33 | Block 3: Re-introducing the four conditions | Shared circle | Co-Comp (Parent) | Brief teaching. Re-frame the container for new participants AND for returning participants. |
+| 7:33–7:47 | Block 4: Hebrews 12:1–2 — the architectural anchor | Shared circle | Lead Comp | Read the passage. Walk the four clauses. Map each to the twelve-week arc. |
+| 7:47–8:01 | Block 5: What ‘Going Deeper’ actually means | Shared circle | Lead Comp | The 12-week arc. The five group levels (intro). What is harder. |
+| 8:01–8:16 | Block 6: Recommitment | Shared circle | Lead Comp | Each participant signs the Recommitment Card. One sentence aloud, voluntary. |
+| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | The rhythm card resumes. Pick ONE Connect to attend more carefully. |
+| 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic blessing. Send. |
 
 # **Block-by-Block: Scripts and Notes**
 
 ## **Block 1 — Welcome, Aaronic, Settling (7:00–7:10, 10 min)**
-
 ## Script
 
 *“Welcome back. And welcome — those of you who are here for the first time on a Tuesday with this room.”*
@@ -181,8 +180,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 Watch for: the one-word landings are the first thing the new participants will say in the room. Their words tell the team what they are walking in with. The team listens carefully without showing the listening.
 
-## **Block 2 — From the Gap Weeks (7:10–7:25, 15 min)**
-
+## **Block 2 — From the Gap Weeks (7:10–7:23, 13 min)**
 ## Script
 
 *“Some of you have been gone from this room for two months. Some of you have been gone for two weeks (since onboarding). Some of you are here for the first time. All of you are welcome.”*
@@ -197,8 +195,11 @@ Watch for: the one-word landings are the first thing the new participants will s
 
 Watch for: the share is voluntary by design. With 20–32 people, full go-around would consume the session. Voluntary contributions get the truthful voices and let those who are not yet ready stay quiet without performance pressure. The Lead Companion’s closing observation is the integration.
 
-## **Block 3 — Re-Introducing the Four Conditions (7:25–7:35, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Re-Introducing the Four Conditions (7:23–7:33, 10 min)**
 Co-Companion (parent cohort) leads this block. The teaching is brief; it is for both returning participants (who haven’t heard it in two months) and new participants (who heard it once at onboarding).
 
 ## Script
@@ -217,8 +218,7 @@ Co-Companion (parent cohort) leads this block. The teaching is brief; it is for 
 
 *“Container in place. We continue.”*
 
-## **Block 4 — Hebrews 12:1–2 — The Architectural Anchor (7:35–7:50, 15 min)**
-
+## **Block 4 — Hebrews 12:1–2 — The Architectural Anchor (7:33–7:47, 14 min)**
 Lead Companion. Read the passage from the physical Bible. Then walk the clauses on the whiteboard.
 
 ## Script (the read)
@@ -265,8 +265,7 @@ Lead Companion. Read the passage from the physical Bible. Then walk the clauses 
 
 **FINISHING WELL → Wks 11, 12 (integration, sending)**
 
-## **Block 5 — What ‘Going Deeper’ Actually Means (7:50–8:05, 15 min)**
-
+## **Block 5 — What ‘Going Deeper’ Actually Means (7:47–8:01, 14 min)**
 ## Script
 
 *“We titled this series Going Deeper. Tonight I want to be honest about what ‘deeper’ actually requires. Three things.”*
@@ -283,8 +282,7 @@ Lead Companion. Read the passage from the physical Bible. Then walk the clauses 
 
 *“You will not remember every detail of this map tonight, and that is fine. The handout is yours; bring it back as a reference. Each Tuesday will frame itself when we get there.”*
 
-## **Block 6 — Recommitment (8:05–8:20, 15 min)**
-
+## **Block 6 — Recommitment (8:01–8:16, 15 min)**
 This is the most consequential block of the night. Hold it carefully.
 
 ## Script
@@ -305,8 +303,7 @@ This is the most consequential block of the night. Hold it carefully.
 
 Watch for: do not press anyone to declare a Connect tonight if they are not ready. The pass is honored. Some participants will want to think across the week and bring their pick to Week 2. The recommitment is a moment, not a deadline.
 
-## **Block 7 — Between-Session Practice (8:20–8:25, 5 min)**
-
+## **Block 7 — Between-Session Practice (8:16–8:21, 5 min)**
 ## Script
 
 *“Two things for this week. First — the rhythm card. The Daily / Weekly / Monthly practices resume tonight, with whatever shape they had at the close of Getting Started. If they fell away across the interlude, that is fine. Begin again tomorrow morning. Returning is the practice.”*
@@ -315,10 +312,13 @@ Watch for: do not press anyone to declare a Connect tonight if they are not read
 
 *“The Personal Heart Journal from Getting Started continues. Veterans — you have yours; bring it back as the working journal of in Going Deeper. New participants — you got a fresh journal at onboarding; the same practices apply.”*
 
-## **Block 8 — Closing Container (8:25–8:30, 5 min)**
-
+## **Block 8 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What we did tonight is small but the right size. We re-installed the room. We named the architecture. We recommitted with specificity. The work begins next Tuesday.”*
 
 *“One note before we close. Next Tuesday is Week 2 — the soils, deepened. Bring your journal. Bring your Hebrews 12 reference. Same room. Same time. Same arc.”*

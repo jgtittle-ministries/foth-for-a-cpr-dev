@@ -178,18 +178,17 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight closes mission close-to-home with the vocational domain.’ |
-| 7:08–7:20 | Block 2: Vocational-witness theology (teaching) | Shared circle | Lead Companion | Read four anchor passages. Walk Daniel + Joseph paradigms. The three modes vocationally. |
-| 7:20–7:27 | Block 3: Worksheet preparation | Shared circle | Cohort Companions float | 7 min silent: each member fills H6.1 with ONE specific vocational moment. |
-| 7:27–8:02 | Block 4: Cohort sharing around the circle | Shared circle | Lead Companion | Each member 90 sec; Lead captures on flip chart. |
-| 8:02–8:12 | Block 5: Pattern naming + integration with household block | Shared circle | Lead Companion | Lead names patterns; integrates with Wk 5 patterns; cohort weighs. |
-| 8:12–8:22 | Block 6: Mission close-to-home block close + bridge to Wks 7–9 | Shared circle | Lead Companion | Frame what the body has learned across Wks 4–6; bridge to mission far. |
-| 8:22–8:30 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. This week’s Tell is third-place / wider context. Send. |
+| 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight closes mission close-to-home with the vocational domain.’ |
+| 7:11–7:21 | Block 2: Vocational-witness theology (teaching) | Shared circle | Lead Companion | Read four anchor passages. Walk Daniel + Joseph paradigms. The three modes vocationally. |
+| 7:21–7:28 | Block 3: Worksheet preparation | Shared circle | Cohort Companions float | 7 min silent: each member fills H6.1 with ONE specific vocational moment. |
+| 7:28–8:01 | Block 4: Cohort sharing around the circle | Shared circle | Lead Companion | Each member 90 sec; Lead captures on flip chart. |
+| 8:01–8:10 | Block 5: Pattern naming + integration with household block | Shared circle | Lead Companion | Lead names patterns; integrates with Wk 5 patterns; cohort weighs. |
+| 8:10–8:18 | Block 6: Mission close-to-home block close + bridge to Wks 7–9 | Shared circle | Lead Companion | Frame what the body has learned across Wks 4–6; bridge to mission far. |
+| 8:18–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. This week’s Tell is third-place / wider context. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -204,8 +203,11 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Vocational-Witness Theology (7:08–7:20, 12 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Vocational-Witness Theology (7:11–7:21, 10 min)**
 ## Script (the read)
 
 *“Four passages tonight. Listen.”*
@@ -244,8 +246,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Most cohort members’ vocational witness is heavy on relational presence with occasional responsive defense. Tonight’s data look will surface where each of us is. Then we will weigh what the cohort’s vocational pattern reveals about us as a sent body.”*
 
-**Block 3 — Worksheet Preparation (7:20–7:27, 7 min)**
-
+**Block 3 — Worksheet Preparation (7:21–7:28, 7 min)**
 ## Script
 
 *“Seven minutes silent writing. H6.1 has the worksheet. ONE specific vocational moment from the past week — not the most polished; the most revealing of how your three-mode pattern operates in your daily-rhythm context.”*
@@ -256,8 +257,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Seven minutes. Begin.”*
 
-**Block 4 — Cohort Sharing Around the Circle (7:27–8:02, 35 min)**
-
+**Block 4 — Cohort Sharing Around the Circle (7:28–8:01, 33 min)**
 ## Lead Companion script (90 sec)
 
 *“Around the circle. Each of us, briefly — about 90 seconds. The four pieces from your worksheet plus the longer-pattern observation.”*
@@ -286,8 +286,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **If multiple members had no Tell or report vocational burnout: capture honestly. The cohort’s pattern is the cohort’s pattern.**
 
-**Block 5 — Pattern Naming + Integration (8:02–8:12, 10 min)**
-
+**Block 5 — Pattern Naming + Integration (8:01–8:10, 9 min)**
 ## Lead Companion script
 
 *“What the flip chart shows.”*
@@ -304,8 +303,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *(Voluntary; brief.)*
 
-**Block 6 — Mission Close-to-Home Block Close + Bridge (8:12–8:22, 10 min)**
-
+**Block 6 — Mission Close-to-Home Block Close + Bridge (8:10–8:18, 8 min)**
 ## Lead Companion script
 
 *“Wks 4, 5, 6 close tonight. The mission-close-to-home block.”*
@@ -318,10 +316,13 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“This week’s Tell shifts to a third-place or wider context. Neighbours, hobby groups, community contacts, fellow believers in different contexts. Bring the data to Wk 7.”*
 
-**Block 7 — Closing Container (8:22–8:30, 8 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:18–8:30, 12 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“Two words around the circle. ONE — the close-to-home block in one word: how does it land in you having walked Wks 4–6 together. TWO — mission far in one word: what posture do you carry into Wks 7–9.”*
 
 *(Around the circle. 10 seconds per person; both words.)*

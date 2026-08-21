@@ -194,19 +194,18 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, pens at every chair. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the God-deepened block.’ |
-| 7:08–7:13 | Block 2: Wk 5 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 5 — the EXERCISE not content. Mid-week pair check-in confirmation. |
-| 7:13–7:30 | Block 3: PROAPT Extended teaching + the Tell step centred | Shared circle | Lead Comp | Review PROAPT briefly. Teach extension to longer passages. Centre the Tell step. |
-| 7:30–7:35 | Block 4: Bridge to split + passage read aloud | Shared circle | Lead Comp | Read both Romans 12:1–6 and Psalm 32:1–7 aloud. Frame the cohort PROAPT. Pray. Split. |
-| 7:35–8:00 | Block 5: Extended PROAPT in cohort circles | Cohort circles (silent + brief share) | Cohort Facs | 20 min silent extended PROAPT; 5 min very brief cohort share — ONE specific thing each heard. |
-| 8:00–8:20 | Block 6: Merge for the Tell step | Shared circle → cross-cohort pairs | Lead Comp | Frame the Tell. Cross-cohort pairing — each finds a partner from a DIFFERENT cohort. 12 min in pairs (each Tells; each receives). 4 min: voluntary public Tells (2–3). |
-| 8:20–8:25 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily extended PROAPT this week. One Tell each weekday. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 7 (corporate listening prayer). Send. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the God-deepened block.’ |
+| 7:07–7:15 | Block 2: Wk 5 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 5 — the EXERCISE not content. Mid-week pair check-in confirmation. |
+| 7:15–7:29 | Block 3: PROAPT Extended teaching + the Tell step centred | Shared circle | Lead Comp | Review PROAPT briefly. Teach extension to longer passages. Centre the Tell step. |
+| 7:29–7:33 | Block 4: Bridge to split + passage read aloud | Shared circle | Lead Comp | Read both Romans 12:1–6 and Psalm 32:1–7 aloud. Frame the cohort PROAPT. Pray. Split. |
+| 7:33–7:56 | Block 5: Extended PROAPT in cohort circles | Cohort circles (silent + brief share) | Cohort Facs | 20 min silent extended PROAPT; 5 min very brief cohort share — ONE specific thing each heard. |
+| 7:56–8:15 | Block 6: Merge for the Tell step | Shared circle → cross-cohort pairs | Lead Comp | Frame the Tell. Cross-cohort pairing — each finds a partner from a DIFFERENT cohort. 12 min in pairs (each Tells; each receives). 4 min: voluntary public Tells (2–3). |
+| 8:15–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily extended PROAPT this week. One Tell each weekday. |
+| 8:19–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 7 (corporate listening prayer). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -221,8 +220,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Container reminder: what you hear tonight is between you and the Lord; what you choose to Tell is between you and your Tell partner. Specificity is the discipline. The Spirit speaks specifically; we listen specifically; we tell specifically.”*
 
-**Block 2 — Wk 5 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 5 Landing (One Word) (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday was confession in standing pairs. What was named in your pair stays in your pair; we did the merge then. Tonight, one word about how the WEEK has been — the walking-in-restoration week. Light. Heavy. Surprising. Quiet. Tested. Steady. Pass anytime.”*
@@ -235,8 +233,11 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Good. Tonight we move into the God-deepened block.”*
 
-**Block 3 — PROAPT Extended and the Tell Step Centred (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — PROAPT Extended and the Tell Step Centred (7:15–7:29, 14 min)**
 ## Script (the read)
 
 *“Tonight’s anchor scripture is from Romans 10. Listen — it names the architecture of what we’re practicing tonight.”*
@@ -279,8 +280,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“The cross-cohort Tell is design, not accident. Within-cohort echoes are real — you have heard each other six weeks of Tuesdays. Telling a teen, parent, or peer in another cohort makes the Tell land differently and strengthens the room as a hearing community. Wk 7’s corporate listening prayer and Wk 8’s group-hearing depend on this room being a cross-cohort hearing community; tonight is the first time we practice it.”*
 
-**Block 4 — Bridge to Split + Passage Read Aloud (7:30–7:35, 5 min)**
-
+**Block 4 — Bridge to Split + Passage Read Aloud (7:29–7:33, 4 min)**
 ## Script
 
 *“Two passages tonight. Choose one. The Cohort Companion will name the default for your cohort, but the choice is yours.”*
@@ -311,8 +311,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 *“Junior teens with [name] — default Psalm 32. Senior teens with [name] — default Romans 12. Parents with [name] — default Romans 12. Twenty-five minutes. Go.”*
 
-**Block 5 — Extended PROAPT in Cohort Circles (7:35–8:00, 25 min)**
-
+**Block 5 — Extended PROAPT in Cohort Circles (7:33–7:56, 23 min)**
 Each cohort circle works in parallel. The structure is identical.
 
 **Inside the cohort circle — Companion script**
@@ -363,8 +362,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 **•** Watch the time at 25 min. The merge for the Tell step is the formation centre of the night; do not let the cohort share run long.
 
-**Block 6 — Merge for the Tell Step (8:00–8:20, 20 min)**
-
+**Block 6 — Merge for the Tell Step (7:56–8:15, 19 min)**
 All three cohorts return to the main room. Chairs are loose; the geometry is open for free movement.
 
 ## Lead Companion script — opening (3 min)
@@ -401,8 +399,7 @@ All three cohorts return to the main room. Chairs are loose; the geometry is ope
 
 *(Lead Companion closing observation, one sentence.) “What I notice is \_\_\_\_\_. (Specific. ‘This room is becoming a hearing community across cohorts.’ Or: ‘Several of you said the cross-cohort Tell felt different from a within-cohort share.’ Whatever the actual observation is.)”*
 
-**Block 7 — Between-Session Practice (8:20–8:25, 5 min)**
-
+**Block 7 — Between-Session Practice (8:15–8:19, 4 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Four pieces of practice this week.”*
@@ -415,10 +412,15 @@ All three cohorts return to the main room. Chairs are loose; the geometry is ope
 
 *“Four. The morning question, evening note, Hebrews 12 once a day, 5-minute named-knot sit, Five-Minute Examen — all continue.”*
 
-**Block 8 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:19–8:30, 11 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
+
+*“One more thing, carried into the hold on no paper: think about us. What should we keep doing? What could we do differently? And what would you tell somebody else about what this group is like? Don’t answer tonight. Carry it. We answer together when we return.”*
 *“What happened tonight is the foundational hearing law of the entire IJH project lived in real time. Word produced hearing; hearing is producing faith; the chain is operating in this room.”*
 
 *“If anything you heard tonight feels heavier than this week can hold, your standing pair is the first stop; Cohort Companions are next; pastoral / clinical referrals are available. The team is walking with you.”*

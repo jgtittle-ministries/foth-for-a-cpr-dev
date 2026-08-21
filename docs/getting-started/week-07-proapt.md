@@ -142,20 +142,19 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 7 as a turn. |
-| 7:08–7:13 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
-| 7:13–7:23 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
-| 7:23–7:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole cohort works Mark 1:14–20 step by step. 12 minutes. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 7 as a turn. |
+| 7:07–7:15 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
+| 7:15–7:24 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
+| 7:24–7:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole cohort works Mark 1:14–20 step by step. 12 minutes. |
 | 7:35–7:37 | Block 5: Bridge to the split and pair structure | Shared | Lead Comp | Pair structure explained. Pray. Split. |
-| 7:37–8:07 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | Each pair PROAPTs one passage together. Switch reader/listener at 15 min. |
-| 8:07–8:17 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells their cohort circle ONE thing they heard. |
-| 8:17–8:22 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each. Daily PROAPT introduced. |
-| 8:22–8:30 | Block 9: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
+| 7:37–8:05 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | Each pair PROAPTs one passage together. Switch reader/listener at 15 min. |
+| 8:05–8:14 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells their cohort circle ONE thing they heard. |
+| 8:14–8:18 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each. Daily PROAPT introduced. |
+| 8:18–8:30 | Block 9: Feedback round and closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
-
+## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
@@ -164,8 +163,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“Here is the move. We have done the interior work — Heart Soil, story, friendship audit, naming the place. All of that prepares us for what we are going to practice tonight: hearing God in scripture as a learnable skill. Not a mystical thing reserved for special people. A practice. With six steps. That works.”*
 
-## **Block 2 — Week 6 Check-in (7:08–7:13, 5 min)**
-
+## **Block 2 — Week 6 Check-in (7:07–7:15, 8 min)**
 ## Script
 
 *“Last week we did the confession-and-restoration practice. The week between was the Five-Minute Examen each evening. Take ninety seconds: any one of you, one sentence about the Examen, or about anything that has shifted since Tuesday.”*
@@ -174,8 +172,11 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“For anyone whose Week 6 is still sitting heavy — the team is here. Find one of us before you leave tonight if you need to.”*
 
-## **Block 3 — Romans 10:17 and the Hearing Chain (7:13–7:23, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Romans 10:17 and the Hearing Chain (7:15–7:24, 9 min)**
 Read Romans 10:17 aloud. Slow. The teaching is short.
 
 *“So faith comes from hearing, and hearing through the word of Christ.”*
@@ -194,8 +195,7 @@ Read Romans 10:17 aloud. Slow. The teaching is short.
 
 • We are going to walk through the whole thing together first, with one passage. Mark 1:14–20 — the calling of the first disciples. Then we will split into cohort circles, work in pairs on the same passage, and come back together for the Tell step. The whole thing tonight is one passage in two passes, so you can feel how it works. By next Tuesday each of you will have done seven passes on your own.
 
-## **Block 4 — PROAPT Walked Together (7:23–7:35, 12 min)**
-
+## **Block 4 — PROAPT Walked Together (7:24–7:35, 11 min)**
 This is the most important teaching block of the night. Walk the cohort through Mark 1:14–20 step by step. Each step gets about 90 seconds, with the cohort working their handout (H7.2).
 
 ## How to walk it
@@ -213,7 +213,6 @@ This is the most important teaching block of the night. Walk the cohort through 
 **TELL (60 sec). “Final step is Tell. We’ll do that in your cohort circle in a few minutes. The Tell step is the one most often skipped and the one that does the most work for long-term hearing. Hearing solidified by being spoken aloud has a different staying power than hearing kept private.”**
 
 ## **Block 5 — Bridge to the Split and Pair Structure (7:35–7:37, 2 min)**
-
 ## Script
 
 *“In your cohort circle, you’ll pair up. One person reads, the other listens. Reader leads through the six steps; Listener participates in their own working but does not interrupt the Reader’s pace. After fifteen minutes, switch. Different passage if you want, or stay with Mark 1.”*
@@ -222,8 +221,7 @@ This is the most important teaching block of the night. Walk the cohort through 
 
 *“Pray. Holy Spirit, you have been good to us tonight already. Show up in these pairs. Say something to each of us we can hear. Amen. Go.”*
 
-## **Block 6 — PROAPT in Pairs (7:37–8:07, 30 min)**
-
+## **Block 6 — PROAPT in Pairs (7:37–8:05, 28 min)**
 Each cohort circle splits into pairs. The Cohort Companion pairs people deliberately.
 
 ## Inside the cohort circle
@@ -244,8 +242,7 @@ Each cohort circle splits into pairs. The Cohort Companion pairs people delibera
 - If a pair finishes early — “Do it again with another passage. PROAPT is a daily practice. Get reps.”
 - If a pair surfaces something heavy — honor it. Brief acknowledgment. Follow up after the cohort closes.
 
-## **Block 7 — Tell Step in Cohort (8:07–8:17, 10 min)**
-
+## **Block 7 — Tell Step in Cohort (8:05–8:14, 9 min)**
 Re-form into cohort circle (out of pairs). Each participant tells the cohort circle ONE thing they heard tonight. Brief, specific, witnessed.
 
 ## Inside the cohort circle
@@ -258,8 +255,7 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 
 **Closing of cohort (1 min). Cohort Companion: “What we heard tonight is not just for us — it is given to us to walk out. Take what you heard with you this week.”**
 
-## **Block 8 — Merge and Between-Session (8:17–8:22, 5 min)**
-
+## **Block 8 — Merge and Between-Session (8:14–8:18, 4 min)**
 ## Script
 
 *“Welcome back. One word each — not what you heard (that’s yours), but what tonight’s practice was like.”*
@@ -272,10 +268,13 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 
 *“One passage. Five to ten minutes. Every day. The chain only works if we work it.”*
 
-## **Block 9 — Closing Container (8:22–8:30, 8 min)**
-
+## **Block 9 — Feedback Round and Closing Container (8:18–8:30, 12 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One thing before we close. Tonight was different than last week. Last week we named hard places. Tonight we practiced hearing. Both are real. Both are how the Father walks us home. Don’t treat them as alternatives — the place we named last week is the same place that PROAPT will keep speaking into.”*
 
 *“Final blessing. Hands up.”*

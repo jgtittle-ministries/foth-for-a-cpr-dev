@@ -181,16 +181,15 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:12 | Block 1: Open + practice hold re-entry — the what-held round | Shared circle | Lead Companion | Aaronic. Re-read Wk 8’s landing; what held for you, and what held for us. |
-| 7:12–7:21 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
-| 7:21–7:41 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
-| 7:41–8:16 | Block 4: Laying-on-of-hands sending | Shared circle | Lead Companion | Architecture adapts to Wk 8 landing; physical sending. |
-| 8:16–8:24 | Block 5: Bridge to Wks 10–12 | Shared circle | Lead Companion | Frame the closing block of Going Out; Hebrews 12 returning. |
-| 8:24–8:30 | Block 6: Closing container | Shared circle | Lead Companion | Aaronic. Send into the week. |
+| 7:12–7:20 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
+| 7:20–7:40 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
+| 7:40–8:13 | Block 4: Laying-on-of-hands sending | Shared circle | Lead Companion | Architecture adapts to Wk 8 landing; physical sending. |
+| 8:13–8:20 | Block 5: Bridge to Wks 10–12 | Shared circle | Lead Companion | Frame the closing block of Going Out; Hebrews 12 returning. |
+| 8:20–8:30 | Block 6: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Send into the week. |
 
 **Block-by-Block: Scripts and Notes**
 
 **Block 1 — Open + Practice Hold Re-entry — the What-Held Round (7:00–7:12, 12 min)**
-
 ## Script
 
 *“Welcome. Settle.”*
@@ -213,8 +212,11 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Acts 13 Sending Architecture (7:12–7:21, 9 min)**
+*“And now the question you carried into the hold: keep, change, tell. What should we keep doing? What could we do differently? What would you tell somebody about this group? I answer first, with evidence, same as always.”*
 
+*(The signs are never handed to the room; map what you hear to the observing pages afterward, on your side of the paper. A gap between the room’s read and yours is data, never a correction.)*
+
+**Block 2 — Acts 13 Sending Architecture (7:12–7:20, 8 min)**
 ## Script (the read)
 
 *“Two passages tonight, side by side.”*
@@ -245,8 +247,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **LANDING 3 — CLARIFYING QUESTION. The body revisits the question with what surfaced across the week; the body weighs again. If the question lands, we adapt to Landing 1 or 2 in real time; if it remains open, we lay hands on the question itself — the body confirms that the question is genuine and worth carrying forward.**
 
-**Block 3 — Walking the Cost (7:21–7:41, 20 min)**
-
+**Block 3 — Walking the Cost (7:20–7:40, 20 min)**
 ## Lead Companion script (60 sec)
 
 *“Your standing pair. 8 minutes per direction; 16 minutes total; 4 minutes for cohort circle pattern surfacing.”*
@@ -277,8 +278,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 *“The body holds the body’s honest yes/no/limited. We move to the laying-on-of-hands.”*
 
-**Block 4 — Laying-On-of-Hands Sending (7:41–8:16, 35 min)**
-
+**Block 4 — Laying-On-of-Hands Sending (7:40–8:13, 33 min)**
 ## Lead Companion script — framing (3 min)
 
 *“The laying-on-of-hands. The body’s last corporate act before the sending continues. The body’s touch is part of the sending; we participate as fully as we are willing.”*
@@ -327,8 +327,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **Brief silence. The body has confirmed honest discernment.**
 
-**Block 5 — Bridge to Wks 10–12 (8:16–8:24, 8 min)**
-
+**Block 5 — Bridge to Wks 10–12 (8:13–8:20, 7 min)**
 ## Lead Companion script
 
 *“Wks 10–12 close Going Out. The fourth and final block: sending and re-formation. The architecture engages what Going Out produced honestly — not what we hoped for; what actually happened.”*
@@ -351,10 +350,13 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **LOOKING TO JESUS — the orientation across the long obedience. The witness is not what we do; it is who we are looking at.**
 
-**Block 6 — Closing Container (8:24–8:30, 6 min)**
-
+**Block 6 — Feedback Round and Closing Container (8:20–8:30, 10 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word around the circle. The sending in one word — how does it land in you tonight as Going Out’s mission-far closes.”*
 
 *(Around the circle. 5 seconds per person.)*

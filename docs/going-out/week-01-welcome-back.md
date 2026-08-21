@@ -195,18 +195,17 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Companion (Teen) | Door, name tags. Warm welcome. Brief private check-in with Wk 10 Discerner. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Welcome back. Tonight is honest landing.’ |
-| 7:08–7:18 | Block 2: New continuer introductions (if any) | Shared circle | Lead Companion | Brief introductions of any new continuers; gap-period story-share substitute. |
-| 7:18–7:28 | Block 3: Acts 1:1–8 + Going Out architecture (teaching) | Shared circle | Lead Companion | Read passage. Walk the four blocks. Frame the posture shift. |
-| 7:28–8:00 | Block 4: Gap landings around the circle | Shared circle | Lead Companion | Each member: question carried + one sentence about how the interlude landed. Pass anytime. |
-| 8:00–8:15 | Block 5: Standing pair re-engagement | Shared circle (in pairs) | Cohort Companions float | Pairs sit beside each other; H1.3 walked together; renewed or newly signed. |
-| 8:15–8:22 | Block 6: Going Out practices and rhythm refresh | Shared circle | Co-Companion (Parent) | Refreshed Rhythm Card; between-session practice; brief Q&A. |
-| 8:22–8:27 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. One-word landing from each. Frame Wk 2 (what it means to be sent). |
+| 7:08–7:17 | Block 2: New continuer introductions (if any) | Shared circle | Lead Companion | Brief introductions of any new continuers; gap-period story-share substitute. |
+| 7:17–7:26 | Block 3: Acts 1:1–8 + Going Out architecture (teaching) | Shared circle | Lead Companion | Read passage. Walk the four blocks. Frame the posture shift. |
+| 7:26–7:57 | Block 4: Gap landings around the circle | Shared circle | Lead Companion | Each member: question carried + one sentence about how the interlude landed. Pass anytime. |
+| 7:57–8:11 | Block 5: Standing pair re-engagement | Shared circle (in pairs) | Cohort Companions float | Pairs sit beside each other; H1.3 walked together; renewed or newly signed. |
+| 8:11–8:18 | Block 6: Going Out practices and rhythm refresh | Shared circle | Co-Companion (Parent) | Refreshed Rhythm Card; between-session practice; brief Q&A. |
+| 8:18–8:27 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. One-word landing from each. Frame Wk 2 (what it means to be sent). |
 | 8:27–8:30 | Block 8: Send + brief informal time | Shared circle | Lead Companion | Brief send. Optional water and snacks; lingering as members reconnect. |
 
 **Block-by-Block: Scripts and Notes**
 
 **Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
 ## Script
 
 *“Welcome back. Settle.”*
@@ -223,8 +222,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 *“Container reminder: same as it has been across all the months we have walked. The four conditions Vol 2 Exp 8 names — Safe, Present, Clear, Intentional — hold tonight as the architectural foundation Going Out builds on. What is named here stays in this room.”*
 
-**Block 2 — New Continuer Introductions (7:08–7:18, 10 min)**
-
+**Block 2 — New Continuer Introductions (7:08–7:17, 9 min)**
 This block runs only if there are new continuers — cohort members joining Going Out without having walked Going Deeper. If there are none, this block compresses to 2 minutes (a brief acknowledgment that the cohort is the same body returning) and Block 3 runs longer.
 
 ## Script (if new continuers)
@@ -237,8 +235,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“Cohort, welcome our new continuers. The body is the same body returning, with these new members joining us. We hold them as we hold each other.”*
 
-**Block 3 — Acts 1:1–8 + Going Out Architecture (7:18–7:28, 10 min)**
-
+**Block 3 — Acts 1:1–8 + Going Out Architecture (7:17–7:26, 9 min)**
 ## Script (the read)
 
 *“Our architectural anchor for Going Out is Acts 1:1–8. Listen.”*
@@ -267,8 +264,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“Tonight the work is not yet the witness. Tonight is the reopening. The witness builds from Wk 2 forward. What we do tonight is land honestly so Going Out builds from where we actually are.”*
 
-**Block 4 — Gap Landings Around the Circle (7:28–8:00, 32 min)**
-
+**Block 4 — Gap Landings Around the Circle (7:26–7:57, 31 min)**
 ## Lead Companion script — opening (90 sec)
 
 *“The substantive centre of tonight. Around the circle, briefly: TWO things from each of us. ONE — the question you carried into Going Out from Wk 11’s H11.3 prompt 4. State the question, briefly, as you carried it across the interlude. TWO — one sentence about how the interlude landed. What surfaced; what stayed; what shifted.”*
@@ -303,8 +299,11 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“We hold what was named. Going Out builds from this honest landing.”*
 
-**Block 5 — Standing Pair Re-Engagement (8:00–8:15, 15 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 5 — Standing Pair Re-Engagement (7:57–8:11, 14 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Your standing pair. For pairs that continued across the interlude: this is a re-engagement, not a re-formation. For pairs that released at the close of Going Deeper and have new partners now: this is the initial pair conversation for Going Out.”*
@@ -321,8 +320,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **Watch for any pair where the relationship across the interlude revealed a problem (one partner ghosted; one partner over-extended; one partner crossed a boundary). Cohort Companion stays with the pair briefly; pastoral 1:1 follow-up.**
 
-**Block 6 — Going Out Practices and Rhythm Refresh (8:15–8:22, 7 min)**
-
+**Block 6 — Going Out Practices and Rhythm Refresh (8:11–8:18, 7 min)**
 ## Script — Co-Companion (Parent) leads
 
 *“The practice rhythm continues. Going Deeper Rhythm Card is in your hands; Going Out adds two small adjustments.”*
@@ -335,10 +333,13 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“H1.2 has the refreshed card.”*
 
-**Block 7 — Closing Container (8:22–8:27, 5 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:18–8:27, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word from each of you, around the circle. How does this evening land in you? Steady. Quiet. Surprised. Heavy. Light. Hopeful. Hesitant. Pass anytime.”*
 
 *(Around the circle. 5 seconds per person.)*
@@ -350,7 +351,6 @@ This block runs only if there are new continuers — cohort members joining Goin
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
 **Block 8 — Send + Brief Informal Time (8:27–8:30, 3 min)**
-
 ## Script
 
 *“See you Tuesday.”*

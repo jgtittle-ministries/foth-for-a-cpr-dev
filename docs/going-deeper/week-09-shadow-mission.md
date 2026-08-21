@@ -197,18 +197,17 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the Mission block.’ |
-| 7:08–7:13 | Block 2: Wk 8 landing (one word) | Shared circle | Lead Comp | ONE word about the cohort’s hearing about itself — the LISTENING posture, not content. |
-| 7:13–7:32 | Block 3: Gifts + Shadow (teaching) | Shared circle | Lead Comp | Read 1 Cor 12 + Romans 12 + Matt 23 selectively. Teach the four-by-four. Pharisee case. |
-| 7:32–7:36 | Block 4: Bridge to split + prayer | Shared circle | Lead Comp | Frame the standing-pair conversation. Pray. Split. |
-| 7:36–8:14 | Block 5: Standing-pair shadow conversation | Cohort circles → pairs | Cohort Facs | 18 min one direction; 18 min the other; 2 min pair signature on H9.3. |
-| 8:14–8:22 | Block 6: Merge + voluntary public namings | Shared circle | Lead Comp | ONE word about the EXERCISE. Then 2–3 voluntary brief public namings. |
-| 8:22–8:26 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily noticing. ‘There it is again’ as the discipline. |
-| 8:26–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 10 (Acts 13 calling). Send. |
+| 7:08–7:16 | Block 2: Wk 8 landing (one word) | Shared circle | Lead Comp | ONE word about the cohort’s hearing about itself — the LISTENING posture, not content. |
+| 7:16–7:31 | Block 3: Gifts + Shadow (teaching) | Shared circle | Lead Comp | Read 1 Cor 12 + Romans 12 + Matt 23 selectively. Teach the four-by-four. Pharisee case. |
+| 7:31–7:35 | Block 4: Bridge to split + prayer | Shared circle | Lead Comp | Frame the standing-pair conversation. Pray. Split. |
+| 7:35–8:11 | Block 5: Standing-pair shadow conversation | Cohort circles → pairs | Cohort Facs | 18 min one direction; 18 min the other; 2 min pair signature on H9.3. |
+| 8:11–8:18 | Block 6: Merge + voluntary public namings | Shared circle | Lead Comp | ONE word about the EXERCISE. Then 2–3 voluntary brief public namings. |
+| 8:18–8:22 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Daily noticing. ‘There it is again’ as the discipline. |
+| 8:22–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 10 (Acts 13 calling). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
 **Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
 ## Script
 
 *“Welcome. Settle.”*
@@ -225,8 +224,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 *“Container reminder: what is named in your pair stays in your pair. The shadow named tonight is for naming the next time it shows up, not for deploying as a corrective at home.”*
 
-**Block 2 — Wk 8 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 8 Landing (One Word) (7:08–7:16, 8 min)**
 ## Script
 
 *“Last Tuesday the cohort attempted Group Level 4 — hearing as a body about the body. We named what we heard or named honestly that we did not converge. Tonight, one word about your LISTENING posture last Tuesday — not the content, the posture. Open. Closed. Tested. Quiet. Searching. Receiving. Pass anytime.”*
@@ -235,8 +233,11 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 *“Good. The God block closed last week with the cohort’s listening for itself. Tonight we turn to Mission — the gifts the cohort has been hearing for tonight come into focus, and we name the shadow each gift carries.”*
 
-**Block 3 — Gifts and Shadow (Teaching) (7:13–7:32, 19 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — Gifts and Shadow (Teaching) (7:16–7:31, 15 min)**
 ## Script (the read)
 
 *“Three passages tonight. Listen to all three.”*
@@ -283,8 +284,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **Where, with whom, in what kind of situation, has my gift turned wrongly recently? Specific. Not ‘I sometimes correct people.’ ‘Last Friday with my colleague when she pushed back on my presentation, I corrected her in front of the team in a way that was about my ego, not the work.’**
 
-**Block 4 — Bridge to Split + Prayer (7:32–7:36, 4 min)**
-
+**Block 4 — Bridge to Split + Prayer (7:31–7:35, 4 min)**
 ## Script
 
 *“In your cohort circle, the standing-pair conversation. 18 minutes one direction, 18 minutes the other.”*
@@ -297,8 +297,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-eight minutes of pair work plus signature. Go.”*
 
-**Block 5 — Standing-Pair Shadow Conversation (7:36–8:14, 38 min)**
-
+**Block 5 — Standing-Pair Shadow Conversation (7:35–8:11, 36 min)**
 Each cohort circle splits into the standing pairs. The Cohort Companion floats. Pairs sit knee-to-knee with at least 6 feet of buffer.
 
 **Inside the cohort circle — Companion script**
@@ -347,8 +346,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 **•** Watch the 18-minute switch. The symmetry is non-negotiable. If the first direction ran long, the second still gets its 18 minutes.
 
-**Block 6 — Merge + Voluntary Public Namings (8:14–8:22, 8 min)**
-
+**Block 6 — Merge + Voluntary Public Namings (8:11–8:18, 7 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
@@ -363,8 +361,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 *“Thank you. One thing to remember as we close. The shadow named tonight is not new tonight; it has been there. What is new is that you have named it. Naming is the first half of the discipline; noticing it next time it shows up is the second half. ‘There it is again’ is the lifelong practice.”*
 
-**Block 7 — Between-Session Practice (8:22–8:26, 4 min)**
-
+**Block 7 — Between-Session Practice (8:18–8:22, 4 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Four pieces of practice this week.”*
@@ -377,10 +374,13 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats. 
 
 *“Four. The Rhythm Card practices, named-knot sit, Five-Minute Examen, daily PROAPT and weekday Tells — all continue.”*
 
-**Block 8 — Closing Container (8:26–8:30, 4 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:22–8:30, 8 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What you named tonight is the discipline that converts a gift into a long-term faithful service. Unmanaged shadow eventually consumes the gift; named shadow lets the gift stay alive across decades. Carry the naming gently this week.”*
 
 *“If anything that surfaced is heavier than the pair can hold, your standing pair is the first stop; Cohort Companions are next; pastoral / clinical referrals are available.”*

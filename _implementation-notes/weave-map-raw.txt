@@ -1,0 +1,379 @@
+getting-started\week-01-welcome  [sum 0] OTS=Y RND=-
+getting-started\week-02-soil  [sum 0] OTS=- RND=-
+getting-started\week-03-story  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:10 (10) Block 1: Welcome and centering
+    7:10-7:15 ( 5) Block 2: Week 2 check-in
+    7:15-7:25 (10) Block 3: Psalm 139 — being known
+    7:25-7:30 ( 5) Block 4: Companion demo story
+    7:30-7:32 ( 2) Block 5: Bridge to the split
+    7:32-8:12 (40) Block 6: Stories in circles
+    8:12-8:20 ( 8) Block 7: Merge and shared closing
+    8:20-8:25 ( 5) Block 8: Between-session practice
+    8:25-8:30 ( 5) Block 9: Closing container
+getting-started\week-04-story-2  [sum 90] OTS=- RND=Y
+    6:45-7:00 (15) Arrival window
+    7:00-7:10 (10) Block 1: Welcome and centering
+    7:10-7:15 ( 5) Block 2: Joint Footprints check-in
+    7:15-7:22 ( 7) Block 3: Psalm 139 — being known, again
+    7:22-7:25 ( 3) Block 4: Bridge to the split
+    7:25-8:02 (37) Block 5: Stories in circles
+    8:02-8:10 ( 8) Block 6: Merge and one-word landing
+    8:10-8:18 ( 8) Block 7: Leader Feedback Round
+    8:18-8:23 ( 5) Block 8: Between-session practice
+    8:23-8:30 ( 7) Block 9: Closing container
+getting-started\week-05-known  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:10 (10) Block 1: Welcome and centering
+    7:10-7:15 ( 5) Block 2: Week 3 check-in
+    7:15-7:30 (15) Block 3: The four conditions — teaching
+    7:30-7:32 ( 2) Block 4: Bridge to split
+    7:32-8:00 (28) Block 5: Friendship-mapping exercise
+    8:00-8:15 (15) Block 6: Merge and surface common patterns
+    8:15-8:25 (10) Block 7: Between-session practice
+    8:25-8:30 ( 5) Block 8: Closing container
+getting-started\week-06-brave  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:07 ( 7) Block 1: Welcome and centering
+    7:07-7:17 (10) Block 2: Practice hold re-entry — the what-held round
+    7:17-7:28 (11) Block 3: James 5:16 and 1 John 1:9 — confession as architecture
+    7:28-7:33 ( 5) Block 4: Companion demo
+    7:33-7:35 ( 2) Block 5: Bridge to the split
+    7:35-8:08 (33) Block 6: Confession-and-restoration in circles
+    8:08-8:15 ( 7) Block 7: Merge and shared blessing
+    8:15-8:19 ( 4) Block 8: Between-session practice
+    8:19-8:25 ( 6) Block 9: Closing container
+    8:25-8:30 ( 5) Block 10: Pastoral availability
+getting-started\week-07-proapt  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Welcome and centering
+    7:08-7:13 ( 5) Block 2: Wk 6 check-in
+    7:13-7:23 (10) Block 3: Romans 10:17 — the chain
+    7:23-7:35 (12) Block 4: PROAPT walked together
+    7:35-7:37 ( 2) Block 5: Bridge to the split and pair structure
+    7:37-8:07 (30) Block 6: PROAPT in pairs in cohort circles
+    8:07-8:17 (10) Block 7: Tell step — sharing in cohort
+    8:17-8:22 ( 5) Block 8: Merge and between-session
+    8:22-8:30 ( 8) Block 9: Closing container
+getting-started\week-08-proapt-2  [sum 90] OTS=- RND=Y
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Welcome and centering
+    7:08-7:13 ( 5) Block 2: Daily-practice check-in
+    7:13-7:18 ( 5) Block 3: Why a second running
+    7:18-7:32 (14) Block 4: PROAPT walked together — Mark 2:1–12
+    7:32-7:34 ( 2) Block 5: Bridge to the split and pair structure
+    7:34-8:02 (28) Block 6: PROAPT in pairs in cohort circles
+    8:02-8:12 (10) Block 7: Tell step — sharing in cohort
+    8:12-8:18 ( 6) Block 8: Merge and Leader Feedback Round
+    8:18-8:24 ( 6) Block 9: Mid-Series Pulse and between-session
+    8:24-8:30 ( 6) Block 10: Closing container
+getting-started\week-09-garden  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:10 (10) Block 1: Welcome and centering
+    7:10-7:15 ( 5) Block 2: Week 7 check-in
+    7:15-7:32 (17) Block 3: Scripture and framing
+    7:32-7:35 ( 3) Block 4: Bridge to split
+    7:35-8:05 (30) Block 5: The Garden exercise in cohort circles
+    8:05-8:18 (13) Block 6: Merge and one-word landing
+    8:18-8:25 ( 7) Block 7: Between-session practice
+    8:25-8:30 ( 5) Block 8: Closing container
+getting-started\week-10-garden-2  [sum 90] OTS=- RND=Y
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Welcome and centering
+    7:08-7:14 ( 6) Block 2: Garden week check-in
+    7:14-7:26 (12) Block 3: Scripture and brief re-framing
+    7:26-7:29 ( 3) Block 4: Bridge to split
+    7:29-8:02 (33) Block 5: The Garden exercise in cohort circles
+    8:02-8:12 (10) Block 6: Merge and one-word landing
+    8:12-8:18 ( 6) Block 7: Between-session practice
+    8:18-8:24 ( 6) Block 8: Closing container
+    8:24-8:30 ( 6) Block 9: Leader Feedback Round
+getting-started\week-11-doubts  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:07 ( 7) Block 1: Welcome and centering
+    7:07-7:17 (10) Block 2: Practice hold re-entry — the what-held round
+    7:17-7:28 (11) Block 3: Mark 9:14–29 — the scripture ground
+    7:28-7:37 ( 9) Block 4: The Any Doubts? practice — teaching
+    7:37-7:40 ( 3) Block 5: Bridge to split
+    7:40-8:15 (35) Block 6: Any Doubts? in pairs
+    8:15-8:23 ( 8) Block 7: Merge and surface
+    8:23-8:27 ( 4) Block 8: Between-session practice
+    8:27-8:30 ( 3) Block 9: Closing container
+getting-started\week-12-mission  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Welcome and centering
+    7:08-7:13 ( 5) Block 2: Week 11 check-in
+    7:13-7:25 (12) Block 3: Ephesians 2:10 and the uphill/downhill distinction
+    7:25-7:28 ( 3) Block 4: Bridge to split
+    7:28-8:08 (40) Block 5: Gifts and Downhill in cohort circles
+    8:08-8:18 (10) Block 6: Merge and surface
+    8:18-8:25 ( 7) Block 7: Between-session practice and closing-weeks logistics
+    8:25-8:30 ( 5) Block 8: Closing container
+getting-started\week-13-rhythm  [sum 90] OTS=- RND=Y
+    6:45-7:00 (15) Arrival window
+    7:00-7:07 ( 7) Block 1: Welcome and centering
+    7:07-7:15 ( 8) Block 2: Week 12 completion
+    7:15-7:27 (12) Block 3: The long walk — Gal. 6:9 and Psalm 42
+    7:27-7:32 ( 5) Block 4: The Rhythm Card introduced
+    7:32-7:52 (20) Block 5: Building your Rhythm Card
+    7:52-8:07 (15) Block 6: The Signs Card taught
+    8:07-8:15 ( 8) Block 7: The Path Home Card
+    8:15-8:22 ( 7) Block 8: Leader Feedback Round
+    8:22-8:30 ( 8) Block 9: Closing container
+getting-started\week-14-sending  [sum 120] OTS=- RND=-
+    6:00-6:30 (30) Arrival window with light food.
+    6:00-6:30 (30) Arrival window with food
+    6:30-6:45 (15) Block 1: Welcome and integration teaching
+    6:45-6:55 (10) Block 2: Brief blessing rehearsal
+    6:55-7:05 (10) Block 3: Reading and prayer
+    7:05-8:00 (55) Block 4: Family commissionings
+    8:00-8:15 (15) Block 5: Final reflection circle
+    8:15-8:25 (10) Block 6: Rhythm Card and Going Deeper bridge
+    8:25-8:30 ( 5) Block 7: Final blessing and sending
+getting-started\week-15-commissioning  [sum 90] OTS=- RND=-
+    6:30-6:40 (10) Block 1: Welcome and framing
+    6:40-6:55 (15) Block 2: The final rep — the container opened
+    6:55-7:05 (10) Block 3: The word over the night
+    7:05-7:15 (10) Block 4: The three rules read aloud
+    7:15-7:25 (10) Block 5: The covering named
+    7:25-7:45 (20) Block 6: The commissioning
+    7:45-7:50 ( 5) Block 7: The first Lab scheduled
+    7:50-8:00 (10) Block 8: The final rep — the container closed
+going-deeper\week-01-welcome-back  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:10 (10) Block 1: Welcome, Aaronic, settling
+    7:10-7:25 (15) Block 2: From the interlude
+    7:25-7:35 (10) Block 3: Re-introducing the four conditions
+    7:35-7:50 (15) Block 4: Hebrews 12:1–2 — the architectural anchor
+    7:50-8:05 (15) Block 5: What ‘Going Deeper’ actually means
+    8:05-8:20 (15) Block 6: Recommitment
+    8:20-8:25 ( 5) Block 7: Between-session practice
+    8:25-8:30 ( 5) Block 8: Closing container
+going-deeper\week-02-soils  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Welcome and centering
+    7:08-7:13 ( 5) Block 2: Wk 1 check-in
+    7:13-7:30 (17) Block 3: Mark 4:14–20 — the parable as diagnostic
+    7:30-7:35 ( 5) Block 4: Bridge to split + Jeremiah 17:9
+    7:35-8:13 (38) Block 5: The four-places mapping in cohort circles
+    8:13-8:22 ( 9) Block 6: Merge and surface
+    8:22-8:27 ( 5) Block 7: Between-session practice
+    8:27-8:30 ( 3) Block 8: Closing container
+going-deeper\week-03-knots  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: One-word landing on Wk 2’s practice
+    7:13-7:30 (17) Block 3: Hebrews 12 and the knot architecture (teaching)
+    7:30-7:38 ( 8) Block 4: The lie at the root (teaching)
+    7:38-7:42 ( 4) Block 5: Bridge to split
+    7:42-8:12 (30) Block 6: Diagnostic exercise in cohort circles
+    8:12-8:20 ( 8) Block 7: Merge and surface
+    8:20-8:25 ( 5) Block 8: Standing-pair announcement
+    8:25-8:30 ( 5) Block 9: Closing container
+going-deeper\week-04-co-processing  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:15 ( 7) Block 2: Wk 3 landing + standing-pair check
+    7:15-7:30 (15) Block 3: 1 Cor 12 + co-processing teaching
+    7:30-7:45 (15) Block 4: Demonstration round 1 (teen volunteer)
+    7:45-7:55 (10) Block 5: Brief teaching reflection
+    7:55-8:10 (15) Block 6: Demonstration round 2 (parent volunteer)
+    8:10-8:20 (10) Block 7: Closing teaching + integration
+    8:20-8:25 ( 5) Block 8: Between-session practice
+    8:25-8:30 ( 5) Block 9: Closing container
+going-deeper\week-05-confession  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 4 landing + pair check
+    7:13-7:30 (17) Block 3: James 5:16 — the architecture (teaching)
+    7:30-7:35 ( 5) Block 4: Bridge to split + extended prayer
+    7:35-8:15 (40) Block 5: Confession-and-restoration in standing pairs
+    8:15-8:23 ( 8) Block 6: Merge and one-word landing
+    8:23-8:27 ( 4) Block 7: Between-session practice
+    8:27-8:30 ( 3) Block 8: Closing container
+going-deeper\week-06-proapt  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 5 landing (one word)
+    7:13-7:30 (17) Block 3: PROAPT Extended teaching + the Tell step centred
+    7:30-7:35 ( 5) Block 4: Bridge to split + passage read aloud
+    7:35-8:00 (25) Block 5: Extended PROAPT in cohort circles
+    8:00-8:20 (20) Block 6: Merge for the Tell step
+    8:20-8:25 ( 5) Block 7: Between-session practice
+    8:25-8:30 ( 5) Block 8: Closing container
+going-deeper\week-07-corporate-listening  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:07 ( 7) Block 1: Open and 60-second settling
+    7:07-7:16 ( 9) Block 2: Practice hold re-entry — the what-held round
+    7:16-7:31 (15) Block 3: 1 Cor 14 + corporate listening teaching
+    7:31-7:36 ( 5) Block 4: Bringer presents the question
+    7:36-7:56 (20) Block 5: Silent corporate listening
+    7:56-8:16 (20) Block 6: Speaking-back round
+    8:16-8:24 ( 8) Block 7: Bringer weighs and names
+    8:24-8:27 ( 3) Block 8: Between-session practice
+    8:27-8:30 ( 3) Block 9: Closing container
+going-deeper\week-08-group-hears-itself  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 7 landing (one word)
+    7:13-7:30 (17) Block 3: Group taxonomy + Rev 2–3 frame (teaching)
+    7:30-7:42 (12) Block 4: Silent listening for the cohort
+    7:42-8:05 (23) Block 5: Surfacing — what each heard about US
+    8:05-8:20 (15) Block 6: Pattern integration + cohort weighing
+    8:20-8:25 ( 5) Block 7: Between-session practice
+    8:25-8:30 ( 5) Block 8: Closing container
+going-deeper\week-09-shadow-mission  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 8 landing (one word)
+    7:13-7:32 (19) Block 3: Gifts + Shadow (teaching)
+    7:32-7:36 ( 4) Block 4: Bridge to split + prayer
+    7:36-8:14 (38) Block 5: Standing-pair shadow conversation
+    8:14-8:22 ( 8) Block 6: Merge + voluntary public namings
+    8:22-8:26 ( 4) Block 7: Between-session practice
+    8:26-8:30 ( 4) Block 8: Closing container
+going-deeper\week-10-calling-discernment  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 9 landing (one word)
+    7:13-7:30 (17) Block 3: Acts 13 + Antioch teaching
+    7:30-7:38 ( 8) Block 4: Discerner pre-frames the calling
+    7:38-8:00 (22) Block 5: Silent intercession + listening for the Discerner
+    8:00-8:15 (15) Block 6: Surfacing — what the cohort heard for the Discerner
+    8:15-8:23 ( 8) Block 7: Discerner integration + possible commissioning
+    8:23-8:27 ( 4) Block 8: Between-session practice
+    8:27-8:30 ( 3) Block 9: Closing container
+going-deeper\week-11-where-is-our-cohort  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 10 landing — the Asker briefly
+    7:13-7:25 (12) Block 3: 1 Cor 13 + Phil 1:6 + the taxonomy returning (teaching)
+    7:25-7:30 ( 5) Block 4: Bridge to split + prayer
+    7:30-8:05 (35) Block 5: Cohort circles assess themselves
+    8:05-8:25 (20) Block 6: Merge — three pictures into one
+    8:25-8:27 ( 2) Block 7: Between-session practice
+    8:27-8:30 ( 3) Block 8: Closing container
+going-deeper\week-12-sending-and-bridge  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 11 landing (one word)
+    7:13-7:25 (12) Block 3: 2 Tim 4 + Hebrews 12 + the architecture returning
+    7:25-7:35 (10) Block 4: Brief shares — the question carried into the Going Out 
+    7:35-7:55 (20) Block 5: Standing pair blessing
+    7:55-8:10 (15) Block 6: Cohort blessing — sending each member
+    8:10-8:20 (10) Block 7: Bridge to Going Out
+    8:20-8:25 ( 5) Block 8: Aaronic — cohort speaking over cohort
+    8:25-8:30 ( 5) Block 9: Closing send
+going-out\week-01-welcome-back  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:18 (10) Block 2: New continuer introductions (if any)
+    7:18-7:28 (10) Block 3: Acts 1:1–8 + Going Out architecture (teaching)
+    7:28-8:00 (32) Block 4: Gap landings around the circle
+    8:00-8:15 (15) Block 5: Standing pair re-engagement
+    8:15-8:22 ( 7) Block 6: Going Out practices and rhythm refresh
+    8:22-8:27 ( 5) Block 7: Closing container
+    8:27-8:30 ( 3) Block 8: Send + brief informal time
+going-out\week-02-body-sent  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival window
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:13 ( 5) Block 2: Wk 1 landing (one word)
+    7:13-7:33 (20) Block 3: Acts 2 + 1 Peter 2 + the three distinctions (teaching)
+    7:33-7:42 ( 9) Block 4: Bridge — from teaching to witness exercise
+    7:42-8:15 (33) Block 5: Witness exercise around the circle
+    8:15-8:23 ( 8) Block 6: Lead reflection + cohort weighing
+    8:23-8:27 ( 4) Block 7: Between-session practice
+    8:27-8:30 ( 3) Block 8: Closing container
+going-out\week-03-where-sent  [sum 81] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:18 (10) Block 2: Acts 13 + tonight’s architecture
+    7:18-7:23 ( 5) Transition to cohort spaces
+    7:23-7:35 (12) Block 3: Each member writes the working sentence
+    7:35-7:59 (24) Block 4: Standing pair walks the sentence
+    7:59-8:14 (15) Block 5: Cohort circle hears each member
+    8:14-8:18 ( 4) Transition + bring flip charts to shared space
+    8:18-8:27 ( 9) Block 6: Shared circle merge — the body of contexts
+    8:27-8:30 ( 3) Block 7: Closing container
+going-out\week-04-daily-tells  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:23 (15) Block 2: Three-mode teaching frame
+    7:23-7:30 ( 7) Block 3: Worksheet preparation
+    7:30-8:10 (40) Block 4: Cohort survey around the circle
+    8:10-8:20 (10) Block 5: Pattern naming + cohort weighing
+    8:20-8:25 ( 5) Block 6: Wks 5–6 differentiation introduced
+    8:25-8:30 ( 5) Block 7: Closing container
+going-out\week-05-household  [sum 80] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:18 (10) Block 2: Shema + household theology (teaching)
+    7:18-7:23 ( 5) Transition to cohort spaces
+    7:23-7:53 (30) Block 3: Standing pair work
+    7:53-8:08 (15) Block 4: Cohort circle pattern surfacing
+    8:08-8:13 ( 5) Transition + bring flip charts to shared space
+    8:13-8:25 (12) Block 5: Shared circle merge — the body of household contexts
+    8:25-8:30 ( 5) Block 6: Closing container
+going-out\week-06-vocational  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:20 (12) Block 2: Vocational-witness theology (teaching)
+    7:20-7:27 ( 7) Block 3: Worksheet preparation
+    7:27-8:02 (35) Block 4: Cohort sharing around the circle
+    8:02-8:12 (10) Block 5: Pattern naming + integration with household block
+    8:12-8:22 (10) Block 6: Mission close-to-home block close + bridge to Wks 7–9
+    8:22-8:30 ( 8) Block 7: Closing container
+going-out\week-07-third-place  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open and 60-second settling
+    7:08-7:23 (15) Block 2: Acts 8 + Eph 2:10 + downhill/uphill (teaching)
+    7:23-7:30 ( 7) Block 3: Worksheet preparation
+    7:30-8:10 (40) Block 4: Cohort survey around the circle
+    8:10-8:20 (10) Block 5: Pattern naming + integration with close-to-home
+    8:20-8:27 ( 7) Block 6: Wk 8 prep — cohort-level discernment
+    8:27-8:30 ( 3) Block 7: Closing container
+going-out\week-08-discernment  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open + corporate prayer + 60-second settling
+    7:08-7:18 (10) Block 2: Acts 13 + cohort-scaled architecture (teaching)
+    7:18-7:25 ( 7) Block 3: Silent settling + contribution preparation
+    7:25-8:00 (35) Block 4: Cohort contributions around the circle
+    8:00-8:15 (15) Block 5: Cohort weighing
+    8:15-8:25 (10) Block 6: Landing
+    8:25-8:30 ( 5) Block 7: Closing container + Wk 9 frame
+going-out\week-09-body-sent-beyond  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:12 (12) Block 1: Open + practice hold re-entry — the what-held round
+    7:12-7:21 ( 9) Block 2: Acts 13 sending architecture (teaching)
+    7:21-7:41 (20) Block 3: Walking the cost (pair work + cohort circle)
+    7:41-8:16 (35) Block 4: Laying-on-of-hands sending
+    8:16-8:24 ( 8) Block 5: Bridge to Wks 10–12
+    8:24-8:30 ( 6) Block 6: Closing container
+going-out\week-10-what-going-out-produced  [sum 90] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open + 60-second settling
+    7:08-7:18 (10) Block 2: Phil 1:6 + integration architecture (teaching)
+    7:18-7:28 (10) Block 3: Silent integration writing
+    7:28-8:00 (32) Block 4: Standing pair walks the trajectory
+    8:00-8:15 (15) Block 5: Cohort circle pattern surfacing
+    8:15-8:25 (10) Block 6: Bridge to Wk 11
+    8:25-8:30 ( 5) Block 7: Closing container
+going-out\week-11-cohort-lands  [sum 80] OTS=- RND=-
+    6:45-7:00 (15) Arrival
+    7:00-7:08 ( 8) Block 1: Open + 60-second settling
+    7:08-7:18 (10) Block 2: 1 Cor 12 + five-level taxonomy (teaching)
+    7:18-7:23 ( 5) Transition to cohort spaces
+    7:23-7:53 (30) Block 3: Cohort-split honest assessment
+    7:53-8:08 (15) Block 4: Cohort circle articulates landing
+    8:08-8:13 ( 5) Transition + bring flip charts to shared space
+    8:13-8:25 (12) Block 5: Shared circle merge — the body’s honest level
+    8:25-8:30 ( 5) Block 6: Bridge to Wk 12 + closing
+going-out\week-12-long-obedience  [sum 90] OTS=- RND=-
+    6:30-7:00 (30) Extended arrival
+    7:00-7:08 ( 8) Block 1: Open + Acts 20 architecture (teaching)
+    7:08-7:48 (40) Block 2: Standing-pair blessings spoken aloud
+    7:48-8:03 (15) Block 3: Cohort circle — each member ONE sentence
+    8:03-8:13 (10) Block 4: Cohort speaks the Aaronic together
+    8:13-8:18 ( 5) Block 5: H12.1 sending card given
+    8:18-8:25 ( 7) Block 6: Bridge to what continues
+    8:25-8:30 ( 5) Block 7: Final sending

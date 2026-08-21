@@ -164,18 +164,17 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
 | 7:07–7:17 | Block 2: Practice hold re-entry — the what-held round | Shared circle | Lead Comp | Visits kept and missed; the quiet weeks; anything heard, not yet told. |
-| 7:17–7:28 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
-| 7:28–7:37 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 10 min. |
-| 7:37–7:40 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
-| 7:40–8:15 | Block 6: Any Doubts? in pairs | Cohort circles → pairs | Cohort Facs | Each pair runs 2–3 cycles, alternating roles. 35 min. |
-| 8:15–8:23 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
-| 8:23–8:27 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
-| 8:27–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Week 12. |
+| 7:17–7:27 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
+| 7:27–7:35 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 10 min. |
+| 7:35–7:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
+| 7:38–8:13 | Block 6: Any Doubts? in pairs | Cohort circles → pairs | Cohort Facs | Each pair runs 2–3 cycles, alternating roles. 35 min. |
+| 8:13–8:20 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
+| 8:20–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
+| 8:23–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Frame Week 12. |
 
 # **Block-by-Block: Scripts and Notes**
 
 ## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
-
 ## Script
 
 *“Welcome back. Phones in the box. Settle.”*
@@ -187,7 +186,6 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 *“Container reminders: what is said in your pair stays in your pair. Nothing is required. Specificity is the practice; honesty is the goal.”*
 
 ## **Block 2 — Practice Hold Re-entry — the What-Held Round (7:07–7:17, 10 min)**
-
 ## Script
 
 *“Before the hold, Week 10 set the garden rhythm at two visits a week, journaled — and said out loud that the goal was a rhythm that survives. Then the meetings stopped for two weeks, which was the test. So: the what-held round. Visits kept, visits missed, what the quiet weeks were like — and anything God said in the garden that you have not yet told anyone. One sentence, any of those. ‘I stopped after the first week’ is a real answer. So is ‘I went, and nothing came’ — the garden has quiet weeks, and showing up is the practice.”*
@@ -196,8 +194,11 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 *(Leader note: time-to-settled after this second hold, quietly written down beside the first hold’s number.)*
 
-## **Block 3 — Mark 9:14–29 — The Scripture Ground (7:17–7:28, 11 min)**
+*“And now the question you carried into the hold: keep, change, tell. What should we keep doing? What could we do differently? What would you tell somebody about this group? I answer first, with evidence, same as always.”*
 
+*(The signs are never handed to the room; map what you hear to the observing pages afterward, on your side of the paper. A gap between the room’s read and yours is data, never a correction.)*
+
+## **Block 3 — Mark 9:14–29 — The Scripture Ground (7:17–7:27, 10 min)**
 Read the full scene aloud, slowly, from the physical Bible. The whole context matters — the desperate father, the failed disciples, the boy in convulsions. Mark 9:24 lands differently inside the full scene than as a single verse.
 
 ## Script (the read)
@@ -222,8 +223,7 @@ Read the full scene aloud, slowly, from the physical Bible. The whole context ma
 
 • Vol 2 of IJH calls this Any Doubts? It is one of the two highest-confidence formation practices we know of in this body of work. Tonight we walk it together.
 
-## **Block 4 — The Any Doubts? Practice — Teaching (7:28–7:37, 9 min)**
-
+## **Block 4 — The Any Doubts? Practice — Teaching (7:27–7:35, 8 min)**
 Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT / RE-READ. Walk through each in two to three minutes. Then demo with a Co-Companion — a real, brief demo, with a real scripture and a real (small) doubt.
 
 ## The four steps — walk these on the whiteboard
@@ -252,8 +252,7 @@ Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT
 
 Watch for: the demo is the most important three minutes of the night. The cohort circles will calibrate everything against what they just saw. Be specific, be honest, be brief, and — critically — do not resolve the doubt at the end. Modeling unresolved-but-honest is the gift.
 
-## **Block 5 — Bridge to the Split (7:37–7:40, 3 min)**
-
+## **Block 5 — Bridge to the Split (7:35–7:38, 3 min)**
 ## Script
 
 *“The practice card is on your chair. H11.1. Take it with you. Inside your cohort circle, your Companion will pair you up. You’ll have about thirty-five minutes. Each pair runs the practice 2–3 times — alternating who tells the doubt and who reads the scripture.”*
@@ -266,8 +265,7 @@ Watch for: the demo is the most important three minutes of the night. The cohort
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
 
-## **Block 6 — Any Doubts? in Pairs (7:40–8:15, 35 min)**
-
+## **Block 6 — Any Doubts? in Pairs (7:38–8:13, 35 min)**
 Each cohort circle splits into pairs. The Cohort Companion floats between pairs, observes, intervenes only when needed.
 
 ### **Inside the cohort circle — Companion script**
@@ -313,8 +311,7 @@ Each cohort circle splits into pairs. The Cohort Companion floats between pairs,
 
 The Cohort Companion calls switches at the seven-minute mark. “Switch when ready.” If a pair is in mid-cycle, finish the cycle, then switch. Do not interrupt a re-read. Aim for two cycles per pair (one each direction); a third pair if time allows. Most pairs will get one full round each plus a partial second.
 
-## **Block 7 — Merge and Surface (8:15–8:23, 8 min)**
-
+## **Block 7 — Merge and Surface (8:13–8:20, 7 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
@@ -327,8 +324,7 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“Thank you. Two things to remember as we close. First — the practice you just learned tonight is something you can do alone in five minutes, or with a friend in twenty. It is not a workshop technique. It is a way of bringing your real questions to God for the rest of your life. Second — the resolution is the Spirit’s work. The naming is yours. We do the naming. He does what only He can.”*
 
-## **Block 8 — Between-Session Practice (8:23–8:27, 4 min)**
-
+## **Block 8 — Between-Session Practice (8:20–8:23, 3 min)**
 ## Script
 
 *“Here is the practice this week. The Personal Doubts Inventory — H11.2. One page in your journal this week.”*
@@ -339,10 +335,13 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“You will not turn this in. The team will not see it. It is yours. Bring it to next Tuesday only if it has shaped how you think about your week. The list itself stays with you.”*
 
-## **Block 9 — Closing Container (8:27–8:30, 3 min)**
-
+## **Block 9 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What was named in your pair tonight is yours. Carry it gently this week. Some doubts you named tonight will quietly resolve in the days ahead. Some will deepen before they release. Both are normal.”*
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*

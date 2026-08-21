@@ -211,19 +211,18 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is honest assessment, not celebration.’ |
-| 7:08–7:13 | Block 2: Wk 10 landing — the Asker briefly | Shared circle | Lead Comp | Asker speaks briefly if welcomed (60–90 sec) about how integration is going. |
-| 7:13–7:25 | Block 3: 1 Cor 13 + Phil 1:6 + the taxonomy returning (teaching) | Shared circle | Lead Comp | Read passages. Re-walk the five-level taxonomy. Frame the assessment architecture. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is honest assessment, not celebration.’ |
+| 7:07–7:15 | Block 2: Wk 10 landing — the Asker briefly | Shared circle | Lead Comp | Asker speaks briefly if welcomed (60–90 sec) about how integration is going. |
+| 7:15–7:25 | Block 3: 1 Cor 13 + Phil 1:6 + the taxonomy returning (teaching) | Shared circle | Lead Comp | Read passages. Re-walk the five-level taxonomy. Frame the assessment architecture. |
 | 7:25–7:30 | Block 4: Bridge to split + prayer | Shared circle | Lead Comp | Frame the cohort assessment. Pray for honesty. Split. |
-| 7:30–8:05 | Block 5: Cohort circles assess themselves | Cohort circles | Cohort Facs | 35 min using H11.2. Each cohort produces a flip-chart assessment. |
-| 8:05–8:25 | Block 6: Merge — three pictures into one | Shared circle | Lead Comp | Each Cohort Companion presents their cohort’s picture (3 min each). Lead reflects integration. Cohort weighs. |
-| 8:25–8:27 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Personal reflection sheet (H11.3) for Wk 12. |
-| 8:27–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 12 (re-commissioning + bridge). Send. |
+| 7:30–8:03 | Block 5: Cohort circles assess themselves | Cohort circles | Cohort Facs | 35 min using H11.2. Each cohort produces a flip-chart assessment. |
+| 8:03–8:21 | Block 6: Merge — three pictures into one | Shared circle | Lead Comp | Each Cohort Companion presents their cohort’s picture (3 min each). Lead reflects integration. Cohort weighs. |
+| 8:21–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Personal reflection sheet (H11.3) for Wk 12. |
+| 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 12 (re-commissioning + bridge). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -240,8 +239,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 *“Container reminder: what is named here stays in this room. The team will take notes and bring them to debrief; we share aggregated findings with Anthony and the CCA pastoral team without identifying individuals.”*
 
-**Block 2 — Wk 10 Landing — the Asker Briefly (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 10 Landing — the Asker Briefly (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday, [Asker] brought a calling discernment to the cohort’s centre. They have been integrating across the week with their standing pair, Cohort Companion, and Lead Companion. [Asker], we want to honor what is yours to integrate — we are not asking for content. One brief sentence about how the integration has been: are you steady? Working hard? Surprised? Quiet? Whatever is honest. Pass anytime.”*
@@ -250,8 +248,11 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 *“Good. The cohort’s relationship to [Asker]’s ongoing journey is part of tonight’s assessment — not as a verdict on whether Wk 10 “worked,” but as part of the data about whether our cohort can hold a real calling discernment.”*
 
-**Block 3 — 1 Corinthians 13 + Philippians 1:6 + the Taxonomy Returning (7:13–7:25, 12 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — 1 Corinthians 13 + Philippians 1:6 + the Taxonomy Returning (7:15–7:25, 10 min)**
 ## Script (the read)
 
 *“Two passages tonight. Listen.”*
@@ -289,7 +290,6 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 *“In cohort circles, you will use H11.2 — the assessment worksheet. The worksheet has six questions; the cohort works through them together. Your cohort will produce a flip-chart picture by 8:05 that the Cohort Companion brings back to the merge. Three honest pictures merge into one.”*
 
 **Block 4 — Bridge to Split + Prayer (7:25–7:30, 5 min)**
-
 ## Script
 
 *“In your cohort circle, work the worksheet together. The Cohort Companion may name the first observation; the cohort takes over from there. Honest. Specific. Not generic. The Cohort Companion is part of the cohort, not the assessor of it.”*
@@ -298,8 +298,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
 
-**Block 5 — Cohort Circles Assess Themselves (7:30–8:05, 35 min)**
-
+**Block 5 — Cohort Circles Assess Themselves (7:30–8:03, 33 min)**
 Each cohort circle works in parallel. The structure is identical.
 
 **Inside the cohort circle — Companion script**
@@ -346,8 +345,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 **•** By 7:55, the Cohort Companion finalizes the flip-chart picture so it can be brought to the merge.
 
-**Block 6 — Merge — Three Pictures into One (8:05–8:25, 20 min)**
-
+**Block 6 — Merge — Three Pictures into One (8:03–8:21, 18 min)**
 ## Lead Companion script — opening (2 min)
 
 *“Welcome back. Three cohorts each produced an honest picture; we merge.”*
@@ -382,8 +380,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“Good. We hold the picture. Wk 12 next Tuesday is re-commissioning on this honest foundation — not on a more flattering one.”*
 
-**Block 7 — Between-Session Practice (8:25–8:27, 2 min)**
-
+**Block 7 — Between-Session Practice (8:21–8:23, 2 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“One practice this week. The Personal Reflection Frame for Wk 12 — H11.3. One page, four prompts. Where I have moved across Going Deeper. Where I have not. The surprise. The question I am carrying into Going Out.”*
@@ -392,10 +389,13 @@ Each cohort circle works in parallel. The structure is identical.
 
 *“Rhythm Card practices, named-knot sit, daily PROAPT, weekday Tells, Examen, shadow noticing — all continue. The standing pair continues through Wk 12.”*
 
-**Block 8 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened tonight is the architecture of honest assessment lived in a Christian formation cohort. Most cohorts skip this; ours did not. The data we named is what we have; it is real; it is mid-work; it is not final.”*
 
 *“If anything that surfaced is heavier than the week can hold — a feedback you gave the team that is still working in you, an observation about the cohort that troubled you, a personal disappointment with where you are — your standing pair is the first stop; Cohort Companions are next.”*

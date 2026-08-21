@@ -203,9 +203,9 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Warm welcome — last session. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight closes Going Deeper.’ |
-| 7:08–7:13 | Block 2: Wk 11 landing (one word) | Shared circle | Lead Comp | ONE word about how the cohort’s honest assessment last week landed across this week. |
-| 7:13–7:25 | Block 3: 2 Tim 4 + Hebrews 12 + the architecture returning | Shared circle | Lead Comp | Read passages. Walk Hebrews 12:1–2 across Going Deeper. Frame the closing. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight closes Going Deeper.’ |
+| 7:07–7:15 | Block 2: Wk 11 landing (one word) | Shared circle | Lead Comp | ONE word about how the cohort’s honest assessment last week landed across this week. |
+| 7:15–7:25 | Block 3: 2 Tim 4 + Hebrews 12 + the architecture returning | Shared circle | Lead Comp | Read passages. Walk Hebrews 12:1–2 across Going Deeper. Frame the closing. |
 | 7:25–7:35 | Block 4: Brief shares — the question carried into the Going Out series | Shared circle | Lead Comp | Voluntary; brief; from H11.3 prompt 4. About 8–12 contributions across 10 minutes. |
 | 7:35–7:55 | Block 5: Standing pair blessing | Shared circle (in pairs) | Cohort Facs supervise | 20 minutes; each partner speaks specific blessing over the other; H12.2 frame. |
 | 7:55–8:10 | Block 6: Cohort blessing — sending each member | Shared circle | Lead Companion + Cohort Facs | Cohort Companions distribute pre-written sending cards. Each Cohort Companion speaks brief blessing over their cohort. |
@@ -215,8 +215,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -233,8 +232,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“Container reminder: same as it has been across twelve weeks. What is named here stays in this room.”*
 
-**Block 2 — Wk 11 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 11 Landing (One Word) (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday the cohort assessed itself honestly. Some of what we named was hard. One word about how the cohort’s honest assessment has landed in YOU across the week. Surprising. Steadying. Hard. Useful. Quiet. Pass anytime.”*
@@ -243,8 +241,11 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 *“Good. The honest foundation holds. We commission tonight onto that.”*
 
-**Block 3 — 2 Tim 4 + Hebrews 12 + the Architecture Returning (7:13–7:25, 12 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — 2 Tim 4 + Hebrews 12 + the Architecture Returning (7:15–7:25, 10 min)**
 ## Script (the read)
 
 *“Two passages tonight. Listen.”*
@@ -284,7 +285,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 **FINISHING WELL — Wks 11, 12. The integration block, closing tonight.**
 
 **Block 4 — Brief Shares: The Question Carried into Spring (7:25–7:35, 10 min)**
-
 ## Script
 
 *“On H11.3, prompt 4 — the question you are carrying into the Going Out series. Voluntary brief shares. About 30 to 45 seconds. The question itself in your own words; not the resolution. The question forming.”*
@@ -298,7 +298,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 *“Thank you. The questions in the room tonight are the seed of what Going Out will engage. Hold them gently across the interlude.”*
 
 **Block 5 — Standing Pair Blessing (7:35–7:55, 20 min)**
-
 ## Lead Companion script — opening (90 sec)
 
 *“Your standing pair has walked nine weeks with you. Tonight is the formal close of the Going Deeper partnership.”*
@@ -340,7 +339,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 **•** If a pair has clearly been struggling all of Going Deeper and the blessing block reveals the difficulty — receive without rushing. Pastoral 1:1 with each partner separately within the week.
 
 **Block 6 — Cohort Blessing — Sending Each Member (7:55–8:10, 15 min)**
-
 ## Lead Companion script — opening (60 sec)
 
 *“Welcome back from the pair work. The cohort has held you all of Going Deeper. Tonight the cohort sends you.”*
@@ -370,7 +368,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 *“In Christ’s name. Amen.”*
 
 **Block 7 — Bridge to the Going Out series (8:10–8:20, 10 min)**
-
 ## Script
 
 *“Four pieces about what comes next.”*
@@ -384,7 +381,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 *“FOUR — the interlude support. The team is on call. Pastoral / clinical backup is active. If something heavy surfaces, your standing pair (whether continuing or released), your Cohort Companion, the Lead Companion, and pastoral / clinical referrals are all available.”*
 
 **Block 8 — Aaronic — Cohort Speaking Over Cohort (8:20–8:25, 5 min)**
-
 ## Lead Companion script
 
 *“One final architecture before we close. The Aaronic blessing has closed every Tuesday across Going Deeper. Tonight, the cohort speaks it over the cohort.”*
@@ -412,7 +408,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 *(Brief silence. Hands lowered.)*
 
 **Block 9 — Closing Send (8:25–8:30, 5 min)**
-
 ## Script
 
 *“Twelve weeks ago we recommitted on Wk 1. Tonight we send. Going Deeper is closed.”*

@@ -152,10 +152,10 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The halfway framing. |
-| 7:08–7:13 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
-| 7:13–7:18 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
-| 7:18–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The halfway framing. |
+| 7:07–7:15 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
+| 7:15–7:20 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
+| 7:20–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
 | 7:32–7:34 | Block 5: Bridge to the split and pair structure | Shared | Comp-in-Formation | Pair structure restated. Pray. Split. |
 | 7:34–8:02 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | As Week 7. Switch reader/listener at 13 min. |
 | 8:02–8:12 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells the cohort circle ONE thing they heard. |
@@ -167,8 +167,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 *Blocks 1–5 and 10 are the Companion-in-Formation's blocks. The italicized scripts in those blocks are theirs — written here as a model for the dry run, not a cage. The senior should say it in their own words; what is fixed is the shape, the timings, and the handoff rule.*
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
-
+## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 ## Companion-in-Formation's script
 
 *"Welcome back. Phones in the box. Let me speak the blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
@@ -183,8 +182,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 From the moment the senior starts speaking, sit back — outside the circle, eyes on the senior, faces warm and unhelpful. If the cohort looks to you, look at the senior. The room learns who is leading from where the adults look.
 
-## **Block 2 — Daily-Practice Check-in (7:08–7:13, 5 min)**
-
+## **Block 2 — Daily-Practice Check-in (7:07–7:15, 8 min)**
 ## Companion-in-Formation's script
 
 *"Quick check-in on the daily PROAPT. One sentence each, whoever wants: how did the week of daily practice actually go? Honest answers. 'I did two days and stopped' is an honest answer."*
@@ -193,8 +191,11 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 
 *"If your week was thin or empty — no guilt. The halfway point is where daily practice thins out for almost everyone; that's normal, not failure. The practice picks up where you are, not where you were supposed to be. Tonight is a fresh start, and everything we do tonight works whether you did seven days or zero."*
 
-## **Block 3 — Why a Second Running (7:13–7:18, 5 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Why a Second Running (7:15–7:20, 5 min)**
 ## Companion-in-Formation's script
 
 *"The verse under all of this is still Romans 10:17: 'So faith comes from hearing, and hearing through the word of Christ.' Word, hearing, faith. The chain only works if we hear — and hearing is a skill, and skills take reps. Last week was rep one. Tonight is rep two."*
@@ -203,8 +204,7 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 
 *"Same six steps as last week. I'll keep us on time. Handouts are coming around — Bibles open to Mark 2."*
 
-## **Block 4 — PROAPT Walked Together: Mark 2:1–12 (7:18–7:32, 14 min)**
-
+## **Block 4 — PROAPT Walked Together: Mark 2:1–12 (7:20–7:32, 12 min)**
 This is the marquee block of the night. The Companion-in-Formation leads all six steps, timed, from their facilitation card (H8.1). The cohort works their handout (H8.2). The adult team does not speak unless the handoff comes.
 
 ## How the senior walks it (from the card)
@@ -228,7 +228,6 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 - The handoff: if any sharing turns heavy, the senior catches the designated adult's eye and hands it over — and the adult takes it fully, immediately, without making the handoff feel like an alarm. The senior keeps holding the room.
 
 ## **Block 5 — Bridge to the Split and Pair Structure (7:32–7:34, 2 min)**
-
 ## Companion-in-Formation's script
 
 *"Same pair structure as last week. In your cohort circle you'll pair up — one Reader, one Listener. Reader leads the six steps; Listener works alongside without interrupting. After thirteen minutes, switch. Stay with Mark 2 or take a fresh passage — Reader's choice."*
@@ -238,7 +237,6 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 *"Pray with me. Father, You've already spoken tonight. Speak again in the pairs — something specific, something each of us can hear. Amen. Go."*
 
 ## **Block 6 — PROAPT in Pairs (7:34–8:02, 28 min)**
-
 Each cohort circle splits into pairs, as Week 7. The Cohort Companion pairs people deliberately — different pairings than last week if possible.
 
 ## Inside the cohort circle
@@ -258,7 +256,6 @@ Same interventions as Week 7 — the unstick prompts for Observe ("one specific 
 - If a pair treats the pass as a rerun ("we did this passage Thursday") — "Then you know what it said Thursday. What is it saying tonight? Second hearings are where the specific word comes."
 
 ## **Block 7 — Tell Step in Cohort (8:02–8:12, 10 min)**
-
 Re-form into cohort circle (out of pairs). Each participant tells the cohort circle ONE thing they heard tonight. By now the room expects this step; let the expectation work.
 
 ## Inside the cohort circle
@@ -272,7 +269,6 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 **Closing of cohort (1 min). Cohort Companion: "Take what you heard with you. It was given to be walked out."**
 
 ## **Block 8 — Merge and Leader Feedback Round (8:12–8:18, 6 min)**
-
 Everyone back in the single circle. The Lead Companion runs the Leader Feedback Round (Handbook 11.7) for the Companion-in-Formation, while the cohort is still present. The order is fixed.
 
 ## Script (Lead Companion)
@@ -289,8 +285,9 @@ Everyone back in the single circle. The Lead Companion runs the Leader Feedback 
 
 The "for you" language matters: the group reflects on their own experience, not grading a friend. Keep it moving; the round is six minutes, not a review board.
 
-## **Block 9 — Mid-Series Pulse and Between-Session (8:18–8:24, 6 min)**
+*(Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences, and done.)*
 
+## **Block 9 — Mid-Series Pulse and Between-Session (8:18–8:24, 6 min)**
 ## Script (Lead Companion)
 
 *"Two things going home with you tonight. First, the daily PROAPT continues — one passage, five to fifteen minutes, every day, journal Week 7–8 pages. If last week thinned out, restart tomorrow. No guilt, no doubling up."*
@@ -302,7 +299,6 @@ The "for you" language matters: the group reflects on their own experience, not 
 *"Parents and teens each fill out your own. Don't compare answers unless you want to — although honestly, that might be a good conversation in the car."*
 
 ## **Block 10 — Closing Container (8:24–8:30, 6 min)**
-
 ## Companion-in-Formation's script
 
 *"One thing before we close. Seven weeks ago none of us had done this. Tonight we ran the whole practice ourselves — and next Tuesday we go deeper, into the Garden. What we practiced tonight is the skill the Garden depends on: hearing Him. Keep the daily practice alive this week. It's the hinge."*

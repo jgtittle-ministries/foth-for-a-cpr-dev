@@ -182,19 +182,18 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle | Co-Companion (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name what it means to be sent.’ |
-| 7:08–7:13 | Block 2: Wk 1 landing (one word) | Shared circle | Lead Companion | ONE word about the past week — the noticing question and the Tell. |
-| 7:13–7:33 | Block 3: Acts 2 + 1 Peter 2 + the three distinctions (teaching) | Shared circle | Lead Companion | Read passages. Walk the architecture. Three distinctions. |
-| 7:33–7:42 | Block 4: Bridge — from teaching to witness exercise | Shared circle | Lead Companion | Brief framing of Block 5; H2.2 walked; expectations set. |
-| 7:42–8:15 | Block 5: Witness exercise around the circle | Shared circle | Lead Companion | Each member names one specific Tell from the past week. Initials only. Brief; specific. |
-| 8:15–8:23 | Block 6: Lead reflection + cohort weighing | Shared circle | Lead Companion | Lead reflects what surfaced across the contributions; cohort weighs briefly. |
-| 8:23–8:27 | Block 7: Between-session practice | Shared circle | Co-Companion (Parent) | Continue Tells; intensify noticing question; pair check-in prompt. |
-| 8:27–8:30 | Block 8: Closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 3 (where am I being sent). Send. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name what it means to be sent.’ |
+| 7:07–7:15 | Block 2: Wk 1 landing (one word) | Shared circle | Lead Companion | ONE word about the past week — the noticing question and the Tell. |
+| 7:15–7:32 | Block 3: Acts 2 + 1 Peter 2 + the three distinctions (teaching) | Shared circle | Lead Companion | Read passages. Walk the architecture. Three distinctions. |
+| 7:32–7:40 | Block 4: Bridge — from teaching to witness exercise | Shared circle | Lead Companion | Brief framing of Block 5; H2.2 walked; expectations set. |
+| 7:40–8:11 | Block 5: Witness exercise around the circle | Shared circle | Lead Companion | Each member names one specific Tell from the past week. Initials only. Brief; specific. |
+| 8:11–8:19 | Block 6: Lead reflection + cohort weighing | Shared circle | Lead Companion | Lead reflects what surfaced across the contributions; cohort weighs briefly. |
+| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Companion (Parent) | Continue Tells; intensify noticing question; pair check-in prompt. |
+| 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 3 (where am I being sent). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -209,8 +208,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Wk 1 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 1 Landing (One Word) (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday we landed honestly from the interlude. This week began the noticing question — ‘Lord, where today might I already be sent?’ — and the weekly Tell outside the cohort. One word about THE PAST WEEK — not the Tell’s content; the posture of the noticing. Slow. Forced. Surprising. Awkward. Steady. Empty. Pass anytime.”*
@@ -219,8 +217,11 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“Good. The data is honest. We hold what was named. Tonight’s teaching gives us architecture for what surfaced.”*
 
-**Block 3 — Acts 2 + 1 Peter 2 + the Three Distinctions (7:13–7:33, 20 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — Acts 2 + 1 Peter 2 + the Three Distinctions (7:15–7:32, 17 min)**
 ## Script (the read)
 
 *“Two passages tonight. Listen to both.”*
@@ -251,8 +252,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“The practical question for the rest of Going Out: what kind of sent-body are we, specifically? What does our particular cohort’s witness look like, given what the Spirit has actually formed in us? Wk 3 next Tuesday begins the answer; tonight’s witness exercise gives us first data.”*
 
-**Block 4 — Bridge to the Witness Exercise (7:33–7:42, 9 min)**
-
+**Block 4 — Bridge to the Witness Exercise (7:32–7:40, 8 min)**
 ## Script
 
 *“Our first witness exercise of Going Out. Around the circle, in a few minutes — each of you, briefly, will name ONE specific Tell from the past week. Not your overall witnessing posture; one specific Tell.”*
@@ -267,8 +267,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“I will go first. One Cohort Companion will go second.”*
 
-**Block 5 — Witness Exercise Around the Circle (7:42–8:15, 33 min)**
-
+**Block 5 — Witness Exercise Around the Circle (7:40–8:11, 31 min)**
 ## How the block runs
 
 **Lead Companion goes first. Models the architecture: ONE specific Tell, initials only, 60 seconds, honest. Includes both what worked and what was awkward. (90 sec)**
@@ -287,8 +286,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **If a teen’s Tell involved a peer in distress: receive briefly, follow up in pastoral 1:1; mandatory-reporting protocols if applicable.**
 
-**Block 6 — Lead Reflection + Cohort Weighing (8:15–8:23, 8 min)**
-
+**Block 6 — Lead Reflection + Cohort Weighing (8:11–8:19, 8 min)**
 ## Lead Companion script (3 min reflection)
 
 *“What I heard across the cohort tonight. Some patterns; some range; honest data either way.”*
@@ -305,8 +303,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“Good. We hold the picture tentatively. Wk 3 builds from here.”*
 
-**Block 7 — Between-Session Practice (8:23–8:27, 4 min)**
-
+**Block 7 — Between-Session Practice (8:19–8:23, 4 min)**
 ## Script — Co-Companion (Parent) leads
 
 *“Three pieces of practice this week.”*
@@ -319,10 +316,13 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 *“Rhythm Card practices, named-knot sit, daily PROAPT and weekday Tells, Examen, shadow noticing — all continue.”*
 
-**Block 8 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“Tonight we named the architecture of being sent. Acts 2 and 1 Peter 2. The three distinctions. Our cohort’s emerging witness, tentatively. Wk 3 next Tuesday discerns where each of us is being sent specifically. Bring the standing-pair conversation; bring the noticing of where you are already a witness; bring an open posture.”*
 
 *“If anything that surfaced tonight is heavier than the week can hold — standing pair first, Cohort Companion next, pastoral / clinical referrals are available.”*

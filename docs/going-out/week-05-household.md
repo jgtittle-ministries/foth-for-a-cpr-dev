@@ -180,19 +180,18 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is the costliest close-to-home witness.’ |
-| 7:08–7:18 | Block 2: Shema + household theology (teaching) | Shared circle | Lead Companion | Read Deut 6, Acts 16, 1 Tim 5, 1 Pet 3. Walk household-as-unit. |
-| 7:18–7:23 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
-| 7:23–7:53 | Block 3: Standing pair work | Cohort circles (in pairs) | Cohort Companions float | 15 min per direction; 30 min total. |
-| 7:53–8:08 | Block 4: Cohort circle pattern surfacing | Cohort circles | Cohort Companions | Each member briefly: ONE pattern. Companion captures on flip chart. |
-| 8:08–8:13 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
-| 8:13–8:25 | Block 5: Shared circle merge — the body of household contexts | Shared circle | Lead Companion | Lead names cross-cohort patterns; brief weighing. |
-| 8:25–8:30 | Block 6: Closing container | Shared circle | Lead Companion | Aaronic. Wk 6 is vocational. Send. |
+| 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is the costliest close-to-home witness.’ |
+| 7:11–7:20 | Block 2: Shema + household theology (teaching) | Shared circle | Lead Companion | Read Deut 6, Acts 16, 1 Tim 5, 1 Pet 3. Walk household-as-unit. |
+| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
+| 7:25–7:53 | Block 3: Standing pair work | Cohort circles (in pairs) | Cohort Companions float | 15 min per direction; 30 min total. |
+| 7:53–8:06 | Block 4: Cohort circle pattern surfacing | Cohort circles | Cohort Companions | Each member briefly: ONE pattern. Companion captures on flip chart. |
+| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
+| 8:11–8:21 | Block 5: Shared circle merge — the body of household contexts | Shared circle | Lead Companion | Lead names cross-cohort patterns; brief weighing. |
+| 8:21–8:30 | Block 6: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Wk 6 is vocational. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -207,8 +206,11 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Shema + Household Theology (7:08–7:18, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Shema + Household Theology (7:11–7:20, 9 min)**
 ## Script (the read)
 
 *“Four passages tonight. Listen.”*
@@ -243,8 +245,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 *“Go to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. The pair work begins after a brief settling.”*
 
-**Block 3 — Standing Pair Work (7:23–7:53, 30 min, cohort-split)**
-
+**Block 3 — Standing Pair Work (7:25–7:53, 28 min, cohort-split)**
 ## Cohort Companion script (90 sec)
 
 *“Your standing pair. Fifteen minutes per direction; thirty minutes total. The architecture is the same shape as Going Deeper Wk 5’s confession block — ONE specific moment, named, owned without justification, brief.”*
@@ -269,8 +270,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **If a pair runs out of material early: Cohort Companion can offer a refining question: ‘Where in your household is the witness most invisible right now? What might be asked of you next?’**
 
-**Block 4 — Cohort Circle Pattern Surfacing (7:53–8:08, 15 min, cohort-split)**
-
+**Block 4 — Cohort Circle Pattern Surfacing (7:53–8:06, 13 min, cohort-split)**
 ## Cohort Companion script (60 sec)
 
 *“Around our cohort circle. Each of us, briefly — about 30–40 seconds. ONE pattern from your pair work. Not the content; the pattern. ‘What I noticed about my household witness is \_\_\_\_.’”*
@@ -291,8 +291,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **If multiple members surface the same pattern (‘my household witness is invisible right now’; ‘I have been avoiding the conversation with my parent for years’): note the cluster. The cluster is data.**
 
-**Block 5 — Shared Circle Merge (8:13–8:25, 12 min)**
-
+**Block 5 — Shared Circle Merge (8:11–8:21, 10 min)**
 ## Lead Companion script
 
 *“Three flip charts. Three cohorts. The body of household witness patterns. Let me read what surfaced — patterns, not detail.”*
@@ -311,10 +310,13 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 *“The body holds the body of household witness work. Wk 6 turns to the vocational domain. Different texture; same body.”*
 
-**Block 6 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 6 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word from each of you, around the circle. How does this evening land in you?”*
 
 *(Around the circle. 5 seconds per person.)*

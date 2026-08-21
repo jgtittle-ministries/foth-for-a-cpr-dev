@@ -159,11 +159,11 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. Folders distributed to seats. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared | CiF | Container from memory. Aaronic blessing. Frame the night and name the gap. |
-| 7:07–7:15 | Block 2: Week 12 completion | Shared | Lead Comp | Unfinished downhill-mission answers finish here. Brief practice check-in. |
-| 7:15–7:27 | Block 3: The long walk — Gal. 6:9 and Psalm 42 | Shared | CiF | Teaching: due season, and the soul that is downcast and still hopes. |
-| 7:27–7:32 | Block 4: The Rhythm Card introduced | Shared | CiF | The card walked briefly. The honesty rule stated. Bridge to the split. |
-| 7:32–7:52 | Block 5: Building your Rhythm Card | Cohort circles | Cohort Facs | 20 min. Own handwriting, on H13.2. Companions coach honesty, not ambition. |
-| 7:52–8:07 | Block 6: The Signs Card taught | Shared | CiF | The four kinds of dry; the one sorting question. Handoff protocol live if needed. |
+| 7:07–7:18 | Block 2: Week 12 completion | Shared | Lead Comp | Unfinished downhill-mission answers finish here. Brief practice check-in. |
+| 7:18–7:28 | Block 3: The long walk — Gal. 6:9 and Psalm 42 | Shared | CiF | Teaching: due season, and the soul that is downcast and still hopes. |
+| 7:28–7:33 | Block 4: The Rhythm Card introduced | Shared | CiF | The card walked briefly. The honesty rule stated. Bridge to the split. |
+| 7:33–7:53 | Block 5: Building your Rhythm Card | Cohort circles | Cohort Facs | 20 min. Own handwriting, on H13.2. Companions coach honesty, not ambition. |
+| 7:53–8:07 | Block 6: The Signs Card taught | Shared | CiF | The four kinds of dry; the one sorting question. Handoff protocol live if needed. |
 | 8:07–8:15 | Block 7: The Path Home Card | Shared | CiF | Shown, explained, and filed in every folder while the room listens. |
 | 8:15–8:22 | Block 8: Leader Feedback Round | Shared | Lead Comp | Section 11.7 — the senior's final in-cohort round; looks back across all four leads. |
 | 8:22–8:30 | Block 9: Closing container | Shared | CiF + Lead Comp | Between-session practice. Container reaffirmed. Aaronic blessing. |
@@ -173,7 +173,6 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 *The italicized scripts in Blocks 1, 3, 4, 6, and 7 are the Companion-in-Formation's, delivered from H13.1. They are written out fully because this is a teaching lift — but the senior should own them, not read them.*
 
 ## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
-
 ## Script (Companion-in-Formation)
 
 *"Welcome back. Phones in the box. The blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
@@ -186,8 +185,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 
 The senior opens from memory — this is their ninth or tenth container rep since Week 5, and Week 15 will ask for it in public. The Lead Companion sits where the senior can find their eyes.
 
-## **Block 2 — Week 12 Completion (7:07–7:15, 8 min)**
-
+## **Block 2 — Week 12 Completion (7:07–7:18, 11 min)**
 The one block the Lead Companion leads tonight, so the senior's arc stays clean.
 
 ## Script (Lead Companion)
@@ -198,8 +196,11 @@ The one block the Lead Companion leads tonight, so the senior's arc stays clean.
 
 *"And the practice check: last week's assignment was one small action aligned with your downhill mission. Ninety seconds — anyone, one sentence on what happened."*
 
-## **Block 3 — The Long Walk: Galatians 6:9 and Psalm 42 (7:15–7:27, 12 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — The Long Walk: Galatians 6:9 and Psalm 42 (7:18–7:28, 10 min)**
 Read both passages aloud. Slow. The teaching is short and it frames everything after it.
 
 *"And let us not grow weary of doing good, for in due season we will reap, if we do not give up."*
@@ -220,8 +221,7 @@ Read both passages aloud. Slow. The teaching is short and it frames everything a
 
 • Here is the plain truth about the next few weeks. The break is coming. For twelve weeks these practices have been carried by this room — by Tuesday, by these faces. Over the break there is no Tuesday. What carries the practices across a gap is not momentum; it is a rhythm you built on purpose. So we build it tonight, before the gap, not after it.
 
-## **Block 4 — The Rhythm Card Introduced (7:27–7:32, 5 min)**
-
+## **Block 4 — The Rhythm Card Introduced (7:28–7:33, 5 min)**
 ## Script (Companion-in-Formation)
 
 *"Take the Rhythm Card out of your folder. This is the whole series folded into one page: Daily — the morning question, the evening journal note, PROAPT if the season allows. Weekly — one specific person who knows what you are working on, and a sabbath rhythm. Monthly — a clearing time, and a Four-Connects review. Seasonally — the deeper work. You have already received every practice on this card. Tonight you are not learning them; you are choosing which ones you are actually taking with you."*
@@ -230,8 +230,7 @@ Read both passages aloud. Slow. The teaching is short and it frames everything a
 
 *"In your circles. Build in your own handwriting. Go."*
 
-## **Block 5 — Building Your Rhythm Card (7:32–7:52, 20 min)**
-
+## **Block 5 — Building Your Rhythm Card (7:33–7:53, 20 min)**
 Each cohort circle works H13.2. Every participant marks their daily, weekly, and monthly practices — specific times, specific people, specific days — in their own handwriting.
 
 ## Cohort Companion: how to coach the build
@@ -243,8 +242,7 @@ Each cohort circle works H13.2. Every participant marks their daily, weekly, and
 - If a build conversation surfaces something heavy, honor it briefly and hand it to the adult after the circle closes. Companions-in-Formation assisting in circles: rule 2 applies as always.
 - Finish with each participant reading their daily line aloud to the circle — spoken commitments hold better than silent ones.
 
-## **Block 6 — The Signs Card Taught (7:52–8:07, 15 min)**
-
+## **Block 6 — The Signs Card Taught (7:53–8:07, 14 min)**
 Merge to the single circle. This is the center of the senior's teaching lift. Whiteboard ready.
 
 ## Script (Companion-in-Formation)
@@ -279,7 +277,6 @@ Teaching the dry season out loud can surface someone's actual dry season — vis
 The senior's only job in the moment is the clean finish and the calm continue. Holding the person is never theirs to do — that is the bright line, and tonight is its clearest rehearsal.
 
 ## **Block 7 — The Path Home Card (8:07–8:15, 8 min)**
-
 ## Script (Companion-in-Formation)
 
 *"One more card, and then we are done teaching. Take out the Path Home Card."*
@@ -297,7 +294,6 @@ The senior's only job in the moment is the clean finish and the calm continue. H
 If "planning for failure" resistance surfaces (it usually comes from a parent), the reframe is on H13.1: a fire extinguisher is not a plan to burn the house down. We mount it on the wall because we intend to live in this house a long time.
 
 ## **Block 8 — Leader Feedback Round (8:15–8:22, 7 min)**
-
 The Lead Companion takes the room. This is the Companion-in-Formation's final in-cohort feedback round before their Week 15 commissioning — so it looks back across all four of their leads, not just tonight.
 
 ## Structure (Section 11.7 — the order is fixed)
@@ -311,8 +307,9 @@ The Lead Companion takes the room. This is the Companion-in-Formation's final in
 
 Affirmation first, growth second, group only by consent — the design is the point. Somewhere in step 1, name plainly what the room just watched: a senior teen taught this cohort the most important pastoral equipment in the series. That sentence belongs to the whole room's memory of this night, and it sets the table for Week 15.
 
-## **Block 9 — Closing Container (8:22–8:30, 8 min)**
+*(Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences, and done.)*
 
+## **Block 9 — Closing Container (8:22–8:30, 8 min)**
 ## Script (Companion-in-Formation opens; Lead Companion closes)
 
 *"Between-session practice — and this one runs across the whole break. Run your Rhythm Card as you built it tonight. For real. Not the impressive version — the one in your handwriting. And in your journal, note where it held and where it slipped. No fixing. No guilt-engine. Just honest noticing — the same honest noticing the evening note has been teaching you all series. We will look at what you noticed in January, and the slips will be as useful as the holds."*

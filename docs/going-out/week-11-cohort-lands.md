@@ -184,19 +184,18 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is honest cohort assessment.’ |
-| 7:08–7:18 | Block 2: 1 Cor 12 + five-level taxonomy (teaching) | Shared circle | Lead Companion | Read passage. Walk the taxonomy briefly; H11.2 walked. |
-| 7:18–7:23 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
-| 7:23–7:53 | Block 3: Cohort-split honest assessment | Cohort circles | Cohort Companions | 30 min: each cohort assesses honestly using H11.1; flip chart capture. |
-| 7:53–8:08 | Block 4: Cohort circle articulates landing | Cohort circles | Cohort Companions | Each cohort lands on its assessment of the body; flip chart final. |
-| 8:08–8:13 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
-| 8:13–8:25 | Block 5: Shared circle merge — the body’s honest level | Shared circle | Lead Companion | Lead integrates three cohort assessments into one body-level reading. |
-| 8:25–8:30 | Block 6: Bridge to Wk 12 + closing | Shared circle | Lead Companion | Aaronic. Wk 12 prep; pair partner blessing question. Send. |
+| 7:00–7:11 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is honest cohort assessment.’ |
+| 7:11–7:20 | Block 2: 1 Cor 12 + five-level taxonomy (teaching) | Shared circle | Lead Companion | Read passage. Walk the taxonomy briefly; H11.2 walked. |
+| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
+| 7:25–7:53 | Block 3: Cohort-split honest assessment | Cohort circles | Cohort Companions | 30 min: each cohort assesses honestly using H11.1; flip chart capture. |
+| 7:53–8:06 | Block 4: Cohort circle articulates landing | Cohort circles | Cohort Companions | Each cohort lands on its assessment of the body; flip chart final. |
+| 8:06–8:11 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge. |
+| 8:11–8:21 | Block 5: Shared circle merge — the body’s honest level | Shared circle | Lead Companion | Lead integrates three cohort assessments into one body-level reading. |
+| 8:21–8:30 | Block 6: Feedback round, bridge to wk 12 and closing | Shared circle | Lead Companion | Aaronic. Wk 12 prep; pair partner blessing question. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open + 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open + 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -211,8 +210,11 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 *“Container reminder: same as it has been across the formation arc.”*
 
-**Block 2 — 1 Cor 12 + Five-Level Taxonomy (7:08–7:18, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — 1 Cor 12 + Five-Level Taxonomy (7:11–7:20, 9 min)**
 ## Script (the read)
 
 *“One passage tonight, then the taxonomy. Listen.”*
@@ -243,8 +245,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 *“Go to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. The cohort assessment begins after a brief settling.”*
 
-**Block 3 — Cohort-Split Honest Assessment (7:23–7:53, 30 min, cohort-split)**
-
+**Block 3 — Cohort-Split Honest Assessment (7:25–7:53, 28 min, cohort-split)**
 ## Cohort Companion script (90 sec)
 
 *“Your cohort space. Thirty minutes of honest assessment. H11.1 has the worksheet.”*
@@ -271,8 +272,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **Time discipline: 7 / 15 / 8 minutes; total 30.**
 
-**Block 4 — Cohort Circle Articulates Landing (7:53–8:08, 15 min, cohort-split)**
-
+**Block 4 — Cohort Circle Articulates Landing (7:53–8:06, 13 min, cohort-split)**
 ## Cohort Companion script (60 sec)
 
 *“Our cohort’s articulation. We landed on \_\_\_\_\_. The supporting data: \_\_\_\_\_. The honest divergence (if any): \_\_\_\_\_. The honest comparison to Going Deeper Wk 11: confirms / refines / reveals Going Deeper was generous / reveals Going Deeper was harsh.”*
@@ -291,8 +291,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **If the cohort’s articulation reveals significant material the cohort space cannot adjudicate (the cohort sees harm in the formation arc, the cohort sees regression, the cohort sees stagnation): pastoral attention immediately after the session.**
 
-**Block 5 — Shared Circle Merge (8:13–8:25, 12 min)**
-
+**Block 5 — Shared Circle Merge (8:11–8:21, 10 min)**
 ## Lead Companion script
 
 *“Three flip charts. Three cohort assessments. The body’s honest level.”*
@@ -313,7 +312,10 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 *“The body holds its honest level. Wk 12 sends from this honest landing.”*
 
-**Block 6 — Bridge to Wk 12 + Closing (8:25–8:30, 5 min)**
+**Block 6 — Feedback Round, Bridge to Wk 12 and Closing (8:21–8:30, 9 min)**
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 
 ## Lead Companion script
 

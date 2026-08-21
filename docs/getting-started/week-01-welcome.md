@@ -153,7 +153,6 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 Below are the actual words to say (or paraphrase from familiarity) for each block, with what to watch for. Read these aloud in your prep meeting as a team. The first time you say them, they should feel slightly stiff; by Week 3 they will feel like yours.
 
 ## Block 1 — Welcome (7:00–7:05, 5 min)
-
 ***Stand at the open of the circle. Wait for full silence.***
 
 ## Script
@@ -171,7 +170,6 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 Watch for: parents who try to keep their phones for “emergencies.” If asked, say: “Your spouse and your school have the building’s number. If something is on fire, someone will come and get you. The phone goes in the box.”
 
 ## Block 2 — What This Is and Isn’t (7:05–7:10, 5 min)
-
 ## Script
 
 “For ninety minutes a week for fifteen weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
@@ -183,7 +181,6 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 “What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend the next fifteen weeks practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
 ## Block 3 — The Four Connects, Kitchen-Table Version (7:10–7:20, 10 min)
-
 **Stand at the whiteboard.** The Four Connects diagram should already be drawn. Walk the cohort through it briefly.
 
 ![The Four Connects as a left-to-right sequence — Self, then Others, then God, then Mission — with arrows showing that each connection makes the next one real; rooted in the two great commandments, love God and love neighbor (Matt. 22:37–40).](images/wk01-four-connects.svg)
@@ -205,7 +202,6 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 Watch for: junior teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
 ## Block 4 — Container Introduction — First Full Opening Protocol (7:20–7:35, 15 min)
-
 This is the most important block of Week 1. Do not rush it.
 
 ## Script
@@ -227,7 +223,6 @@ This is the most important block of Week 1. Do not rush it.
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.
 
 ## Block 5 — One True Sentence (7:35–7:55, 20 min)
-
 ## Script
 
 “We’re going to do one thing before we read tonight’s scripture. We’re going to go around the circle, and each of you is going to say one true sentence about why you are here tonight.
@@ -265,7 +260,6 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
 
 ## Block 6 — Scripture: John 10:10b (7:55–8:05, 10 min)
-
 ## Script
 
 “Tonight’s scripture. Listen for one word.”
@@ -283,7 +277,6 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 “We will spend the next fifteen weeks unpacking that. For tonight, just hold the question.”
 
 ## Block 7 — Between-Session Practice (8:05–8:10, 5 min)
-
 **Co-Companion (Parent) leads this block.** It is important that the parent Co-Companion introduce this practice, because the parents need to hear that they are doing it too.
 
 ## Script
@@ -296,7 +289,10 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “That’s it. Five minutes morning, one minute evening, every day. Parents, you are doing this too. We’ll check in next week.”
 
-## Block 8 — Closing Container (8:10–8:20, 10 min)
+## Block 8 — Feedback Round and Closing Container (8:10–8:20, 10 min)
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 
 Walk the cohort through the six-step closing container protocol from the Handbook (Section 5). The first time, this will feel new. By Week 3 it will feel familiar.
 
@@ -309,7 +305,6 @@ Adaptations for Week 1 closing:
 - For closing prayer, the Lead Companion prays briefly. 30 seconds, naming the Holy Spirit specifically.
 
 ## Block 9 — Aaronic Blessing and Dismissal (8:20–8:25, 5 min)
-
 ## Script
 
 “One last thing before we go. We’re going to end every session in Getting Started with a blessing. Tonight’s is from the book of Numbers, chapter 6, given by God to Aaron to speak over His people. We’re going to speak it over each other.

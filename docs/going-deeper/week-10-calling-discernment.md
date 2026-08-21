@@ -232,20 +232,19 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight enacts Acts 13.’ |
-| 7:08–7:13 | Block 2: Wk 9 landing (one word) | Shared circle | Lead Comp | ONE word about the shadow noticing this week. |
-| 7:13–7:30 | Block 3: Acts 13 + Antioch teaching | Shared circle | Lead Comp | Read Acts 13:1–3. Walk the four-element architecture. Frame the Discerner’s presence. |
-| 7:30–7:38 | Block 4: Discerner pre-frames the calling | Shared circle | Discerner + Lead Comp | Discerner names the calling, the discernment point, what they are seeking from the body. |
-| 7:38–8:00 | Block 5: Silent intercession + listening for the Discerner | Shared circle (silent) | Lead Comp | 22 min. Hold full time. Cohort listens FOR the Discerner. |
-| 8:00–8:15 | Block 6: Surfacing — what the cohort heard for the Discerner | Shared circle | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
-| 8:15–8:23 | Block 7: Discerner integration + possible commissioning | Shared circle | Lead Companion + Discerner | Discerner weighs aloud what surfaced. If convergence: laying-on-of-hands and blessing. If not: integration-only. |
-| 8:23–8:27 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Standing-pair check-in. |
-| 8:27–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 11 (cohort assessment). Send. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight enacts Acts 13.’ |
+| 7:07–7:15 | Block 2: Wk 9 landing (one word) | Shared circle | Lead Comp | ONE word about the shadow noticing this week. |
+| 7:15–7:29 | Block 3: Acts 13 + Antioch teaching | Shared circle | Lead Comp | Read Acts 13:1–3. Walk the four-element architecture. Frame the Discerner’s presence. |
+| 7:29–7:37 | Block 4: Discerner pre-frames the calling | Shared circle | Discerner + Lead Comp | Discerner names the calling, the discernment point, what they are seeking from the body. |
+| 7:37–7:59 | Block 5: Silent intercession + listening for the Discerner | Shared circle (silent) | Lead Comp | 22 min. Hold full time. Cohort listens FOR the Discerner. |
+| 7:59–8:12 | Block 6: Surfacing — what the cohort heard for the Discerner | Shared circle | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
+| 8:12–8:19 | Block 7: Discerner integration + possible commissioning | Shared circle | Lead Companion + Discerner | Discerner weighs aloud what surfaced. If convergence: laying-on-of-hands and blessing. If not: integration-only. |
+| 8:19–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Each member journals what they did NOT speak. Standing-pair check-in. |
+| 8:23–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 11 (cohort assessment). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -262,8 +261,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 *“Container reminder: what the Discerner names tonight stays in this room. What the cohort speaks back to the Discerner stays with the Discerner. Specificity is the discipline; honesty is the goal; the architecture protects the Discerner from cohort enthusiasm and protects the cohort from spiritual grandiosity.”*
 
-**Block 2 — Wk 9 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 9 Landing (One Word) (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday was the gift-and-shadow conversation. Each of you named your gift, your shadow direction in this season, and the discipline of noticing. One word about the noticing this week. Quick. Steady. Tested. Surprised. Tired. Pass anytime.”*
@@ -272,8 +270,11 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 *“Good. The discipline of noticing is part of how we listen tonight — we are noticing what surfaces in us as the cohort listens for [Discerner’s name]. We hold our own material so it does not project onto the discernment.”*
 
-**Block 3 — Acts 13 and the Antioch Architecture (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — Acts 13 and the Antioch Architecture (7:15–7:29, 14 min)**
 ## Script (the read)
 
 *“Tonight’s anchor scripture is Acts 13:1–3. Listen.”*
@@ -310,8 +311,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 *“Tonight we attempt this for [Discerner’s name]. The Spirit may speak; the body may converge; the laying-on-of-hands may happen. Or convergence may not emerge tonight, and the Discerner integrates over weeks with what was honestly heard. Both are real.”*
 
-**Block 4 — Discerner Pre-Frames the Calling (7:30–7:38, 8 min)**
-
+**Block 4 — Discerner Pre-Frames the Calling (7:29–7:37, 8 min)**
 The Discerner moves to the centre chair. The Lead Companion takes the chair beside them. The room re-orients to face the centre.
 
 ## Lead Companion script — opening (60 sec)
@@ -334,8 +334,7 @@ The Discerner moves to the centre chair. The Lead Companion takes the chair besi
 
 Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lands the pre-frame at 7:38. The discipline is for the Discerner to bring what they have prepared, not to over-explain.
 
-**Block 5 — Silent Intercession + Listening for the Discerner (7:38–8:00, 22 min)**
-
+**Block 5 — Silent Intercession + Listening for the Discerner (7:37–7:59, 22 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Twenty-two minutes. We listen for [Discerner’s name]. Each of us in our own posture — prayer, intercession, listening for the Spirit’s word about this calling, this person, this discernment point.”*
@@ -360,8 +359,7 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 
 **At 22 min, quiet bell or named close: ‘Time. Take a breath together.’**
 
-**Block 6 — Surfacing What the Cohort Heard for the Discerner (8:00–8:15, 15 min)**
-
+**Block 6 — Surfacing What the Cohort Heard for the Discerner (7:59–8:12, 13 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Welcome back. Around the circle. ONE thing each of you heard FOR [Discerner’s name] during the silence. Brief; 30 to 60 seconds. Pass anytime.”*
@@ -390,8 +388,7 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 
 **If the Discerner becomes flooded mid-surfacing: Lead Companion pauses the round. Quiet check-in with the Discerner. Resume only if they are ready; otherwise integration without finishing the round is honest.**
 
-**Block 7 — Discerner Integration + Possible Commissioning (8:15–8:23, 8 min)**
-
+**Block 7 — Discerner Integration + Possible Commissioning (8:12–8:19, 7 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Thank you. [Discerner’s name], the body has surfaced what it heard. Take a breath. In your own time, briefly: what landed? What did you receive? What rings true; what is unfamiliar; what are you noticing as you weigh?”*
@@ -418,8 +415,7 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 
 **If the cohort’s contributions converged BUT the Discerner is not ready: integration-only. The Discerner’s readiness, not the cohort’s convergence, is the discriminator. Do not pressure into commissioning.**
 
-**Block 8 — Between-Session Practice (8:23–8:27, 4 min)**
-
+**Block 8 — Between-Session Practice (8:19–8:23, 4 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Four pieces of practice this week.”*
@@ -432,10 +428,13 @@ Watch for: the Discerner extending past 8 minutes. The Lead Companion gently lan
 
 *“Four. The Rhythm Card practices, named-knot sit, Five-Minute Examen, daily PROAPT and weekday Tells, shadow noticing — all continue.”*
 
-**Block 9 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 9 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened tonight is the work the entirety of Going Deeper has built toward. The body listened for one of its own; the body surfaced what it heard; the body weighed in real time. Whether commissioning happened or integration is the work, the architecture was real.”*
 
 *“[Discerner’s name], we are with you. The integration weeks are not solitary; the standing pair, the Cohort Companions, the team, the cohort — we are walking with you. Whatever clarifies, we will receive together.”*

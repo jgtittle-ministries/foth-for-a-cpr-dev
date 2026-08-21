@@ -149,19 +149,18 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 12 as the turn outward. |
-| 7:08–7:13 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
-| 7:13–7:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 12 as the turn outward. |
+| 7:07–7:15 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
+| 7:15–7:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
 | 7:25–7:28 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the two exercises. Pray. Split. |
-| 7:28–8:08 | Block 5: Gifts and Downhill in cohort circles | Cohort circles | Cohort Facs | Two paired exercises, ~20 minutes each. The downhill round closes with each person naming their answer to the cohort. |
-| 8:08–8:18 | Block 6: Merge and surface | Shared circle | Lead Comp | One downhill answer per cohort, named by the Cohort Companion. Then a brief observation. |
-| 8:18–8:25 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 13 Rhythm, Wk 14 family commissioning (bring family), Wk 15 Companion commissioning. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 7:28–8:06 | Block 5: Gifts and Downhill in cohort circles | Cohort circles | Cohort Facs | Two paired exercises, ~20 minutes each. The downhill round closes with each person naming their answer to the cohort. |
+| 8:06–8:14 | Block 6: Merge and surface | Shared circle | Lead Comp | One downhill answer per cohort, named by the Cohort Companion. Then a brief observation. |
+| 8:14–8:21 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 13 Rhythm, Wk 14 family commissioning (bring family), Wk 15 Companion commissioning. |
+| 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
-
+## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome back. Phones in the box. Settle.”*
@@ -172,16 +171,18 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 *“Container reminders: what is said here stays here. Nothing is required.”*
 
-## **Block 2 — Week 11 Check-in (7:08–7:13, 5 min)**
-
+## **Block 2 — Week 11 Check-in (7:07–7:15, 8 min)**
 ## Script
 
 *“Last week was Any Doubts? The practice between weeks was the Personal Doubts Inventory. Anyone want to say one sentence about how that landed — the inventory, or anything that surfaced this week, or that you didn’t get to it?”*
 
 *(Take 3–4 voluntary contributions. Receive without commentary.)*
 
-## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (7:13–7:25, 12 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (7:15–7:25, 10 min)**
 Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your own downhill answer at the end.
 
 ## Script (the read)
@@ -213,7 +214,6 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 *Watch for: be brief and be specific. The teens will calibrate against your honesty. Do not give the resume version. Give the version your spouse would recognize.*
 
 ## **Block 4 — Bridge to the Split (7:25–7:28, 3 min)**
-
 ## Script
 
 *“Two exercises in your cohort circle. About forty minutes total.”*
@@ -226,8 +226,7 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Forty minutes. Go.”*
 
-## **Block 5 — Gifts and Downhill in Cohort Circles (7:28–8:08, 40 min)**
-
+## **Block 5 — Gifts and Downhill in Cohort Circles (7:28–8:06, 38 min)**
 Each cohort circle runs in parallel. The structure inside each circle is identical.
 
 ### **Inside the cohort circle — Companion script**
@@ -267,8 +266,7 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 - If a participant surfaces grief (“I realized I have not been doing this for years”), receive without rushing. The grief is part of the recognition. Bless it. Move on gently.
 - Watch the time. The downhill round is the more formative; if you have to compress, compress the gifts inventory, not the downhill.
 
-## **Block 6 — Merge and Surface (8:08–8:18, 10 min)**
-
+## **Block 6 — Merge and Surface (8:06–8:14, 8 min)**
 ## Script
 
 *“Welcome back. Take a breath.”*
@@ -281,8 +279,7 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 *“One thing to remember. The downhill mission you named is not a final answer. It is the working draft you are walking in this season. It will deepen. It will sharpen. But what you named tonight is closer to true than the resume version, and the room can witness it.”*
 
-## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (8:18–8:25, 7 min)**
-
+## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (8:14–8:21, 7 min)**
 ## Script
 
 *“Two things before we close.”*
@@ -297,10 +294,13 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 *(Adjust the specifics above to your actual closing-weeks plan if it differs.)*
 
-## **Block 8 — Closing Container (8:25–8:30, 5 min)**
-
+## **Block 8 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What was named tonight in your circle is yours. Carry it gently. The downhill answer you named will keep deepening across the week.”*
 
 *“If anything that surfaced tonight feels heavier than tonight could hold — if you noticed a place you have been spending energy on shadow mission rather than real mission, or if mid-life vocational grief surfaced — please reach out. The team is walking with you, especially this week, especially before next Tuesday.”*

@@ -206,19 +206,18 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is the highest-confidence work in the entire project.’ |
-| 7:08–7:13 | Block 2: Wk 4 landing + pair check | Shared circle | Lead Comp | One word about the Co-Processing Journal entry. Pair partners briefly named. |
-| 7:13–7:30 | Block 3: James 5:16 — the architecture (teaching) | Shared circle | Lead Comp | Read passage. Distinguish confession from disclosure. Walk the protocol. |
-| 7:30–7:35 | Block 4: Bridge to split + extended prayer | Shared circle | Lead Comp | Pray specifically for what the Spirit would clear. Split. |
-| 7:35–8:15 | Block 5: Confession-and-restoration in standing pairs | Cohort circles → pairs | Cohort Facs | 25 min one direction; 25 min the other; 10 min for Cohort Companion-led pair signature on H5.2 and brief silence. |
-| 8:15–8:23 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | ONE word about the EXERCISE. NOT content. Brief observation. |
-| 8:23–8:27 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Five-Minute Examen. Walk in restoration. |
-| 8:27–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 6 (PROAPT extended). Send. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is the highest-confidence work in the entire project.’ |
+| 7:07–7:15 | Block 2: Wk 4 landing + pair check | Shared circle | Lead Comp | One word about the Co-Processing Journal entry. Pair partners briefly named. |
+| 7:15–7:29 | Block 3: James 5:16 — the architecture (teaching) | Shared circle | Lead Comp | Read passage. Distinguish confession from disclosure. Walk the protocol. |
+| 7:29–7:34 | Block 4: Bridge to split + extended prayer | Shared circle | Lead Comp | Pray specifically for what the Spirit would clear. Split. |
+| 7:34–8:12 | Block 5: Confession-and-restoration in standing pairs | Cohort circles → pairs | Cohort Facs | 25 min one direction; 25 min the other; 10 min for Cohort Companion-led pair signature on H5.2 and brief silence. |
+| 8:12–8:19 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | ONE word about the EXERCISE. NOT content. Brief observation. |
+| 8:19–8:23 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Five-Minute Examen. Walk in restoration. |
+| 8:23–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 6 (PROAPT extended). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -233,8 +232,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 *“Container reminder: what is named to your pair partner tonight stays between the two of you, with the standard exceptions named in the Standing Pair Covenant. Specificity is the discipline; honesty is the goal; restoration is what God does.”*
 
-**Block 2 — Wk 4 Landing + Pair Check (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 4 Landing + Pair Check (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday was the co-processing demonstration. Each of you wrote a one-paragraph Co-Processing Journal entry by Friday. One word, around the circle, about what surfaced in YOU last Tuesday — not what you observed about the volunteers; what came up in you. Pass anytime.”*
@@ -251,8 +249,11 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 *“Good. Sit down. The pair is the unit tonight. Let’s go to the architecture.”*
 
-**Block 3 — James 5:16 and the Architecture (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — James 5:16 and the Architecture (7:15–7:29, 14 min)**
 ## Script (the read)
 
 *“Tonight’s anchor scripture is James 5:16, with two companions. Listen to all three.”*
@@ -303,8 +304,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **First discern harm from grievance.** This redirect assumes an ordinary grievance — being annoyed, resentful, or reactive toward someone whose behavior is *their* sin. It does **not** apply when the participant is being genuinely harmed. If what surfaces is that someone is mistreating or abusing them — especially a minor describing a parent, caregiver, or adult — do **not** redirect them to “confess your own reaction.” Being harmed is not a sin to confess. Receive it, do not assign them responsibility for another’s sin, and follow the Crisis Contingencies / Section 6 and mandatory-reporting steps.
 
-**Block 4 — Bridge to Split + Extended Prayer (7:30–7:35, 5 min)**
-
+**Block 4 — Bridge to Split + Extended Prayer (7:29–7:34, 5 min)**
 ## Script
 
 *“One more thing before we split. The protocol is on H5.2 — you and your pair partner will sign it at the start of the pair work. Read it together; agree to it; sign; exchange. The signing is the architecture made explicit.”*
@@ -315,8 +315,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Forty minutes of pair work plus protocol time. Go.”*
 
-**Block 5 — Confession and Restoration in Standing Pairs (7:35–8:15, 40 min)**
-
+**Block 5 — Confession and Restoration in Standing Pairs (7:34–8:12, 38 min)**
 Each cohort circle splits into the standing pairs. The Cohort Companion floats; intervenes only when needed. Pairs sit knee-to-knee with at least 6 feet of buffer.
 
 **Inside the cohort circle — Companion script**
@@ -371,8 +370,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 **•** Watch the 25-minute switch carefully. The symmetry is non-negotiable. If the first direction ran long, the second direction still gets its 25 minutes — even if the cohort circle ends 5 minutes late.
 
-**Block 6 — Merge and One-Word Landing (8:15–8:23, 8 min)**
-
+**Block 6 — Merge and One-Word Landing (8:12–8:19, 7 min)**
 ## Script
 
 *“Welcome back. Take a breath together.”*
@@ -387,8 +385,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 *“Second — if affect did not match the architecture tonight — if you confessed and did not feel released, or you listened and did not feel anything in particular, or your pair partner did the architecture flatly — do not chase affect. The architecture is doing its work. The Spirit will do what only He can do, in His timing.”*
 
-**Block 7 — Between-Session Practice (8:23–8:27, 4 min)**
-
+**Block 7 — Between-Session Practice (8:19–8:23, 4 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Four pieces of practice this week.”*
@@ -401,10 +398,13 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 *“Four. The morning question, evening note, Hebrews 12 once a day continue. The named-knot 5-minute sit continues.”*
 
-**Block 8 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened tonight is the highest-confidence work in this entire project. The Spirit cleared what was named. Walk gently this week. The restoration spoken is real.”*
 
 *“If anything that surfaced is heavier than the pair can hold, talk to your Cohort Companion. The team is walking with you, especially this week.”*

@@ -178,18 +178,17 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Mission far opens. The geography widens.’ |
-| 7:08–7:23 | Block 2: Acts 8 + Eph 2:10 + downhill/uphill (teaching) | Shared circle | Lead Companion | Read passages. Walk third-place architecture. Introduce Vol 2 downhill/uphill. |
+| 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Mission far opens. The geography widens.’ |
+| 7:11–7:23 | Block 2: Acts 8 + Eph 2:10 + downhill/uphill (teaching) | Shared circle | Lead Companion | Read passages. Walk third-place architecture. Introduce Vol 2 downhill/uphill. |
 | 7:23–7:30 | Block 3: Worksheet preparation | Shared circle | Cohort Companions float | 7 min silent: H7.1 third-place mapping + this week’s Tell. |
-| 7:30–8:10 | Block 4: Cohort survey around the circle | Shared circle | Lead Companion | Each member 90 sec; flip chart capture. |
-| 8:10–8:20 | Block 5: Pattern naming + integration with close-to-home | Shared circle | Lead Companion | Lead names patterns; integrates with Wks 4–6 patterns. |
-| 8:20–8:27 | Block 6: Wk 8 prep — cohort-level discernment | Shared circle | Lead Companion | Bridge to Wk 8 (cohort missional discernment); pair check-in question. |
-| 8:27–8:30 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. Send. |
+| 7:30–8:08 | Block 4: Cohort survey around the circle | Shared circle | Lead Companion | Each member 90 sec; flip chart capture. |
+| 8:08–8:17 | Block 5: Pattern naming + integration with close-to-home | Shared circle | Lead Companion | Lead names patterns; integrates with Wks 4–6 patterns. |
+| 8:17–8:23 | Block 6: Wk 8 prep — cohort-level discernment | Shared circle | Lead Companion | Bridge to Wk 8 (cohort missional discernment); pair check-in question. |
+| 8:23–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -204,8 +203,11 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Acts 8 + Eph 2:10 + Downhill/Uphill (7:08–7:23, 15 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Acts 8 + Eph 2:10 + Downhill/Uphill (7:11–7:23, 12 min)**
 ## Script (the read)
 
 *“Three texts tonight, plus a distinction from Vol 2. Listen.”*
@@ -241,7 +243,6 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 *“Tonight’s data look will surface what your third-place network is producing. Some will be Spirit-prepared encounters (Acts 8 mode 2); some will be cohort-engineered initiatives. Both are real. We are noticing what is already happening, mostly downhill.”*
 
 **Block 3 — Worksheet Preparation (7:23–7:30, 7 min)**
-
 ## Script
 
 *“Seven minutes silent writing. H7.1 has the third-place map and the survey. Two pieces.”*
@@ -254,8 +255,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 *“Seven minutes. Begin.”*
 
-**Block 4 — Cohort Survey Around the Circle (7:30–8:10, 40 min)**
-
+**Block 4 — Cohort Survey Around the Circle (7:30–8:08, 38 min)**
 ## Lead Companion script (90 sec)
 
 *“Around the circle. Each of us, briefly — about 90 seconds. Five pieces.”*
@@ -286,8 +286,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 **If a member describes a third-place engagement that has grown beyond what they are equipped to hold: receive briefly; pastoral 1:1; clinical referral for the receiver if appropriate.**
 
-**Block 5 — Pattern Naming + Integration (8:10–8:20, 10 min)**
-
+**Block 5 — Pattern Naming + Integration (8:08–8:17, 9 min)**
 ## Lead Companion script
 
 *“What the flip chart shows.”*
@@ -304,8 +303,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 *(Voluntary; brief.)*
 
-**Block 6 — Wk 8 Prep: Cohort-Level Discernment (8:20–8:27, 7 min)**
-
+**Block 6 — Wk 8 Prep: Cohort-Level Discernment (8:17–8:23, 6 min)**
 ## Lead Companion script
 
 *“Wk 8 next Tuesday is cohort-level missional discernment. We have engaged each member’s individual sent-context (Wk 3), the daily-Tells data (Wk 4), the household (Wk 5), the vocational (Wk 6), and tonight the third-place. Wk 8 asks a different question — what is the SPIRIT inviting our COHORT into, beyond what each of us is doing alone?”*
@@ -316,10 +314,13 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 *“This week’s standing-pair check-in: ‘What might the Spirit be inviting our COHORT into beyond what each of us is doing alone?’ Bring whatever surfaces — specific possibilities, vague nudges, honest blanks. The body weighs together next Tuesday.”*
 
-**Block 7 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word from each of you. How does this evening land in you?”*
 
 *(Around the circle. 5 seconds per person.)*

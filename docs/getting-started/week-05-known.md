@@ -132,19 +132,18 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
-| 7:10–7:15 | Block 2: Week 3 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional. |
-| 7:15–7:30 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
-| 7:30–7:32 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
-| 7:32–8:00 | Block 5: Friendship-mapping exercise | Cohort circles | Cohort Facs | Each cohort works through the four conditions in their friendships. |
-| 8:00–8:15 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
-| 8:15–8:25 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Pick one friendship; pick one condition; practice it this week. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm container. Aaronic blessing. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
+| 7:08–7:16 | Block 2: Week 3 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional. |
+| 7:16–7:29 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
+| 7:29–7:31 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
+| 7:31–7:58 | Block 5: Friendship-mapping exercise | Cohort circles | Cohort Facs | Each cohort works through the four conditions in their friendships. |
+| 7:58–8:11 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
+| 8:11–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Pick one friendship; pick one condition; practice it this week. |
+| 8:19–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm container. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:10, 10 min)
-
+## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
 ## Script
 
 *“Welcome back. Phones in the box. Find a seat.”*
@@ -159,16 +158,18 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 *“Container reminders, briefly. What is said here stays here. Nothing is required. We listen to receive, not to fix.”*
 
-## Block 2 — Week 3 Check-in (7:10–7:15, 5 min)
-
+## Block 2 — Week 3 Check-in (7:08–7:16, 8 min)
 ## Script
 
 *“Last week we told stories in our cohort circles, and the between-session practice was the Joint Footprints exercise — some parent-and-teen pairs sitting together for twenty minutes with the footprints question. Some of you got to it. Some didn’t. Both are fine. Anyone want to say one sentence about how that landed for you?”*
 
 *(Take 3–4 voluntary contributions. Receive without commentary. Move on with: “Good. Some of that work continues whether or not we got to it this week.”)*
 
-## Block 3 — The Four Conditions: Teaching (7:15–7:30, 15 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — The Four Conditions: Teaching (7:16–7:29, 13 min)
 Stand at the whiteboard. The four conditions are pre-written. Read the scripture, then walk through each condition for two to three minutes. Lightly — the cohort exercise will do the depth work.
 
 ## Script (the read)
@@ -205,8 +206,7 @@ Stand at the whiteboard. The four conditions are pre-written. Read the scripture
 
 *“Intentional means: I came in here on purpose, watching for what God is doing, willing to do whatever He shows me. Jesus modeled this when He said the Son does only what He sees the Father doing. (John 5:19.) The opposite is coming in with a list of things I will not consider. A friendship where one or both people have non-negotiable lines on what they will hear from each other isn’t the kind of friendship Solomon is describing.”*
 
-## Block 4 — Bridge to the Split (7:30–7:32, 2 min)
-
+## Block 4 — Bridge to the Split (7:29–7:31, 2 min)
 ## Script
 
 *“Here is what we are going to do for the next half-hour. We are going to split into our cohort circles, and each circle will take the four conditions — Safe, Present, Clear, Intentional — and ask: for each one, where in my actual friendships does this show up? And where is it missing? You have a Friendship Map worksheet on your chair to help you think.”*
@@ -217,8 +217,7 @@ Stand at the whiteboard. The four conditions are pre-written. Read the scripture
 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Twenty-eight minutes. We come back here at 8:00. Go.”*
 
-## Block 5 — Friendship-Mapping in Cohort Circles (7:32–8:00, 28 min)
-
+## Block 5 — Friendship-Mapping in Cohort Circles (7:31–7:58, 27 min)
 Each cohort circle runs in parallel. The structure inside each circle is identical. The Cohort Companion goes first on each condition, briefly, to model.
 
 ### Inside the cohort circle — Companion script
@@ -248,8 +247,7 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 If you finish before 8:00, ask one quiet final question: “Of the four conditions, which one is the one I find hardest to offer to my friends? Not lacking from them — hardest to offer.” Two minutes of silent reflection. No discussion. Then walk back to the main room together.
 
-## Block 6 — Merge and Surface Common Patterns (8:00–8:15, 15 min)
-
+## Block 6 — Merge and Surface Common Patterns (7:58–8:11, 13 min)
 ## Script
 
 *“Welcome back. Take a breath. Find your seat.”*
@@ -262,8 +260,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 *“What I notice across all three cohorts is \_\_\_\_\_. (Speak truth, briefly. ‘Most of us in this room are quicker to name what is missing from our friendships than what we ourselves don’t offer.’ Or whatever the actual observation is.) That is real, and it is the seed of the practice this week.”*
 
-## Block 7 — Between-Session Practice (8:15–8:25, 10 min)
-
+## Block 7 — Between-Session Practice (8:11–8:19, 8 min)
 ## Script
 
 *“Here is the practice for this week. Pick one friendship in your life. Just one. The friendship you pick is yours — you don’t have to tell anyone which one.”*
@@ -276,10 +273,15 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 *“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — H5.5 — has the practice in writing.”*
 
-## Block 8 — Closing Container (8:25–8:30, 5 min)
-
+## Block 8 — Feedback Round and Closing Container (8:19–8:30, 11 min)
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
+
+*“One more thing, carried into the hold on no paper: think about us. What should we keep doing? What could we do differently? And what would you tell somebody else about what this group is like? Don’t answer tonight. Carry it. We answer together when we return.”*
 *“What was named tonight is yours. The friendships you mapped are yours. Take what surfaced; carry it gently this week.”*
 
 *“If any of what surfaced is sitting heavy on you — if you noticed you don’t have any friendships that have these conditions — please reach out to one of the team. That is real, and it is not a problem to solve in five seconds. We are walking with you.”*

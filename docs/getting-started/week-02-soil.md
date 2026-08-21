@@ -152,16 +152,14 @@ Times below assume a 7:00 PM start.
 
 # Block-by-Block Scripts and Notes
 
-## Block 1 — Opening Container (7:00–7:10, 10 min)
-
+## Block 1 — Opening Container (7:00–7:08, 8 min)
 By Week 2, run the full eight-step opening protocol from the Handbook. The cohort knows the form now — hold the rhythm, but do not over-explain. Three Week-2 specific notes:
 
 - At the four-conditions check, name them once and let the cohort confirm with a head nod or quiet “yes.” Do not re-teach unless the room felt unsafe in Week 1.
 - At the one-word check-in, listen for any word that suggests something heavy in the room before you start. “Heavy,” “angry,” “scared,” “numb.” Note it. The diagnostic may pull from there.
 - Pray briefly at the close of the opening. Specifically name the Holy Spirit and ask Him to teach us through Jesus’ own words tonight.
 
-## Block 2 — Practice Check-In (7:10–7:15, 5 min)
-
+## Block 2 — Practice Check-In (7:08–7:16, 8 min)
 **Co-Comp (Parent) leads.** This is short by design. The point is not to grade homework; it is to keep the practice connected to the room.
 
 ## Script
@@ -176,8 +174,11 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 
 Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor it. “Thanks for the honesty. Pick it back up tomorrow.” Do not lecture about consistency.
 
-## Block 3 — Teaching: Mark 4 and the Four Soils (7:15–7:35, 20 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — Teaching: Mark 4 and the Four Soils (7:16–7:33, 17 min)
 ## Opening script
 
 “Tonight we’re going to a parable that, if you grew up in church, you have probably heard so many times you stopped hearing it. The parable of the Sower. Mark 4. We’re going to take it seriously tonight. Not because we have a clever new way of reading it — but because Jesus does something with it that He almost never does. He explains it Himself. He doesn’t leave it to His listeners. He doesn’t leave it to scholars. He sits down with His disciples and tells them what it means. Listen for what He says it means.”
@@ -212,8 +213,7 @@ After reading, walk the cohort through the four soils. Aim for 10 minutes maximu
 
 “Okay. Junior teens with \_\_\_\_\_, this side. Senior teens with \_\_\_\_\_, that side. Parents with \_\_\_\_\_, follow me. Take your journal and your handout. We have twenty-eight minutes.”
 
-## Block 4 — Split: Junior Cohort Diagnostic (7:37–8:05, 28 min)
-
+## Block 4 — Split: Junior Cohort Diagnostic (7:35–8:03, 28 min)
 **Cohort Companion (Junior, 12–14):** Run the diagnostic in your cohort circle. Aim for 28 minutes total. Use Handout H2.1 (Junior).
 
 ## Script (Junior cohort)
@@ -243,8 +243,7 @@ Each question is read aloud, journaled, and then shared. Read exactly as written
 - If a junior says something heavier than expected (“rocky is when my parents fight”), do not process it in the circle. Acknowledge: “Thank you. That’s a hard one. We’ll hold that.” Move on. Note the disclosure for follow-up.
 - If you finish the four questions early (likely — juniors share more concisely), use the remaining time for one extra round: “Which of the four soils landed first when you read Mark 4 yesterday?”
 
-## Block 4b — Split: Senior Cohort Diagnostic (7:37–8:05, 28 min)
-
+## Block 4b — Split: Senior Cohort Diagnostic (7:35–8:03, 28 min)
 **Cohort Companion (Senior, 15–18):** Run the diagnostic in your cohort circle. Use Handout H2.2 (Senior). Senior teens respond to more abstract framing and depth questions.
 
 ## Script (Senior cohort)
@@ -272,8 +271,7 @@ Each question is read aloud, journaled, and then shared. Read exactly as written
 - If a senior says something heavier than expected (suicidal hint, abuse hint, eating-disorder hint), follow Section 6 of Handbook. Acknowledge briefly in circle. Pull aside after.
 - Run all four questions; do not skip thorny because of time. Thorny is the most diagnostic for this age group.
 
-## Block 4c — Split: Parent Circle Diagnostic (7:37–8:05, 28 min)
-
+## Block 4c — Split: Parent Circle Diagnostic (7:35–8:03, 28 min)
 **Cohort Companion (Parent):** Run the diagnostic in the parent circle. Use Handout H2.3 (Parent). Parents are old enough for adult depth and may need permission to take it.
 
 ## Script (Parent circle)
@@ -300,8 +298,7 @@ Each question is read aloud, journaled, and then shared. Read exactly as written
 - If a parent surfaces marital strain or addiction or grief that is heavier than the circle can hold: acknowledge briefly, plan to follow up after, do not turn the circle into a counseling session.
 - If a parent is more advanced than the rest of the room and wants to teach or expand, gently: “Save that for the share-out at the merge. For now, just one specific answer to the question.”
 
-## Block 5 — Re-Merge and Shared Debrief (8:08–8:20, 12 min)
-
+## Block 5 — Re-Merge and Shared Debrief (8:06–8:16, 10 min)
 After the split, the cohort returns to the single circle. The merge is short and intentional. Do not allow detailed sharing across cohorts — the diagnostic stays in the cohort circle. The merge is for landing, not for repeating.
 
 ## Script
@@ -318,8 +315,7 @@ After the split, the cohort returns to the single circle. The merge is short and
 
 “Here’s what I want you to take from tonight. The good soil is the one Jesus calls fruitful. Not soil that has no rocks. Not soil that has no thorns. Soil that hears, accepts, and produces. Some of you are tonight noticing rocks and thorns. That noticing is not the opposite of being good soil. It is what good soil does — it pays attention. The next two weeks of practice are about staying with the noticing, not fixing it.”
 
-## Block 6 — Between-Session Practice (8:20–8:25, 5 min)
-
+## Block 6 — Between-Session Practice (8:16–8:21, 5 min)
 **Co-Comp (Parent) leads.** Keep it short and clear.
 
 ## Script
@@ -330,7 +326,10 @@ After the split, the cohort returns to the single circle. The merge is short and
 
 “Keep last week’s morning practice going too if you can — asking the Father, ‘What are you up to today?’ question. The two practices stack. Five minutes morning, sixty seconds evening, plus three soil journals across the week.”
 
-## Block 7 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
+## Block 7 — Feedback Round, Closing Container and Aaronic Blessing (8:21–8:30, 9 min)
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 
 Run the six-step closing protocol from the Handbook, abbreviated for the 5-minute window. Hit:
 

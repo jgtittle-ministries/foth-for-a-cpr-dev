@@ -182,20 +182,19 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle (forming) | Co-Companion | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name where Going Out’s witness is specific.’ |
-| 7:08–7:18 | Block 2: Acts 13 + tonight’s architecture | Shared circle | Lead Companion | Read passage. Walk the discernment template. |
-| 7:18–7:23 | Transition to cohort spaces | All | All Companions | Brief move into cohort circles. |
-| 7:23–7:35 | Block 3: Each member writes the working sentence | Cohort circles | Cohort Companions | 12 min silent writing using H3.1. |
-| 7:35–7:59 | Block 4: Standing pair walks the sentence | Cohort circles (in pairs) | Cohort Companions float | 12 min per direction. |
-| 7:59–8:14 | Block 5: Cohort circle hears each member | Cohort circles | Cohort Companions | Each member shares the sentence around the cohort circle. Companion captures on flip chart. |
-| 8:14–8:18 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge in the shared circle; flip charts visible. |
-| 8:18–8:27 | Block 6: Shared circle merge — the body of contexts | Shared circle | Lead Companion | Lead names patterns across the three flip charts; brief weighing; the body holds the body of contexts. |
-| 8:27–8:30 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 4 (mission close-to-home). Send. |
+| 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name where Going Out’s witness is specific.’ |
+| 7:11–7:20 | Block 2: Acts 13 + tonight’s architecture | Shared circle | Lead Companion | Read passage. Walk the discernment template. |
+| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Brief move into cohort circles. |
+| 7:25–7:37 | Block 3: Each member writes the working sentence | Cohort circles | Cohort Companions | 12 min silent writing using H3.1. |
+| 7:37–7:59 | Block 4: Standing pair walks the sentence | Cohort circles (in pairs) | Cohort Companions float | 12 min per direction. |
+| 7:59–8:12 | Block 5: Cohort circle hears each member | Cohort circles | Cohort Companions | Each member shares the sentence around the cohort circle. Companion captures on flip chart. |
+| 8:12–8:16 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge in the shared circle; flip charts visible. |
+| 8:16–8:23 | Block 6: Shared circle merge — the body of contexts | Shared circle | Lead Companion | Lead names patterns across the three flip charts; brief weighing; the body holds the body of contexts. |
+| 8:23–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 4 (mission close-to-home). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -210,8 +209,11 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Acts 13 + Tonight’s Architecture (7:08–7:18, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Acts 13 + Tonight’s Architecture (7:11–7:20, 9 min)**
 ## Script (the read)
 
 *“Our architectural anchor for tonight is Acts 13:1–3. Listen.”*
@@ -240,8 +242,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 *“Go now to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. Take a few minutes to settle into the cohort space; then begin Block 3.”*
 
-**Block 3 — The Working Sentence (7:23–7:35, 12 min, cohort-split)**
-
+**Block 3 — The Working Sentence (7:25–7:37, 12 min, cohort-split)**
 ## Cohort Companion script (90 sec)
 
 *“Twelve minutes of silent writing. H3.1 has the worksheet. Use H3.3’s cross-reference card if helpful — it maps your gift, shadow, Going Deeper calling, H11.3 question, and past two weeks’ Tells to a sent-context.”*
@@ -260,8 +261,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **If a member visibly struggles: brief gentle approach (‘Take your time. The obstacle is also data.’). Do not rush to rescue.**
 
-**Block 4 — Standing Pair Walks the Sentence (7:35–7:59, 24 min, cohort-split)**
-
+**Block 4 — Standing Pair Walks the Sentence (7:37–7:59, 22 min, cohort-split)**
 ## Cohort Companion script (90 sec)
 
 *“Your standing pair. Twelve minutes per direction — we will switch at the midpoint.”*
@@ -282,8 +282,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **Time discipline is real. At 12 minutes: switch. At 24 minutes: stop. The cohort circle needs its time.**
 
-**Block 5 — Cohort Circle Hears Each Member (7:59–8:14, 15 min, cohort-split)**
-
+**Block 5 — Cohort Circle Hears Each Member (7:59–8:12, 13 min, cohort-split)**
 ## Cohort Companion script (60 sec)
 
 *“Around our cohort circle. Each of us reads the working sentence aloud, briefly — about 30 seconds. I will capture each on the flip chart so the merge can see all of our cohort’s contexts together.”*
@@ -294,8 +293,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 *“Good. We hold our cohort’s body of contexts. The shared circle merge follows.”*
 
-**Block 6 — Shared Circle Merge (8:18–8:27, 9 min, whole-room)**
-
+**Block 6 — Shared Circle Merge (8:16–8:23, 7 min, whole-room)**
 ## Lead Companion script
 
 *“Three flip charts. Three cohorts. The body of Going Out sent-contexts. Let me read what surfaced — not every sentence, but the patterns I see.”*
@@ -314,10 +312,13 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 *“The body holds the body of contexts. Wk 4 begins mission close-to-home. We work the sent-contexts that name daily-life witness first; mission far comes Wks 7–9.”*
 
-**Block 7 — Closing Container (8:27–8:30, 3 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:23–8:30, 7 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“Tonight we named where each of us is being sent in Going Out — working sentences, refined through pair work, held by the cohort, received by the body. Wk 4 next Tuesday begins mission close-to-home. Bring your sentence; bring the noticings of the week; bring honest engagement with the daily relational world.”*
 
 *“If anything tonight surfaced material heavier than the week can hold — standing pair first, Cohort Companion next, pastoral / clinical referrals are available.”*

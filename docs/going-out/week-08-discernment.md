@@ -183,17 +183,16 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. Confirm fasting (optional). |
 | 7:00–7:08 | Block 1: Open + corporate prayer + 60-second settling | Shared circle | Lead Companion | Aaronic. Acts 13 fasting frame named. Settling. |
-| 7:08–7:18 | Block 2: Acts 13 + cohort-scaled architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk tonight’s scaled architecture. Disciplines named. |
-| 7:18–7:25 | Block 3: Silent settling + contribution preparation | Shared circle | Lead Companion | 7 min silent: each member fills H8.1 with what surfaced in pair conversation. |
-| 7:25–8:00 | Block 4: Cohort contributions around the circle | Shared circle | Lead Companion | Each member 60 sec; flip chart capture. The body listens. |
-| 8:00–8:15 | Block 5: Cohort weighing | Shared circle | Lead Companion | Body weighs what was heard. Patterns; convergences; divergences. Honest divergent voices invited explicitly. |
-| 8:15–8:25 | Block 6: Landing | Shared circle | Lead Companion | Body lands honestly: shared engagement, individual sending, or clarifying question. Captured on flip chart. |
-| 8:25–8:30 | Block 7: Closing container + Wk 9 frame | Shared circle | Lead Companion | Aaronic. Wk 9 frames according to outcome. Send. |
+| 7:08–7:17 | Block 2: Acts 13 + cohort-scaled architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk tonight’s scaled architecture. Disciplines named. |
+| 7:17–7:23 | Block 3: Silent settling + contribution preparation | Shared circle | Lead Companion | 7 min silent: each member fills H8.1 with what surfaced in pair conversation. |
+| 7:23–7:56 | Block 4: Cohort contributions around the circle | Shared circle | Lead Companion | Each member 60 sec; flip chart capture. The body listens. |
+| 7:56–8:11 | Block 5: Cohort weighing | Shared circle | Lead Companion | Body weighs what was heard. Patterns; convergences; divergences. Honest divergent voices invited explicitly. |
+| 8:11–8:19 | Block 6: Landing | Shared circle | Lead Companion | Body lands honestly: shared engagement, individual sending, or clarifying question. Captured on flip chart. |
+| 8:19–8:30 | Block 7: Feedback round and closing container + wk 9 frame | Shared circle | Lead Companion | Aaronic. Wk 9 frames according to outcome. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
 **Block 1 — Open + Corporate Prayer + 60-Second Settling (7:00–7:08, 8 min)**
-
 ## Script
 
 *“Welcome.”*
@@ -210,8 +209,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 *“Container reminder: same as it has been. What is named here stays in this room.”*
 
-**Block 2 — Acts 13 + Cohort-Scaled Architecture (7:08–7:18, 10 min)**
-
+**Block 2 — Acts 13 + Cohort-Scaled Architecture (7:08–7:17, 9 min)**
 ## Script (the read)
 
 *“Two passages tonight. Listen.”*
@@ -248,8 +246,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 *“We are not voting on a service project. We are listening for what the Spirit may be inviting us into. The architectural integrity matters — if we drift to project planning or premature consensus, we miss the discernment. The team will hold the architecture; you bring honest contributions and honest weighing.”*
 
-**Block 3 — Silent Settling + Contribution Preparation (7:18–7:25, 7 min)**
-
+**Block 3 — Silent Settling + Contribution Preparation (7:17–7:23, 6 min)**
 ## Script
 
 *“Seven minutes of silent preparation. H8.1 has the worksheet. The pair conversation this week was the seedbed; tonight’s contribution names what surfaced.”*
@@ -260,8 +257,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 *“Seven minutes. Begin.”*
 
-**Block 4 — Cohort Contributions Around the Circle (7:25–8:00, 35 min)**
-
+**Block 4 — Cohort Contributions Around the Circle (7:23–7:56, 33 min)**
 ## Lead Companion script (90 sec)
 
 *“Around the circle. Each of us, briefly — 60 seconds. ONE contribution: what might the Spirit be inviting our COHORT into?”*
@@ -292,8 +288,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **If a member contribution reveals concerning material (a personal calling beyond their capacity, a coercive dynamic with another cohort member, a politicized contribution that breaks the cohort’s peace): receive briefly; flag for pastoral 1:1 within 24 hours; do not adjudicate in the cohort space.**
 
-**Block 5 — Cohort Weighing (8:00–8:15, 15 min)**
-
+**Block 5 — Cohort Weighing (7:56–8:11, 15 min)**
 ## Lead Companion script
 
 *“What the flip chart shows. Let me read what we heard.”*
@@ -324,8 +319,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **The Lead Companion is NOT trying to drive toward consensus. The Lead is holding the weighing process. If the body diverges, the divergence is the data.**
 
-**Block 6 — Landing (8:15–8:25, 10 min)**
-
+**Block 6 — Landing (8:11–8:19, 8 min)**
 One reminder before we land. Landing 2 — each member into their individual sent-context, no shared engagement — is not the consolation landing. It is the landing the Spirit confirms when each member's downhill calling is in a different direction and the body's work is to send each into theirs, not to construct a shared engagement that does not exist. Landing 2 is what the Antioch body would have done for any of the five named (Acts 13:1) whose calling was not the apostolic-mission sending of Barnabas and Saul — the body still gathered, still listened, still confirmed, still sent. We weigh genuinely between the three landings. The Spirit does what the Spirit does.
 
 ## Lead Companion script
@@ -358,10 +352,15 @@ One reminder before we land. Landing 2 — each member into their individual sen
 
 **LANDING 3 — CLARIFYING QUESTION. The body has heard that the question needs further work. A specific clarifying question the cohort carries. Wk 9 may revisit; the team’s pastoral attention engages the question across the week. Honest data; not failure.**
 
-**Block 7 — Closing Container + Wk 9 Frame (8:25–8:30, 5 min)**
-
+**Block 7 — Feedback Round and Closing Container + Wk 9 Frame (8:19–8:30, 11 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
+
+*“One more thing, carried into the hold on no paper: think about us. What should we keep doing? What could we do differently? And what would you tell somebody else about what this group is like? Don’t answer tonight. Carry it. We answer together when we return.”*
 *“One word from each of you, around the circle. How does this evening’s landing land in you?”*
 
 *(Around the circle. 5 seconds per person.)*

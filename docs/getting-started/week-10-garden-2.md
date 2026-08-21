@@ -155,20 +155,19 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
-| 7:08–7:14 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
-| 7:14–7:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
+| 7:00–7:07 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
+| 7:07–7:16 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
+| 7:16–7:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
 | 7:26–7:29 | Block 4: Bridge to split | Shared circle | Lead Comp | Pray. Split. |
 | 7:29–8:02 | Block 5: The Garden exercise in cohort circles | Cohort circles | CiF + Cohort Comps | Senior-led guided walk-through (12–15 min, longer silences); the visible handoff; silent journaling (5 min); adult-held sharing by invitation only (10–12 min). |
-| 8:02–8:12 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | One-word landings, optional. Receive without commentary. |
-| 8:12–8:18 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Two returns to the garden this week. Journal each visit. |
-| 8:18–8:24 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
-| 8:24–8:30 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7, full order. Placed AFTER the closing container — see the note in Block 9. If the debrief ran heavy, this moves to the team debrief and the senior is told why. |
+| 8:02–8:11 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | One-word landings, optional. Receive without commentary. |
+| 8:11–8:16 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Two returns to the garden this week. Journal each visit. |
+| 8:16–8:22 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 8:22–8:30 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7, full order. Placed AFTER the closing container — see the note in Block 9. If the debrief ran heavy, this moves to the team debrief and the senior is told why. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
-
+## Block 1 — Welcome and Centering (7:00–7:07, 7 min)
 Tonight opens even quieter than Week 9 did. The room knows where it is going. Let it settle into that knowing.
 
 ## Script
@@ -189,8 +188,7 @@ Tonight opens even quieter than Week 9 did. The room knows where it is going. Le
 
 Name the senior once, warmly, and move on. Do not build it up — a spotlight distorts the very thing the slot is meant to form. The cohort should hear it the way they would hear any other assignment of parts.
 
-## Block 2 — Garden Week Check-in (7:08–7:14, 6 min)
-
+## Block 2 — Garden Week Check-in (7:07–7:16, 9 min)
 ## Script
 
 *“Before we go back in: anyone want to say one sentence about a garden visit this week? Not what happened in it — just how the going was. ‘I went twice and it was quieter than Tuesday.’ ‘I meant to and didn’t.’ ‘I went once and it was hard.’ One sentence.”*
@@ -199,8 +197,11 @@ Name the senior once, warmly, and move on. Do not build it up — a spotlight di
 
 *“Thank you. One thing I want to say back to what I’ve been hearing this week. Some of you have been comparing gardens. ‘Mine was just a backyard.’ Listen: there is no junior varsity garden. Jesus meets each person in the garden they actually have. The backyard He walks into is holy ground because He walked into it. Yours is yours, and He likes it there.”*
 
-## Block 3 — Scripture and Brief Re-framing (7:14–7:26, 12 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — Scripture and Brief Re-framing (7:16–7:26, 10 min)
 Read both passages again, slowly. The framing tonight is much shorter than Week 9's — the theology of the practice was laid last week and does not need re-laying. What needs saying is the second-visit frame and the open door for anyone not going back in tonight.
 
 ## Script (the read)
@@ -226,7 +227,6 @@ Read both passages again, slowly. The framing tonight is much shorter than Week 
 • Tonight the guide will talk less and the silences will run longer than last week. That is on purpose. You know the way now. The words get you to the gate; the silence is where He meets you.
 
 ## Block 4 — Bridge to the Split (7:26–7:29, 3 min)
-
 ## Script
 
 *“Same shape as last week. Guided walk-through, about twelve to fifteen minutes — read slowly, with longer quiet than last time. Then five minutes with your journal, then sharing by invitation only. Silence is a complete answer.”*
@@ -236,7 +236,6 @@ Read both passages again, slowly. The framing tonight is much shorter than Week 
 *“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Quieter than usual on the way out.”*
 
 ## Block 5 — The Garden Exercise in Cohort Circles (7:29–8:02, 33 min)
-
 Each cohort circle runs in parallel. In the circle (or circles) with a Companion-in-Formation assigned, the senior reads the guided walk-through from Handout H10.1; the adult Cohort Companion sits in the circle throughout. In circles without a Companion-in-Formation, the adult leads from H9.1 exactly as in Week 9.
 
 ### Structure inside the cohort circle
@@ -291,8 +290,7 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 - Receive the handoff cleanly and warmly. The circle takes its cue from how you receive it.
 - Everything Week 9 said about receiving without interpreting holds double tonight, because the second visit tends to go deeper than the first.
 
-## Block 6 — Merge and One-Word Landing (8:02–8:12, 10 min)
-
+## Block 6 — Merge and One-Word Landing (8:02–8:11, 9 min)
 ## Script
 
 *“Welcome back. Take a breath. Find your seat.”*
@@ -305,8 +303,7 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *“Thank you. A garden visited twice is a garden being tended. Whatever He is doing in yours, He will keep doing it this week.”*
 
-## Block 7 — Between-Session Practice (8:12–8:18, 6 min)
-
+## Block 7 — Between-Session Practice (8:11–8:16, 5 min)
 ## Script
 
 *“The practice this week: keep the garden rhythm. Two returns, five to ten minutes each. You know the way now — you don’t need the script. Go back, walk a little, notice what is the same and what has changed, notice where He is. Journal each visit — even two sentences. The journaling matters more than it seems; the garden speaks slowly, and the journal is how you hear it across weeks instead of only across minutes.”*
@@ -315,8 +312,7 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *“Fresh Garden Journal pages are at the door if you want them.”*
 
-## Block 8 — Closing Container (8:18–8:24, 6 min)
-
+## Block 8 — Closing Container (8:16–8:22, 6 min)
 ## Script
 
 *“What happened in your circle is yours. Carry it gently. Don’t debrief it on the way home unless your heart is fully ready to.”*
@@ -327,8 +323,7 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-## Block 9 — Leader Feedback Round (8:24–8:30, 6 min)
-
+## Block 9 — Leader Feedback Round (8:22–8:30, 8 min)
 The Leader Feedback Round (handbook Section 11.7) runs after the closing container tonight — not, as in other teen-led weeks, immediately after the teen has led. The placement is deliberate: the Garden debrief must not be interrupted by process feedback. The room comes out of Block 5 carrying tender things, and asking it to evaluate a leader before those things are sealed under the closing blessing would break the very container the senior helped hold.
 
 **And if the debrief ran heavy** — if the sharing surfaced something that is still visibly in the room at 8:24 — skip this block entirely. The feedback round moves to the team debrief tomorrow, and the Lead Companion tells the senior why, in exactly these terms: protecting the room came first tonight. That sentence is not a consolation; it is the lesson. A leader who watches their own feedback round yielded to the care of the room has learned the bright line from the inside.
@@ -453,3 +448,8 @@ One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as nee
 ### After you hand off
 
 Sit in the circle as a participant. Journal like everyone else. Share or keep silence like everyone else. Your feedback round comes after the closing container — and if the debrief ran heavy, it moves to the team debrief instead, because protecting the room comes before feedback. If that happens tonight, it is not a slight. It is the lesson.
+
+*(Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences, and done.)*
+
+*“One more thing, carried into the hold on no paper: think about us. What should we keep doing? What could we do differently? And what would you tell somebody else about what this group is like? Don’t answer tonight. Carry it. We answer together when we return.”*
+

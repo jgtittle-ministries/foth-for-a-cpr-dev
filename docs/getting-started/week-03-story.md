@@ -152,21 +152,20 @@ In each cohort space, chairs are in a tight circle, knees almost touching. The i
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Lead Companion greets each participant by name. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
-| 7:10–7:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
-| 7:15–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
-| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own four-question story in five minutes. Models the form. |
-| 7:30–7:32 | Block 5: Bridge to the split | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Split. |
-| 7:32–8:12 | Block 6: Stories in circles | Cohort circles | Cohort Facs | Each participant: 5–7 min story, 1–2 min blessing, brief silence. Cohort Companion goes first. |
-| 8:12–8:20 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
-| 8:20–8:25 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
-| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
+| 7:08–7:16 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
+| 7:16–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
+| 7:25–7:29 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own four-question story in five minutes. Models the form. |
+| 7:29–7:31 | Block 5: Bridge to the split | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Split. |
+| 7:31–8:10 | Block 6: Stories in circles | Cohort circles | Cohort Facs | Each participant: 5–7 min story, 1–2 min blessing, brief silence. Cohort Companion goes first. |
+| 8:10–8:17 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
+| 8:17–8:21 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
+| 8:21–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
 | 8:30+ | After | Floating | Lead Companion + cohort facs | Stay accessible for ten minutes. Do not pack up immediately. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:10, 10 min)
-
+## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
 Same physical opening as Weeks 1 and 2. The container is now familiar; do not re-explain it. Open by speaking the Aaronic blessing over the room.
 
 ## Script
@@ -183,8 +182,7 @@ Same physical opening as Weeks 1 and 2. The container is now familiar; do not re
 
 *Watch for: someone who arrived emotionally heavy. The body language is unmistakable. Make eye contact, smile, do not single them out. They will know that you saw them.*
 
-## Block 2 — Week 2 Check-in (7:10–7:15, 5 min)
-
+## Block 2 — Week 2 Check-in (7:08–7:16, 8 min)
 Brief, low-stakes. We are practicing the rhythm of acknowledging the prior week before moving on. We are not graded on the homework.
 
 ## Script
@@ -193,8 +191,11 @@ Brief, low-stakes. We are practicing the rhythm of acknowledging the prior week 
 
 *(Take 3–4 voluntary contributions. Do not call on anyone. If silence, wait ten seconds and move on with: “Good. The work is happening, whether or not we name it tonight.”)*
 
-## Block 3 — Psalm 139, Being Known (7:15–7:25, 10 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — Psalm 139, Being Known (7:16–7:25, 9 min)
 Read aloud from the physical Bible. Slow. The teaching is short — the goal is to set the theological ground for what we are about to do.
 
 ## Script (the read)
@@ -221,8 +222,7 @@ Read aloud from the physical Bible. Slow. The teaching is short — the goal is 
 
 • Tonight is a small practice of Psalm 139. We are going to ask each other four questions, and we are going to answer with what we are willing to say. Not everything. What we are willing to say. And the people in our circle are going to look at us and bless us, not fix us. That is what being known and being safe at the same time looks like, in practice.
 
-## Block 4 — Companion Demo Story (7:25–7:30, 5 min)
-
+## Block 4 — Companion Demo Story (7:25–7:29, 4 min)
 The Lead Companion now tells their own four-question story in five minutes. This is the most important five minutes of the night. The teens — and the parents — will calibrate everything they do in the next forty minutes against what they just saw modeled.
 
 ## How to do this well
@@ -233,8 +233,7 @@ The Lead Companion now tells their own four-question story in five minutes. This
 - Time it. Five minutes. Practice this with your spouse or Co-Companion first. Five minutes is shorter than you think and longer than you fear.
 - Close with: “That is the form. You’ll do this in your circle. Yours doesn’t have to look like mine.”
 
-## Block 5 — Bridge to the Split (7:30–7:32, 2 min)
-
+## Block 5 — Bridge to the Split (7:29–7:31, 2 min)
 Two minutes. Move quickly through the cards, pray, and split. Do not over-explain.
 
 ## Script
@@ -251,8 +250,7 @@ Two minutes. Move quickly through the cards, pray, and split. Do not over-explai
 
 *“Junior teens, you’re with [name]. Senior teens, with [name]. Parents, with [name]. Forty minutes. We come back here at 8:12. Go.”*
 
-## Block 6 — Stories in Circles of 4–5 (7:32–8:12, 40 min)
-
+## Block 6 — Stories in Circles of 4–5 (7:31–8:10, 39 min)
 This is the heart of the night. Each cohort circle runs in parallel. The structure inside each circle is identical.
 
 ### Inside the cohort circle — Companion script
@@ -287,8 +285,7 @@ This is the heart of the night. Each cohort circle runs in parallel. The structu
 
 If you finish before 8:12, do not start a new topic. Sit with what was said. Optional: Cohort Companion offers one closing sentence. “Thank you for what each of you brought into this circle.” Then a brief silence. Then walk back to the main room together.
 
-## Block 7 — Merge and Shared Closing (8:12–8:20, 8 min)
-
+## Block 7 — Merge and Shared Closing (8:10–8:17, 7 min)
 Reconvene in the main room as a single circle. The texture in the room will be different than it was at 7:30. Honor it. Do not break it with energy.
 
 ## Script
@@ -303,8 +300,7 @@ Reconvene in the main room as a single circle. The texture in the room will be d
 
 *“Thank you. Each of you brought something true into this room tonight, and each of you received something true. That’s rare. It’s also the kind of room God shows up in.”*
 
-## Block 8 — Between-Session Practice (8:20–8:25, 5 min)
-
+## Block 8 — Between-Session Practice (8:17–8:21, 4 min)
 This is the first session in which the practice is explicitly relational and explicitly cross-generational. The Joint Footprints exercise is a parent-and-teen pair sitting together once during the week and walking each other through the footprints question. Twenty minutes.
 
 ## Script
@@ -321,10 +317,13 @@ This is the first session in which the practice is explicitly relational and exp
 
 *“The handout has the questions and the rules in writing. Take one per family.”*
 
-## Block 9 — Closing Container (8:25–8:30, 5 min)
-
+## Block 9 — Feedback Round and Closing Container (8:21–8:30, 9 min)
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One more thing before we go. What was said tonight in your cohort circle is yours. You can take your own story home. You cannot take anyone else’s home. Not to a sibling. Not to a friend. Not to a spouse who isn’t in this room. The container holds because we hold it.”*
 
 *“Second — if anything that came up tonight is sitting heavy on you, please reach out. Email, text, knock on my door. The team is here. You don’t have to carry tonight alone. There’s also a Crisis Quick-Reference Card in your folder. If you or someone you love needs more than tonight could give, those numbers are real and someone is there.”*

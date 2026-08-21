@@ -180,18 +180,17 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
-| 7:00–7:08 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we articulate what Going Out actually produced.’ |
-| 7:08–7:18 | Block 2: Phil 1:6 + integration architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk the integration architecture; the five domains. |
-| 7:18–7:28 | Block 3: Silent integration writing | Shared circle | Cohort Companions float | 10 min silent: each member fills H10.1 across five domains. |
-| 7:28–8:00 | Block 4: Standing pair walks the trajectory | Shared circle (in pairs) | Cohort Companions float | 16 min per direction; 32 min total. |
-| 8:00–8:15 | Block 5: Cohort circle pattern surfacing | Shared circle | Lead Companion | Each member 30–40 sec; ONE pattern from pair work; flip chart capture. |
-| 8:15–8:25 | Block 6: Bridge to Wk 11 | Shared circle | Lead Companion | Frame Wk 11 cohort-level assessment; pair check-in question. |
-| 8:25–8:30 | Block 7: Closing container | Shared circle | Lead Companion | Aaronic. Send. |
+| 7:00–7:11 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we articulate what Going Out actually produced.’ |
+| 7:11–7:20 | Block 2: Phil 1:6 + integration architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk the integration architecture; the five domains. |
+| 7:20–7:29 | Block 3: Silent integration writing | Shared circle | Cohort Companions float | 10 min silent: each member fills H10.1 across five domains. |
+| 7:29–7:59 | Block 4: Standing pair walks the trajectory | Shared circle (in pairs) | Cohort Companions float | 16 min per direction; 32 min total. |
+| 7:59–8:12 | Block 5: Cohort circle pattern surfacing | Shared circle | Lead Companion | Each member 30–40 sec; ONE pattern from pair work; flip chart capture. |
+| 8:12–8:21 | Block 6: Bridge to Wk 11 | Shared circle | Lead Companion | Frame Wk 11 cohort-level assessment; pair check-in question. |
+| 8:21–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open + 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open + 60-Second Settling (7:00–7:11, 11 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -206,8 +205,11 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 *“Container reminder: same as it has been across the formation arc.”*
 
-**Block 2 — Philippians 1:6 + Integration Architecture (7:08–7:18, 10 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 2 — Philippians 1:6 + Integration Architecture (7:11–7:20, 9 min)**
 ## Script (the read)
 
 *“Two passages tonight. Listen.”*
@@ -240,8 +242,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 *“Tonight you walk these five domains in 10 minutes of silent writing, then in 32 minutes of pair work. The pair partner walks the trajectory with you, asking for specifics where summary appears. The cohort circle hears patterns at the close.”*
 
-**Block 3 — Silent Integration Writing (7:18–7:28, 10 min)**
-
+**Block 3 — Silent Integration Writing (7:20–7:29, 9 min)**
 ## Script
 
 *“Ten minutes silent writing. H10.1 has the worksheet. Five domains; brief notes on each.”*
@@ -260,8 +261,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **If a member visibly struggles: brief gentle approach. ‘Take your time. The writing surfaces what is there.’**
 
-**Block 4 — Standing Pair Walks the Trajectory (7:28–8:00, 32 min)**
-
+**Block 4 — Standing Pair Walks the Trajectory (7:29–7:59, 30 min)**
 ## Lead Companion script (60 sec)
 
 *“Your standing pair. Sixteen minutes per direction; thirty-two minutes total. The substantive integration work of tonight.”*
@@ -284,8 +284,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **Time discipline. At 16 min: switch. At 32 min: stop.**
 
-**Block 5 — Cohort Circle Pattern Surfacing (8:00–8:15, 15 min)**
-
+**Block 5 — Cohort Circle Pattern Surfacing (7:59–8:12, 13 min)**
 Lead Companion frame for the surfacing block: "We are not surfacing a single shape of formation tonight. Some of you are at the close of the Going Out series confirmed in leadership; some confirmed in vocational, household, third-place, one-to-one, or contemplative directions. The patterns we surface tonight are the body's witness to what the year produced across all of these. Each direction is real; each is honored as the formation the Spirit prepared for that member."
 
 ## Lead Companion script (60 sec)
@@ -308,8 +307,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 **If multiple members surface the same pattern: note the cluster. Wk 11 will engage cohort-level patterns.**
 
-**Block 6 — Bridge to Wk 11 (8:15–8:25, 10 min)**
-
+**Block 6 — Bridge to Wk 11 (8:12–8:21, 9 min)**
 ## Lead Companion script
 
 *“Wk 11 next Tuesday engages cohort-level integration. Where did the BODY land as a body across the Going Out series? Honest assessment.”*
@@ -320,10 +318,13 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 *“Wk 11 will be cohort-split (junior teen / senior teen / parent), then merged — same shape as Going Deeper Wk 11, allowing each cohort’s developmental texture to be honored before the body integrates.”*
 
-**Block 7 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 7 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“One word from each of you, around the circle. How does this evening’s integration land in you?”*
 
 *(Around the circle. 5 seconds per person.)*

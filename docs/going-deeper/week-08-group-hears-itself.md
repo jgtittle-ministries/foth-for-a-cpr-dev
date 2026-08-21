@@ -202,19 +202,18 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight we attempt Level 4.’ |
-| 7:08–7:13 | Block 2: Wk 7 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 7’s listening role — not the Bringer’s content. |
-| 7:13–7:30 | Block 3: Group taxonomy + Rev 2–3 frame (teaching) | Shared circle | Lead Comp | 5-level taxonomy. Read one Rev 2–3 letter aloud. Walk the five elements. |
-| 7:30–7:42 | Block 4: Silent listening for the cohort | Shared circle (silent) | Lead Comp | 12 minutes. Hold full time. Cohort listens FOR US. |
-| 7:42–8:05 | Block 5: Surfacing — what each heard about US | Shared circle (around) | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
-| 8:05–8:20 | Block 6: Pattern integration + cohort weighing | Shared circle | Lead Comp | Lead reflects patterns. Cohort weighs (1 Cor 14:29). Honest about whether convergence emerged. |
-| 8:20–8:25 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Journal what was heard. Standing-pair check-in. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 9 (shadow mission). Send. |
+| 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight we attempt Level 4.’ |
+| 7:07–7:15 | Block 2: Wk 7 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 7’s listening role — not the Bringer’s content. |
+| 7:15–7:29 | Block 3: Group taxonomy + Rev 2–3 frame (teaching) | Shared circle | Lead Comp | 5-level taxonomy. Read one Rev 2–3 letter aloud. Walk the five elements. |
+| 7:29–7:41 | Block 4: Silent listening for the cohort | Shared circle (silent) | Lead Comp | 12 minutes. Hold full time. Cohort listens FOR US. |
+| 7:41–8:02 | Block 5: Surfacing — what each heard about US | Shared circle (around) | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
+| 8:02–8:16 | Block 6: Pattern integration + cohort weighing | Shared circle | Lead Comp | Lead reflects patterns. Cohort weighs (1 Cor 14:29). Honest about whether convergence emerged. |
+| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Journal what was heard. Standing-pair check-in. |
+| 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 9 (shadow mission). Send. |
 
 **Block-by-Block: Scripts and Notes**
 
-**Block 1 — Open and 60-Second Settling (7:00–7:08, 8 min)**
-
+**Block 1 — Open and 60-Second Settling (7:00–7:07, 7 min)**
 ## Script
 
 *“Welcome. Settle.”*
@@ -231,8 +230,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“Container reminder: what is heard and named here stays in this cohort. Specificity is the discipline; honesty is the goal; the architecture protects the attempt.”*
 
-**Block 2 — Wk 7 Landing (One Word) (7:08–7:13, 5 min)**
-
+**Block 2 — Wk 7 Landing (One Word) (7:07–7:15, 8 min)**
 ## Script
 
 *“Last Tuesday was the corporate listening prayer for the Bringer’s question. The Bringer is integrating what the cohort heard for them; that is between them and the Spirit. Tonight, one word about YOUR experience as a listener last Tuesday. Steady. Strained. Surprised. Quiet. Doubting. Hopeful. Pass anytime.”*
@@ -241,8 +239,11 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“Good. Hold what you noticed about your listening posture last week; it carries forward into tonight.”*
 
-**Block 3 — Group Taxonomy and Rev 2–3 (Teaching) (7:13–7:30, 17 min)**
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+**Block 3 — Group Taxonomy and Rev 2–3 (Teaching) (7:15–7:29, 14 min)**
 ## Script (the read)
 
 *“Tonight’s anchor scripture is the address to one of the seven churches. Listen.”*
@@ -287,8 +288,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **If patterns converge, we name what we heard, in our own words, and decide what to do with it (most often: hold; revisit at Wk 11). If patterns do not converge, we name that honestly and move on.**
 
-**Block 4 — Silent Listening for the Cohort (7:30–7:42, 12 min)**
-
+**Block 4 — Silent Listening for the Cohort (7:29–7:41, 12 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Twelve minutes of silence. Listen FOR the cohort. Not for yourself. Not for individual members. For US.”*
@@ -311,8 +311,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **At 12 min, quiet bell or named close: ‘Time. Take a breath together.’**
 
-**Block 5 — Surfacing What Each Heard About Us (7:42–8:05, 23 min)**
-
+**Block 5 — Surfacing What Each Heard About Us (7:41–8:02, 21 min)**
 ## Lead Companion script — opening (60 sec)
 
 *“Welcome back. Around the circle. ONE thing each of you heard ABOUT US during the silence — not about yourself, not about individual members, about the cohort. Brief; 30 to 60 seconds. Pass anytime.”*
@@ -339,8 +338,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **If a contribution is coercive (‘God says we MUST’): name the architecture. ‘The Rev 2–3 letters even when they are critique are conditional; the call is to repent, the promise is to those who overcome. Coercive directives move us out of the architecture. Restate humbly or pass.’**
 
-**Block 6 — Pattern Integration + Cohort Weighing (8:05–8:20, 15 min)**
-
+**Block 6 — Pattern Integration + Cohort Weighing (8:02–8:16, 14 min)**
 ## Lead Companion script — opening (3 min)
 
 *“Thank you. We have many contributions in front of us. The work now is integration — we look together for what is converging across multiple members. The Spirit’s word to a body is most often heard when the same thing surfaces independently in many members. The convergence is the discernment.”*
@@ -369,8 +367,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“Either way — a Rev 2–3-style address to a body always points forward to overcoming. Whatever we heard tonight, we hold it gently, weigh it across the week, and bring it into the rest of Going Deeper.”*
 
-**Block 7 — Between-Session Practice (8:20–8:25, 5 min)**
-
+**Block 7 — Between-Session Practice (8:16–8:21, 5 min)**
 ## Script — Co-Companion (parent cohort) leads
 
 *“Three pieces of practice this week.”*
@@ -383,10 +380,13 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“Rhythm Card practices, named-knot sit, Five-Minute Examen, Tells — all continue.”*
 
-**Block 8 — Closing Container (8:25–8:30, 5 min)**
-
+**Block 8 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
 
+
+*“Before we close the container: the round. I led tonight, so I go first — what I think went well, and what I would do differently. [Leader answers, specific and brief.] Now the room, same two questions about the evening. Went well; do differently. About the evening and how we ran it — never about what any person brought, said, or heard.”*
+
+*(Receive without defending. Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences. Then close the container as written below.)*
 *“What happened tonight is the formation step most groups never take. Whether we landed at Level 4 or attempted it and stayed at Level 3, we are a body that listened together. The attempt itself is part of the formation.”*
 
 *“One word before we turn ahead. If something you heard tonight did not make it into what the cohort named, you are not overruled. The body’s weighing is not the only place the Spirit speaks; what you heard may be His word for you to walk in personally. Hold it, bring it to your standing pair, and do not throw it away because it did not converge with the rest.”*

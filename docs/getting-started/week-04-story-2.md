@@ -163,9 +163,9 @@ Identical to Week 3. Open in the main room as a single circle; split to the same
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Lead Companion greets each participant by name. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Comp-in-Formation | The senior opens the container: Aaronic blessing, container restated, Week 4 framed. First teen-led block of the series. |
-| 7:10–7:15 | Block 2: Joint Footprints check-in | Shared circle | Lead Comp | Brief, optional check-in on the between-session practice. One sentence each. |
-| 7:15–7:22 | Block 3: Psalm 139 — being known, again | Shared circle | Lead Comp | Re-read Psalm 139:23–24. Very short. Nothing new taught; the frame is repeated, and the every-story-its-own word is spoken here. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Comp-in-Formation | The senior opens the container: Aaronic blessing, container restated, Week 4 framed. First teen-led block of the series. |
+| 7:08–7:16 | Block 2: Joint Footprints check-in | Shared circle | Lead Comp | Brief, optional check-in on the between-session practice. One sentence each. |
+| 7:16–7:22 | Block 3: Psalm 139 — being known, again | Shared circle | Lead Comp | Re-read Psalm 139:23–24. Very short. Nothing new taught; the frame is repeated, and the every-story-its-own word is spoken here. |
 | 7:22–7:25 | Block 4: Bridge to the split | Shared circle | Comp-in-Formation | Cards held up, three reminders, prayer, split. Same bridge as Week 3, spoken by the senior. |
 | 7:25–8:02 | Block 5: Stories in circles | Cohort circles | Comp-in-Formation (senior circle); Cohort Comps (junior, parent) | The remaining tellers tell. Same turn structure as Week 3. In the senior circle the teen facilitates, card in hand; the adult Cohort Companion sits across, holding the disclosure-bearing center. |
 | 8:02–8:10 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Reconvene. One word each. Receive; do not comment. |
@@ -176,8 +176,7 @@ Identical to Week 3. Open in the main room as a single circle; split to the same
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:10, 10 min)
-
+## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
 The Companion-in-Formation opens the night. The script below is on their Facilitation Card (H4.1); they may say it in their own words, but the pieces — blessing, container, frame — are all required. The Lead Companion sits in the circle as a participant and does not hover.
 
 ## Script (Companion-in-Formation)
@@ -194,8 +193,7 @@ The Companion-in-Formation opens the night. The script below is on their Facilit
 
 *Note to the adult team: the room will register that a teen is leading within the first ten seconds. Let it. Do not introduce the senior, do not explain the arrangement, do not applaud. The most honoring thing the adults can do is receive the opening exactly as they received it from the Lead Companion in Weeks 1–3.*
 
-## Block 2 — Joint Footprints Check-in (7:10–7:15, 5 min)
-
+## Block 2 — Joint Footprints Check-in (7:08–7:16, 8 min)
 The Lead Companion takes this block. Brief and low-stakes, same rhythm as prior weeks.
 
 ## Script
@@ -204,8 +202,11 @@ The Lead Companion takes this block. Brief and low-stakes, same rhythm as prior 
 
 *(Take 3–4 voluntary contributions. If silence, wait ten seconds and move on with: “Good. The work is happening, whether or not we name it tonight.”)*
 
-## Block 3 — Psalm 139, Being Known, Again (7:15–7:22, 7 min)
+*“And before we move on: one true sentence. One true thing about your own week with God, however small. ‘Nothing came’ is a true sentence. We receive; we do not fix.”*
 
+*(Around the circle, brief, pass anytime. This beat runs every week of the year — the smallest rung of costly telling, its occasion scheduled so the muscle always has one.)*
+
+## Block 3 — Psalm 139, Being Known, Again (7:16–7:22, 6 min)
 Shorter than Week 3’s teaching, because nothing new is taught. Re-read the anchor verses from the physical Bible, restate the one idea, and speak the every-story-its-own word plainly. This is also the block where any Week 3 re-frame lands — if the debrief flagged fixing or advice in the circles, name it here in one gentle sentence.
 
 ## Script (the read)
@@ -225,7 +226,6 @@ Shorter than Week 3’s teaching, because nothing new is taught. Re-read the anc
 • If a re-frame from Week 3 is needed: *“And one thing we noticed last week that’s worth saying again — listening to receive is its own discipline. No fixing, no advice, no ‘that happened to me too.’ Receive, and bless.”*
 
 ## Block 4 — Bridge to the Split (7:22–7:25, 3 min)
-
 The Companion-in-Formation takes the bridge — the same three reminders and prayer the Lead Companion spoke in Week 3, from the Facilitation Card.
 
 ## Script (Companion-in-Formation)
@@ -243,7 +243,6 @@ The Companion-in-Formation takes the bridge — the same three reminders and pra
 *“Same circles and same rooms as last week. We come back here at 8:02. Go.”*
 
 ## Block 5 — Stories in Circles (7:25–8:02, 37 min)
-
 The heart of the night. The junior and parent circles run exactly as they did in Week 3, adult-led. The senior circle is where the new thing happens: the Companion-in-Formation facilitates, and the adult Cohort Companion holds the center.
 
 ### Inside the senior circle — how the two roles divide
@@ -283,7 +282,6 @@ That is the whole move. Then the senior stays seated, stays present, keeps their
 Run exactly as Week 3, adult-led, with this week’s tellers telling. The Week 3 plan’s intervention notes apply unchanged. If either circle finishes early, sit with what was said; do not start a new topic.
 
 ## Block 6 — Merge and One-Word Landing (8:02–8:10, 8 min)
-
 The Lead Companion takes the merge. Same texture-honoring as Week 3: the room will come back changed; do not break it with energy.
 
 ## Script
@@ -299,7 +297,6 @@ The Lead Companion takes the merge. Same texture-honoring as Week 3: the room wi
 *“Thank you. The round is complete — every person in this room has now told a piece of their story to a circle that blessed them for it. Hold on to what that took, and what it gave. Rooms like this one are rare. They’re also the kind of room God shows up in.”*
 
 ## Block 7 — Leader Feedback Round (8:10–8:18, 8 min)
-
 Runs right after the senior has led, while the cohort is present — that timing is the design (Handbook 11.7). The Lead Companion facilitates. The order is fixed: affirmation first, growth second, the group only by the senior’s consent.
 
 ## Script
@@ -324,8 +321,9 @@ Runs right after the senior has led, while the cohort is present — that timing
 
 *Note: the team agrees on the single growth item during the merge, in a ten-second sidebar — not improvised in front of the room. And the affirmations must outweigh it, in number and in specificity.*
 
-## Block 8 — Between-Session Practice (8:18–8:23, 5 min)
+*(Then the teach-back, leader only: “If I were to teach tonight’s process to someone, here is what I would tell them.” One or two sentences, and done.)*
 
+## Block 8 — Between-Session Practice (8:18–8:23, 5 min)
 The parent Co-Companion takes this block, same as Week 3.
 
 ## Script
@@ -339,7 +337,6 @@ The parent Co-Companion takes this block, same as Week 3.
 *“Families who did it last week — you’re done; don’t force a repeat. Everyone keeps the morning question and the evening journal note going. Five minutes in the morning, two at night. That rhythm is quietly doing more than any single Tuesday.”*
 
 ## Block 9 — Closing Container (8:23–8:30, 7 min)
-
 The Companion-in-Formation closes the night, from the Facilitation Card.
 
 ## Script (Companion-in-Formation)
