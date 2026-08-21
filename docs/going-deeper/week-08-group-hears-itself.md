@@ -12,7 +12,7 @@ Week 8
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 8
 
 **Connect focus.** God (deepened) — apex of the God-deepened block. Wk 6 was individual hearing; Wk 7 was corporate hearing for one Bringer; Wk 8 is corporate hearing for the corporate.
 
-**Mode.** Whole-room. No cohort split. The cohort sits as one circle with no centre chair tonight — the cohort itself is the subject of the hearing.
+**Mode.** Whole-room. No circle split. The cohort sits as one circle with no centre chair tonight — the cohort itself is the subject of the hearing.
 
 **Center.** Each participant listens in silence FOR THE COHORT for 12 minutes — not for themselves, not for individuals, for the body. Each member then briefly contributes what they heard ‘about us’. The Lead Companion reflects back the patterns — what is converging across multiple members — and the cohort weighs whether what was heard rings true.
 
@@ -48,7 +48,7 @@ Week 8
 
 **Projection dressed as hearing. ‘I think God is saying we need to be more \_\_\_\_\_.’ ‘We have a problem with \_\_\_\_\_.’ The Lead Companion listens for whether the contribution is the participant’s own concern theologized, or genuine corporate hearing. The weighing step is where the cohort sorts this together; do not pre-sort by intervening early.**
 
-**Political or generational projection. A parent says ‘God is saying our young people need to\_\_\_\_\_.’ A senior teen says ‘God is saying our parents have to\_\_\_\_\_.’ These are almost always projection. The Lead Companion names the pattern at the integration block, gently, and invites the cohort to weigh whether the contribution actually came from listening or from prior conviction.**
+**Political or positional projection. A pastor says ‘God is saying the congregation needs to\_\_\_\_\_.’ A lay member says ‘God is saying the leadership has to\_\_\_\_\_.’ These are almost always projection. The Lead Companion names the pattern at the integration block, gently, and invites the cohort to weigh whether the contribution actually came from listening or from prior conviction.**
 
 **False prophecy by name. Any contribution that is directive, authoritative, or coercive (‘God says we MUST do X by Y’) is named as not-the-architecture. The Rev 2–3 frame helps: even when the Spirit critiques the churches, the call is conditional and the promise is for those who overcome — not coercive. Lead Companion gently models the architecture if it slips.**
 
@@ -70,21 +70,21 @@ Week 8
 
 **If a contribution names a coercive directive (‘We have to fire X / shun X / leave X’). Stop. ‘What was named is not the architecture of corporate hearing in the New Testament. We are not making decisions tonight based on contributions from this format; the cohort is hearing what the Spirit may be saying, and we weigh together. Authoritative claims like that move us out of the architecture.’ Pastoral follow-up with the contributor.**
 
-**If a contribution opens material about active harm or abuse within the cohort. Section 6 protocol immediately. Mandatory-reporting law applies to whatever crosses thresholds. The cohort listening prayer is not the venue to disclose ongoing abuse; the Cohort Companion and Lead Companion engage outside the session.**
+**If a contribution opens material about active harm or abuse within the cohort. The safeguarding frame immediately. Mandatory-reporting law applies to whatever crosses thresholds. The cohort listening prayer is not the venue to disclose ongoing abuse; the Cohort Companion and Lead Companion engage outside the session.**
 
 **If the cohort’s integrated picture is mostly negative and a member becomes flooded. Cohort Companion stays with the flooded member; Lead Companion continues holding the room. After: 24-hour contact; pastoral 1:1 within the week. The honest data does not hurt the body; the body’s rejection of the data is what hurts.**
 
 **If the cohort cannot integrate — the contributions diverge widely with no convergence. Receive without forcing integration. ‘What we heard tonight does not yet cohere. That is honest data; the cohort is in formation. We will hold what was heard and revisit at Wk 11.’ Do not impose convergence the data does not support.**
 
-**If a teen-parent dynamic surfaces in the contributions cross-cohort. Receive without naming the family. Pastoral support outside the session.**
+**If a marriage dynamic surfaces in the contributions. Receive without naming the couple. Pastoral support outside the session.**
 
-**Default. Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
 
 **Session at a Glance**
 
 **Why this session, this week**
 
-MSFIG of IJH names a five-level taxonomy for groups: Level 1 — people in the same room. Level 2 — people who know each other and share information. Level 3 — people who do real work together (the cohort circle level, where most of Going Deeper has operated). Level 4 — a body that hears together; the group has agency, and the Spirit speaks to it as a unit. Level 5 — an apostolic team that is sent together (the Acts 13 reality, which Wk 10 will engage).
+MSFIG of IJH names a five-level taxonomy for groups: Level 1 — people in the same room. Level 2 — people who know each other and share information. Level 3 — people who do real work together (the circle level, where most of Going Deeper has operated). Level 4 — a body that hears together; the group has agency, and the Spirit speaks to it as a unit. Level 5 — an apostolic team that is sent together (the Acts 13 reality, which Wk 10 will engage).
 
 From MSFIG: ‘Most groups never reach Level 4. Most that do reach it briefly and slip back. Level 4 is not a permanent state; it is a developmental capacity that becomes more frequent and easier to enter as a body matures. The diagnostic is whether the group can hear something specific, weigh it together, and act on it without dissolving into individual reactions.’ The 75% confidence rating reflects strong New Testament grounding (Acts 13:1–3, Acts 15, Revelation 2–3) plus consistent observation in formation communities, with the caveat that Level 4 is hard to test from outside and easy to confuse with Level 3 plus enthusiasm.
 
@@ -154,7 +154,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs. NO centre chair tonight. The cohort itself is the subject; the geometry should not suggest an individual focal point.
+**•** Confirm room layout: ONE large circle — a chair for every member. NO centre chair tonight. The cohort itself is the subject; the geometry should not suggest an individual focal point.
 
 **•** Whiteboard with Revelation 2–3 reference and the five elements pre-drawn (I know / commendation / critique / call / promise).
 
@@ -162,7 +162,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs. NO centre chair.
+**•** Chairs in ONE large single circle, one per member. NO centre chair.
 
 
 **•** Personal Heart Journals.
@@ -192,7 +192,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 | Day before | Walk the room. Confirm chair layout (no centre chair). Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers in the room. Final prayer. | All Companions |
 | T-30 min | Set up. Place handouts. Confirm whiteboard pre-draw. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -201,14 +201,14 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight we attempt Level 4.’ |
 | 7:07–7:15 | Block 2: Wk 7 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 7’s listening role — not the Bringer’s content. |
 | 7:15–7:29 | Block 3: Group taxonomy + Rev 2–3 frame (teaching) | Shared circle | Lead Comp | 5-level taxonomy. Read one Rev 2–3 letter aloud. Walk the five elements. |
 | 7:29–7:41 | Block 4: Silent listening for the cohort | Shared circle (silent) | Lead Comp | 12 minutes. Hold full time. Cohort listens FOR US. |
 | 7:41–8:02 | Block 5: Surfacing — what each heard about US | Shared circle (around) | Lead Comp | Around the circle. Each member 30–60 sec. Pass anytime. Lead Companion captures notes. |
 | 8:02–8:16 | Block 6: Pattern integration + cohort weighing | Shared circle | Lead Comp | Lead reflects patterns. Cohort weighs (1 Cor 14:29). Honest about whether convergence emerged. |
-| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Journal what was heard. Standing-pair check-in. |
+| 8:16–8:21 | Block 7: Between-session practice | Shared circle | Co-Comp | Journal what was heard. Standing-pair check-in. |
 | 8:21–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Frame Wk 9 (shadow mission). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -270,7 +270,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **LEVEL 2 — People who know each other and share information. Most small groups operate here.**
 
-**LEVEL 3 — People who do real work together. The cohort circle level. Specific work surfaces in specific members; the room holds it. Wks 2–7 of Going Deeper have operated here.**
+**LEVEL 3 — People who do real work together. The circle level. Specific work surfaces in specific members; the room holds it. Wks 2–7 of Going Deeper have operated here.**
 
 **LEVEL 4 — A body that hears together. The group has agency; the Spirit speaks to it as a unit. Tonight’s attempt.**
 
@@ -368,7 +368,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 *“Either way — a Rev 2–3-style address to a body always points forward to overcoming. Whatever we heard tonight, we hold it gently, weigh it across the week, and bring it into the rest of Going Deeper.”*
 
 **Block 7 — Between-Session Practice (8:16–8:21, 5 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Three pieces of practice this week.”*
 
@@ -401,53 +401,51 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Each cohort is doing this differently inside the same circle. The Cohort Companions read their own cohort’s members across the session and follow up offline as needed.*
+*Tonight there is no circle split. The room’s members are doing this differently inside the same circle. The Cohort Companions read their circles’ members across the session and follow up offline as needed.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often hear concrete, embodied things in corporate listening. ‘We need more silence in the room.’ ‘We are nicer to each other than we used to be.’ Concrete is good; the Lead Companion does not push juniors to abstract their hearing.**
-
-**Watch for: junior teens whose contribution names a specific cohort member positively (‘Sarah is so kind’). Quietly: ‘Hold the kindness about Sarah; what did you hear about US, the body?’ The redirect is gentle; the kindness is not undone by being held.**
-
-**Watch for: junior teens who, at the integration block, look uncertain whether what they heard counts. Cohort Companion affirms their contribution by name during the surfacing if it is being underweighted in the body’s weighing.**
-
-**Watch for: junior teens who pass during the surfacing and are activated by the cohort’s integration block. Some juniors only find their voice once they hear adults weighing. Cohort Companion invites: ‘Anything you want to add now?’ No pressure.**
-
-**Watch for: junior teens for whom the silent listening was destabilizing. Cohort Companion follow-up offline within 24 hours.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often hear systemic patterns — what the cohort is doing well, where it is performing, where it is shrinking from harder work. The Lead Companion weights senior contributions equally, especially when they critique the cohort.**
+**First-timers often hear concrete, embodied things in corporate listening. ‘We need more silence in the room.’ ‘We are kinder to each other than we were at the start.’ Concrete is good; the Lead Companion does not push anyone to abstract their hearing.**
 
-**Watch for: the senior whose contribution is a generational projection (‘God is saying our parents need to\_\_\_\_\_’). Same redirect as in the WATCH FOR section: this is almost always projection. Receive without commentary; reflect to the cohort during integration without naming the senior.**
+**Watch for: the member whose contribution names a specific cohort member positively (‘[Name] is so kind’). Quietly: ‘Hold the kindness about them; what did you hear about US, the body?’ The redirect is gentle; the kindness is not undone by being held.**
 
-**Watch for: the senior who hears something about the cohort’s relationship to Christ that is theologically sharp (‘we are good at the work and not as good at the worship’). Honour. Sharpness from a senior teen often lands more than from an adult; let the cohort weigh it.**
+**Watch for: the member who, at the integration block, looks uncertain whether what they heard counts. Cohort Companion affirms their contribution by name during the surfacing if it is being underweighted in the body’s weighing.**
 
-**Watch for: the senior who passes because they think their hearing might offend. Cohort Companion briefly checks: ‘Anything for the body you held back?’ No pressure; the offer is the support.**
+**Watch for: the member who passes during the surfacing and is activated by the cohort’s integration block. Some only find their voice once they hear others weighing. Cohort Companion invites: ‘Anything you want to add now?’ No pressure.**
 
-**Watch for: the senior whose hearing crosses thresholds (a sense that the cohort is doing harm, a sense of withdrawal). Pastoral 1:1 within 48 hours; the senior’s discernment may be real.**
+**Watch for: the member for whom the silent listening was destabilizing. Cohort Companion follow-up offline within 24 hours.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often hear the cohort’s long-term arc — what has shifted across the Getting-Started-and-Going-Deeper journey, what has stayed stuck, what is just beginning to form. The Lead Companion gives parental contributions weight without imposing them on the body’s weighing.**
+**Veterans often hear systemic patterns — what the cohort is doing well, where it is performing, where it is shrinking from harder work. The Lead Companion weights these contributions equally, especially when they critique the cohort.**
 
-**Watch for: the parent whose contribution is the same generational projection in reverse (‘God is saying our young people have to \_\_\_\_\_’). Same redirect.**
+**Watch for: the veteran who hears something about the cohort’s relationship to Christ that is theologically sharp (‘we are good at the work and not as good at the worship’). Honour. Let the cohort weigh it.**
 
-**Watch for: the parent who hears something specific about the cohort’s relationship to the broader church or community. Honour; the cohort is not isolated, and the Spirit may speak about how the body relates to bodies it is part of.**
+**Watch for: the veteran who passes because they think their hearing might offend. Cohort Companion briefly checks: ‘Anything for the body you held back?’ No pressure; the offer is the support.**
 
-**Watch for: the parent who hears something they sense their own teen-in-the-cohort needs to receive. The hearing is for the body; the parent does not appropriate it as a parental message. Pastoral 1:1 if the dynamic is acute.**
+**Watch for: the veteran whose hearing crosses thresholds (a sense that the cohort is doing harm, a sense of withdrawal). Pastoral 1:1 within 48 hours; the discernment may be real.**
 
-**Watch for: the parent whose hearing is about the team itself — the Companions. Receive humbly. The team is part of the cohort; what is heard about US includes us. The team commits in advance not to deflect this category of hearing.**
+**The ordained and the staff**
 
-**Watch for: the parent whose hearing produces an action item (‘we need to start doing X’). The cohort tonight is not a decision-making body; the hearing is held, weighed, and revisited at Wk 11. The parent’s impulse to act is normal; the discipline is to hold.**
+## Adjustments
+
+**The ordained often hear the cohort’s long-term arc — what has shifted across the year, what has stayed stuck, what is just beginning to form. The Lead Companion gives these contributions weight without letting the office impose them on the body’s weighing.**
+
+**Watch for: the positional projection in either direction (‘God is saying the congregation needs to \_\_\_\_\_’; ‘God is saying the leadership has to \_\_\_\_\_’). Same redirect as the WATCH FOR section: almost always projection. Receive without commentary; reflect to the cohort during integration without naming the speaker.**
+
+**Watch for: the leader who hears something specific about the cohort’s relationship to the broader church or community. Honour; the cohort is not isolated, and the Spirit may speak about how the body relates to the bodies it is part of.**
+
+**Watch for: the leader who hears something they sense the congregation needs to receive. The hearing is for the body in this room; the leader does not appropriate it as sermon material. Discernment with the covering first, if it persists.**
+
+**Watch for: the member whose hearing is about the team itself — the Companions. Receive humbly. The team is part of the cohort; what is heard about US includes us. The team commits in advance not to deflect this category of hearing.**
+
+**Watch for: the leader whose hearing produces an action item (‘we need to start doing X’). The cohort tonight is not a decision-making body; the hearing is held, weighed, and revisited at Wk 11. The leader’s impulse to act is normal; the discipline is to hold.**
 
 **Closing Practice in Detail**
 
@@ -515,7 +513,7 @@ The team meets the day after Wk 8 for a 60-minute debrief. The Group Level 4 att
 
 **•** Anyone whose hearing did not cohere with the integrated picture and who looked uncertain. The pair check-in this week is the primary support.
 
-**•** Any teen-parent dynamic that surfaced during contributions. Cross-cohort follow-up by the appropriate Companions.
+**•** Any marriage dynamic that surfaced during contributions. Cross-circle follow-up by the appropriate Companions.
 
 **•** Anyone who passed during surfacing and looked troubled. Brief offer of 1:1; no pressure.
 
@@ -543,7 +541,7 @@ Four handouts for Wk 8.
 
 **LEVEL 2 — People who know each other and share information. Most small groups operate here.**
 
-**LEVEL 3 — People who do real work together. The cohort circle level. Specific work surfaces in specific members; the room holds it. Wks 2–7 of Going Deeper have operated here.**
+**LEVEL 3 — People who do real work together. The circle level. Specific work surfaces in specific members; the room holds it. Wks 2–7 of Going Deeper have operated here.**
 
 **LEVEL 4 — A body that hears together. The group has agency; the Spirit speaks to it as a unit. Wk 8’s attempt.**
 
