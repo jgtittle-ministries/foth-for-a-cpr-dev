@@ -12,7 +12,7 @@ Week 4
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,9 +30,9 @@ Week 4
 
 **Connect focus.** Others (deepened). The first true Others-deepened session of Going Deeper.
 
-**Mode.** Whole-room. No cohort split tonight. The whole cohort sits as one circle. Two short volunteer pieces of work are demonstrated; the room co-processes silently.
+**Mode.** Whole-room. No circle split tonight. The whole cohort sits as one circle. Two short volunteer pieces of work are demonstrated; the room co-processes silently.
 
-**Center.** Two participants — one teen, one parent — bring a short piece of their named knot from Wk 3 (≤8 minutes each) into the centre of the circle, supported by the Lead Companion. The rest of the room co-processes silently. After each piece, voluntary one-sentence shares about what surfaced for the silent participants in parallel.
+**Center.** Two volunteers — a Companion first, because the leader tells first, then a cohort member — bring a short piece of their named knot from Wk 3 (≤8 minutes each) into the centre of the circle, supported by the Lead Companion. The rest of the room co-processes silently. After each piece, voluntary one-sentence shares about what surfaced for the silent participants in parallel.
 
 **Between-session practice.** Standing-pair check-ins continue (3 brief). Daily 5-minute notice of the named knot continues. New this week: one Co-Processing Journal entry — what surfaced in YOU when someone else's work was visible tonight.
 
@@ -48,7 +48,7 @@ Week 4
 
 **The room treating a volunteer’s vulnerability as performance. The applause instinct is real and the Lead Companion must shut it down at the start: ‘We do not applaud each other in here. We bear witness in silence.’**
 
-**Cross-cohort exposure. Tonight a teen may see a parent doing real work; a parent may see a teen doing real work. This is intended, but it carries weight. Watch for any teen whose own parent’s visible work activates them; same in reverse. The Cohort Companion reads the room.**
+**Spouse exposure. Tonight a member may see their spouse doing real work — and the room may see one of its own leaders doing real work. This is intended, but it carries weight. Watch for anyone whose spouse’s visible work activates them, and for the member unsettled by seeing a leader under the work. The Cohort Companion reads the room.**
 
 **The participant who keeps quiet through both surfacing rounds. Some are processing; some are dissociating. The Cohort Companion notices both kinds without intervening publicly. Offline contact within 48 hours where appropriate.**
 
@@ -66,11 +66,11 @@ Week 4
 
 **If a silent participant’s surfacing share opens material larger than the surfacing round can hold. The Lead Companion receives without rushing: ‘What you just named is real. Bring it to your standing pair this week; we’ll walk with you.’ Cohort Companion follow-up within 48 hours.**
 
-**If a teen sees a parent doing visible work and is activated mid-session. The parent’s Cohort Companion (not the teen’s) is briefed in advance to watch for this. The teen’s Cohort Companion quietly checks in at the close. Pastoral 1:1 within the week if welcomed.**
+**If a member sees their spouse doing visible work and is activated mid-session. The volunteer’s Cohort Companion (not the spouse’s) is briefed in advance to watch for this. The spouse’s Cohort Companion quietly checks in at the close. Pastoral 1:1 within the week if welcomed.**
 
-**If a parent sees their own teen do visible work. Same protocol in reverse. The parent is checked on at the close; the teen is treated as a volunteer who has done a brave piece of work, not as a child whose parent watched. Boundary discipline.**
+**If the room sees its own pastor do visible work. The instinct will be to protect, or to marvel; both miss it. The pastor is treated as a volunteer who has done a brave piece of work, not as a leader whose room watched. Boundary discipline.**
 
-**Default. Section 6 of the Going Deeper Handbook covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy) covers anything that crosses the safety threshold. Pastoral / clinical backup confirmed by name and number for the night.**
 
 **Session at a Glance**
 
@@ -82,7 +82,7 @@ Co-processing is the under-recognized half of how a formation room actually work
 
 The risk is that this happens implicitly. When co-processing is unnamed, the silent participants drift into spectator mode and the formation gain shrinks. When co-processing is named and used on purpose, the room becomes a different kind of instrument. Tonight makes it explicit, demonstrates it twice, and asks the cohort to walk it forward as a working frame for Wks 7, 8, and 10 — the corporate-listening, group-hearing, and Acts-13 calling sessions, which all rely on co-processing to do most of their formation work.
 
-This is also the first whole-room working session of Going Deeper. The cohort split has been the architecture for Wks 2 and 3; tonight the whole cohort works as one. The shift will feel different. The Lead Companion names this explicitly at the open.
+This is also the first whole-room working session of Going Deeper. The circle split has been the architecture for Wks 2 and 3; tonight the whole cohort works as one. The shift will feel different. The Lead Companion names this explicitly at the open.
 
 **Dependencies**
 
@@ -110,7 +110,7 @@ First — sit with one moment from your own formation when someone else’s visi
 
 Second — read 1 Corinthians 12:12–27 slowly, three times, across three days. Notice which clause is most alive for you this week — the body language of v.12, the suffering-together of v.26, the indispensable-weaker-parts of v.22. Bring the observation to the team meeting.
 
-Third — confirm the two volunteers. The Lead Companion and one Cohort Companion have, by Saturday, identified two participants — one teen, one parent — who would bring a right-sized piece of work tonight. Each volunteer has been pre-briefed: ‘We will hold the work in the centre for about 8 minutes. We will not push to release the knot tonight; we will name what is true and stop there. The whole room will be silent witnesses.’ Both volunteers have agreed; both have rehearsed briefly in 1:1 with their Cohort Companion. The pieces are confirmed in size.
+Third — confirm the two volunteers. The first is one of the Companions — the leader tells first, and tonight the room needs to see it. The Lead Companion and one Cohort Companion have, by Saturday, also identified one cohort member who would bring a right-sized piece of work tonight. Each volunteer has been pre-briefed: ‘We will hold the work in the centre for about 8 minutes. We will not push to release the knot tonight; we will name what is true and stop there. The whole room will be silent witnesses.’ Both volunteers have agreed; both have rehearsed briefly in 1:1 with their Cohort Companion. The pieces are confirmed in size.
 
 **Team pre-work**
 
@@ -122,9 +122,9 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 **3.** Volunteer review. The two volunteers are named to the whole team. The Cohort Companion who pre-briefed each volunteer summarizes the piece they will bring, in confidence, in front of the rest of the team — so every Companion knows what is coming and can support the room around it. (15 min)
 
-**4.** Walk the run sheet. The whole-room layout is unfamiliar; cohort spaces are not in use tonight. Confirm chair layout, the centre work zone (two empty chairs face-to-face in the middle of the circle), and the Lead Companion’s position relative to the volunteer. (15 min)
+**4.** Walk the run sheet. The whole-room layout is unfamiliar; circle spaces are not in use tonight. Confirm chair layout, the centre work zone (two empty chairs face-to-face in the middle of the circle), and the Lead Companion’s position relative to the volunteer. (15 min)
 
-**5.** Cross-cohort exposure protocol. Identify in advance any teen whose parent’s visible work could activate them, and any parent whose teen’s visible work could activate them. The Cohort Companions NOT working with the volunteer that round are responsible for watching their own cohort’s members during the centre work. (5 min)
+**5.** Spouse-exposure protocol. Identify in advance anyone whose spouse’s visible work could activate them. The Cohort Companions NOT working with the volunteer that round are responsible for watching their own circles’ members during the centre work. (5 min)
 
 **6.** Pastoral / clinical backup confirmed by name and number for the night. (3 min)
 
@@ -142,13 +142,13 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs with TWO empty chairs face-to-face in the centre, ready for the volunteer pieces.
+**•** Confirm room layout: ONE large circle — a chair for every member — with TWO empty chairs face-to-face in the centre, ready for the volunteer pieces.
 
 **Materials and Setup**
 
 **Materials checklist**
 
-**•** Chairs in ONE large single circle, 20–32 chairs with two additional chairs face-to-face in the geometric centre.
+**•** Chairs in ONE large single circle, one per member, with two additional chairs face-to-face in the geometric centre.
 
 
 **•** Personal Heart Journals.
@@ -172,11 +172,11 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Saturday before | Volunteers identified and pre-briefed in 1:1 with their Cohort Companion. Pieces of work confirmed in size. | Lead Companion + Cohort Companions |
-| 48 hr before | Team pre-meet (60 min). Volunteer review. Cross-cohort exposure protocol. | All Companions |
+| 48 hr before | Team pre-meet (60 min). Volunteer review. Spouse-exposure protocol. | All Companions |
 | Day before | Walk the room. Confirm centre-chair layout. Confirm pastoral / clinical backup. | Lead Comp |
 | T-60 min | Team gathers in the room. Final prayer. Lead Companion does a final check-in with each volunteer. | All Companions + volunteers |
 | T-30 min | Set up. Place handouts. Confirm centre chairs. | All Companions |
-| T-15 min | Door opens. Welcome each participant by name. | Co-Comp (Teen) |
+| T-15 min | Door opens. Welcome each participant by name. | Co-Comp |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
 **Detailed 90-Minute Run Sheet**
@@ -185,15 +185,15 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp | Door, name tags. |
 | 7:00–7:07 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Container reframe. Frame: ‘Tonight the room is the practice.’ |
 | 7:07–7:17 | Block 2: Wk 3 landing + standing-pair check | Shared circle | Lead Comp | One word about how the named knot lived this week. Pair partners briefly named to room. |
 | 7:17–7:30 | Block 3: 1 Cor 12 + co-processing teaching | Shared circle | Lead Comp | Read passage. Teach co-processing. Frame the demonstrations to come. |
-| 7:30–7:45 | Block 4: Demonstration round 1 (teen volunteer) | Shared circle | Lead Companion + Volunteer | 8 min volunteer work in the centre chairs; 7 min surfacing of what came up in parallel. |
+| 7:30–7:45 | Block 4: Demonstration round 1 (Companion volunteer) | Shared circle | Lead Companion + Volunteer | 8 min volunteer work in the centre chairs; 7 min surfacing of what came up in parallel. |
 | 7:45–7:53 | Block 5: Brief teaching reflection | Shared circle | Lead Comp | What just happened. Why the silent work matters as much as the visible work. |
-| 7:53–8:08 | Block 6: Demonstration round 2 (parent volunteer) | Shared circle | Lead Companion + Volunteer | 8 min in centre; 7 min surfacing. |
+| 7:53–8:08 | Block 6: Demonstration round 2 (member volunteer) | Shared circle | Lead Companion + Volunteer | 8 min in centre; 7 min surfacing. |
 | 8:08–8:16 | Block 7: Closing teaching + integration | Shared circle | Lead Comp | Co-processing as the working frame for Wks 7, 8, 10. The cohort as a working instrument. |
-| 8:16–8:21 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Co-Processing Journal entry; pair check-ins continue. |
+| 8:16–8:21 | Block 8: Between-session practice | Shared circle | Co-Comp | Co-Processing Journal entry; pair check-ins continue. |
 | 8:21–8:30 | Block 9: Feedback round and closing container | Shared circle | Lead Comp | Aaronic. Send. Frame Wk 5 (Confession in standing pairs). |
 
 **Block-by-Block: Scripts and Notes**
@@ -209,9 +209,9 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 *“Tonight is Wk 4. Two things to name before we begin.”*
 
-*“One. The whole room is one circle tonight. No cohort split. The cohort itself is the working instrument tonight, not the cohort circle. You will see why over the next ninety minutes.”*
+*“One. The whole room is one circle tonight. No circle split. The cohort itself is the working instrument tonight, not the small circle. You will see why over the next ninety minutes.”*
 
-*“Two. Two of you have agreed to bring brief pieces of your knot work into the centre of the circle tonight. You know who they are. They have been pre-briefed and have rehearsed. The rest of us are not going to spectate. We are going to co-process — which means while their work is visible, the same Spirit is also at work in each of us. We will surface what came up in us in parallel after each piece. The teaching will frame this; the doing will land it.”*
+*“Two. Two of us — one of the team first, because the leader tells first, then one of the cohort — have agreed to bring brief pieces of our knot work into the centre of the circle tonight. You know who they are. They have been pre-briefed and have rehearsed. The rest of us are not going to spectate. We are going to co-process — which means while their work is visible, the same Spirit is also at work in each of us. We will surface what came up in us in parallel after each piece. The teaching will frame this; the doing will land it.”*
 
 *“Container reminder: what is named in the centre stays in this room. The volunteers have agreed to bring real material into a public space; we receive it as the gift it is. We do not applaud. We do not interpret. We bear witness in silence.”*
 
@@ -273,8 +273,8 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 **Do not pray for the volunteer in your head while they are speaking. The Lead Companion and the Cohort Companions are doing that. You are doing the parallel work. Different jobs.**
 
-**Block 4 — Demonstration Round 1 (Teen Volunteer) (7:30–7:45, 15 min)**
-The teen volunteer comes to one of the two centre chairs. The Lead Companion takes the other. The rest of the room re-orients to face the centre — the chairs were already arranged so that this requires only a small turn, not a full re-formation.
+**Block 4 — Demonstration Round 1 (Companion Volunteer) (7:30–7:45, 15 min)**
+The Companion volunteer comes to one of the two centre chairs — the leader tells first, and the depth the room will risk tonight is licensed by what this Companion actually brings. The Lead Companion takes the other. The rest of the room re-orients to face the centre — the chairs were already arranged so that this requires only a small turn, not a full re-formation.
 
 ## Lead Companion script — opening (90 sec)
 
@@ -319,26 +319,26 @@ The teen volunteer comes to one of the two centre chairs. The Lead Companion tak
 
 *“One more piece of work to do tonight. Same shape, second volunteer.”*
 
-**Block 6 — Demonstration Round 2 (Parent Volunteer) (7:53–8:08, 15 min)**
-Identical structure to Block 4. The parent volunteer takes the centre chair; the Lead Companion takes the other. The same opening, same volunteer-piece rhythm (≈6 min), same surfacing round (≈7 min).
+**Block 6 — Demonstration Round 2 (Member Volunteer) (7:53–8:08, 15 min)**
+Identical structure to Block 4. The member volunteer takes the centre chair; the Lead Companion takes the other. The same opening, same volunteer-piece rhythm (≈6 min), same surfacing round (≈7 min).
 
 Two notes specific to round 2:
 
-**•** Junior teens may activate around a parent’s visible work in a way they did not around a teen volunteer’s. The Cohort Companion for the junior cohort is watching; offline contact at the close as needed.
+**•** A spouse may activate around their partner’s visible work in a way they did not around round 1. The spouse’s Cohort Companion is watching; offline contact at the close as needed.
 
-**•** The surfacing round may be different. Often parents in round 2 surface different material than teens did in round 1. Honour the difference; do not impose round 1’s pattern on round 2.
+**•** The surfacing round may be different. A member’s work often surfaces different material in the room than a Companion’s did in round 1. Honour the difference; do not impose round 1’s pattern on round 2.
 
-## Adjustment if a teen’s parent is the round-2 volunteer
+## Adjustment if the round-2 volunteer’s spouse is in the room
 
-**In the rare case where a teen’s own parent is the round-2 volunteer, the team has decided in pre-meet whether the teen attends or steps out beforehand. The teen has been consulted in advance. If the teen attends:**
+**Where the round-2 volunteer’s spouse is a member of the cohort, the team has decided in pre-meet how the evening holds them. The spouse has been consulted in advance. During the round:**
 
-**— The Lead Companion privately, before the round, names this to the teen with a single sentence: ‘Your dad / mom is going to bring something tonight. They cleared it with you. You are free to step out at any moment.’**
+**— The Lead Companion privately, before the round, names this to the spouse with a single sentence: ‘Your husband / wife is going to bring something tonight. They cleared it with you. You are free to step out at any moment.’**
 
-**— The teen’s Cohort Companion sits beside them through the centre work.**
+**— The spouse’s Cohort Companion sits beside them through the centre work.**
 
-**— At the surfacing round, the teen passes by default. They will share, if at all, with their Cohort Companion after the session.**
+**— At the surfacing round, the spouse passes by default. They will share, if at all, with their Cohort Companion after the session.**
 
-**This case is rare; in most pilots it will not arise. Plan for it explicitly in the team pre-meet and you will not be improvising.**
+**This case will be common in a leadership cohort that includes married couples. Plan for it explicitly in the team pre-meet and you will not be improvising.**
 
 **Block 7 — Closing Teaching and Integration (8:08–8:16, 8 min)**
 ## Script
@@ -352,7 +352,7 @@ Two notes specific to round 2:
 *“One last word about Wk 5. Next Tuesday, the room comes back into cohort circles. Standing pairs do confession-and-restoration with each other in the cohort space. The frame is James 5:16 — ‘confess your sins to one another and pray for one another, that you may be healed.’ The architecture and the framing matter; we will walk it in detail next week. For tonight, just notice: tonight’s co-processing is the corporate frame inside which the more intimate pair work of next week happens. The room held tonight; the pair holds next week. Both are needed.”*
 
 **Block 8 — Between-Session Practice (8:16–8:21, 5 min)**
-## Script — Co-Companion (parent cohort) leads
+## Script — a Co-Companion leads
 
 *“Four pieces of practice this week.”*
 
@@ -383,51 +383,47 @@ Two notes specific to round 2:
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split, but each cohort is doing this differently inside the same circle. The Cohort Companions read their own cohort’s members across the session and follow up offline as needed.*
+*Tonight there is no circle split, but the room’s members are doing this differently inside the same circle. The Cohort Companions read their own circles’ members across the session and follow up offline as needed.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Co-processing as a concept is hard for some juniors; the demonstrations carry it. The juniors will most often surface concrete things in the surfacing round (‘I felt sad,’ ‘I thought about my grandma’) rather than abstract things. Honour the concrete.**
-
-**Watch for: the junior who is overwhelmed by the parent’s visible work in round 2. They do not have the cognitive frame to hold what they are seeing yet. Cohort Companion sits beside; offline contact within 24 hours.**
-
-**Watch for: the junior who treats the volunteer pieces as performances. Affirm the pieces as work, not performance: ‘This was real work, not a show. Did anything come up in you while it was happening?’**
-
-**Watch for: the junior whose surfacing share is about a friend, not themselves. Redirect gently: ‘What about in you? Same question.’**
-
-**Watch for: the junior whose body language during the centre work is checked-out. Some of this is normal junior-teen self-protection; some is dissociation. Cohort Companion notices; offline check-in if it persists.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens will most often surface accurate but slightly polished material in the surfacing round. The Cohort Companion gently invites the unpolished version: ‘What’s the rougher version of that?’**
+**First-timers will most often surface concrete things in the surfacing round (‘I felt sad,’ ‘I thought about my grandmother’) rather than abstract things. Honour the concrete.**
 
-**Watch for: the senior whose surfacing share reveals material beyond what tonight’s round can hold (a current crisis, a specific relational rupture, a question about identity). Receive without rushing; pastoral 1:1 within the week if welcomed.**
+**Watch for: the member who treats the volunteer pieces as performances. Affirm the pieces as work, not performance: ‘This was real work, not a show. Did anything come up in you while it was happening?’**
 
-**Watch for: the senior who tries to take over the surfacing round with a long share. Redirect kindly: ‘Hold the rest for your standing pair this week.’**
+**Watch for: the member whose surfacing share is about someone else, not themselves. Redirect gently: ‘What about in you? Same question.’**
 
-**Watch for: the senior teen who is the round-2 parent’s child. Pre-handled per the protocol above.**
+**Watch for: the member whose body language during the centre work is checked-out. Some of this is self-protection; some is dissociation. Cohort Companion notices; offline check-in if it persists.**
 
-**Watch for: the senior who is surprised by what surfaced. The first time co-processing becomes visible, it is often disorienting in a useful way. Affirm: ‘What you just noticed about yourself is data. Bring it to your pair this week.’**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents will often surface family-of-origin material in the surfacing round, particularly during the parent volunteer’s piece in round 2. This is data; receive without rushing.**
+**Veterans will most often surface accurate but slightly polished material in the surfacing round. The Cohort Companion gently invites the unpolished version: ‘What’s the rougher version of that?’**
 
-**Watch for: the parent whose teen is in the room during the parent’s visible work. Pre-handled per the protocol; the parent’s Cohort Companion sits beside the teen during the work.**
+**Watch for: the veteran whose surfacing share reveals material beyond what tonight’s round can hold (a current crisis, a specific relational rupture). Receive without rushing; pastoral 1:1 within the week if welcomed.**
 
-**Watch for: the parent whose surfacing share names their spouse. ‘When [volunteer] said \_\_\_\_\_, my husband’s shame knot surfaced for me.’ Re-frame to interior: ‘What was YOUR knot underneath that?’ The marital adjudication is not what tonight is for; the parent’s own surfaced material is.**
+**Watch for: the veteran who tries to take over the surfacing round with a long share. Redirect kindly: ‘Hold the rest for your standing pair this week.’**
 
-**Watch for: the parent who realizes mid-session that the named knot from Wk 3 has shifted across the week and they are now seeing something different. This is the Spirit’s work continuing; honour it. Standing pair conversation this week.**
+**Watch for: the veteran who is surprised by what surfaced. The first time co-processing becomes visible, it is often disorienting in a useful way. Affirm: ‘What you just noticed about yourself is data. Bring it to your pair this week.’**
 
-**Watch for: the parent who realizes that their own teen’s visible work in round 1 (if applicable) opens material in them they did not expect. The teen’s work is not the parent’s permission slip to bring it up with the teen tonight or this week. Pastoral 1:1 first.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained will often surface family-of-origin or call-of-origin material in the surfacing round, particularly during round 2. This is data; receive without rushing.**
+
+**Watch for: the member whose spouse is in the room during their visible work. Pre-handled per the protocol; the spouse’s Cohort Companion sits beside them during the work.**
+
+**Watch for: the leader whose surfacing share names another person. ‘When [volunteer] said \_\_\_\_\_, my husband’s shame knot surfaced for me.’ Re-frame to interior: ‘What was YOUR knot underneath that?’ Adjudicating anyone else is not what tonight is for; the member’s own surfaced material is.**
+
+**Watch for: the leader who realizes mid-session that the named knot from Wk 3 has shifted across the week and they are now seeing something different. This is the Spirit’s work continuing; honour it. Standing pair conversation this week.**
+
+**Watch for: the leader who wants to turn what surfaced in the room into next Sunday’s sermon. What the room gave tonight is not material. The container covers the pulpit too.**
 
 **Closing Practice in Detail**
 
@@ -475,7 +471,7 @@ The team meets the day after Wk 4 for a 60-minute debrief. The whole-room sessio
 
 **•** A silent participant flooded and was not noticed by the team.
 
-**•** A teen activated by a parent’s visible work was not followed up with at the close.
+**•** A member activated by a spouse’s visible work was not followed up with at the close.
 
 **•** A volunteer reported, post-session, that they felt exposed rather than supported.
 
@@ -493,9 +489,9 @@ The team meets the day after Wk 4 for a 60-minute debrief. The whole-room sessio
 
 **•** Anyone whose surfacing share suggested material larger than tonight could hold. Standing-pair conversation this week + Cohort Companion brief check-in.
 
-**•** Any junior teen who looked overwhelmed during round 2. Cohort Companion within 24 hours.
+**•** Anyone who looked overwhelmed during round 2. Cohort Companion within 24 hours.
 
-**•** Any teen whose own parent was the volunteer (or vice versa). Cohort Companion follow-up; pastoral 1:1 if welcomed.
+**•** Any member whose spouse was a volunteer. Cohort Companion follow-up; pastoral 1:1 if welcomed.
 
 **•** Any standing pair where one or both partners reported that the partnership has not connected this week. Cohort Companion triages — logistics fix vs. re-pair conversation.
 
@@ -665,11 +661,11 @@ Anything about how the team held the room around you that helped or did not help
 
 One paragraph. By Friday. In your Personal Heart Journal. Specifically:
 
-## On Tuesday night, while [volunteer name] / the parent volunteer / both volunteers were doing visible work in the centre of the circle, what surfaced in ME?
+## On Tuesday night, while the volunteers were doing visible work in the centre of the circle, what surfaced in ME?
 
 **What memory came up? What emotion? What body sensation? What specific lie did I recognize? What part of my life did the volunteer’s work activate me into seeing?**
 
-**Be specific. ‘It was meaningful’ is not the entry. ‘When the parent volunteer named the lie at the root — something about not being the kind of person people stay for — a similar lie surfaced in me, attached to my work life and to a specific moment the last Going Deeper.’ That is the entry.**
+**Be specific. ‘It was meaningful’ is not the entry. ‘When the second volunteer named the lie at the root — something about not being the kind of person people stay for — a similar lie surfaced in me, attached to my work life and to a specific moment the last Going Deeper.’ That is the entry.**
 
 **Why this week’s journal entry matters**
 
