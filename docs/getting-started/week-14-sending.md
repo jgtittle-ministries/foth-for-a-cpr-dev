@@ -6,13 +6,13 @@ Week 14
 
 **Sending and Blessing**
 
-*Family commissioning, the integration of the four Connects, and the bridge to Going Deeper*
+*The household blessing, the integration of the four Connects, and the bridge to Going Deeper*
 
 ![Dawn over the hills.](images/wk10-sending.jpg)
 
 **COMPANION LESSON PLAN**
 
-Pilot edition — Covenant Christian Academy of Warrenton
+Adult edition — the leadership-first year (FotH for a CPR)
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -24,15 +24,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 14 — SENDING AND BLESSING (120 minutes — EXTENDED)
 
-**Aim.** Integration of all four Connects (Self, Others, God, Mission) through a family commissioning. Each parent-and-teen dyad stands in the center of the room; each speaks a specific blessing over the other; the whole community speaks the Aaronic blessing over each family. The family commissioning sends the cohort into the interlude with a clear bridge into the Going Deeper series; the series' one remaining gathering, Week 15, commissions the Companions-in-Formation.
+**Aim.** Integration of all four Connects (Self, Others, God, Mission) through the household blessing. Tonight the leadership-first year turns homeward: each member stands in the center with their household — the people this year has been forming them for — and speaks a specific blessing over them; the whole community speaks the Aaronic blessing over each household. The night sends the cohort into the interlude with a clear bridge into the Going Deeper series; the one remaining gathering, Week 15, is the commissioning, where the covering sends the cohort.
 
 **Anchor scripture.** Numbers 6:24–26 (the Aaronic blessing); Philippians 1:6 (“He who began a good work in you will bring it to completion”).
 
 **Connect focus.** All four (integration). Self has been done; Others has been built; God has been pursued; Mission has been opened. Tonight integrates.
 
-**Mode.** Shared circle the entire session. Parents and teens together intentionally for the family commissioning — NO cohort split tonight.
+**Mode.** Shared circle the entire session. Members and their households together intentionally for the blessing — NO circle split tonight, and the room is full of guests.
 
-**Center.** Family commissioning. Each parent-and-teen dyad stands in the center of the circle. Each speaks a specific witnessed blessing over the other. The whole community speaks the Aaronic blessing over each family. Final reflection circle: each person’s one specific takeaway and one specific next commitment. Post-Series Survey distributed for completion that week.
+**Center.** The household blessing. Each member stands in the center of the circle with their household. The member speaks a specific witnessed blessing over each of their people; household members who wish may speak one back. The whole community speaks the Aaronic blessing over each household. Final reflection circle: each person’s one specific takeaway and one specific next commitment. Post-Series Survey distributed for completion that week.
 
 **Between-session practice.** The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain through the interlude until Going Deeper begins.
 
@@ -40,28 +40,28 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 14 specific risks)
 
-- Logistics overwhelm. Tonight has more moving parts than any prior session: extended start time, family members new to the room, food, blessing rehearsals, the commissioning itself, the survey, the bridge to Going Deeper. The team must not let logistics consume what should be a sacred close.
-- Emotional flooding. Tears tonight are common, appropriate, and welcome — from teens, from parents, from Companions. Plan for this; do not be surprised by it.
-- The teen whose parent is not present. Some families will not have both parents in the room; some teens come from divorce, bereavement, or estrangement. Pre-plan with each affected family. The cohort may stand for the absent parent; a Co-Companion may stand in; or the teen may receive the community blessing without a family commissioning. Decide in advance, never on the night.
-- The blessing-as-performance. Some parents will arrive with prepared speeches that are too long, too polished, or too preachy. The form is one specific witnessed sentence — not a speech. Frame this twice before the commissioning.
-- The teen whose blessing for their parent surfaces unexpected family material. Honor it. Do not interpret. Pastoral 1:1 follow-up.
-- New family members in the room who do not have the thirteen weeks of context. They will feel the weight of the room without knowing where it came from. Brief them at the door; pair each unfamiliar guest with a familiar Companion at their table.
-- Going Deeper drift. Some families will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to Going Deeper briefly and clearly; let participants decide on their own time.
+- Logistics overwhelm. Tonight has more moving parts than any prior session: extended start time, households new to the room, food, blessing rehearsals, the blessings themselves, the survey, the bridge to Going Deeper. The team must not let logistics consume what should be a sacred close.
+- Emotional flooding. Tears tonight are common, appropriate, and welcome — from members, from guests, from Companions. Plan for this; do not be surprised by it.
+- The member whose household is not present. Some households cannot come; some members live alone; some carry estrangement or grief. Pre-plan with each affected member. The cohort stands as household — this room has been one all year — or a chosen stand-in receives the blessing on the household’s behalf. Decide in advance, never on the night.
+- The blessing-as-performance. Some members will arrive with prepared speeches that are too long, too polished, or too preachy — leaders write speeches for a living. The form is one specific witnessed sentence — not a speech. Frame this twice before the blessings.
+- The blessing that surfaces unexpected household material. Honor it. Do not interpret. Pastoral 1:1 follow-up.
+- Guests in the room who do not have the thirteen weeks of context. They will feel the weight of the room without knowing where it came from. Brief them at the door; pair each unfamiliar guest with a familiar Companion at their table.
+- Going Deeper drift. Some members will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to Going Deeper briefly and clearly; let participants decide on their own time.
 - The tendency to overrun. The session is already extended to 120 minutes. Do not let it run to 150. The Lead Companion and the time-keeper hold the schedule.
 
 ## CRISIS CONTINGENCIES (Week 14)
 
 **Week 14 is moderate-risk, mainly for emotional flooding rather than acute crisis. The fourteen weeks have built up texture; the commissioning often lances something that has been quietly held.**
 
-**If a teen breaks down during their blessing of their parent.** Stop. Sit them down. The Cohort Companion goes with them. Do not push them through the blessing. The community can speak the blessing in their place. Follow up offline within 48 hours.
+**If a member breaks down during their blessing.** Stop. Allow it. A Companion moves close. Do not push them through. The community can speak the blessing in their place. Follow up offline within 48 hours.
 
-**If a parent breaks down during their blessing of their teen.** Stop. Allow the silence. Many parents will recover and complete the blessing in their own time. If they cannot, the Lead Companion names what they were trying to say briefly: ‘What I think your dad wants you to know is \_\_\_\_\_.’ Pastoral 1:1 follow-up.
+**If a guest breaks down while blessing back.** Stop. Allow the silence. Many recover and complete the blessing in their own time. If they cannot, the convening leader names it gently: ‘What I think they want you to know is \_\_\_\_\_.’ Nothing is required of guests; standing close was already the blessing.
 
-**If a family surfaces unresolved conflict during the commissioning (e.g., a teen says something pointed; a parent reacts).** Stop the commissioning. Do not interpret in front of the room. The Lead Companion and one Co-Companion step aside with the family. Pastoral / clinical backup called within the hour. Section 6 protocol.
+**If a household surfaces unresolved conflict during the blessing (something pointed said; a reaction).** Stop the blessing. Do not interpret in front of the room. The convening leader and one Co-Companion step aside with the household. Pastoral / clinical backup called within the hour. The safeguarding frame applies.
 
-**If the absent-parent situation produces visible grief.** Honor it. The cohort can stand for the absent parent; a Co-Companion may stand in. Pre-plan with the family before the night; do not improvise.
+**If an absence produces visible grief.** Honor it. The cohort can stand for the absent one; a Co-Companion may stand in. Pre-plan with the member before the night; do not improvise.
 
-**If a teen surfaces something previously undisclosed (abuse, suicidal ideation) in the heat of the commissioning emotion.** Section 6 protocol. Two-adult rule. Pastoral / clinical backup. Mandatory reporting if applicable. Getting Started has not closed if a teen is in crisis.
+**If anyone surfaces something previously undisclosed (abuse, suicidal ideation) in the heat of the night’s emotion.** The safeguarding frame. Two Companions. Pastoral / clinical backup. Mandatory reporting if a minor is involved. Getting Started has not closed if someone is in crisis.
 
 # **Session at a Glance**
 
@@ -80,8 +80,8 @@ This is also the bridge to Going Deeper. The Going Deeper series builds on what 
 ## From prior sessions
 
 - Weeks 1–13: every prior session has fed into tonight. The Aaronic blessing has been spoken at every closing; tonight it is the central action of the night.
-- Week 12: the gifts inventory and downhill mission are part of tonight’s blessing material. Each parent’s blessing of their teen draws on what they have specifically witnessed across Getting Started; each teen’s blessing of their parent draws on what they have noticed.
-- Joint Footprints (Wk 3): the parent-and-teen dyad has done at least one cross-generational practice together. Tonight is the public form of what they began privately.
+- Week 12: the gifts inventory and downhill mission are part of tonight’s blessing material. Each member’s blessing of their household draws on what the year has taught them to see.
+- Shared Footprints (Wk 3): each member has done at least one telling-and-blessing practice at home. Tonight is the public form of what they began privately.
 
 ## **Connect focus**
 
@@ -93,7 +93,7 @@ All four. Self provides each participant’s known interior; Others provides the
 
 Each Companion writes their own commissioning blessing for one specific person in their life this week — a child, a spouse, a brother or sister, a friend the team is walking with. Specific. Witnessed. Three sentences maximum. Speak it aloud to that person before Tuesday if you can.
 
-The point is not to rehearse a tool. The point is to let the form get into your bones before you teach it. The teens will not be moved by a teaching about commissioning; they will be moved by a team that is visibly doing it themselves.
+The point is not to rehearse a tool. The point is to let the form get into your bones before you teach it. The room will not be moved by a teaching about blessing; it will be moved by a team that is visibly doing it themselves.
 
 ## **Team pre-work**
 
@@ -102,47 +102,47 @@ This week is the most complex pre-work week of Getting Started. Plan two team me
 ### **Meeting 1 — Five days before Week 14 (90 minutes)**
 
 1. Walk through the run sheet in detail. Every block. Time-keeper assigned. Who calls each transition.
-2. Family review. Each family pre-considered: are both parents coming? Is the teen safe? Has anything from Wks 9–13 surfaced that needs care tonight? For families with absent parents (divorce, deployment, bereavement, estrangement), pre-plan the commissioning for that family specifically.
-3. Blessing rehearsal. Each Cohort Companion pairs with another Companion and speaks an actual blessing over them — the form, brief, specific, witnessed. The team must have done it themselves before they ask families to do it.
+2. Household review. Each member pre-considered: who is coming? Has anything from Wks 9–13 surfaced that needs care tonight? For members with absent households (distance, bereavement, estrangement, living alone), pre-plan that member’s blessing specifically.
+3. Blessing rehearsal. Each Companion pairs with another Companion and speaks an actual blessing over them — the form, brief, specific, witnessed. The team must have done it themselves before they ask the room to do it.
 4. Going Deeper bridging language reviewed. The Lead Companion presents the bridge in 90 seconds. The team reviews it; the goal is sending, not recruiting.
 5. Pastoral / clinical backup confirmed for the night and the 48 hours after.
-6. Pray for each family by name.
+6. Pray for each household by name.
 
 ### **Meeting 2 — Day before (60 minutes)**
 
-1. Final logistics walkthrough. Food timing. Room setup. Family seating. Order of commissioning.
-2. Final family review. Any updates from the week.
+1. Final logistics walkthrough. Food timing. Room setup. Household seating. Order of the blessings.
+2. Final household review. Any updates from the week.
 3. Each Companion names one specific thing they are bringing into tonight — a prayer, a hope, a worry.
 4. Pray together as a team for the commissioning.
 
-## **Family pre-work — sent to families one week before Week 14**
+## **Member pre-work — sent to members one week before Week 14**
 
-The team sends an email to all families one week before Week 14 with the following content:
+The team sends an email to all members one week before Week 14 with the following content:
 
 ## Email content (template)
 
-*“Dear families: Next Tuesday is Week 14 — the Family Commissioning. (One gathering follows it: the Week 15 commissioning of our Companions-in-Formation.) Please plan as follows.”*
+*“Dear friends: next week is Week 14 — the Household Blessing Night. (One gathering follows it: the Week 15 commissioning, where the covering sends this cohort.) Please plan as follows.”*
 
 *“Time: 6:00 PM — light food. 6:30 PM — session begins. 8:30 PM — close.”*
 
 *“Who to bring: every member of your immediate family who is willing and able. Spouses who haven’t been here, siblings who haven’t been here, grandparents who can drive in. The room can hold them.”*
 
-*“Your pre-work: each parent-and-teen dyad in the program prepares one specific witnessed blessing for the other. Three sentences. (1) What I have specifically seen God doing in you across Getting Started. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. The Cohort Companion will email a worksheet (Handout H14.1) by Friday — use it.”*
+*“Your pre-work: prepare one specific witnessed blessing for each person of your household — or one for your household together. Three sentences. (1) What I have specifically seen God doing in you, or seen freshly about you, across this year. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. A worksheet (Handout H14.1) comes by Friday — use it.”*
 
 *“One note: tonight is sacred. We will speak blessings out loud, in front of each other. If you have not done this before, that is fine — most haven’t. The form is short and specific; the worksheet helps. We will rehearse briefly together at the start of the session.”*
 
-*“If there is anything difficult in your family situation — an absent parent, a recent loss, a relationship that is fragile — please reach out to the team this week. We will pre-plan with you. Nothing about tonight should be a surprise to anyone.”*
+*“If there is anything difficult in your household situation — an absence, a recent loss, a relationship that is fragile, a house of one — please reach out to the team this week. We will pre-plan with you. Nothing about tonight should be a surprise to anyone.”*
 
 ## **Logistics pre-work**
 
-1. Print the Family Commissioning Worksheet (H14.1) — one per parent-and-teen dyad, mailed/emailed Friday.
-2. Print the Aaronic Blessing card (H14.2) — one per family present, distributed at the door.
+1. Print the Household Blessing Worksheet (H14.1) — one per member, mailed/emailed Friday.
+2. Print the Aaronic Blessing card (H14.2) — one per household present, distributed at the door.
 3. Print the Daily / Weekly / Monthly Rhythm Card (H14.3).
 4. Print the Going Deeper Bridge sheet (H14.4).
 5. Print the Post-Series Survey (H14.5) — distributed at the close.
 6. Set up light food (water, fruit, simple snacks) for 6:00 PM arrival window.
 7. Set up the room: chairs in a wide single circle large enough for the whole community plus visiting family. Open central space for the commissioning. No table in the middle.
-8. Identify the order of family commissioning — alphabetical or by request. Communicate the order before the night.
+8. Identify the order of the blessings — alphabetical or by request. Communicate the order before the night.
 9. Confirm pastoral / clinical backup for the night and the 48 hours after.
 
 # **Materials and Setup**
@@ -153,7 +153,7 @@ The team sends an email to all families one week before Week 14 with the followi
 - Phone-box at the door.
 - Personal Heart Journals.
 - Light food: water, fruit, simple snacks for 6:00 PM.
-- Handouts H14.1 (already distributed by Friday) brought back tonight by each family.
+- Handouts H14.1 (already distributed by Friday) brought back tonight by each member.
 - Handouts H14.2, H14.3, H14.4, H14.5 stacked at each chair.
 - Tissues distributed throughout the circle, not in one corner.
 - Large-print Bible (ESV) in the center of the circle.
@@ -166,12 +166,12 @@ The team sends an email to all families one week before Week 14 with the followi
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| 1 week before | Email families with Week 14 logistics. Send H14.1 worksheet by Friday. | Lead Comp |
-| 5 days before | Team meeting 1: run sheet, family review, blessing rehearsal, Going Deeper language. | All Companions |
-| Day before | Team meeting 2: final logistics, family updates, prayer. | All Companions |
+| 1 week before | Email members with Week 14 logistics. Send H14.1 worksheet by Friday. | Lead Comp |
+| 5 days before | Team meeting 1: run sheet, household review, blessing rehearsal, Going Deeper language. | All Companions |
+| Day before | Team meeting 2: final logistics, household updates, prayer. | All Companions |
 | T-90 min | Team gathers in the room. Final pre-prayer. | All Companions |
 | T-60 min | Set up food. Set up chairs. Place handouts. | All Companions |
-| T-30 min | Door opens. Visiting family welcomed and oriented at the door by a Companion. | All Companions |
+| T-30 min | Door opens. Guests welcomed and oriented at the door by a Companion. | All Companions |
 | 6:00–6:30 | Arrival window with light food. | All Companions |
 | 6:30 | Session opens. | Lead Comp |
 
@@ -182,11 +182,11 @@ The team sends an email to all families one week before Week 14 with the followi
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:30–6:45 | Block 1: Welcome and integration teaching | Shared circle | Lead Comp | Aaronic blessing. Frame the night. Brief integration teaching: the four Connects, what we have done. |
-| 6:45–6:55 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief commissioning. Q&A from families. |
+| 6:45–6:55 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief blessing. Q&A from the room. |
 | 6:55–7:05 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |
-| 7:05–8:00 | Block 4: Family commissionings | Shared circle, central space | Lead Companion + Co-Comp | Each family in turn. Parent and teen stand center. Each speaks blessing. Community speaks Aaronic over family. ~5–7 min per family. |
+| 7:05–8:00 | Block 4: The household blessings | Shared circle, central space | Lead Companion + Co-Comp | Each member in turn, with their household. The member blesses; the household may bless back. Community speaks Aaronic over each. ~5–7 min per household. |
 | 8:00–8:15 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each. |
-| 8:15–8:25 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H14.3 and H14.4. Distribute Post-Series Survey (H14.5). |
+| 8:15–8:25 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp | Walk H14.3 and H14.4. Distribute Post-Series Survey (H14.5). |
 | 8:25–8:30 | Block 7: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
 | 8:30+ | After: lingering, gratitude, food | Open | All Companions | Stay. People will need to talk. Some will not leave for an hour. |
 
@@ -194,13 +194,13 @@ The team sends an email to all families one week before Week 14 with the followi
 
 ## **Block 1 — Welcome and Integration Teaching (6:30–6:45, 15 min)**
 
-The room is fuller than it has been all of Getting Started. Visiting family members are present. The Lead Companion opens with care for the new and continuity for the old.
+The room is fuller than it has been all of Getting Started. The households are present. The Lead Companion opens with care for the new and continuity for the old.
 
 ## Script
 
 *“Welcome — those of you who have been here every Tuesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across fourteen Tuesdays, and tonight is its integration.”*
 
-*“For those of you new tonight: phones in the box, please. Find a seat with your family.”*
+*“For those of you new tonight: phones in the box, please. Find a seat with your person.”*
 
 *“Let me speak this blessing first — the same one we have spoken every week. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
@@ -208,17 +208,17 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 *“Tonight is the integration. The four Connects are not separate disciplines. They are a sequence — each one creates the conditions for the next. Self, Others, God, Mission. They are also a way of life, lived in family and witnessed in community.”*
 
-*“So tonight we are going to do something specific. Each parent-and-teen pair from Getting Started is going to stand in the center of this circle. Each of you is going to speak a specific witnessed blessing over the other. The whole community is going to speak the Aaronic blessing over each family. We are going to send each other into what comes next.”*
+*“So tonight we are going to do something specific. Each member of this cohort is going to stand in the center of this circle with the people they came with — the people this whole year has been for. Each member is going to speak a specific witnessed blessing over their own household, in front of us all. And the whole community is going to speak the Aaronic blessing over each household. First for ourselves, then for the people we love: tonight is the turn.”*
 
 *“If you are new tonight: you may not have words for what has been done in this room over these fourteen Tuesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
 
 ## **Block 2 — Brief Blessing Rehearsal (6:45–6:55, 10 min)**
 
-Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from families. The goal is to lower the activation energy for parents and teens who have never spoken a blessing aloud before.
+Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from the room. The goal is to lower the activation energy for anyone who has never spoken a blessing aloud over their own people before.
 
 ## Script (the form)
 
-*“For parents and teens: your blessing for each other tonight has three sentences. Just three. The worksheet you got Friday — H14.1 — has the form.”*
+*“Members: your blessing tonight has three sentences per person. Just three. The worksheet you got Friday — H14.1 — has the form.”*
 
 *“One: ‘What I have specifically seen God doing in you across Getting Started is \_\_\_\_\_.’ Specific. Something you actually noticed.”*
 
@@ -232,7 +232,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 *Two Companions (lead and Co-Companion, or two Cohort Companions) demo a real, specific, brief blessing over each other in front of the room. The blessing should be honest, specific, brief — not theatrical.*
 
-*Watch for: the demo is critical. Parents who have never spoken a blessing aloud will calibrate against this. Be brief. Be specific. Do not preach.*
+*Watch for: the demo is critical. Members who have never spoken a blessing aloud over their own family will calibrate against this. Be brief. Be specific. Do not preach.*
 
 ## Brief Q&A (3 min)
 
@@ -262,40 +262,40 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 ## Prayer
 
-*“Pray with me. Father, you have walked with us across these fourteen Tuesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
+*“Pray with me. Father, you have walked with us across these fourteen Tuesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every household in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
 
-## **Block 4 — Family Commissionings (7:05–8:00, 55 min)**
+## **Block 4 — The Household Blessings (7:05–8:00, 55 min)**
 
-This is the heart of the night. Each family in turn. The Lead Companion calls families forward; the Co-Companion helps with timing and transitions. Approximately five to seven minutes per family, depending on the number of families. Do not rush; do not run long.
+This is the heart of the night. Each member in turn, with their household. The convening leader calls each forward; a Co-Companion helps with timing and transitions. Approximately five to seven minutes per household. Do not rush; do not run long.
 
-### **The structure inside each commissioning**
+### **The structure inside each blessing**
 
-## Per family (≈ 5–7 min)
+## Per household (≈ 5–7 min)
 
-**1. Lead Companion calls the family forward. “The \_\_\_\_ family, please come stand in the center.” Parent(s) and teen(s) stand. The rest of the family stands behind them in support.**
+**1. The convening leader calls the member forward. “[Name], bring your people to the center.” The member stands with their household; if the household is large, they gather close.**
 
-**2. Brief framing. Lead Companion speaks one sentence about each family member that has been part of the program: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds total.**
+**2. Brief framing. The convening leader speaks one sentence about the member: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds.**
 
-**3. Teen blessing of parent first. (Going second is harder for teens; let them go first.) The teen reads or speaks their three-sentence blessing over their parent. ≈ 60–90 seconds.**
+**3. The member blesses their household. Each person briefly, or the household together — pre-planned on the worksheet. Three sentences per blessing: what I see in you, what I bless in you, what I commit to you. ≈ 60–90 seconds per person; brevity is the discipline.**
 
-**4. Parent blessing of teen. The parent reads or speaks their three-sentence blessing over their teen. ≈ 60–90 seconds.**
+**4. The household may bless back. Any household member who wishes — a spouse, a child of any age, a parent — speaks a blessing or a sentence over the member. Extemporaneous is fine; one true sentence is enough; nothing is required of guests. ≈ 60–90 seconds.**
 
-**5. Community blessing. Lead Companion: ‘Family of [last name], the community now blesses you.’ The whole room speaks the Aaronic blessing aloud together, slowly. Parents and teens may extend hands; some families hold each other.**
+**5. Community blessing. The convening leader: ‘Household of [name], the community now blesses you.’ The whole room speaks the Aaronic blessing aloud together, slowly. Hands may extend; some households hold each other.**
 
-**6. Family returns to seats. 30 seconds of breath before the next family is called.**
+**6. The household returns to seats. 30 seconds of breath before the next is called.**
 
-## Lead Companion: when to intervene
+## The convening leader: when to intervene
 
-- If a teen freezes or cannot read their blessing — quietly: “Take your time. Or your dad/mom can read it for you. Or pass to your parent.” Do not push.
-- If a parent is overwhelmed — silence. Wait. Many parents recover and complete the blessing in their own time. If they truly cannot, the Lead Companion may name what was on the worksheet briefly: ‘What I think your dad wanted to say is \_\_\_\_\_.’ With permission, gently.
-- If a teen surfaces unexpected family material — do not interpret in the room. Complete the family’s commissioning if possible. Pastoral 1:1 follow-up.
-- If a family arrived without doing the worksheet — the Lead Companion may have to give them an extra minute, or invite them to speak their blessing extemporaneously. ‘Just one specific thing you have seen God doing in your daughter in Getting Started. One thing.’
-- If the time-keeper signals you are running long — compress the framing for subsequent families to one sentence. Do not compress the blessings themselves.
-- Watch the absent-parent situations — these were pre-planned in team meeting 2. Stick to the plan.
+- If a member freezes or cannot read their blessing — quietly: “Take your time.” Do not push. A leader who has blessed rooms for years may find their own kitchen table the hardest audience of their life. That difficulty is the point of the night; give it room.
+- If a guest is overwhelmed — silence. Wait. If a child cannot speak, a smile and a standing-close is a complete blessing.
+- If a blessing surfaces unexpected household material — do not interpret in the room. Complete the blessing if possible. Pastoral 1:1 follow-up.
+- If a member arrived without the worksheet — an extra minute, or extemporaneous: ‘Just one specific thing you have seen God doing in your wife, your son, your mother. One thing.’
+- If the time-keeper signals you are running long — compress the framing for subsequent households to one sentence. Do not compress the blessings themselves.
+- Watch the absent-household situations — these were pre-planned in team meeting 2. Stick to the plan.
 
 ### **Time math — do this in advance**
 
-With 55 minutes for commissioning and approximately 6 minutes per family, the room can hold 8–9 family commissionings. If you have more families, lengthen Block 4 by 10–15 minutes and shorten Block 6. If fewer, add a brief silence or a brief reading at the end of Block 4 to honor the space.
+With 55 minutes and approximately 6 minutes per household, the room can hold 8–9 blessings. If you have more members, lengthen Block 4 by 10–15 minutes and shorten Block 6. If fewer, add a brief silence or a brief reading at the end of Block 4 to honor the space.
 
 ## **Block 5 — Final Reflection Circle (8:00–8:15, 15 min)**
 
@@ -309,9 +309,9 @@ After all family commissionings, the room is full of feeling. The reflection cir
 
 *“The commitment can be small too. ‘I will keep the morning question.’ ‘I will visit the garden once a week.’ ‘I will tell my mom one true thing this week.’ Specific. Doable.”*
 
-*“You can pass. Visiting family members can pass; you can also share if you want to. The Cohort Companions go first.”*
+*“You can pass. Guests can pass; you can also share if you want to. The Companions go first.”*
 
-*(Cohort Companions go first to model. Then around the circle. Lead Companion listens; receives without commentary; eye contact; slight nod. Do not summarize.)*
+*(The Companions go first to model. Then around the circle. The convening leader listens; receives without commentary; eye contact; slight nod. Do not summarize.)*
 
 ## **Block 6 — Rhythm Card and Going Deeper Bridge (8:15–8:25, 10 min)**
 
@@ -321,19 +321,19 @@ After the reflection, walk the long-term practice and bridge to Going Deeper. Br
 
 *“Three practical things before we close. They’re on handouts in your folder.”*
 
-*“One: the Daily / Weekly / Monthly Rhythm Card — the one you built for yourself last week, in the Rhythm session. H14.3 is a fresh copy if yours is already worn. Daily — the morning question and an evening journal note. Weekly — a brother or sister or family member who knows what you are working on. Monthly — a clearing time. It is your card now, in your handwriting. Stick it on your bathroom mirror or your dashboard.”*
+*“One: the Daily / Weekly / Monthly Rhythm Card — the one you built for yourself last week, in the Rhythm session. H14.3 is a fresh copy if yours is already worn. Daily — the morning question and an evening journal note. Weekly — a brother or sister or household member who knows what you are working on. Monthly — a clearing time. It is your card now, in your handwriting. Stick it on your bathroom mirror or your dashboard.”*
 
 *“Two: the Going Deeper bridge. H14.4. The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these fifteen weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
 
-*“Three: the Post-Series Survey. H14.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
+*“Three: the Post-Series Survey. H14.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next cohort benefits from your honesty. Five questions; take fifteen minutes.”*
 
 ## **Block 7 — Final Blessing and Sending (8:25–8:30, 5 min)**
 
-The last five minutes. The whole community speaks the Aaronic blessing over the whole community. The families are sent; Week 15's commissioning of the Companions remains.
+The last five minutes. The whole community speaks the Aaronic blessing over the whole community. The households are sent; Week 15's commissioning remains.
 
 ## Script
 
-*“One last thing. We have spoken the Aaronic blessing over each family tonight. Now the whole community speaks it over the whole community.”*
+*“One last thing. We have spoken the Aaronic blessing over each household tonight. Now the whole community speaks it over the whole community.”*
 
 *“Hands up. Together.”*
 
@@ -341,53 +341,39 @@ The last five minutes. The whole community speaks the Aaronic blessing over the 
 
 *(Pause. Let the silence land.)*
 
-*“You are sent. Walk gently. He who began this work in you will bring it to completion. One more gathering remains: next Tuesday we commission our Companions-in-Formation — the seniors who led us this year. It is their night, and you are all wanted in the room for it. Go.”*
+*“You are sent. Walk gently. He who began this work in you will bring it to completion. One more gathering remains: next week is the commissioning — the covering sends this cohort into what the year was for. It is our sending, and you are all wanted in the room for it. Go.”*
 
 *After the sending, do not pack up. Some people will not leave for an hour. Stay. The work after the closing is sometimes the work.*
 
-# **Differentiation by Cohort**
+# **Differentiation by Household Situation**
 
-Tonight there is no cohort split. Parents and teens are intentionally together for the family commissioning. The differentiation tonight is by family situation, not by cohort age.
+Tonight there is no circle split. Members and their households are intentionally together. The differentiation tonight is by household situation, and every situation was pre-planned in team meeting 2 — never decided on the night.
 
-## **Families with both parents present**
+## **Households with several present**
 
-## Adjustments
+- The member may bless each person briefly, or the household together — pre-planned on the worksheet. Time budget: ≈7–8 minutes for larger households.
+- Children of any age may bless back in one sentence, or simply stand close. Nothing is required of guests.
 
-- Standard commissioning. Each parent can speak their own three-sentence blessing, OR the parents can co-speak one shared blessing. Pre-plan with each family.
-- Co-speaking parents may divide: one parent does sentences 1–2, the other does sentence 3. Or each parent speaks all three to the teen separately. Either works; the family chooses.
-- Time budget: ≈7–8 minutes per family with co-speaking parents. Plan accordingly.
+## **Members whose spouse alone is present**
 
-## **Families with one parent present**
+- Standard blessing, both directions if the spouse wishes. Time budget ≈5–6 minutes.
+- If the marriage has walked through this year’s confession or doubt work, the blessing may carry more than the room knows. The Companion team receives it without comment.
 
-## Adjustments
+## **Members whose household cannot come, or who live alone**
 
-- Single-parent commissioning. The parent speaks the blessing to the teen; the teen speaks to the parent. Time budget ≈5–6 minutes.
-- If the absent parent is alive and known to the family, the Lead Companion may briefly name them by name in the framing: ‘We honor the absence of [name] tonight.’ Pre-discuss with the family.
-- If the absence is grief (death, deployment), the cohort can stand for the absent parent. The Lead Companion may invite this gently.
+- Pre-decided: the cohort stands as household — this room has been one all year — or a chosen stand-in (a cohort friend, a Companion) receives the blessing on the household’s behalf: ‘what I want my family to know is \_\_\_\_\_.’
+- The community blessing follows in full. Nobody is sent unwitnessed.
+- This is heavy for some. Pastoral / clinical backup is informed in advance. Pastoral 1:1 the next day.
 
-## **Teens whose parent is not in the program**
+## **Households carrying estrangement or grief**
 
-## Adjustments
+- If an absence is grief (death, deployment, estrangement), the convening leader may briefly honor it by name in the framing — pre-discussed with the member, never sprung.
+- The cohort may stand for the absent one. The convening leader invites this gently.
 
-- Some teens are in the program with a non-participating parent. Pre-discuss whether the parent will come tonight; if they do, brief them carefully and warmly.
-- If the non-participating parent attends only tonight, the teen still speaks a blessing over the parent. The parent’s reciprocal blessing may be brief or extemporaneous; that is fine.
-- The Lead Companion may need to coach the non-participating parent more closely — a short script or rehearsal at the door before 6:30.
+## **Guests unfamiliar with all of this**
 
-## **Teens whose parent will not be present**
-
-## Adjustments
-
-- Pre-decided: a stand-in. Either a Co-Companion, a grandparent, an older sibling, or another adult in the room with whom the teen has a real relationship.
-- The teen speaks their blessing to the stand-in (‘what I want my dad/mom to know is \_\_\_\_\_’), and the stand-in speaks the parent’s blessing back to the teen. The community blessing follows.
-- This is heavy. Pastoral / clinical backup is informed in advance. Pastoral 1:1 the next day.
-
-## **Junior teens (12–14) within the commissioning**
-
-## Adjustments
-
-- Junior teens may struggle with the formality of speaking aloud in front of the room. Their blessings may be very short — one or two sentences instead of three. Honor.
-- Some junior teens will need their parent to read first; modeling helps them follow. Allow this.
-- Junior teens are most likely to freeze. Have water nearby; have a soft script you can read on their behalf if they cannot.
+- Some household members have never seen this room and have no words for it. Their job is to bear witness; their presence is the gift — say so from the front, warmly, twice.
+- A guest asked to receive a blessing needs only to stand and hear it. Coach members beforehand: do not ask your household to perform.
 
 # **Closing Practice in Detail**
 
@@ -408,59 +394,59 @@ Companion team meets the day after Week 14 for a 60-minute debrief. This is the 
 
 ### **Signs the session worked**
 
-- Every family commissioning was completed. Every teen heard a blessing from a parent or stand-in; every parent heard a blessing from a teen.
+- Every household blessing was completed. Every member spoke; every household was witnessed; nobody was sent unblessed.
 - The community Aaronic blessing was spoken with feeling, not as a recitation.
 - The reflection circle had specific takeaways and specific commitments — not all the same.
 - Tears were present. Tears tonight are the work.
-- Visiting family members who had not been here engaged — received, witnessed, sometimes spoke.
-- Several families lingered after; the room emptied slowly.
-- At least three families have asked specific questions about Going Deeper.
+- Guests who had never been here engaged — received, witnessed, sometimes spoke.
+- Several households lingered after; the room emptied slowly.
+- Several members and guests have asked specific questions about Going Deeper.
 
 ### **Signs the session did not work as well as it could have**
 
-- A family’s commissioning had to be cut short for time.
-- A teen could not complete their blessing and the Cohort Companion did not have a graceful recovery.
+- A household’s blessing had to be cut short for time.
+- A member could not complete their blessing and the team did not have a graceful recovery.
 - The reflection circle landed flat — generic answers.
-- Visiting family members felt lost or uncertain.
+- Guests felt lost or uncertain.
 - The Going Deeper bridge felt like a sales pitch.
 - Anyone left without being witnessed.
 
 ### **People to follow up with this week**
 
-- Every family. Personal note (text or email) within 48 hours. “Thank you for tonight. What I noticed about your family is \_\_\_\_\_.” Specific.
-- Any teen whose blessing surfaced significant material. Pastoral 1:1 within the week.
-- Any family with absent-parent situation — special check-in.
+- Every member. Personal note (text or email) within 48 hours. “Thank you for tonight. What I noticed about your household is \_\_\_\_\_.” Specific.
+- Any member whose blessing surfaced significant material. Pastoral 1:1 within the week.
+- Any member with an absent-household situation — special check-in.
 - Anyone whose Post-Series Survey is not back by Friday — warm reminder.
 - The team itself. The team has done a hard, beautiful season of work. Plan a celebration meal within ten days, separate from the official debrief.
 
 ### **The longer reflection — for the team across the interlude**
 
 - What completed Getting Started reveal about this specific cohort that informs Going Deeper?
-- Which families are most likely to continue? Which need a personal invitation?
+- Which members are most likely to continue? Which need a personal invitation?
 - Which Companion developed the most across Getting Started? Where does that Companion go in Going Deeper?
-- What did we learn about IJH itself by running it with this audience? (Bring this to John for the IJH project.)
+- What did we learn about IJH itself by running it with this audience? (Send it back to the project — the curriculum grows by exactly this kind of report.)
 
 # **Handouts**
 
-Five handouts for Week 14. H14.1 is distributed to families one week before; the rest are distributed at the door.
+Five handouts for Week 14. H14.1 is distributed to members one week before; the rest are distributed at the door.
 
-- H14.1 — Family Commissioning Worksheet (sent to families the Friday before)
-- H14.2 — Aaronic Blessing Card (one per family present)
+- H14.1 — Household Blessing Worksheet (sent to members the Friday before)
+- H14.2 — Aaronic Blessing Card (one per household present)
 - H14.3 — Daily / Weekly / Monthly Rhythm Card
 - H14.4 — Going Deeper Bridge
 - H14.5 — Post-Series Survey
 
-**Handout H14.1 — Family Commissioning Worksheet**
+**Handout H14.1 — Household Blessing Worksheet**
 
-*Sent to families the Friday before Week 14*
+*Sent to members the Friday before Week 14*
 
-*Each parent and each teen prepares a three-sentence blessing for the other before Tuesday. Use this worksheet. Bring it back Tuesday — you may read from it during the commissioning.*
+*Each member prepares a three-sentence blessing for each person of their household — or one for the household together — before the night. Use this worksheet. Bring it back — you may read from it during the blessing. Household members who wish to speak one back may use the same three sentences; nothing is required of guests.*
 
-## **Parent: writing your blessing for your teen**
+## **Writing your blessing — one for each person of your household, or one for the household together**
 
 ## The three sentences
 
-**Sentence 1: “What I have specifically seen God doing in you across Getting Started is \_\_\_\_\_.”**
+**Sentence 1: “What I have specifically seen God doing in you — or seen freshly about you — across this year is \_\_\_\_\_.”**
 
 *Specific. Something you actually noticed. Not “growing in faith” — “taking the morning question seriously when you didn’t want to.” Or “saying things in our kitchen at midnight that you wouldn’t have said in May.” Concrete.*
 
@@ -472,7 +458,7 @@ Five handouts for Week 14. H14.1 is distributed to families one week before; the
 
 *Specific. Something you will actually do. “I commit to listening when you bring me a question, instead of immediately fixing.” “I commit to praying for you by name every morning.” “I commit to noticing your downhill mission and saying so when I see it.”*
 
-Parent: write your sentences below.
+Write your sentences below (one set per person; use extra sheets as needed).
 
 1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -480,23 +466,23 @@ Parent: write your sentences below.
 
 3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## **Teen: writing your blessing for your parent**
+## **If someone in your household wants to bless you back**
 
-## The three sentences — same form, your direction
+## The same three sentences, their direction
 
-**Sentence 1: “What I have specifically seen God doing in you, [Mom/Dad/parent’s name], across Getting Started is \_\_\_\_\_.”**
+**Sentence 1: “What I have specifically seen in you, [name], across this year is \_\_\_\_\_.”**
 
-*Specific. Something you have actually noticed in them — in their parenting, in their faith, in their honesty, in their listening. The point is not flattery; it is witness.*
+*Specific. Something they have actually noticed in you — in your listening, your honesty, your presence at home this year. The point is not flattery; it is witness. And nothing is required: one true sentence is enough, and standing close is already a blessing.*
 
 **Sentence 2: “What I bless in you tonight is \_\_\_\_\_.”**
 
-*Specific. Something about who they are that you are grateful for. Not what they do for you — who they are. “The way you keep showing up for me even when I make it hard.” “The way you don’t pretend things are okay when they aren’t.”*
+*Specific. Who they are, not what they do. “The way you keep showing up for me even when I make it hard.” “The way you don’t pretend things are okay when they aren’t.”*
 
 **Sentence 3: “What I commit to you in our relationship moving forward is \_\_\_\_\_.”**
 
-*Specific. Something you will actually do. “I commit to telling you when something is hard, instead of going quiet.” “I commit to bringing the morning question into our family in Going Deeper.”*
+*Specific. Something they will actually do. “I commit to telling you when something is hard, instead of going quiet.” “I commit to asking you what you heard this week.”*
 
-Teen: write your sentences below.
+Write the sentences below, or speak them from the heart on the night.
 
 1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -504,7 +490,7 @@ Teen: write your sentences below.
 
 3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Notes for parents and teens
+## Notes for the night
 
 - Three sentences. Brevity is the discipline. The form is short on purpose.
 - Specific. “You are amazing” is not specific. The third version of your specific is usually the right one.
@@ -582,10 +568,9 @@ Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-t
 
 ### **Who Going Deeper is for**
 
-- Families who completed Getting Started and want to continue.
-- Teens who want to keep going — even if their parent is not continuing.
-- Parents who want to keep going — even if their teen is not continuing.
-- Friends and family of Getting Started participants who have heard about the work and want in.
+- Members who completed Getting Started and want to continue.
+- Household members whom this year has made curious — the door is open to them.
+- Friends of Getting Started participants who have heard about the work and want in.
 
 ### **Who Going Deeper is not for (yet)**
 
@@ -622,7 +607,7 @@ Which session did not work as well as it could have, for you, and why? What woul
 
 ### **Question 3**
 
-Across Getting Started, what specifically changed in your relationship with the parent or teen who walked it with you? Specifics please.
+Across Getting Started, what specifically changed in your closest relationships — your household, the people who watched you walk it? Specifics please.
 
 ### **Question 4**
 
