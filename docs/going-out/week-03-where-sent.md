@@ -6,13 +6,13 @@ Week 3
 
 **Where Am I Being Sent**
 
-*Cohort-split discernment — each member articulates a specific sent-context using the language of gift, shadow, calling, and witness*
+*Circle-split discernment — each member articulates a specific sent-context using the language of gift, shadow, calling, and witness*
 
 ![Which way am I being sent?](images/wk03-where-sent.jpg)
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,9 +30,9 @@ Week 3
 
 **Connect focus.** Sent. The discernment of WHERE the witness is being made specific in each member’s life this season.
 
-**Mode.** Cohort-split into junior teens / senior teens / parents (45 min each, parallel). The merge for shared circle close (15 min). Standing pairs do their work first within each cohort space.
+**Mode.** Circle-split into circles of four to eight (45 min, parallel). The merge for shared circle close (15 min). Standing pairs do their work first within each circle space.
 
-**Center.** Each member writes ONE sentence naming a specific sent-context for Going Out — a place, a rhythm, a relational world. The standing pair walks the sentence with each other (12 min per direction). The cohort circle hears each member’s sentence around the room (15–20 min). Cohort Companion captures contributions on a flip-chart for the merge.
+**Center.** Each member writes ONE sentence naming a specific sent-context for Going Out — a place, a rhythm, a relational world. The standing pair walks the sentence with each other (12 min per direction). Each circle hears each member’s sentence around the room (15–20 min). Cohort Companion captures contributions on a flip-chart for the merge.
 
 **Between-session practice.** Daily noticing question shifts: ‘Lord, am I in the place you are sending me, or am I avoiding it?’ Continue the weekly Tell outside the cohort — ideally now from within the named sent-context. Standing pair check-in this week: ‘What is one specific obstacle the Spirit is showing you in your sent-context?’ Wk 4 begins mission close-to-home.
 
@@ -48,11 +48,11 @@ Week 3
 
 **Manufactured clarity. The cohort’s structure can produce social pressure to have a sentence ready when the Spirit has not yet given one. Honest absence of clarity is real data. Re-frame: ‘If you do not yet have a specific sent-context, your Going Out is the discernment itself. Name the question; the cohort holds it.’**
 
-**Senior-teen vocational projection. A senior teen names a sent-context that is actually their parent’s vocational projection (‘I’m sent to study medicine to help people’, when the medicine framing is the parent’s, not the teen’s). Cohort Companion notices; pastoral 1:1 outside the session.**
+**Borrowed vocational projection. A member names a sent-context that is actually someone else’s projection for them (‘I’m sent to lead the men’s ministry’, when the framing is the senior pastor’s, not theirs). Cohort Companion notices; pastoral 1:1 outside the session.**
 
-**Parent re-deployment of Going Deeper calling. A parent’s Wk 10 Discerner role from Going Deeper sometimes becomes a default sent-context for Going Out. Receive cleanly; ALSO check whether Going Out’s sent-context is the same calling integrated, or whether Going Out is meant to engage a different specific.**
+**Re-deployment of the Going Deeper calling. A member’s Wk 10 Discerner role from Going Deeper sometimes becomes a default sent-context for Going Out. Receive cleanly; ALSO check whether Going Out’s sent-context is the same calling integrated, or whether Going Out is meant to engage a different specific.**
 
-**Cross-cohort overlap. A parent’s sent-context and their teen’s sent-context may overlap (a parent sent to family-of-origin while their teen is sent to extended family). Cross-cohort awareness held by Companions; not adjudicated in the cohort space.**
+**Cross-circle overlap. Spouses’ sent-contexts may overlap (one sent to family-of-origin while the other is sent to the same extended family). Cross-circle awareness held by Companions; not adjudicated in the circle space.**
 
 **Sent-context that is actually avoidance. A member names a sent-context that pulls them away from a harder one. ‘I’m sent to volunteer at the pregnancy center’ may be deeply right, OR may be a way to avoid being sent to one’s own family-of-origin where harder witness is required. Cohort Companion holds without commentary; pair work surfaces what may need surfacing.**
 
@@ -66,15 +66,15 @@ Week 3
 
 **If a member’s sent-context names a relationally costly work (re-engaging an estranged family member, witnessing in a hostile workplace, returning to a community of origin from which they had separated). Receive cleanly tonight; pastoral 1:1 within the week to walk the cost.**
 
-**If a senior teen’s sent-context surfaces a parent-teen tension publicly (the parent in a different cohort would not affirm the sentence). Gentle redirect; Cohort Companion holds the tension privately; pastoral cross-cohort conversation outside the session.**
+**If a member’s sent-context surfaces a spousal tension publicly (the spouse in a different circle would not affirm the sentence). Gentle redirect; Cohort Companion holds the tension privately; pastoral conversation with each spouse outside the session.**
 
-**If a member names a sent-context that involves a specific person known to other cohort members (‘I am sent to my brother who is in the cohort’). The pair work and cohort sharing handle this with confidentiality discipline; the receiver is named in initials only or as ‘a family member’; the cross-cohort person does not enter the discernment publicly.**
+**If a member names a sent-context that involves a specific person known to other cohort members (‘I am sent to my brother who is in the cohort’). The pair work and cohort sharing handle this with confidentiality discipline; the receiver is named in initials only or as ‘a family member’; the person does not enter the discernment publicly.**
 
 **If a member’s sent-context surfaces material indicating they are being called away from their current life situation (a vocational rupture, a relational separation, a geographic move). Receive cleanly; pastoral 1:1 within the week; discernment supports beyond the cohort.**
 
-**If a teen names a sent-context that crosses a safety threshold (the teen is being called to confront an abusive family member, or to engage a peer in active crisis). Section 6 protocol immediately. Mandatory-reporting law applies as relevant.**
+**If a member names a sent-context that crosses a safety threshold (being called to confront an abusive family member, or to engage someone in active crisis). The safeguarding frame governs (Leadership Year Handbook §7 and the host church’s policy); a disclosure about a minor may still carry reporting duties. Mandatory-reporting law applies as relevant.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1 (carried forward).**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -86,7 +86,7 @@ This is the third movement of a three-week sequence the cohort has been walking.
 
 The discipline is specificity. ‘I am sent to be a better Christian’ is not specific. ‘I am sent to my workplace’ is closer. ‘I am sent to my workplace, specifically to my colleague J. and to the way our team navigates the project that comes due in May, with the witness being the way I hold honesty under pressure’ — that is specific. The Spirit’s sending tends to be specific; vague sending often masks avoidance or premature closure.
 
-The cohort split allows each cohort space to handle the developmental texture of its members — junior teens hold the discernment differently than senior teens, who hold it differently than parents. The merge at the close brings the body together to receive the named contexts as a body. Wks 4–9 build from this body of contexts.
+The circle split gives each member a small room to walk the discernment in — a circle of four to eight can hear a working sentence with an attention the whole room cannot. The merge at the close brings the body together to receive the named contexts as a body. Wks 4–9 build from this body of contexts.
 
 **Dependencies**
 
@@ -112,7 +112,7 @@ Each Companion does three things this week.
 
 First — write your OWN Going Out sent-context sentence. Use the architecture you will teach tonight. Notice where the writing is hard, where it surfaces avoidance, where it produces clarity. Bring the sentence to the team meeting.
 
-Second — review your cohort’s members one by one, with what you know of each: their gift, their shadow, their Going Deeper calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the cohort space tonight; the discipline is your own discernment of what each member is bringing.
+Second — review your circle’s members one by one, with what you know of each: their gift, their shadow, their Going Deeper calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the cohort space tonight; the discipline is your own discernment of what each member is bringing.
 
 Third — sit with Acts 13:1–3 for 15 minutes. Notice the architecture: the body worshipping and fasting; the Spirit speaking; specific naming (‘Barnabas and Saul for the work to which I have called them’). The body discerns specific sending; the body confirms; the body sends. Tonight’s architecture is the same shape, with each member as the discerner.
 
@@ -126,9 +126,9 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **3.** Cohort review. Each Cohort Companion brings their member-by-member private notes. The team holds these together; the Lead Companion looks for cross-cohort patterns. (25 min)
 
-**4.** Walk the run sheet. The cohort split rhythm; the standing pair work first within each cohort; the cohort circle around the room; the merge. Time pressure is real; team rehearses transitions. (15 min)
+**4.** Walk the run sheet. The circle split rhythm; the standing pair work first within each circle; the circle sharing around the room; the merge. Time pressure is real; team rehearses transitions. (15 min)
 
-**5.** Special cases discussed: members whose H11.3 question is interior rather than missional; members whose sent-context is likely to involve cross-cohort family members; members whose discernment supports outside the cohort are weak. (15 min)
+**5.** Special cases discussed: members whose H11.3 question is interior rather than missional; members whose sent-context is likely to involve a spouse or family member in the room; members whose discernment supports outside the cohort are weak. (15 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (5 min)
 
@@ -144,9 +144,9 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **•** Print the Between-Session card (H3.4) — one per participant.
 
-**•** Three flip charts — one in each cohort space — with markers, for capturing each cohort’s named sent-contexts.
+**•** A flip chart in each circle space, with markers, for capturing each circle’s named sent-contexts.
 
-**•** Confirm room layout: three cohort spaces (junior, senior, parent) plus shared circle at the close. The transition between cohort split and merge needs visible flow.
+**•** Confirm room layout: circle spaces for circles of four to eight, plus shared circle at the close. The transition between circle split and merge needs visible flow.
 
 **•** Whiteboard in shared space with Acts 13:1–3 written and a sketch of tonight’s rhythm.
 
@@ -156,20 +156,20 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **Materials checklist**
 
-**•** Three cohort spaces, each with chairs in a small circle. Shared circle space at the close (the chairs may not need to move — cohort circles can flow into the larger shared circle).
+**•** Circle spaces, each with chairs in a small circle. Shared circle space at the close (the chairs may not need to move — the circles can flow into the larger shared circle).
 
 
 **•** Personal Heart Journals.
 
 **•** Whiteboard with Acts 13:1–3.
 
-**•** Three flip charts (one per cohort) with markers.
+**•** Flip charts (one per circle) with markers.
 
 **•** Handouts H3.1, H3.2, H3.3, H3.4 stacked at each chair.
 
 **•** Tissues throughout.
 
-**•** Wall clock or visible timer in each cohort space.
+**•** Wall clock or visible timer in each circle space.
 
 **•** Crisis Quick-Reference Card in every Companion’s pocket.
 
@@ -177,19 +177,19 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **Detailed 90-Minute Run Sheet**
 
-*Times below assume a 7:00 PM start. The cohort split runs blocks 3–6. The merge at the close is the architectural pivot from individual discernment to shared body of contexts.*
+*Times below assume a 7:00 PM start. The circle split runs blocks 3–5. The merge at the close is the architectural pivot from individual discernment to shared body of contexts.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival | Single circle (forming) | Co-Companion | Door, name tags. |
 | 7:00–7:11 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name where Going Out’s witness is specific.’ |
 | 7:11–7:20 | Block 2: Acts 13 + tonight’s architecture | Shared circle | Lead Companion | Read passage. Walk the discernment template. |
-| 7:20–7:25 | Transition to cohort spaces | All | All Companions | Brief move into cohort circles. |
-| 7:25–7:37 | Block 3: Each member writes the working sentence | Cohort circles | Cohort Companions | 12 min silent writing using H3.1. |
-| 7:37–7:59 | Block 4: Standing pair walks the sentence | Cohort circles (in pairs) | Cohort Companions float | 12 min per direction. |
-| 7:59–8:12 | Block 5: Cohort circle hears each member | Cohort circles | Cohort Companions | Each member shares the sentence around the cohort circle. Companion captures on flip chart. |
-| 8:12–8:16 | Transition + bring flip charts to shared space | All | All Companions | Cohorts merge in the shared circle; flip charts visible. |
-| 8:16–8:23 | Block 6: Shared circle merge — the body of contexts | Shared circle | Lead Companion | Lead names patterns across the three flip charts; brief weighing; the body holds the body of contexts. |
+| 7:20–7:25 | Transition to circle spaces | All | All Companions | Brief move into the circles. |
+| 7:25–7:37 | Block 3: Each member writes the working sentence | Circles | Cohort Companions | 12 min silent writing using H3.1. |
+| 7:37–7:59 | Block 4: Standing pair walks the sentence | Circles (in pairs) | Cohort Companions float | 12 min per direction. |
+| 7:59–8:12 | Block 5: The circle hears each member | Circles | Cohort Companions | Each member shares the sentence around the circle. Companion captures on flip chart. |
+| 8:12–8:16 | Transition + bring flip charts to shared space | All | All Companions | Circles merge in the shared circle; flip charts visible. |
+| 8:16–8:23 | Block 6: Shared circle merge — the body of contexts | Shared circle | Lead Companion | Lead names patterns across the flip charts; brief weighing; the body holds the body of contexts. |
 | 8:23–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Frame Wk 4 (mission close-to-home). Send. |
 
 **Block-by-Block: Scripts and Notes**
@@ -228,21 +228,21 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **•** In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging calling. Tonight, EACH cohort member walks the architecture for a Going Out sent-context. Not as cataclysmic as a missional commissioning; the same shape, scaled to a season.
 
-**•** The cohort split tonight is so each member has cohort-specific room to walk the architecture with peers facing similar developmental textures. The merge at the close brings the body together to receive the named contexts as a body.
+**•** The circle split tonight is so each member has a small room to walk the architecture in, with peers close enough to hear the specifics. The merge at the close brings the body together to receive the named contexts as a body.
 
 ## Tonight’s rhythm
 
-**ONE — You will write a working sentence in your cohort space. 12 minutes silent.**
+**ONE — You will write a working sentence in your circle space. 12 minutes silent.**
 
 **TWO — You will walk the sentence with your standing pair. 12 minutes per direction; 24 minutes total.**
 
-**THREE — The cohort circle hears each member’s sentence around the room. Brief; specific; each sentence captured on a flip chart by the Cohort Companion.**
+**THREE — Your circle hears each member’s sentence around the room. Brief; specific; each sentence captured on a flip chart by the Cohort Companion.**
 
-**FOUR — The cohort merges. The three flip charts come into the shared circle. The body sees the body of contexts together.**
+**FOUR — The circles merge. The flip charts come into the shared circle. The body sees the body of contexts together.**
 
-*“Go now to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. Take a few minutes to settle into the cohort space; then begin Block 3.”*
+*“Go now to your circle spaces — circle assignments are on the wall, circles of four to eight, each with its Companion. Take a few minutes to settle into the circle space; then begin Block 3.”*
 
-**Block 3 — The Working Sentence (7:25–7:37, 12 min, cohort-split)**
+**Block 3 — The Working Sentence (7:25–7:37, 12 min, circle-split)**
 ## Cohort Companion script (90 sec)
 
 *“Twelve minutes of silent writing. H3.1 has the worksheet. Use H3.3’s cross-reference card if helpful — it maps your gift, shadow, Going Deeper calling, H11.3 question, and past two weeks’ Tells to a sent-context.”*
@@ -261,7 +261,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **If a member visibly struggles: brief gentle approach (‘Take your time. The obstacle is also data.’). Do not rush to rescue.**
 
-**Block 4 — Standing Pair Walks the Sentence (7:37–7:59, 22 min, cohort-split)**
+**Block 4 — Standing Pair Walks the Sentence (7:37–7:59, 22 min, circle-split)**
 ## Cohort Companion script (90 sec)
 
 *“Your standing pair. Twelve minutes per direction — we will switch at the midpoint.”*
@@ -280,27 +280,27 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **If a pair surfaces material larger than the cohort can hold tonight: Cohort Companion stays close briefly; pastoral 1:1 follow-up assured.**
 
-**Time discipline is real. At 12 minutes: switch. At 24 minutes: stop. The cohort circle needs its time.**
+**Time discipline is real. At 12 minutes: switch. At 24 minutes: stop. The circle sharing needs its time.**
 
-**Block 5 — Cohort Circle Hears Each Member (7:59–8:12, 13 min, cohort-split)**
+**Block 5 — The Circle Hears Each Member (7:59–8:12, 13 min, circle-split)**
 ## Cohort Companion script (60 sec)
 
-*“Around our cohort circle. Each of us reads the working sentence aloud, briefly — about 30 seconds. I will capture each on the flip chart so the merge can see all of our cohort’s contexts together.”*
+*“Around our circle. Each of us reads the working sentence aloud, briefly — about 30 seconds. I will capture each on the flip chart so the merge can see all of our circle’s contexts together.”*
 
 *“If your sentence has shifted in the pair work, share what you have now. If you do not yet have a sentence, share the obstacle.”*
 
-*(Around the cohort. 30–40 seconds per member. Cohort Companion captures on flip chart — brief phrase or paraphrase, not full sentence.)*
+*(Around the circle. 30–40 seconds per member. Cohort Companion captures on flip chart — brief phrase or paraphrase, not full sentence.)*
 
-*“Good. We hold our cohort’s body of contexts. The shared circle merge follows.”*
+*“Good. We hold our circle’s body of contexts. The shared circle merge follows.”*
 
 **Block 6 — Shared Circle Merge (8:16–8:23, 7 min, whole-room)**
 ## Lead Companion script
 
-*“Three flip charts. Three cohorts. The body of Going Out sent-contexts. Let me read what surfaced — not every sentence, but the patterns I see.”*
+*“The flip charts — one from each circle. The body of Going Out sent-contexts. Let me read what surfaced — not every sentence, but the patterns I see.”*
 
-*(Lead Companion stands by the three flip charts; reads briefly across them; names 3–5 patterns. Specific.)*
+*(Lead Companion stands by the flip charts; reads briefly across them; names 3–5 patterns. Specific.)*
 
-*(Examples: ‘Multiple junior teens are sent to friends in their school context, with the witness being honesty about hard things. Multiple senior teens are sent to college decisions or post-graduation transitions, with the witness being trust under uncertainty. Multiple parents are sent to family-of-origin or to vocational contexts, with the witness being faithful presence under long pressure.’)*
+*(Examples: ‘Several of us are sent to our workplaces, with the witness being honesty under pressure. Several are sent to family-of-origin, with the witness being faithful presence under long cost. Several are sent inside the congregation itself, with the witness being truth spoken as a person, not from the office.’)*
 
 *“What strikes me about the body together — \_\_\_\_\_.”*
 
@@ -329,53 +329,51 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-**Junior teens (12–14)**
+*Tonight splits into circles of four to eight. The Cohort Companions read their own circle’s members through the writing, the pair work, and the sharing.*
 
-## Adjustments
-
-**Junior teens often arrive at sent-context naming with concrete relational worlds (school friend group, sports team, sibling, classroom). The concrete is appropriate for this developmental stage.**
-
-**Watch for: junior teens whose sent-context is named in the language of an inherited church culture (‘I am sent to be a witness to my unsaved friends’). Receive without contradicting; gently work for specificity (‘Which friend, specifically? What does the witness look like in your school day?’).**
-
-**Watch for: junior teens whose sent-context is family-of-origin (‘my parents,’ ‘my older sibling’). Honour. Often the most consequential junior-teen witness. Pastoral support if cross-cohort dynamics are in play.**
-
-**Watch for: junior teens who cannot yet name a sent-context. Receive cleanly; this is honest data for a developmental stage where the work is often interior, not yet outward.**
-
-**Watch for: junior teens whose sent-context concerns a peer in distress that has crossed safety thresholds. Section 6 protocol immediately if needed.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often arrive with vocational discernment as the dominant frame — college decisions, post-graduation transitions, identity formation around vocation. The Spirit’s sending often intersects with this; receive both.**
+**First-timers often arrive at sent-context naming with concrete relational worlds (the workplace team, the neighbourhood, a sibling, a small group). The concrete is exactly right; work for specificity inside it.**
 
-**Watch for: the senior whose sent-context names an academic or vocational direction. Honour AND push for specificity (‘What does the witness look like inside the studying? Inside the major’s relational world?’).**
+**Watch for: the first-timer whose sent-context is named in the language of an inherited church culture (‘I am sent to be a witness to my unsaved friends’). Receive without contradicting; gently work for specificity (‘Which friend, specifically? What does the witness look like in your actual week?’).**
 
-**Watch for: the senior whose sent-context is a peer relational world that may not last beyond Going Out (high-school friend group at risk of dissolving at graduation). Honour; Going Out’s witness is real even in temporary contexts.**
+**Watch for: the first-timer whose sent-context is family-of-origin (‘my father,’ ‘my sister’). Honour. Often the most consequential witness in the room. Pastoral support for the cost.**
 
-**Watch for: the senior whose sent-context is in tension with parent expectations. The cohort space holds the senior’s discernment; cross-cohort pastoral support if needed.**
+**Watch for: the first-timer who cannot yet name a sent-context. Receive cleanly; the obstacle sentence is honest data, and for many the first season’s work is the discernment itself.**
 
-**Watch for: the senior who carries the Wk 10 Discerner role from Going Deeper and whose Going Out sent-context is the integration of that calling. Honour cleanly.**
+**Watch for: the first-timer whose sent-context surfaces something that crosses a safety threshold. The safeguarding frame governs; pastoral 1:1 immediately after the session.**
 
-**Watch for: the senior whose sent-context is performative — named to land well in the cohort. Cohort Companion notices privately; pastoral 1:1 outside the session.**
-
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often arrive with the broadest sent-context landscape. The discipline tonight is choosing ONE specific context for Going Out, not naming everything.**
+**Veterans often arrive with vocational discernment as the dominant frame — a role transition, a long-held question about their work, an emerging call. The Spirit’s sending often intersects with this; receive both.**
 
-**Watch for: the parent whose sent-context is a marital or family-of-origin context with cost. Honour; pastoral support for the cost; the cohort holds without prescribing.**
+**Watch for: the veteran whose sent-context names a vocational direction. Honour AND push for specificity (‘What does the witness look like inside the work? Inside that role’s relational world?’).**
 
-**Watch for: the parent whose sent-context is vocational — a workplace, a colleague, a professional discernment. Specific work matters here; ‘my workplace’ is too vague; ‘my colleague J. and the project that comes due in May’ is specific.**
+**Watch for: the veteran whose sent-context is a relational world that may not last (a team being reorganized, a friendship circle dissolving, a season ending). Honour; Going Out’s witness is real even in temporary contexts.**
 
-**Watch for: the parent whose sent-context overlaps with their teen-in-the-cohort’s context. Cross-cohort awareness held privately by Companions; pastoral cross-cohort conversation if needed.**
+**Watch for: the veteran who carries the Wk 10 Discerner role from Going Deeper and whose Going Out sent-context is the integration of that calling. Honour cleanly.**
 
-**Watch for: the parent whose sent-context surfaces vocational rupture or transition. Pastoral 1:1 within the week to walk the larger discernment.**
+**Watch for: the veteran whose sentence is performative — named to land well in the circle. Cohort Companion notices privately; pastoral 1:1 outside the session.**
 
-**Watch for: the parent who names too many sent-contexts. Gentle redirect to ONE for Going Out. ‘The other contexts are real; Going Out’s work is one.’**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained face a specific temptation tonight: a sent-context that is simply the job description. ‘I am sent to my congregation’ may be the Spirit — or the office speaking. Push gently for a context beside the role, or a quality of witness the role cannot supply: ‘Where are you sent as a person, where nobody is paying you to be there?’**
+
+**Watch for: the leader whose sent-context is a marital or family-of-origin context with cost. Honour; pastoral support for the cost; the circle holds without prescribing.**
+
+**Watch for: the leader whose sent-context is in tension with a spouse’s expectations, or overlaps with a spouse-in-the-room’s context. Cross-circle awareness held privately by Companions; pastoral conversation with each spouse if needed.**
+
+**Watch for: the leader whose sent-context surfaces vocational rupture or transition (a role ending; a calling re-emerging; a resignation being weighed). Receive cleanly tonight; pastoral 1:1 within the week to walk the larger discernment.**
+
+**Watch for: the leader who names too many sent-contexts. Gentle redirect to ONE for Going Out. ‘The other contexts are real; Going Out’s work is one.’**
 
 **Closing Practice in Detail**
 
@@ -401,11 +399,11 @@ The team meets the day after Wk 3 for a 60-minute debrief.
 
 **Signs the session worked**
 
-**•** Each cohort produced a flip chart of working sentences, with most members naming specific contexts and the small set without sentences naming honest obstacles.
+**•** Each circle produced a flip chart of working sentences, with most members naming specific contexts and the small set without sentences naming honest obstacles.
 
 **•** The pair work produced refinement — sentences shifted in the pair direction; specificity increased.
 
-**•** The merge surfaced cross-cohort patterns the Lead Companion named cleanly.
+**•** The merge surfaced cross-circle patterns the Lead Companion named cleanly.
 
 **•** No sentence was performative; the cohort held honest range.
 
@@ -417,9 +415,9 @@ The team meets the day after Wk 3 for a 60-minute debrief.
 
 **•** The pair work was interpretive rather than receptive.
 
-**•** Time pressure compressed the cohort-circle sharing or the merge.
+**•** Time pressure compressed the circle sharing or the merge.
 
-**•** Cross-cohort dynamics surfaced in the merge that should have been handled privately.
+**•** Cross-circle dynamics surfaced in the merge that should have been handled privately.
 
 **•** A member’s sentence revealed material requiring acute pastoral attention that wasn’t flagged.
 
@@ -429,9 +427,9 @@ The team meets the day after Wk 3 for a 60-minute debrief.
 
 **•** Anyone whose obstacle indicated significant interior work needed before sent-context can clarify.
 
-**•** Any senior teen whose sent-context is in tension with parent expectations.
+**•** Any member whose sent-context is in tension with a spouse’s expectations.
 
-**•** Any parent whose sent-context overlaps with a teen-in-the-cohort’s context.
+**•** Any member whose sent-context overlaps with their spouse-in-the-room’s context.
 
 **•** The Wk 10 Discerner from Going Deeper — brief check-in on calling integration informing Going Out sentence.
 
@@ -529,7 +527,7 @@ In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging ca
 
 **The pair work substitutes for the cohort’s 18-minute surfacing block in Wk 10.**
 
-**The cohort circle hears each sentence briefly rather than weighing each context at length.**
+**The circle hears each sentence briefly rather than weighing each context at length.**
 
 **The merge is the body holding the body of contexts — a corporate sending of all the named contexts.**
 
