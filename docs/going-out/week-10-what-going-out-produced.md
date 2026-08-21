@@ -12,7 +12,7 @@ Week 10
 
 **COMPANION LESSON PLAN**
 
-*Pilot edition — Covenant Christian Academy of Warrenton*
+*Adult edition — the leadership-first year (FotH for a CPR)*
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
@@ -30,7 +30,7 @@ Week 10
 
 **Connect focus.** Sending and re-formation. What the body has been formed into and where each member is now sent for the long obedience.
 
-**Mode.** Whole-room. The cohort sits together for opening, teaching, and closing; the standing pair work in cohort-shared space (16 min per direction); the cohort circle hears patterns briefly.
+**Mode.** Whole-room. The cohort sits together for opening, teaching, and closing; the standing pair work in the shared space (16 min per direction); the cohort hears patterns briefly.
 
 **Center.** Brief teaching frame (10 min). Silent integration writing (10 min) using H10.1 — each member maps their Going Out trajectory across five integration domains. Standing pair walks the trajectory (32 min, 16 each direction). Cohort circle pattern surfacing (15 min). Bridge to Wk 11 cohort-level assessment (10 min).
 
@@ -56,9 +56,9 @@ Week 10
 
 **The member whose Going Out produced calling clarity. A member articulates that Going Out produced unexpected clarity about a calling beyond the cohort — vocational shift, geographic move, formal ministry direction. Receive cleanly; pastoral support; the cohort holds the calling without rushing toward it.**
 
-**Senior teens leaving the cohort. A senior’s articulation of what Going Out produced is shaped by the upcoming graduation or move. Honour the layered grief and possibility; pastoral 1:1 to walk the transition.**
+**Members in transition. A member’s articulation of what Going Out produced may be shaped by an upcoming move, role change, or life transition. Honour the layered grief and possibility; pastoral 1:1 to walk the transition.**
 
-**Cross-cohort family material. A teen’s articulation about what Going Out formed may include parental dynamics; a parent’s articulation may include teen dynamics. Initials only; cross-cohort awareness held by Companions privately.**
+**Cross-spouse material. A member’s articulation about what Going Out formed may include their spouse in the room. Initials only where another member is involved; cross-circle awareness held by Companions privately.**
 
 **The Wk 10 Discerner from Going Deeper whose calling has now been worked across the Going Out series. Their articulation may carry weight; the cohort’s Going Out has been partly shaped by their Going Deeper calling. Honour the integration without singling out.**
 
@@ -72,13 +72,13 @@ Week 10
 
 **If a member’s articulation reveals burnout severe enough to require immediate pastoral attention: pastoral 1:1 immediately after the session; sabbath-rhythm conversation; clinical referral if mental health is at risk.**
 
-**If a senior’s articulation reveals significant graduation/transition crisis: pastoral 1:1; the cohort space holds without trying to resolve; Going Out will not adjudicate transition specifics.**
+**If a member’s articulation reveals significant transition crisis (a move, a role ending, a season collapsing): pastoral 1:1; the room holds without trying to resolve; Going Out will not adjudicate transition specifics.**
 
-**If a teen’s articulation surfaces material involving their parent (in another cohort) requiring pastoral cross-cohort attention: cross-cohort conversation outside the session; mandatory-reporting law applies if abuse or harm is involved.**
+**If a member’s articulation surfaces material involving their spouse in the room requiring pastoral attention: conversation with each spouse outside the session; mandatory-reporting law applies if abuse or harm is involved.**
 
 **If a member’s articulation reveals that the cohort’s discernment in Wk 8 was wrong for them — they said yes when they should have said no, or no when they should have said yes: receive cleanly; Going Out’s discernment can refine; pastoral 1:1.**
 
-**Default. Section 6 of the Going Deeper Handbook v1.1.**
+**Default. The safeguarding frame (Leadership Year Handbook §7 and the host church’s policy).**
 
 **Session at a Glance**
 
@@ -98,15 +98,15 @@ The standing pair work tonight is substantive — 16 minutes per direction, the 
 
 **•** All twelve weeks of Going Deeper (gift, shadow, calling, Wk 11 cohort assessment, H11.3 prompt 4 question).
 
-**•** Going Out WWk 3 working sent-context sentence.
+**•** Going Out Wk 3 working sent-context sentence.
 
-**•** Going Out WWk 5 household witness work.
+**•** Going Out Wk 5 household witness work.
 
-**•** Going Out WWk 6 vocational witness data.
+**•** Going Out Wk 6 vocational witness data.
 
-**•** Going Out WWk 8 cohort-level discernment.
+**•** Going Out Wk 8 cohort-level discernment.
 
-**•** Going Out WWk 9 laying-on-of-hands sending and cost-walking.
+**•** Going Out Wk 9 laying-on-of-hands sending and cost-walking.
 
 **•** All Rhythm Card practices across the formation arc.
 
@@ -118,7 +118,7 @@ Each Companion does three things this week.
 
 First — walk your own Going Out trajectory honestly. What working sentence did you articulate in Wk 3 (you did the team version)? What did the household / vocational / third-place work surface in you? Where are you sent at the close of the Going Out series that you were not sent in January? The team’s capacity to hold honest cohort integration tonight depends on the team having walked its own.
 
-Second — review your cohort’s members one by one. What do you remember about each member’s Wk 3 sentence; their household work; their vocational data; their pair contributions in Wk 8; their cost-walking in Wk 9? Your memory is partial; bring honest partial memory rather than a synthesized narrative.
+Second — review your circle’s members one by one. What do you remember about each member’s Wk 3 sentence; their household work; their vocational data; their pair contributions in Wk 8; their cost-walking in Wk 9? Your memory is partial; bring honest partial memory rather than a synthesized narrative.
 
 Third — sit with Philippians 1:6 for 15 minutes. The work is in-process. The verse frames tonight’s integration: not completion, not failure, in-process. Let the verse settle the team’s expectations for what Going Out honestly produced.
 
@@ -128,11 +128,11 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **1.** Each Companion shares their personal Going Out trajectory briefly. The team’s honesty shapes the team’s capacity. (15 min)
 
-**2.** Cohort review by Companion. Each Cohort Companion reports their cohort’s members’ trajectories — known Going Out high-points; known unfinished work; members likely to surface acute material; cross-cohort family dynamics. (20 min)
+**2.** Cohort review by Companion. Each Cohort Companion reports their circle’s members’ trajectories — known Going Out high-points; known unfinished work; members likely to surface acute material; cross-spouse dynamics. (20 min)
 
 **3.** Walk the run sheet. The pair work is the architectural centre tonight; team rehearses how to support pairs without intervening. (10 min)
 
-**4.** Special cases: members whose Going Out produced calling crisis; members whose Going Out revealed unfinished household work; senior teens in transition; the Wk 10 Discerner from Going Deeper whose calling has been worked through Going Out. (10 min)
+**4.** Special cases: members whose Going Out produced calling crisis; members whose Going Out revealed unfinished household work; members in transition; the Wk 10 Discerner from Going Deeper whose calling has been worked through Going Out. (10 min)
 
 **5.** Crisis contingencies and pastoral / clinical backup confirmed. (3 min)
 
@@ -150,7 +150,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **•** Confirm pastoral / clinical backup.
 
-**•** Confirm room layout: ONE large circle of 20–32 chairs, with space for pairs to sit beside each other.
+**•** Confirm room layout: ONE large circle — a chair for every member — with space for pairs to sit beside each other.
 
 **Materials and Setup**
 
@@ -184,7 +184,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 | 7:11–7:20 | Block 2: Phil 1:6 + integration architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk the integration architecture; the five domains. |
 | 7:20–7:29 | Block 3: Silent integration writing | Shared circle | Cohort Companions float | 10 min silent: each member fills H10.1 across five domains. |
 | 7:29–7:59 | Block 4: Standing pair walks the trajectory | Shared circle (in pairs) | Cohort Companions float | 16 min per direction; 32 min total. |
-| 7:59–8:12 | Block 5: Cohort circle pattern surfacing | Shared circle | Lead Companion | Each member 30–40 sec; ONE pattern from pair work; flip chart capture. |
+| 7:59–8:12 | Block 5: Cohort pattern surfacing | Shared circle | Lead Companion | Each member 30–40 sec; ONE pattern from pair work; flip chart capture. |
 | 8:12–8:21 | Block 6: Bridge to Wk 11 | Shared circle | Lead Companion | Frame Wk 11 cohort-level assessment; pair check-in question. |
 | 8:21–8:30 | Block 7: Feedback round and closing container | Shared circle | Lead Companion | Aaronic. Send. |
 
@@ -284,7 +284,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **Time discipline. At 16 min: switch. At 32 min: stop.**
 
-**Block 5 — Cohort Circle Pattern Surfacing (7:59–8:12, 13 min)**
+**Block 5 — Cohort Pattern Surfacing (7:59–8:12, 13 min)**
 Lead Companion frame for the surfacing block: "We are not surfacing a single shape of formation tonight. Some of you are at the close of the Going Out series confirmed in leadership; some confirmed in vocational, household, third-place, one-to-one, or contemplative directions. The patterns we surface tonight are the body's witness to what the year produced across all of these. Each direction is real; each is honored as the formation the Spirit prepared for that member."
 
 ## Lead Companion script (60 sec)
@@ -303,7 +303,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 **If a member starts to disclose detail rather than name pattern: gentle redirect.**
 
-**If a member’s pattern reveals cross-cohort dynamics: indirect language; non-identifying capture.**
+**If a member’s pattern reveals cross-circle dynamics: indirect language; non-identifying capture.**
 
 **If multiple members surface the same pattern: note the cluster. Wk 11 will engage cohort-level patterns.**
 
@@ -316,7 +316,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 *“This week’s standing-pair check-in: ‘Where do I sense the cohort as a whole landed, looking back across the Going Out series?’ Bring a working assessment to Wk 11. The cohort weighs together; the body discerns its own honest landing.”*
 
-*“Wk 11 will be cohort-split (junior teen / senior teen / parent), then merged — same shape as Going Deeper Wk 11, allowing each cohort’s developmental texture to be honored before the body integrates.”*
+*“Wk 11 will be circle-split, then merged — same shape as Going Deeper Wk 11, giving each circle a smaller room for the honest read before the body integrates.”*
 
 **Block 7 — Feedback Round and Closing Container (8:21–8:30, 9 min)**
 ## Script
@@ -339,47 +339,47 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 *“See you Tuesday.”*
 
-**Differentiation by Cohort**
+**Differentiation Notes**
 
-*Tonight there is no cohort split. Cohort Companions read their own cohort’s members across the session.*
+*Tonight there is no circle split. The Cohort Companions read their own circle’s members through the writing, the pair work, and the surfacing.*
 
-**Junior teens (12–14)**
-
-## Adjustments
-
-**Junior teens often integrate Going Out concretely — specific friend dynamics, specific household moments, specific witness experiences. Concrete is appropriate; the abstracting comes later.**
-
-**Watch for: junior teens whose integration reveals difficult parental dynamics. Cross-cohort awareness; pastoral conversation outside the session.**
-
-**Watch for: junior teens whose H11.3 question from Going Deeper feels distant or unrecognizable now. Receive cleanly; junior-teen formation is fast and the question may have been displaced by what Going Out formed instead.**
-
-**Watch for: junior teens whose integration surfaces peer dynamics involving abuse, harm, or crisis. Mandatory-reporting law applies where relevant.**
-
-**Senior teens (15–18)**
+**Those doing this work for the first time**
 
 ## Adjustments
 
-**Senior teens often integrate Going Out with the upcoming transition (graduation, college, post-graduation work) as the dominant frame. Receive cleanly; the integration is real even when colored by transition.**
+**First-timers often integrate Going Out concretely — specific relational moments, specific household exchanges, specific witness experiences. Concrete is exactly right; the pair partner draws out what the moments add up to.**
 
-**Watch for: the senior whose integration surfaces vocational clarity that has firmed across the Going Out series. Pastoral 1:1 to walk what is unfolding.**
+**Watch for: the first-timer whose H11.3 question from Going Deeper feels distant or unrecognizable now. Receive cleanly; a first formation year moves fast, and the question may have been displaced by what Going Out formed instead.**
 
-**Watch for: the senior whose integration reveals that the cohort’s Going Out shape did not fit them — they engaged the architecture but the formation went elsewhere. Honour the honesty; Going Out’s shape isn’t for everyone in equal measure.**
+**Watch for: the first-timer whose integration reveals difficult household dynamics. Pastoral conversation outside the session.**
 
-**Watch for: the senior whose Wk 10 Discerner role from Going Deeper has now produced calling clarity that feels significant. Pastoral support; spiritual-direction beyond the cohort if welcomed.**
+**Watch for: the first-timer whose integration surfaces dynamics involving abuse, harm, or crisis. Mandatory-reporting law applies where relevant; the safeguarding frame governs.**
 
-**Parents**
+**The veterans**
 
 ## Adjustments
 
-**Parents often integrate Going Out across multiple domains simultaneously — household, vocational, third-place, missional, plus the parent’s own continuing formation work.**
+**Veterans often integrate Going Out with a transition as the dominant frame — a move, a role change, a season turning. Receive cleanly; the integration is real even when colored by transition.**
 
-**Watch for: the parent whose integration reveals significant household work still unfinished. Pastoral 1:1 if welcomed; the long obedience continues past the Going Out series.**
+**Watch for: the veteran whose integration surfaces vocational clarity that has firmed across the Going Out series. Pastoral 1:1 to walk what is unfolding.**
 
-**Watch for: the parent whose vocational integration surfaces rupture or transition that has accelerated across the Going Out series. Pastoral support; clinical / vocational counsel as appropriate.**
+**Watch for: the veteran whose integration reveals that the cohort’s Going Out shape did not fit them — they engaged the architecture but the formation went elsewhere. Honour the honesty; Going Out’s shape isn’t for everyone in equal measure.**
 
-**Watch for: the parent whose teen’s integration involves them. Cross-cohort awareness; pastoral conversation outside the session.**
+**Watch for: the veteran whose Wk 10 Discerner role from Going Deeper has now produced calling clarity that feels significant. Pastoral support; spiritual-direction beyond the cohort if welcomed.**
 
-**Watch for: the parent whose integration reveals genuine Going Out-produced fruit in family-of-origin material that has been long-running. Honour without rushing toward closure; the long obedience continues.**
+**The ordained and the staff**
+
+## Adjustments
+
+**The ordained often integrate across multiple domains simultaneously — household, vocational, third-place, missional, plus their own continuing formation work — and carry an occupational reflex: the year arrives pre-polished, articulated as a report or a sermon illustration rather than as their own life. The pulpit knows how to make a year preach. The pair asks what it actually cost.**
+
+**Watch for: the leader whose integration reveals significant household work still unfinished. Pastoral 1:1 if welcomed; the long obedience continues past the Going Out series.**
+
+**Watch for: the leader whose vocational integration surfaces rupture or transition that has accelerated across the Going Out series. Pastoral support; clinical / vocational counsel as appropriate; the covering belongs in the longer discernment.**
+
+**Watch for: the leader whose spouse is in the room and figures in the integration. Initials only; cross-circle awareness; pastoral conversation with the couple outside the session if needed.**
+
+**Watch for: the leader whose integration reveals genuine Going Out-produced fruit in long-running family-of-origin material. Honour without rushing toward closure; the long obedience continues.**
 
 **Closing Practice in Detail**
 
@@ -423,7 +423,7 @@ The team meets the day after Wk 10 for a 60-minute debrief.
 
 **•** The bridge to Wk 11 felt rushed; members are unclear what to bring.
 
-**•** Cross-cohort family material surfaced inadequately.
+**•** Cross-spouse material surfaced inadequately.
 
 **People to follow up with this week**
 
@@ -431,11 +431,11 @@ The team meets the day after Wk 10 for a 60-minute debrief.
 
 **•** Anyone whose integration revealed that Wk 8–9’s sending was wrong for them.
 
-**•** Any senior whose integration surfaced significant vocational clarity or transition crisis.
+**•** Any member whose integration surfaced significant vocational clarity or transition crisis.
 
-**•** Any teen whose integration involved cross-cohort family dynamics.
+**•** Any member whose integration involved a spouse in the room.
 
-**•** Any parent whose integration revealed significant unfinished work.
+**•** Any member whose integration revealed significant unfinished work.
 
 • The Wk 10 Discerner from Going Deeper whose calling has been worked across the Going Out series — regardless of whether the calling was confirmed as leadership-track or in another direction; the integration weeks for non-leadership callings need the same pastoral attention as for leadership callings.
 
@@ -607,7 +607,7 @@ The integration is real and partial. What was formed was formed; it counts. What
 
 **Wk 11 next Tuesday engages where the COHORT landed as a body across the Going Out series. Honest five-level assessment using Vol 2’s group taxonomy — the same architecture as Going Deeper Wk 11, scaled across the formation arc.**
 
-**Cohort-split (junior teen / senior teen / parent), then merged. Each cohort’s developmental texture is honored before the body integrates.**
+**Circle-split, then merged. Each circle gets a smaller room for the honest read before the body integrates.**
 
 **Bring your working assessment of where the cohort landed. The body weighs together.**
 
