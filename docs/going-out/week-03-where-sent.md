@@ -112,7 +112,7 @@ Each Companion does three things this week.
 
 First — write your OWN Going Out sent-context sentence. Use the architecture you will teach tonight. Notice where the writing is hard, where it surfaces avoidance, where it produces clarity. Bring the sentence to the team meeting.
 
-Second — review your circle’s members one by one, with what you know of each: their gift, their shadow, their Going Deeper calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the cohort space tonight; the discipline is your own discernment of what each member is bringing.
+Second — review your circle’s members one by one, with what you know of each: their gift, their shadow, their Going Deeper calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the circle space tonight; the discipline is your own discernment of what each member is bringing.
 
 Third — sit with Acts 13:1–3 for 15 minutes. Notice the architecture: the body worshipping and fasting; the Spirit speaking; specific naming (‘Barnabas and Saul for the work to which I have called them’). The body discerns specific sending; the body confirms; the body sends. Tonight’s architecture is the same shape, with each member as the discerner.
 
