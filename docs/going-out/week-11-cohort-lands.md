@@ -34,7 +34,7 @@ Week 11
 
 **Center.** Brief teaching frame (10 min). Circle-split honest assessment using H11.1 worksheet (30 min). Each circle articulates its landing on the five-level taxonomy (15 min). Merge into shared circle; Lead Companion integrates the circle assessments into a body-level reading (15 min). Bridge to Wk 12 sending (10 min). Brief closing (5 min).
 
-**Between-session practice.** Daily noticing question: ‘What does the cohort’s honest landing free in me, and what does it ask of me, in the long obedience after the formal series ends?’ Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ (Wk 12 prep — each member arrives ready to bless their pair partner.) The team will distribute the H12.1 sending card during the week as part of pastoral 1:1s.
+**Between-session practice.** Daily noticing question: ‘What does the cohort’s honest landing free in me, and what does it ask of me, in the long obedience after the formal series ends?’ Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ (Wk 12 prep — each member arrives ready to bless their pair partner.) The team will distribute the [H12.1](week-12-long-obedience.md#handout-h12-1) sending card during the week as part of pastoral 1:1s.
 
 **IJH source.** MSFIG (the five-level group taxonomy: Social Fellowship; Information Sharing; Genuine Care; Hearing as Body; Sent as Body); 1 Cor 12 (the body); Acts 2:42–47 (the body’s concrete shared life); Going Deeper Wk 11 (the architectural template tonight scales).
 
@@ -391,7 +391,7 @@ Standard pattern. The merge’s integration is the substantive closing; the form
 
 **Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ Brief; specific; from witnessed transformation.**
 
-**The team will distribute the H12.1 sending card during the week as part of pastoral 1:1s.**
+**The team will distribute the [H12.1](week-12-long-obedience.md#handout-h12-1) sending card during the week as part of pastoral 1:1s.**
 
 **All ongoing practices continue. Rhythm Card, daily PROAPT, weekday Tells, Examen, named-knot sit, shadow noticing.**
 
@@ -593,7 +593,7 @@ Your Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **TWO — Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ Brief; specific; from witnessed transformation. Each of us arrives Tuesday ready to bless our pair partner specifically.**
 
-**THREE — The team will distribute the H12.1 sending card during the week as part of pastoral 1:1s. The card is Going Out’s closing artifact — the body’s sending into the long obedience.**
+**THREE — The team will distribute the [H12.1](week-12-long-obedience.md#handout-h12-1) sending card during the week as part of pastoral 1:1s. The card is Going Out’s closing artifact — the body’s sending into the long obedience.**
 
 **FOUR — All ongoing practices continue.**
 

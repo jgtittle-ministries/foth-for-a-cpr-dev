@@ -117,7 +117,7 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 ## Logistics pre-work
 
 1. Print Handout H10.1 — the rotation leader's Garden Guide Card — on cardstock for the rotation leader, plus one spare. It is the Week 9 protocol with pacing marks and the two handoff rules on one card.
-2. Reprint Week 9's handouts as needed: H9.1 for any Companion-led circle, H9.2 (Garden Journal page) for every participant, H9.3 (Note for the Skeptic) for anyone who asks.
+2. Reprint Week 9's handouts as needed: [H9.1](week-09-garden.md#handout-h9-1) for any Companion-led circle, [H9.2](week-09-garden.md#handout-h9-2) (Garden Journal page) for every participant, [H9.3](week-09-garden.md#handout-h9-3) (Note for the Skeptic) for anyone who asks.
 3. Prepare each cohort space for stillness, as Week 9. Lower the lights if possible — tonight runs softer than even Week 9 did. Soft instrumental music remains optional and Companion's-choice.
 
 # Materials and Setup
@@ -127,7 +127,7 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 - Chairs in main room as a single circle for opening.
 - Phone-box at the door.
 - Personal Heart Journals.
-- Handout H10.1 for the rotation leader (plus a spare); H9.1 for Companion-led circles; H9.2 for every participant.
+- Handout H10.1 for the rotation leader (plus a spare); [H9.1](week-09-garden.md#handout-h9-1) for Companion-led circles; [H9.2](week-09-garden.md#handout-h9-2) for every participant.
 - Three private spaces for cohort circles, comfortable seating in a tight circle. Lights low if possible.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
@@ -413,7 +413,7 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 
 # Handouts
 
-One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as needed — H9.1 for any Companion-led circle, H9.2 for every participant's between-session practice, H9.3 for any newly-surfaced skeptic.
+One new handout for Week 10. Week 9's handouts ([H9.1](week-09-garden.md#handout-h9-1), [H9.2](week-09-garden.md#handout-h9-2), [H9.3](week-09-garden.md#handout-h9-3)) reprint as needed — H9.1 for any Companion-led circle, H9.2 for every participant's between-session practice, H9.3 for any newly-surfaced skeptic.
 
 - H10.1 — The rotation leader's Garden Guide Card
 
@@ -436,7 +436,7 @@ One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as nee
 
 ### The walk-through (your cohort's Week 9 script, printed here in full)
 
-*[Print the H9.1 script for the circle this leader is leading.]*
+*[Print the [H9.1](week-09-garden.md#handout-h9-1) script for the circle this leader is leading.]*
 
 ### After you hand off
 

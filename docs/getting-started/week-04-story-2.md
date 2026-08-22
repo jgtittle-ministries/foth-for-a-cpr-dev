@@ -131,8 +131,8 @@ Forty-eight hours before Week 4, the Companion team meets for sixty minutes:
 - Chairs in the main room as a single circle for the opening, same as Weeks 1–3.
 - Phone-box at the door.
 - Personal Heart Journals (each participant brings their own). Have 4–5 spares.
-- Reprinted storytelling cards H3.1 / H3.2 / H3.3 for this week’s tellers, and listener’s role cards H3.4 for anyone who has lost theirs.
-- Shared Footprints handout H3.3 — one per member who tells this week.
+- Reprinted storytelling card [H3.1](week-03-story.md#handout-h3-1) for this week’s tellers, and listener’s role card [H3.2](week-03-story.md#handout-h3-2) for anyone who has lost theirs.
+- Shared Footprints handout [H3.3](week-03-story.md#handout-h3-3) — one per member who tells this week.
 - Handout H4.1 — the Rotation Leader’s Facilitation Card. On cardstock. In the leader’s hand, not memorized-and-left-home. The card in hand is part of the design: it tells the room the leader is following a form, not improvising with the room’s stories.
 - Three private spaces for cohort circles — same rooms as Week 3 if at all possible.
 - Tissues in every cohort space.
@@ -402,7 +402,7 @@ Spoken by the rotation leader tonight. The words are the same words; the voice i
 
 - The morning question (“Father, what are you up to today?”) (5 min, daily) — carried forward, everyone.
 - The evening journal note (1–2 min, daily) — carried forward, everyone.
-- The Shared Footprints exercise (20 min, once this week, with a spouse or one close person) — for the members who told THIS week. See Handout H3.3. Those who did it after Week 3 are done; do not assign a repeat.
+- The Shared Footprints exercise (20 min, once this week, with a spouse or one close person) — for the members who told THIS week. See [Handout H3.3 (Week 3)](week-03-story.md#handout-h3-3). Those who did it after Week 3 are done; do not assign a repeat.
 
 If a member reports back that they did not get to the Shared Footprints, this is data, not failure — same as last week. Note it for the team debrief and do not shame in Week 5.
 
@@ -450,7 +450,7 @@ Pray by name for each participant. The team now carries the texture of every sto
 One new handout for Week 4, plus reprints.
 
 - H4.1 — Rotation Leader’s Facilitation Card (Week 4)
-- Reprints as needed for this week’s tellers: H3.1 (storytelling card), H3.2 (listener’s role card), H3.3 (Shared Footprints — one per member who told this week).
+- Reprints as needed for this week’s tellers: [H3.1](week-03-story.md#handout-h3-1) (storytelling card), [H3.2](week-03-story.md#handout-h3-2) (listener’s role card), [H3.3](week-03-story.md#handout-h3-3) (Shared Footprints — one per member who told this week).
 
 **Handout H4.1 — Rotation Leader’s Facilitation Card (Week 4)**
 

@@ -393,8 +393,8 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 Two handouts for Week 6. The confession handout comes in three cohort versions; the blessing card is one version for all. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty
-- H6.2 — Blessing of Restoration card (all cohorts)
-- H6.3 — Mid-Series Pulse (all cohorts)
+- H6.2 — Blessing of Restoration card
+- H6.3 — Mid-Series Pulse — the same one-page instrument as [H8.3, printed at Week 8](week-08-proapt-2.md#handout-h8-3)
 
 **Handout H6.1 — The Place**
 

@@ -95,7 +95,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 1. Print the Four Conditions card (Handout H5.1) — one per participant.
 2. Print the Friendship Map worksheet (H5.2), one per member.
-3. Print the between-session practice card (H5.5).
+3. Print the between-session practice card ([H5.3](#handout-h5-3)).
 4. Confirm pastoral / clinical backup availability.
 
 # Materials and Setup
@@ -106,7 +106,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 - Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard or flip chart with the four conditions pre-written: SAFE / PRESENT / CLEAR / INTENTIONAL. Vertical, with room beside each.
-- Handouts H5.1 through H5.5 stacked at each chair.
+- Handouts H5.1 through H5.3 stacked at each chair.
 - Three private spaces for cohort circles, same arrangement as Week 3.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
@@ -271,7 +271,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 *“One friendship. One condition. Practice. Journal what happens.”*
 
-*“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — H5.5 — has the practice in writing.”*
+*“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — [H5.3](#handout-h5-3) — has the practice in writing.”*
 
 ## Block 8 — Feedback Round and Closing Container (8:19–8:30, 11 min)
 ## Script

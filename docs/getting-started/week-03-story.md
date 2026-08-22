@@ -382,7 +382,7 @@ Same as Weeks 1 and 2. The blessing now has the weight of two prior weeks behind
 
 # Between-Session Practice
 
-The Joint Footprints exercise is the central practice this week. It is described in Block 8 above and on Handout H3.5. The morning question (“Father, what are you up to today?”) and evening journal note continue from Weeks 1 and 2.
+The Shared Footprints exercise is the central practice this week. It is described in Block 8 above and on [Handout H3.3](#handout-h3-3). The morning question (“Father, what are you up to today?”) and evening journal note continue from Weeks 1 and 2.
 
 ## What we are practicing this week
 

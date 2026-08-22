@@ -32,7 +32,7 @@ Week 1
 
 **Mode.** Whole-room. No circle split tonight. The cohort returns as one body — the cohort that walked Going Deeper together is now reassembled to begin Going Out as that same body, even with adjustments.
 
-**Center.** Each member shares briefly the question they carried across the interlude (from H11.3 prompt 4 of Going Deeper) and one sentence about how the interlude landed. Lead Companion frames Going Out’s four-block architecture and Going Out’s different posture. Standing pair re-engagement / new pair formation. Brief Acts 1 teaching.
+**Center.** Each member shares briefly the question they carried across the interlude (from [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) prompt 4 of Going Deeper) and one sentence about how the interlude landed. Lead Companion frames Going Out’s four-block architecture and Going Out’s different posture. Standing pair re-engagement / new pair formation. Brief Acts 1 teaching.
 
 **Between-session practice.** Daily Rhythm Card practices continue (carried across the interlude). The question carried from H11.3 prompt 4 is brought to the standing pair this week for renewed processing in light of Wk 1’s framing. Each member sits with: ‘Where might I already be sent, that I had not noticed?’
 
@@ -90,7 +90,7 @@ The team’s discipline tonight is restraint. Wk 1 does not need to deliver ever
 
 **•** The cohort’s Wk 11 honest assessment of where it landed on the five-level taxonomy. Going Out builds from that level, not from a more flattering one.
 
-**•** Each member’s H11.3 page (Personal Reflection Frame for Wk 12), specifically prompt 4 (the question carried into Going Out). Tonight surfaces those questions briefly.
+**•** Each member’s [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) page (Personal Reflection Frame for Wk 12), specifically prompt 4 (the question carried into Going Out). Tonight surfaces those questions briefly.
 
 **•** The Wk 12 sending. The cohort was sent; the interlude was intentional; tonight reopens with the sending honoured.
 
@@ -110,7 +110,7 @@ Sent. The architecture of Going Out, named tonight in its first form. The body t
 
 Each Companion does three things this week.
 
-First — reread your own H11.3 prompt 4 from Going Deeper Wk 11. The question you named at the close of Going Deeper has now had the interlude to settle. What has shifted? What has stayed? What might you need to bring into Going Out differently than you carried into the interlude?
+First — reread your own [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) prompt 4 from Going Deeper Wk 11. The question you named at the close of Going Deeper has now had the interlude to settle. What has shifted? What has stayed? What might you need to bring into Going Out differently than you carried into the interlude?
 
 Second — sit for 30 minutes with Acts 1:1–8 slowly. Notice the architecture: the Spirit’s power, given to those who have already received Him, FOR witness. The witnessing is not an add-on; it is the purpose of the empowerment. Notice also what Jesus refuses to give them — the timing of the kingdom’s restoration. The disciples want strategic clarity; Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight.
 
@@ -607,7 +607,7 @@ Partner 2: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **TWO — Standing-pair check-in: ‘What did the gap land in you? What is alive as we open Going Out?’ Brief; honest; mid-week.**
 
-**THREE — Bring your H11.3 question (or whatever has emerged in its place) into the week. If the question shifted across the interlude, journal what shifted.**
+**THREE — Bring your [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) question (or whatever has emerged in its place) into the week. If the question shifted across the interlude, journal what shifted.**
 
 **FOUR — The morning question this week: ‘Lord, where today might I already be sent that I have not noticed?’ Brief; expectant. Bring noticings to next Tuesday’s Wk 2.**
 

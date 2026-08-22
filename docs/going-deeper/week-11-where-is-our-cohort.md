@@ -154,7 +154,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 **Logistics pre-work**
 
-**•** Print the Five-Level Taxonomy Reference (H11.1) — same content as Wk 8’s H8.1; one per participant.
+**•** Print the Five-Level Taxonomy Reference (H11.1) — same content as Wk 8’s [H8.1](week-08-group-hears-itself.md#handout-h8-1); one per participant.
 
 **•** Print the Cohort Assessment Worksheet (H11.2) — one per participant; cohort circle uses it together.
 
@@ -530,7 +530,7 @@ Four handouts for Wk 11.
 
 **Handout H11.1 — Five-Level Taxonomy Reference**
 
-*From IJH MSFIG. The same content as Wk 8’s H8.1, returning here for the assessment.*
+*From IJH MSFIG. The same content as Wk 8’s [H8.1](week-08-group-hears-itself.md#handout-h8-1), returning here for the assessment.*
 
 **The five levels**
 

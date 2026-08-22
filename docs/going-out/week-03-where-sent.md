@@ -82,7 +82,7 @@ Week 3
 
 Going Out Wk 1 reopened the cohort and named the four-block architecture. Wk 2 named the theology of being sent. Wk 3 makes it specific: each member articulates WHERE Going Out’s witness is being directed in their actual life this season.
 
-This is the third movement of a three-week sequence the cohort has been walking. Wk 1 surfaced the interlude landings and the H11.3 questions. Wk 2 named the body’s sent identity and produced first witness data through the outside-cohort Tells. Wk 3 integrates: gift and shadow from Going Deeper Wk 9; calling integration from Going Deeper Wk 10; the H11.3 question from Going Deeper Wk 11; the witness data from the past two weeks of Going Out. From these inputs, each member articulates ONE working sentence.
+This is the third movement of a three-week sequence the cohort has been walking. Wk 1 surfaced the interlude landings and the H11.3 questions. Wk 2 named the body’s sent identity and produced first witness data through the outside-cohort Tells. Wk 3 integrates: gift and shadow from Going Deeper Wk 9; calling integration from Going Deeper Wk 10; the [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) question from Going Deeper Wk 11; the witness data from the past two weeks of Going Out. From these inputs, each member articulates ONE working sentence.
 
 The discipline is specificity. ‘I am sent to be a better Christian’ is not specific. ‘I am sent to my workplace’ is closer. ‘I am sent to my workplace, specifically to my colleague J. and to the way our team navigates the project that comes due in May, with the witness being the way I hold honesty under pressure’ — that is specific. The Spirit’s sending tends to be specific; vague sending often masks avoidance or premature closure.
 
@@ -479,7 +479,7 @@ From Going Deeper Wk 10. If you were the Discerner or have an active calling fro
 
 Calling: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Going Out intersection: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Input 4 — Your H11.3 question**
+**Input 4 — Your [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) question**
 
 From Going Deeper Wk 11 prompt 4. The question carried into Going Out. Where does the question intersect with sent-context?
 

@@ -110,7 +110,7 @@ Email to each member (individually): their final-rep slot (open, close, or which
 ## **Logistics pre-work**
 
 1. Print Handout H15.1 — the Companion Commissioning Card, one per member, cardstock.
-2. Print Handout H15.2 — the Limits Card (Appendix I reprint), one per member, cardstock, laminated if possible.
+2. Print Handout H15.2 — the Limits Card ([Appendix I](handbook.md#appendix-i-the-limits-card-companion-in-formation) reprint), one per member, cardstock, laminated if possible.
 3. Print Handout H15.3 — the keepsake sheet, one per member, heavy paper. Pens on the signing table.
 4. Confirm the family year's first date one final time with the covering.
 5. Room: single wide circle, open center, no table in the middle. A small side table near the door for the keepsakes and pens after the close. Light dessert set for after — this night ends warm.
@@ -390,7 +390,7 @@ Companion team meets within the week for the final debrief of Getting Started �
 Three handouts for Week 15. H15.1 and H15.2 are handed to each new Companion during the rite; H15.3 is signed by the room after the close.
 
 - H15.1 — Companion Commissioning Card (one per member, cardstock)
-- H15.2 — The Limits Card (Appendix I reprint, one per member)
+- H15.2 — The Limits Card ([Appendix I](handbook.md#appendix-i-the-limits-card-companion-in-formation) reprint, one per member)
 - H15.3 — The Keepsake: the Charge and the Blessing (one per member, heavy paper, signed by the room)
 
 **Handout H15.1 — Companion Commissioning Card**

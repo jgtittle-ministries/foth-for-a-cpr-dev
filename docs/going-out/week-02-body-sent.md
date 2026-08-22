@@ -92,7 +92,7 @@ The witness exercise (Block 5) makes the abstract concrete. Each member, briefly
 
 ## From prior sessions and prior practice
 
-**•** Wk 1 of Going Out — the gap landings; the four-block architecture; the H1.2 outside-cohort Tell practice begun this week.
+**•** Wk 1 of Going Out — the gap landings; the four-block architecture; the [H1.2](week-01-welcome-back.md#handout-h1-2) outside-cohort Tell practice begun this week.
 
 **•** Going Deeper Wk 9 (gifts and shadow). The gift each member named is the substrate of their witness; the shadow direction is the risk in their witness.
 
@@ -100,7 +100,7 @@ The witness exercise (Block 5) makes the abstract concrete. Each member, briefly
 
 **•** Going Deeper Wk 11 (cohort assessment). The Wk 11 honest assessment is the foundation of Going Out; the cohort’s witness-capacity is at the level the cohort actually reached, not above it.
 
-**•** All Rhythm Card practices, especially the new H1.2 morning noticing question and weekly outside-cohort Tell.
+**•** All Rhythm Card practices, especially the new [H1.2](week-01-welcome-back.md#handout-h1-2) morning noticing question and weekly outside-cohort Tell.
 
 **Connect focus**
 
@@ -130,7 +130,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **4.** Walk the run sheet. Block 5 (witness exercise) is the architectural centre of tonight; team rehearses how to hold the architecture without evaluating individual contributions. (10 min)
 
-**5.** Cohort review. Where did each member’s pre-Wk-1 H11.3 question land in light of last week? Which members’ H1.2 Tell may have produced unexpected material? (5 min)
+**5.** Cohort review. Where did each member’s pre-Wk-1 [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) question land in light of last week? Which members’ [H1.2](week-01-welcome-back.md#handout-h1-2) Tell may have produced unexpected material? (5 min)
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (3 min)
 

@@ -32,7 +32,7 @@ Week 12
 
 **Mode.** Whole-room. No circle split tonight. The cohort sits as one circle. Standing pair partners sit beside each other for the personal blessing block. Final Aaronic is spoken over the cohort and by the cohort.
 
-**Center.** Each member shares briefly from their Personal Reflection Frame (H11.3) — voluntary, brief, focused on the question they carry into the Going Out series. Standing pairs speak personal blessing over each other. Cohort speaks blessing over the cohort. Bridge to the Going Out series is named with specific dates and Going Out architecture preview.
+**Center.** Each member shares briefly from their Personal Reflection Frame ([H11.3](week-11-where-is-our-cohort.md#handout-h11-3)) — voluntary, brief, focused on the question they carry into the Going Out series. Standing pairs speak personal blessing over each other. Cohort speaks blessing over the cohort. Bridge to the Going Out series is named with specific dates and Going Out architecture preview.
 
 **Between-session practice (the interlude).** The Rhythm Card continues across the interlude before Going Out begins. The standing pair continues; pairs may evolve into the Going Out series or release at the close of Going Deeper. Each member brings the question from H11.3 into the Going Out series; Going Out Wk 1 will engage it.
 
@@ -96,7 +96,7 @@ Hebrews 12:1–2 returns one final time as the architectural close. Going Deeper
 
 **•** Wk 11 produced an honest cohort assessment. Tonight commissions on that foundation.
 
-**•** H11.3 (Personal Reflection Frame) is in members’ hands tonight. The four prompts inform the brief share in Block 4.
+**•** [H11.3](week-11-where-is-our-cohort.md#handout-h11-3) (Personal Reflection Frame) is in members’ hands tonight. The four prompts inform the brief share in Block 4.
 
 **•** Standing pairs assigned at Wk 3, working since Wk 4, signed protocols at Wks 3 and 5. Tonight is the formal close of the Going Deeper pair partnership; pairs decide together whether to continue informally.
 
@@ -116,7 +116,7 @@ Integration + Mission. Going Deeper’s entire arc closes tonight; Going Out’s
 
 Each Companion does three things this week.
 
-First — complete H11.3 (Personal Reflection Frame) on yourself. The team walks the same architecture the cohort walks. Bring the completed page to the team meeting; the team learns by hearing each other reflect on Going Deeper.
+First — complete [H11.3](week-11-where-is-our-cohort.md#handout-h11-3) (Personal Reflection Frame) on yourself. The team walks the same architecture the cohort walks. Bring the completed page to the team meeting; the team learns by hearing each other reflect on Going Deeper.
 
 Second — sit with one specific blessing you would speak over each member of your cohort if you had time to speak it tonight. You will not speak all of them; the standing pair carries most of the personal blessing. But the Cohort Companion may speak briefly over the cohort during Block 6, and your specific knowing of each member should inform that speaking. Write a brief sentence per cohort member; bring it to the team meeting.
 
@@ -126,7 +126,7 @@ Third — sit with the question of your own continuation into the Going Out seri
 
 Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
-**1.** Each Companion shares briefly from their H11.3. Optional disclosure of content; required disclosure of process. (15 min)
+**1.** Each Companion shares briefly from their [H11.3](week-11-where-is-our-cohort.md#handout-h11-3). Optional disclosure of content; required disclosure of process. (15 min)
 
 2. Going Out continuation review. Which cohort members has the team observed as likely continuers? Likely non-continuers? Uncertain? Brief warm contact list assembled for the interlude. (20 min)
 
@@ -482,7 +482,7 @@ Tonight’s closing IS the practice. The pair blessing, the cohort blessing, the
 
 **Standing pair (if continued informally) — the rhythm shifts to whatever the pair named in their close.**
 
-**The question carried into the Going Out series (H11.3 prompt 4) — hold it gently; let it form; do not force resolution; bring it to the Going Out series Wk 1.**
+**The question carried into the Going Out series ([H11.3](week-11-where-is-our-cohort.md#handout-h11-3) prompt 4) — hold it gently; let it form; do not force resolution; bring it to the Going Out series Wk 1.**
 
 **The sending card (H12.3) — read it across the interlude; let the Cohort Companion’s blessing become part of the integration.**
 
@@ -588,7 +588,7 @@ Four handouts for Wk 12.
 
 **Standing pair continues if you and your partner agreed to continue. Whatever rhythm you named.**
 
-**Hold the question from H11.3 prompt 4 gently. Let it form. Going Out Wk 1 will engage it.**
+**Hold the question from [H11.3](week-11-where-is-our-cohort.md#handout-h11-3) prompt 4 gently. Let it form. Going Out Wk 1 will engage it.**
 
 **Pastoral / clinical backup is active across the interlude. If something heavy surfaces, the team is on call.**
 

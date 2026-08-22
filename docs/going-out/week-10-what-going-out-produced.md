@@ -96,7 +96,7 @@ The standing pair work tonight is substantive — 16 minutes per direction, the 
 
 ## From the entire Going Out
 
-**•** All twelve weeks of Going Deeper (gift, shadow, calling, Wk 11 cohort assessment, H11.3 prompt 4 question).
+**•** All twelve weeks of Going Deeper (gift, shadow, calling, Wk 11 cohort assessment, [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) prompt 4 question).
 
 **•** Going Out Wk 3 working sent-context sentence.
 
@@ -238,7 +238,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **FOUR — THIRD-PLACE / MISSIONAL (Wks 7–9). Where did the cohort’s discernment land for you specifically? What was the cost? What did you say yes / no / limited to?**
 
-**FIVE — THE Going Deeper’S H11.3 QUESTION. The question you carried into Going Out — has it shifted, deepened, intensified, resolved, faded? What is its current shape?**
+**FIVE — THE Going Deeper’S [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) QUESTION. The question you carried into Going Out — has it shifted, deepened, intensified, resolved, faded? What is its current shape?**
 
 *“Tonight you walk these five domains in 10 minutes of silent writing, then in 32 minutes of pair work. The pair partner walks the trajectory with you, asking for specifics where summary appears. The cohort hears patterns at the close.”*
 
@@ -493,7 +493,7 @@ What was the cost of yes / no / limited in Wk 9? Where are you now?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Domain 5 — Going Deeper’s H11.3 question**
+**Domain 5 — Going Deeper’s [H11.3](../going-deeper/week-11-where-is-our-cohort.md#handout-h11-3) question**
 
 Your question carried into Going Out: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
