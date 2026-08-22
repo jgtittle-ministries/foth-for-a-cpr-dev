@@ -117,7 +117,7 @@ Forty-eight hours before Week 9, the Companion team meets for forty-five minutes
 - Phone-box at the door.
 - Personal Heart Journals.
 - Handouts H9.1, H9.2, H9.3 distributed in cohort spaces (H9.1 to Companions only; H9.2 and H9.3 to participants).
-- Three private spaces for cohort circles, with comfortable seating in a tight circle. Soft lighting if possible.
+- A private space per cohort circle, with comfortable seating in a tight circle. Soft lighting if possible.
 - Tissues in every cohort space (even more important tonight).
 - Large-print Bible (ESV).
 - Optional: a small instrumental playlist (instrumental, not vocal) preloaded on a phone in airplane mode — for use only by the Cohort Companion during the silent portion of the exercise, if they choose. Not required.
@@ -383,7 +383,7 @@ Companion team meets the day after Week 9 for a 45-minute debrief. Week 9 debrie
 
 Three handouts for Week 9.
 
-- H9.1 — Garden of Your Heart Guided Prayer (FACILITATOR script, three cohort versions)
+- H9.1 — Garden of Your Heart Guided Prayer (FACILITATOR script)
 - H9.2 — Garden Journal Page (between-session practice)
 - H9.3 — A Note for the Skeptic
 
@@ -391,7 +391,7 @@ Three handouts for Week 9.
 
 *Read this slowly. Pauses are part of the prayer. Where the script says (pause), pause for at least 30 seconds. Where it says (longer pause), pause for at least 60 seconds. Resist the urge to fill silence with more words.*
 
-## For all cohorts — the opening (read out loud)
+## The opening (read out loud)
 
 ## Opening (90 seconds)
 
@@ -427,7 +427,7 @@ Three handouts for Week 9.
 
 *“Thank Him for coming. Tell Him you will be back. Open your eyes when you are ready.”*
 
-## After the prayer (read for all cohorts)
+## After the prayer
 
 ## Transition to journaling
 

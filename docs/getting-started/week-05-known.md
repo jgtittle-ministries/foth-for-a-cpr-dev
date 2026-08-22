@@ -107,7 +107,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 - Personal Heart Journals.
 - Whiteboard or flip chart with the four conditions pre-written: SAFE / PRESENT / CLEAR / INTENTIONAL. Vertical, with room beside each.
 - Handouts H5.1 through H5.3 stacked at each chair.
-- Three private spaces for cohort circles, same arrangement as Week 3.
+- A private space per cohort circle, same arrangement as Week 3.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
 - Wall clock or visible timer in each cohort space.
@@ -252,13 +252,13 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 *“Welcome back. Take a breath. Find your seat.”*
 
-*“What happened in your circle stays in your circle. So I am not going to ask anyone to share what was said. I am going to ask each cohort — not naming people — what general patterns surfaced. ‘Many of us noticed Safety is the rarest condition in our friendships.’ Or, ‘A lot of us noticed we expect Presence from others but don’t offer it ourselves.’ General. Pattern-level.”*
+*“What happened in your circle stays in your circle. So I am not going to ask anyone to share what was said. I am going to ask each circle — not naming people — what general patterns surfaced. ‘Many of us noticed Safety is the rarest condition in our friendships.’ Or, ‘A lot of us noticed we expect Presence from others but don’t offer it ourselves.’ General. Pattern-level.”*
 
 *“Cohort Companions — each of you take ninety seconds to name one or two general patterns from your circle. Then I’ll step back into one observation, and we move to the closing.”*
 
 *(Each Cohort Companion names patterns. Lead Companion listens.)*
 
-*“What I notice across all three cohorts is \_\_\_\_\_. (Speak truth, briefly. ‘Most of us in this room are quicker to name what is missing from our friendships than what we ourselves don’t offer.’ Or whatever the actual observation is.) That is real, and it is the seed of the practice this week.”*
+*“What I notice across the circles is \_\_\_\_\_. (Speak truth, briefly. ‘Most of us in this room are quicker to name what is missing from our friendships than what we ourselves don’t offer.’ Or whatever the actual observation is.) That is real, and it is the seed of the practice this week.”*
 
 ## Block 7 — Between-Session Practice (8:11–8:19, 8 min)
 ## Script

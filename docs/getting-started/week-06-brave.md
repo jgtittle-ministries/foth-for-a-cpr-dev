@@ -113,8 +113,8 @@ The team meets 48 hours before Week 6. Two specific things:
 
 ## Logistics pre-work
 
-1. Print the confession-and-restoration handout (H6.1, three cohort versions).
-2. Print the blessing-of-restoration card (H6.2, all cohorts).
+1. Print the confession-and-restoration handout (H6.1).
+2. Print the blessing-of-restoration card (H6.2).
 3. Confirm cohort spaces.
 4. Tissues in every cohort space. This session can be tearful.
 
@@ -125,9 +125,9 @@ The team meets 48 hours before Week 6. Two specific things:
 - Chairs in main room as single circle for opening.
 - Phone-box at the door.
 - Personal Heart Journals.
-- Confession-and-restoration handout: H6.1 (three cohort versions).
-- Blessing-of-restoration card: H6.2 (all cohorts).
-- Three private cohort spaces.
+- Confession-and-restoration handout: H6.1.
+- Blessing-of-restoration card: H6.2.
+- A private space per cohort circle.
 - Tissues in every space.
 - Large-print Bible (ESV).
 - Crisis Quick-Reference Card in every Companion pocket.
@@ -390,7 +390,7 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 # Handouts
 
-Two handouts for Week 6. The confession handout comes in three cohort versions; the blessing card is one version for all. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
+Two handouts for Week 6 — the confession handout and the blessing card, one version of each for every circle. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty
 - H6.2 — Blessing of Restoration card

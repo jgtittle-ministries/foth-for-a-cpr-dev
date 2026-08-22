@@ -124,7 +124,7 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 - Personal Heart Journals.
 - Whiteboard with two columns pre-drawn: UPHILL (what I do) and DOWNHILL (what I am).
 - Handouts H12.1, H12.2, H12.3 stacked at each chair.
-- Three private spaces for cohort circles.
+- A private space per cohort circle.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
 - Wall clock or visible timer in each cohort space.
@@ -271,11 +271,11 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 *“Welcome back. Take a breath.”*
 
-*“What was named in your circle stays in your circle. So I am not going to ask anyone to repeat their downhill answer. I am going to ask each Cohort Companion to name one general thing they noticed about the cohort — not a specific person, the cohort. And then I’ll name one observation across all three.”*
+*“What was named in your circle stays in your circle. So I am not going to ask anyone to repeat their downhill answer. I am going to ask each Cohort Companion to name one general thing they noticed about their circle — not a specific person, the circle. And then I’ll name one observation across the circles.”*
 
 *(Each Cohort Companion names one general observation, 60 seconds.)*
 
-*“What I notice across all three cohorts is \_\_\_\_\_. (Be specific and brief. Often: ‘Many of you described what the room gets in similar terms — honesty, presence, courage. The downhill mission is more shared than we might guess.’ Or: ‘There is a striking specificity in this room tonight that wasn’t there in Week 1.’ Whatever the actual observation is.)”*
+*“What I notice across the circles is \_\_\_\_\_. (Be specific and brief. Often: ‘Many of you described what the room gets in similar terms — honesty, presence, courage. The downhill mission is more shared than we might guess.’ Or: ‘There is a striking specificity in this room tonight that wasn’t there in Week 1.’ Whatever the actual observation is.)”*
 
 *“One thing to remember. The downhill mission you named is not a final answer. It is the working draft you are walking in this season. It will deepen. It will sharpen. But what you named tonight is closer to true than the resume version, and the room can witness it.”*
 
@@ -389,7 +389,7 @@ Three handouts for Week 12.
 
 **Handout H12.1 — Gifts and Passions Inventory**
 
-*Ten minutes alone with these prompts. Three versions on this page — use the one for your cohort. Be specific. “I’m good with people” is not specific. “I’m the one my friends call when they’re crying at midnight” is specific.*
+*Ten minutes alone with these prompts. Be specific. “I’m good with people” is not specific. “I’m the one my friends call when they’re crying at midnight” is specific.*
 
 ## The inventory
 

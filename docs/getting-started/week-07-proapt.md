@@ -107,9 +107,9 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 ## **Logistics pre-work**
 
-1. Print PROAPT step card (H7.1, all cohorts, single page).
+1. Print PROAPT step card (H7.1, single page).
 2. Print the Mark 1:14–20 worked-example handout (H7.2).
-3. Print three age-tiered passage suggestion sheets (H7.3) for ongoing daily practice.
+3. Print the passage suggestion sheet (H7.3, three tracks on one sheet) for ongoing daily practice.
 4. Confirm cohort spaces from prior weeks.
 
 # **Materials and Setup**
@@ -122,8 +122,8 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 - Bibles — every participant has access (their own, or copies provided). PROAPT works best with a physical Bible.
 - PROAPT step card: H7.1 (one per participant).
 - Mark 1:14–20 handout: H7.2 (one per participant, with the passage printed and space to write).
-- Passage suggestions: H7.3 (three age-tiered sheets, one per participant).
-- Three private cohort spaces.
+- Passage suggestions: H7.3 (one per participant).
+- A private space per cohort circle.
 - Whiteboard or flip chart.
 - Pens and notebooks if Personal Heart Journals are at home.
 
@@ -356,9 +356,9 @@ Same as prior weeks.
 
 # **Handouts**
 
-Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are the same for all cohorts; the passage suggestions are age-tiered.
+Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are one version for everyone; the passage suggestions offer three tracks.
 
-- H7.1 — PROAPT Step Card (single page reference, all cohorts)
+- H7.1 — PROAPT Step Card (single page reference)
 - H7.2 — Mark 1:14–20 Worked Example (with space to write each step)
 - H7.3 — Passage Suggestions for the Week
 

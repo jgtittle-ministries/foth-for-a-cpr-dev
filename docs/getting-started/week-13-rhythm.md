@@ -139,7 +139,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 - Path Home Card (shared material): one printed copy per participant.
 - H13.1 — Facilitation card (rotation leader and Lead Companion copies).
 - H13.2 — Blank Rhythm Card build sheet (one per participant).
-- Three private cohort spaces for the build block.
+- A private space per cohort circle for the build block.
 - Whiteboard or flip chart (for the sorting question and the four columns).
 - Pens — the build is done in each participant's own handwriting. This is deliberate. Do not type it, do not fill it in for anyone.
 

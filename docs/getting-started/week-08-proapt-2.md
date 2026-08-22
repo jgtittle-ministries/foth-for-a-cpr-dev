@@ -133,7 +133,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 - Facilitation card: H8.1 (the rotation leader's copy, plus one spare).
 - Mark 2:1–12 handout: H8.2 (one per participant, with the passage printed and space to write).
 - Mid-Series Pulse: H8.3 (one per participant, plus spares; pens available).
-- Three private cohort spaces.
+- A private space per cohort circle.
 - Whiteboard or flip chart (the rotation leader may want PROAPT on the board; their call).
 
 ### **Pre-session preparation timeline**

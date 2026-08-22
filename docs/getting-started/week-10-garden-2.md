@@ -128,7 +128,7 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 - Phone-box at the door.
 - Personal Heart Journals.
 - Handout H10.1 for the rotation leader (plus a spare); [H9.1](week-09-garden.md#handout-h9-1) for Companion-led circles; [H9.2](week-09-garden.md#handout-h9-2) for every participant.
-- Three private spaces for cohort circles, comfortable seating in a tight circle. Lights low if possible.
+- A private space per cohort circle, comfortable seating in a tight circle. Lights low if possible.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
 - Optional instrumental playlist on a phone in airplane mode — Cohort Companion's choice, not required.

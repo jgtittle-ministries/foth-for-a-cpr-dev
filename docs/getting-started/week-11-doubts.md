@@ -125,7 +125,7 @@ Forty-eight hours before Week 11, the Companion team meets for forty-five minute
 - Personal Heart Journals (each brings their own; have spares).
 - Whiteboard with the four steps of the practice pre-written: NAME / EXAGGERATE / SIT / RE-READ.
 - Handouts H11.1, H11.2, H11.3 stacked at each chair.
-- Three private spaces for cohort circles. Within each cohort space, enough room for pairs to sit knee-to-knee with a small buffer of physical space between pairs.
+- A private space per cohort circle. Within each cohort space, enough room for pairs to sit knee-to-knee with a small buffer of physical space between pairs.
 - Tissues in every cohort space.
 - Large-print Bible (ESV) in each cohort space.
 - Wall clock or visible timer in each cohort space.
@@ -431,7 +431,7 @@ Three handouts for Week 11.
 
 **Handout H11.1 — Any Doubts? Practice Card**
 
-*The four steps. Use this card during the pair work tonight, and any time afterward. Three versions on this page — use the one for your cohort.*
+*The four steps. Use this card during the pair work tonight, and any time afterward.*
 
 ## The four steps
 
@@ -488,8 +488,6 @@ This list is yours. The team will not see it. You will not turn it in. Keep it i
 **Handout H11.3 — Sample Scriptures**
 
 *If you don’t have a scripture in mind for tonight’s practice, here are options. Pick one with a flicker for you — not a hurricane.*
-
-## **For all cohorts**
 
 ## Common ones
 

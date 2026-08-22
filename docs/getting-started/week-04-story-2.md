@@ -103,7 +103,7 @@ This is the heart of pre-work this week. Sometime in the week before the session
 2. **Rehearse the disclosure handoff. Once, explicitly.** The Companion plays a teller whose story turns heavy mid-sentence. The leader practices the whole move: catch the Companion’s eye, say the line — *“[Name], I’d like you to take this”* — and then hold the container in silence while the Companion takes over. Do it once, all the way through, so the first time is not live. Then say plainly: *“If this happens Tuesday, handing it to me is you doing your job perfectly. It is the competence, not a failure.”*
 3. **Walk the three rules that never bend**: you never count as one of the two Companions for a disclosure; you never take a disclosure — you hand it to the experienced Companion immediately; you lead only a block you have first received. The leader says them back in their own words.
 4. **Preview the Leader Feedback Round** so nothing about it surprises them: affirmation first, one growth item, and the group speaks only if the leader consents. They can decide in advance, or in the moment. Either is honored.
-5. **Pray together** — for the tellers by name, and for the senior’s own heart: that they would hold space rather than perform, and that they would love the people in their circle more than they love doing it well.
+5. **Pray together** — for the tellers by name, and for the rotation leader’s own heart: that they would hold space rather than perform, and that they would love the people in their circle more than they love doing it well.
 
 ## Team pre-work
 
@@ -134,7 +134,7 @@ Forty-eight hours before Week 4, the Companion team meets for sixty minutes:
 - Reprinted storytelling card [H3.1](week-03-story.md#handout-h3-1) for this week’s tellers, and listener’s role card [H3.2](week-03-story.md#handout-h3-2) for anyone who has lost theirs.
 - Shared Footprints handout [H3.3](week-03-story.md#handout-h3-3) — one per member who tells this week.
 - Handout H4.1 — the Rotation Leader’s Facilitation Card. On cardstock. In the leader’s hand, not memorized-and-left-home. The card in hand is part of the design: it tells the room the leader is following a form, not improvising with the room’s stories.
-- Three private spaces for cohort circles — same rooms as Week 3 if at all possible.
+- A private space per cohort circle — same rooms as Week 3 if at all possible.
 - Tissues in every cohort space.
 - Large-print Bible (ESV). Read aloud from the physical book.
 - A wall clock or visible timer in each cohort space.
@@ -169,7 +169,7 @@ Identical to Week 3. Open in the main room as a single circle; split to the same
 | 7:22–7:25 | Block 4: Bridge to the split | Shared circle | Rotation leader | Cards held up, three reminders, prayer, split. Same bridge as Week 3, spoken by the leader. |
 | 7:25–8:02 | Block 5: Stories in circles | Circles | Rotation leader (their circle); Companions (the others) | The remaining tellers tell. Same turn structure as Week 3. In the leader’s circle the member facilitates, card in hand; the experienced Companion sits across, holding the disclosure-bearing center. |
 | 8:02–8:10 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Reconvene. One word each. Receive; do not comment. |
-| 8:10–8:18 | Block 7: Leader Feedback Round | Shared circle | Lead Comp | Per Handbook 11.7 — affirmation first, one growth item, group only by the senior’s consent, popcorn-style, “for you” language. |
+| 8:10–8:18 | Block 7: Leader Feedback Round | Shared circle | Lead Comp | Per Handbook 11.7 — affirmation first, one growth item, group only by the leader’s consent, popcorn-style, “for you” language. |
 | 8:18–8:23 | Block 8: Between-session practice | Shared circle | Co-Comp | Shared Footprints assigned to this week’s tellers. Morning question and journal continue for all. |
 | 8:23–8:30 | Block 9: Closing container | Shared circle | Rotation leader | The leader closes: confidentiality restated, help named, Aaronic blessing. |
 | 8:30+ | After | Floating | Lead Companion + Companions | Stay accessible for ten minutes. The convening leader finds the rotation leader for a private word before they leave. |
@@ -263,7 +263,7 @@ The heart of the night. The other circles run exactly as they did in Week 3, Com
 
 ### The disclosure handoff — scripted
 
-If a story turns heavy — self-harm, abuse, violence at home, anything that opens past the circle’s depth — the senior’s only job is the handoff. Mid-sentence is fine. The handoff is the competence, not a failure.
+If a story turns heavy — self-harm, abuse, violence at home, anything that opens past the circle’s depth — the rotation leader’s only job is the handoff. Mid-sentence is fine. The handoff is the competence, not a failure.
 
 *The leader catches the Companion’s eye and says: “[Name], I’d like you to take this.”*
 
